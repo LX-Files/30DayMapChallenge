@@ -5,4 +5,11 @@
 <p>This proof of concept was tested using the 1911 municipality contour, slightly different from the current one.</p>
 <p>Paths drawn in #GoogleEarth. KML files processed in TCX Converter and #Excel. DEM processed in #QGIS. Final composition in #Illustrator. Font used: FiraSans. Map data ©2018 Google.</p>
 <p>File listing:</p>
+<ul>
+  <li>#30daymapchallenge__2022-day-02__lines.png - the MAP itself.</li>
+  <li>kml.zip - all the KML files with paths drawn.</li>
+  <li>csv.zip - the corresponding CSV to each KML, with altitude values.</li>
+  <li>contour_lines.zip - set of files with the contour lines at 10 meter interval.</li>
+  <li>dem.zip - the Digital Elevation Model in GeoTIFF format.</li>
+  </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
