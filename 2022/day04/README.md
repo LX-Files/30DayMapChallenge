@@ -5,11 +5,9 @@
 <p>Green elements extracted from local .OSM.PBF file with osmium. Manual editing in #JOSM. Map styling in #QGIS. Final composition in #Illustrator. Font used: FiraSans.  Map data © OpenStreetMap contributors and Câmara Municipal de Lisboa.</p>
 <p>File listing:</p>
 <ul>
-  <li>30daymapchallenge__2022-day-04__green.png - the MAP itself.</li>
-  <li>green_elements.zip - all the green elements extracted from the OpenStreetmap database.</li>
-  <li>csv.zip - the corresponding CSV to each KML, with altitude values.</li>
-  <li>contour_lines.zip - set of files with the contour lines at 10 meter interval.</li>
-  <li>dem.zip - the Digital Elevation Model in GeoTIFF format.</li>
+  <li><b>30daymapchallenge__2022-day-04__green.png</b> - the MAP itself.</li>
+  <li><b>green_elements.zip</b> - all the green elements extracted from the OpenStreetmap database.</li>
+  <li><b>lx_municipality_contour.gpx</b> - the contour line for the Lisbon municipality in 2022.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
 <p>&nbsp;</p>
