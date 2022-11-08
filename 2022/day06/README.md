@@ -9,5 +9,6 @@
 <ul>
   <li><b>30daymapchallenge__2022-day-06__network.png</b> - the MAP itself.</li>
   <li><b>tramways_of_lisbon_1958.geojson</b> - the Lisbon tramway network around 1958, in GeoJSON format.</li>
+  <li><b>lx_municipality_contour_2022.geojson</b> - the contour line for the Lisbon municipality in 2022.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
