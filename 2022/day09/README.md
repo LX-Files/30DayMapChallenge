@@ -10,7 +10,8 @@
   <li><b>detail.png</b> - detailed view of a smaller portion of the city included in the point cloud (from Google Earth).</li>
   <li><b>panorama_medium.jpg</b> - a panoramic view of the whole area included in the point cloud, in medium quality.</li>
   <li><b>spedro.x3d</b> - the point cloud in X3D format.</li>
+  <li><b>spedro.html</b> - the frontend for navigating the point cloud (see below for interactive access).</li>
 </ul>
 
-<p>The point cloud can be viewed interactively <a href="spedro.html">in this page</a>, which uses the X3DOM framework. Navigation instructions can be found <a href="https://doc.x3dom.org/tutorials/animationInteraction/navigation/index.html">here</a>.<p>
+<p>The point cloud can be viewed interactively <a href="https://lx-files.github.io/spedro.html">in this page</a>, which uses the <a href="https://www.x3dom.org/">X3DOM framework</a>. Navigation instructions can be found <a href="https://doc.x3dom.org/tutorials/animationInteraction/navigation/index.html">here</a>.<p>
 <p>João Paulo Amado | @jpamado, 2022.</p>
