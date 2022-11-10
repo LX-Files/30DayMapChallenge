@@ -8,7 +8,7 @@
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2022-day-10__bad-map.jpg</b> - the MAP itself.</li>
-  <li><b>bad-map.png</b> - the hand-drawn portion of the map.</li>
+  <li><b>bad-map.jpg</b> - the hand-drawn portion of the map.</li>
   <li><b>columbeira.jpg</b> - photo of three caves 'Gruta da Água', 'Gruta Nova da Columbeira' and 'Gruta do Caixão'.</li>
   <li><b>lapa_larga.jpg</b> - photo of the 'Abrigo da Lapa Larga'.</li>
   <li><b>pulgas.jpg</b> - photo of the 'Grutas das Pulgas'.</li>
