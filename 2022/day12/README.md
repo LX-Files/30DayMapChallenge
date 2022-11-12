@@ -7,13 +7,13 @@
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2022-day-12__scale.jpg</b> - the MAP itself.</li>
-  <li><b>wind_rose_map_01.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_map_02.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_map_03.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_map_04.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_map_05.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_map_06.jpg</b> - photo of the map taken from the top of the Monument.</li>
-  <li><b>wind_rose_and_monastery.jpg</b> - photo of the wind rose and surroundings taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_01.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_02.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_03.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_04.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_05.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_map_06.jpg</b> - photo of the map taken from the top of the Monument.</li>
+  <li><b>compass_rose_and_monastery.jpg</b> - photo of the wind rose and surroundings taken from the top of the Monument.</li>
 </ul>
 
 <p><a href="https://padraodosdescobrimentos.pt/en/compass-rose/">Web page of the Compass Rose</a><p>
