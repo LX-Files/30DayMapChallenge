@@ -6,6 +6,6 @@
 <p><a href="https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map#/media/File:Waldseem%C3%BCller-Globus.jpg">Image of the gores</a></p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2022-day-19__globe.png</b> - the collage with the photos of the building process.</li>
+  <li><b>30daymapchallenge__2022-day-19__globe.jpg</b> - the collage with the photos of the building process.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
