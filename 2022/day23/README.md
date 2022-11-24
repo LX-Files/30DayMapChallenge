@@ -9,7 +9,7 @@ Final composition in #Illustrator. Font used: FiraSans.</p>
 <p>Map data © OpenStreetMap contributors.</p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2022-day-23__movement.jpg</b> - the MAP itself.</li>
+  <li><b>30daymapchallenge__2022-day-23__movement.png</b> - the MAP itself.</li>
   <li><b>lx_municipality_contour.gpx</b> - the contour line for the Lisbon municipality in 2022.</li>
   <li><b>movement__cycleway.geojson</b> - cycleways in GeoJSON format.</li>
   <li><b>movement__bicycle_rental.geojson</b> - bicycle rental spots in GeoJSON format.</li>
