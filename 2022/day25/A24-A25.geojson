@@ -1,0 +1,2080 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -7.96760000000,
+        40.61930000000,
+        -7.95360000000,
+        40.62980000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "name": "Autoestrada do Interior Norte",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96149340000,
+                        40.62593790000
+                    ],
+                    [
+                        -7.96112080000,
+                        40.62699730000
+                    ],
+                    [
+                        -7.96068370000,
+                        40.62818780000
+                    ],
+                    [
+                        -7.96038820000,
+                        40.62889090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra;Tondela",
+                "destination:ref": "IP 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95804250000,
+                        40.62578300000
+                    ],
+                    [
+                        -7.95835780000,
+                        40.62591830000
+                    ],
+                    [
+                        -7.95859940000,
+                        40.62596570000
+                    ],
+                    [
+                        -7.95885820000,
+                        40.62597650000
+                    ],
+                    [
+                        -7.95904580000,
+                        40.62595280000
+                    ],
+                    [
+                        -7.95926190000,
+                        40.62587510000
+                    ],
+                    [
+                        -7.95945520000,
+                        40.62577580000
+                    ],
+                    [
+                        -7.95960880000,
+                        40.62565070000
+                    ],
+                    [
+                        -7.95973950000,
+                        40.62548450000
+                    ],
+                    [
+                        -7.95985040000,
+                        40.62534640000
+                    ],
+                    [
+                        -7.95999260000,
+                        40.62520400000
+                    ],
+                    [
+                        -7.96017170000,
+                        40.62507240000
+                    ],
+                    [
+                        -7.96034510000,
+                        40.62498600000
+                    ],
+                    [
+                        -7.96057260000,
+                        40.62490620000
+                    ],
+                    [
+                        -7.96082850000,
+                        40.62485230000
+                    ],
+                    [
+                        -7.96116110000,
+                        40.62478540000
+                    ],
+                    [
+                        -7.96159610000,
+                        40.62470770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "name": "Autoestrada do Interior Norte",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96032441788,
+                        40.62940581692
+                    ],
+                    [
+                        -7.96055630000,
+                        40.62885510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96159610000,
+                        40.62470770000
+                    ],
+                    [
+                        -7.96202540000,
+                        40.62462570000
+                    ],
+                    [
+                        -7.96223300000,
+                        40.62456090000
+                    ],
+                    [
+                        -7.96241500000,
+                        40.62446170000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95767580000,
+                        40.62499870000
+                    ],
+                    [
+                        -7.95510110000,
+                        40.62465750000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96216640000,
+                        40.62570260000
+                    ],
+                    [
+                        -7.96241250000,
+                        40.62573840000
+                    ],
+                    [
+                        -7.96276560000,
+                        40.62578950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "A25;Aveiro/Porto;Viseu/Guarda",
+                "highway": "motorway_junction",
+                "name": "A25, Aveiro,Porto,Viseu,Guarda",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.96106490000,
+                    40.62757420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96129560000,
+                        40.62558880000
+                    ],
+                    [
+                        -7.96216640000,
+                        40.62570260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Viseu",
+                "destination:ref": "A 25",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96188660000,
+                        40.62528530000
+                    ],
+                    [
+                        -7.96197500000,
+                        40.62518560000
+                    ],
+                    [
+                        -7.96209160000,
+                        40.62498140000
+                    ],
+                    [
+                        -7.96220370000,
+                        40.62485060000
+                    ],
+                    [
+                        -7.96236090000,
+                        40.62476620000
+                    ],
+                    [
+                        -7.96254830000,
+                        40.62472980000
+                    ],
+                    [
+                        -7.96277430000,
+                        40.62474190000
+                    ],
+                    [
+                        -7.96294100000,
+                        40.62480060000
+                    ],
+                    [
+                        -7.96308690000,
+                        40.62491200000
+                    ],
+                    [
+                        -7.96317260000,
+                        40.62505570000
+                    ],
+                    [
+                        -7.96319800000,
+                        40.62519080000
+                    ],
+                    [
+                        -7.96315850000,
+                        40.62534160000
+                    ],
+                    [
+                        -7.96308690000,
+                        40.62543450000
+                    ],
+                    [
+                        -7.96298050000,
+                        40.62552450000
+                    ],
+                    [
+                        -7.96280070000,
+                        40.62557740000
+                    ],
+                    [
+                        -7.96260020000,
+                        40.62559610000
+                    ],
+                    [
+                        -7.96234500000,
+                        40.62563060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "A25;Aveiro / Porto;Viseu / Guarda",
+                "highway": "motorway_junction",
+                "name": "A25, Aveiro,Porto,Viseu,Guarda",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.96240000000,
+                    40.62272690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra;Viseu oeste;Vila Real",
+                "destination:ref": "IP 3;A 24",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96354160000,
+                        40.62521010000
+                    ],
+                    [
+                        -7.96339850000,
+                        40.62504530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Viseu oeste;Vila Real",
+                "destination:ref": "A 24",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96339850000,
+                        40.62504530000
+                    ],
+                    [
+                        -7.96319280000,
+                        40.62481980000
+                    ],
+                    [
+                        -7.96302280000,
+                        40.62470400000
+                    ],
+                    [
+                        -7.96276820000,
+                        40.62462480000
+                    ],
+                    [
+                        -7.96254210000,
+                        40.62462310000
+                    ],
+                    [
+                        -7.96240780000,
+                        40.62463980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95958290000,
+                        40.62535930000
+                    ],
+                    [
+                        -7.96016410000,
+                        40.62543720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96188660000,
+                        40.62528530000
+                    ],
+                    [
+                        -7.96215150000,
+                        40.62433310000
+                    ],
+                    [
+                        -7.96248210000,
+                        40.62299820000
+                    ],
+                    [
+                        -7.96273100000,
+                        40.62169030000
+                    ],
+                    [
+                        -7.96285460000,
+                        40.62081120000
+                    ],
+                    [
+                        -7.96290090000,
+                        40.62062070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96240000000,
+                        40.62272690000
+                    ],
+                    [
+                        -7.96232620000,
+                        40.62318260000
+                    ],
+                    [
+                        -7.96220230000,
+                        40.62363650000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96282180000,
+                        40.62569800000
+                    ],
+                    [
+                        -7.96234500000,
+                        40.62563060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96478310000,
+                        40.62603800000
+                    ],
+                    [
+                        -7.96430150000,
+                        40.62595430000
+                    ],
+                    [
+                        -7.96282180000,
+                        40.62569800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96196110000,
+                        40.62452470000
+                    ],
+                    [
+                        -7.96149340000,
+                        40.62593790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real",
+                "destination:ref": "A 24",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "merge_to_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96046280000,
+                        40.62814770000
+                    ],
+                    [
+                        -7.96045760000,
+                        40.62832020000
+                    ],
+                    [
+                        -7.96042470000,
+                        40.62858460000
+                    ],
+                    [
+                        -7.96038820000,
+                        40.62889090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96685130000,
+                        40.62672150000
+                    ],
+                    [
+                        -7.96615750000,
+                        40.62645310000
+                    ],
+                    [
+                        -7.96551670000,
+                        40.62624570000
+                    ],
+                    [
+                        -7.96478310000,
+                        40.62603800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Aveiro;Porto",
+                "destination:ref": "A 25",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96233350000,
+                        40.62620020000
+                    ],
+                    [
+                        -7.96266990000,
+                        40.62608210000
+                    ],
+                    [
+                        -7.96300930000,
+                        40.62601460000
+                    ],
+                    [
+                        -7.96351120000,
+                        40.62598220000
+                    ],
+                    [
+                        -7.96383100000,
+                        40.62600650000
+                    ],
+                    [
+                        -7.96409520000,
+                        40.62601870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96260320000,
+                        40.62171270000
+                    ],
+                    [
+                        -7.96240000000,
+                        40.62272690000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Coimbra;Viseu oeste;Vila Real",
+                "destination:ref": "IP 3;A 24",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96478310000,
+                        40.62603800000
+                    ],
+                    [
+                        -7.96447320000,
+                        40.62589980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96276560000,
+                        40.62578950000
+                    ],
+                    [
+                        -7.96351710000,
+                        40.62590260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96141350000,
+                        40.62662030000
+                    ],
+                    [
+                        -7.96188660000,
+                        40.62528530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96234500000,
+                        40.62563060000
+                    ],
+                    [
+                        -7.96218890000,
+                        40.62560840000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "name": "Autoestrada do Interior Norte",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96038820000,
+                        40.62889090000
+                    ],
+                    [
+                        -7.96017525099,
+                        40.62941152653
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra;Tondela;Vila Real",
+                "destination:ref": "IP 3;A 24",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "left|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95672440000,
+                        40.62509530000
+                    ],
+                    [
+                        -7.95715820000,
+                        40.62526210000
+                    ],
+                    [
+                        -7.95756670000,
+                        40.62547790000
+                    ],
+                    [
+                        -7.95804250000,
+                        40.62578300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96241500000,
+                        40.62446170000
+                    ],
+                    [
+                        -7.96256000000,
+                        40.62433000000
+                    ],
+                    [
+                        -7.96264240000,
+                        40.62419620000
+                    ],
+                    [
+                        -7.96268220000,
+                        40.62406460000
+                    ],
+                    [
+                        -7.96269360000,
+                        40.62393510000
+                    ],
+                    [
+                        -7.96268790000,
+                        40.62375390000
+                    ],
+                    [
+                        -7.96267730000,
+                        40.62361210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95578800000,
+                        40.62483360000
+                    ],
+                    [
+                        -7.95958290000,
+                        40.62535930000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96290090000,
+                        40.62062070000
+                    ],
+                    [
+                        -7.96295299958,
+                        40.62016563648
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra",
+                "destination:ref": "IP 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96339850000,
+                        40.62504530000
+                    ],
+                    [
+                        -7.96328410000,
+                        40.62478480000
+                    ],
+                    [
+                        -7.96289350000,
+                        40.62410080000
+                    ],
+                    [
+                        -7.96279590000,
+                        40.62386400000
+                    ],
+                    [
+                        -7.96267730000,
+                        40.62361210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real",
+                "destination:ref": "A 24",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95804250000,
+                        40.62578300000
+                    ],
+                    [
+                        -7.95821570000,
+                        40.62593840000
+                    ],
+                    [
+                        -7.95966750000,
+                        40.62690020000
+                    ],
+                    [
+                        -7.95993810000,
+                        40.62710560000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.96188660000,
+                    40.62528530000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96016410000,
+                        40.62543720000
+                    ],
+                    [
+                        -7.96097640000,
+                        40.62554910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96097640000,
+                        40.62554910000
+                    ],
+                    [
+                        -7.96129560000,
+                        40.62558880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96240780000,
+                        40.62463980000
+                    ],
+                    [
+                        -7.96156020000,
+                        40.62479380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96156020000,
+                        40.62479380000
+                    ],
+                    [
+                        -7.96100070000,
+                        40.62489790000
+                    ],
+                    [
+                        -7.96059200000,
+                        40.62498530000
+                    ],
+                    [
+                        -7.96032870000,
+                        40.62508110000
+                    ],
+                    [
+                        -7.96013120000,
+                        40.62521220000
+                    ],
+                    [
+                        -7.95996940000,
+                        40.62536420000
+                    ],
+                    [
+                        -7.95984870000,
+                        40.62551620000
+                    ],
+                    [
+                        -7.95975270000,
+                        40.62578060000
+                    ],
+                    [
+                        -7.95970340000,
+                        40.62605120000
+                    ],
+                    [
+                        -7.95964300000,
+                        40.62640300000
+                    ],
+                    [
+                        -7.95963210000,
+                        40.62660910000
+                    ],
+                    [
+                        -7.95970340000,
+                        40.62680680000
+                    ],
+                    [
+                        -7.95993810000,
+                        40.62710560000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Viseu;Espanha",
+                "destination:ref": "A 25",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96240000000,
+                        40.62272690000
+                    ],
+                    [
+                        -7.96219420000,
+                        40.62313560000
+                    ],
+                    [
+                        -7.96200280000,
+                        40.62345860000
+                    ],
+                    [
+                        -7.96180680000,
+                        40.62371350000
+                    ],
+                    [
+                        -7.96156540000,
+                        40.62396050000
+                    ],
+                    [
+                        -7.96132390000,
+                        40.62416500000
+                    ],
+                    [
+                        -7.96095650000,
+                        40.62441740000
+                    ],
+                    [
+                        -7.96062060000,
+                        40.62459260000
+                    ],
+                    [
+                        -7.96021470000,
+                        40.62475730000
+                    ],
+                    [
+                        -7.95978430000,
+                        40.62488740000
+                    ],
+                    [
+                        -7.95938190000,
+                        40.62496710000
+                    ],
+                    [
+                        -7.95895150000,
+                        40.62501760000
+                    ],
+                    [
+                        -7.95851060000,
+                        40.62502550000
+                    ],
+                    [
+                        -7.95808720000,
+                        40.62500700000
+                    ],
+                    [
+                        -7.95767580000,
+                        40.62499870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.96478310000,
+                    40.62603800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96282430000,
+                        40.62017040000
+                    ],
+                    [
+                        -7.96260320000,
+                        40.62171270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96351710000,
+                        40.62590260000
+                    ],
+                    [
+                        -7.96409520000,
+                        40.62601870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aveiro;Porto",
+                "destination:ref": "A 25",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96106490000,
+                        40.62757420000
+                    ],
+                    [
+                        -7.96116520000,
+                        40.62742840000
+                    ],
+                    [
+                        -7.96127320000,
+                        40.62716200000
+                    ],
+                    [
+                        -7.96142340000,
+                        40.62688010000
+                    ],
+                    [
+                        -7.96159900000,
+                        40.62666240000
+                    ],
+                    [
+                        -7.96184540000,
+                        40.62644970000
+                    ],
+                    [
+                        -7.96214480000,
+                        40.62628180000
+                    ],
+                    [
+                        -7.96233350000,
+                        40.62620020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "name": "Autoestrada do Interior Norte",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96106490000,
+                        40.62757420000
+                    ],
+                    [
+                        -7.96141350000,
+                        40.62662030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra",
+                "destination:ref": "IP 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96292360000,
+                        40.62086270000
+                    ],
+                    [
+                        -7.96290090000,
+                        40.62062070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96131120000,
+                        40.62549330000
+                    ],
+                    [
+                        -7.96095340000,
+                        40.62544160000
+                    ],
+                    [
+                        -7.96052720000,
+                        40.62538280000
+                    ],
+                    [
+                        -7.96023280000,
+                        40.62534570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real",
+                "destination:ref": "A 24",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "merge_to_right|"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95993810000,
+                        40.62710560000
+                    ],
+                    [
+                        -7.96007700000,
+                        40.62724010000
+                    ],
+                    [
+                        -7.96024420000,
+                        40.62745460000
+                    ],
+                    [
+                        -7.96042920000,
+                        40.62782290000
+                    ],
+                    [
+                        -7.96046280000,
+                        40.62814770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95966130000,
+                        40.62527290000
+                    ],
+                    [
+                        -7.95767580000,
+                        40.62499870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96218890000,
+                        40.62560840000
+                    ],
+                    [
+                        -7.96176150000,
+                        40.62555120000
+                    ],
+                    [
+                        -7.96131120000,
+                        40.62549330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra",
+                "destination:ref": "IP 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96267730000,
+                        40.62361210000
+                    ],
+                    [
+                        -7.96266990000,
+                        40.62333720000
+                    ],
+                    [
+                        -7.96270290000,
+                        40.62306320000
+                    ],
+                    [
+                        -7.96283950000,
+                        40.62232740000
+                    ],
+                    [
+                        -7.96288430000,
+                        40.62207270000
+                    ],
+                    [
+                        -7.96290980000,
+                        40.62175900000
+                    ],
+                    [
+                        -7.96293570000,
+                        40.62138630000
+                    ],
+                    [
+                        -7.96292360000,
+                        40.62086270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "FIXME": "highway is too long, has too many nodes",
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96023280000,
+                        40.62534570000
+                    ],
+                    [
+                        -7.95966130000,
+                        40.62527290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95508304106,
+                        40.62473975985
+                    ],
+                    [
+                        -7.95578800000,
+                        40.62483360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.95578800000,
+                    40.62483360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96220230000,
+                        40.62363650000
+                    ],
+                    [
+                        -7.96196110000,
+                        40.62452470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.96149340000,
+                    40.62593790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra;Tondela;Vila Real",
+                "destination:ref": "IP 3;A 24",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.95578800000,
+                        40.62483360000
+                    ],
+                    [
+                        -7.95609640000,
+                        40.62493800000
+                    ],
+                    [
+                        -7.95650860000,
+                        40.62503240000
+                    ],
+                    [
+                        -7.95672440000,
+                        40.62509530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Coimbra;Viseu oeste;Vila Real",
+                "destination:ref": "IP 3;A 24",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96447320000,
+                        40.62589980000
+                    ],
+                    [
+                        -7.96410800000,
+                        40.62571430000
+                    ],
+                    [
+                        -7.96381240000,
+                        40.62549090000
+                    ],
+                    [
+                        -7.96354160000,
+                        40.62521010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 25",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96409520000,
+                        40.62601870000
+                    ],
+                    [
+                        -7.96479390000,
+                        40.62618970000
+                    ],
+                    [
+                        -7.96544700000,
+                        40.62636280000
+                    ],
+                    [
+                        -7.96608180000,
+                        40.62657600000
+                    ],
+                    [
+                        -7.96677720000,
+                        40.62684920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aveiro;Porto",
+                "destination:ref": "A 25",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96149340000,
+                        40.62593790000
+                    ],
+                    [
+                        -7.96140680000,
+                        40.62601860000
+                    ],
+                    [
+                        -7.96136000000,
+                        40.62613440000
+                    ],
+                    [
+                        -7.96123930000,
+                        40.62634680000
+                    ],
+                    [
+                        -7.96082240000,
+                        40.62685890000
+                    ],
+                    [
+                        -7.96064140000,
+                        40.62700250000
+                    ],
+                    [
+                        -7.96041100000,
+                        40.62705870000
+                    ],
+                    [
+                        -7.96017510000,
+                        40.62702330000
+                    ],
+                    [
+                        -7.96002090000,
+                        40.62690300000
+                    ],
+                    [
+                        -7.95993320000,
+                        40.62678000000
+                    ],
+                    [
+                        -7.95990840000,
+                        40.62662800000
+                    ],
+                    [
+                        -7.95989770000,
+                        40.62618870000
+                    ],
+                    [
+                        -7.95994470000,
+                        40.62600330000
+                    ],
+                    [
+                        -7.96005440000,
+                        40.62585550000
+                    ],
+                    [
+                        -7.96021630000,
+                        40.62573480000
+                    ],
+                    [
+                        -7.96040000000,
+                        40.62564940000
+                    ],
+                    [
+                        -7.96061120000,
+                        40.62559740000
+                    ],
+                    [
+                        -7.96097640000,
+                        40.62554910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "name": "Autoestrada do Interior Norte",
+                "oneway": "yes",
+                "ref": "A 24;IP 3",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "||slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.96055630000,
+                        40.62885510000
+                    ],
+                    [
+                        -7.96106490000,
+                        40.62757420000
+                    ]
+                ]
+            }
+        }
+    ]
+}

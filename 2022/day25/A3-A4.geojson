@@ -1,0 +1,2976 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -8.59700000000,
+        41.19200000000,
+        -8.58230000000,
+        41.20210000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59285290000,
+                        41.19673430000
+                    ],
+                    [
+                        -8.59247410000,
+                        41.19679130000
+                    ],
+                    [
+                        -8.59206760000,
+                        41.19686330000
+                    ],
+                    [
+                        -8.59182820000,
+                        41.19691790000
+                    ],
+                    [
+                        -8.59168570000,
+                        41.19695290000
+                    ],
+                    [
+                        -8.59155780000,
+                        41.19698730000
+                    ],
+                    [
+                        -8.59092790000,
+                        41.19719210000
+                    ],
+                    [
+                        -8.59017380000,
+                        41.19749470000
+                    ],
+                    [
+                        -8.58973040000,
+                        41.19767920000
+                    ],
+                    [
+                        -8.58941930000,
+                        41.19779390000
+                    ],
+                    [
+                        -8.58910080000,
+                        41.19789350000
+                    ],
+                    [
+                        -8.58890050000,
+                        41.19794400000
+                    ],
+                    [
+                        -8.58856370000,
+                        41.19801180000
+                    ],
+                    [
+                        -8.58830120000,
+                        41.19805410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo|Vila Real;Valongo;Ermesinde|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 4|A 4|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|60|60",
+                "minspeed:lanes": "50|50|50|none|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59127760000,
+                        41.19393220000
+                    ],
+                    [
+                        -8.59119400000,
+                        41.19403970000
+                    ],
+                    [
+                        -8.59106620000,
+                        41.19419120000
+                    ],
+                    [
+                        -8.59089100000,
+                        41.19437710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Valença;Braga;Maia",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Norte)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59285290000,
+                        41.19673430000
+                    ],
+                    [
+                        -8.59234980000,
+                        41.19676490000
+                    ],
+                    [
+                        -8.59166500000,
+                        41.19678730000
+                    ],
+                    [
+                        -8.59149020000,
+                        41.19679700000
+                    ],
+                    [
+                        -8.59131750000,
+                        41.19679470000
+                    ],
+                    [
+                        -8.59115490000,
+                        41.19678120000
+                    ],
+                    [
+                        -8.59098510000,
+                        41.19674740000
+                    ],
+                    [
+                        -8.59082440000,
+                        41.19669940000
+                    ],
+                    [
+                        -8.59068200000,
+                        41.19663430000
+                    ],
+                    [
+                        -8.59054890000,
+                        41.19655810000
+                    ],
+                    [
+                        -8.59041410000,
+                        41.19648000000
+                    ],
+                    [
+                        -8.59027500000,
+                        41.19640740000
+                    ],
+                    [
+                        -8.59013160000,
+                        41.19634710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination:lanes": "Porto;Lisboa|Porto;Lisboa|Porto;Lisboa|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|80",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58786890000,
+                        41.19848360000
+                    ],
+                    [
+                        -8.58828010000,
+                        41.19782030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real;Valongo;Ermesinde",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "40",
+                "name": "A3 acesso a A4 (Nascente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58898990000,
+                        41.19670420000
+                    ],
+                    [
+                        -8.58911790000,
+                        41.19661860000
+                    ],
+                    [
+                        -8.58918640000,
+                        41.19657500000
+                    ],
+                    [
+                        -8.58926800000,
+                        41.19653460000
+                    ],
+                    [
+                        -8.58935610000,
+                        41.19649740000
+                    ],
+                    [
+                        -8.58948940000,
+                        41.19645730000
+                    ],
+                    [
+                        -8.58960440000,
+                        41.19644410000
+                    ],
+                    [
+                        -8.58971810000,
+                        41.19644520000
+                    ],
+                    [
+                        -8.58983580000,
+                        41.19646190000
+                    ],
+                    [
+                        -8.58995150000,
+                        41.19649910000
+                    ],
+                    [
+                        -8.59003560000,
+                        41.19654400000
+                    ],
+                    [
+                        -8.59011110000,
+                        41.19660190000
+                    ],
+                    [
+                        -8.59017430000,
+                        41.19666710000
+                    ],
+                    [
+                        -8.59022330000,
+                        41.19673920000
+                    ],
+                    [
+                        -8.59024550000,
+                        41.19680280000
+                    ],
+                    [
+                        -8.59025920000,
+                        41.19686690000
+                    ],
+                    [
+                        -8.59026020000,
+                        41.19694430000
+                    ],
+                    [
+                        -8.59025550000,
+                        41.19700360000
+                    ],
+                    [
+                        -8.59022920000,
+                        41.19708250000
+                    ],
+                    [
+                        -8.59019000000,
+                        41.19714270000
+                    ],
+                    [
+                        -8.59013140000,
+                        41.19720790000
+                    ],
+                    [
+                        -8.59006050000,
+                        41.19726900000
+                    ],
+                    [
+                        -8.58996970000,
+                        41.19732960000
+                    ],
+                    [
+                        -8.58986180000,
+                        41.19738440000
+                    ],
+                    [
+                        -8.58883980000,
+                        41.19785310000
+                    ],
+                    [
+                        -8.58863100000,
+                        41.19793750000
+                    ],
+                    [
+                        -8.58846780000,
+                        41.19799930000
+                    ],
+                    [
+                        -8.58830120000,
+                        41.19805410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "speed_camera",
+                "maxspeed": "120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58875080000,
+                    41.19705060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59173650000,
+                        41.19364000000
+                    ],
+                    [
+                        -8.59179760000,
+                        41.19352130000
+                    ],
+                    [
+                        -8.59189720000,
+                        41.19330420000
+                    ],
+                    [
+                        -8.59205220000,
+                        41.19295560000
+                    ],
+                    [
+                        -8.59218600000,
+                        41.19266410000
+                    ],
+                    [
+                        -8.59233450000,
+                        41.19238200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:ref": "A 4",
+                "highway": "motorway_junction",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58713700000,
+                    41.19948380000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Lisboa",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Sul)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59323360000,
+                        41.19655040000
+                    ],
+                    [
+                        -8.59305060000,
+                        41.19655280000
+                    ],
+                    [
+                        -8.59271120000,
+                        41.19656910000
+                    ],
+                    [
+                        -8.59253760000,
+                        41.19657380000
+                    ],
+                    [
+                        -8.59236290000,
+                        41.19656930000
+                    ],
+                    [
+                        -8.59219370000,
+                        41.19654860000
+                    ],
+                    [
+                        -8.59202950000,
+                        41.19651300000
+                    ],
+                    [
+                        -8.59187370000,
+                        41.19646030000
+                    ],
+                    [
+                        -8.59173200000,
+                        41.19639580000
+                    ],
+                    [
+                        -8.59160020000,
+                        41.19632030000
+                    ],
+                    [
+                        -8.59147450000,
+                        41.19622160000
+                    ],
+                    [
+                        -8.59137150000,
+                        41.19612440000
+                    ],
+                    [
+                        -8.59128780000,
+                        41.19601500000
+                    ],
+                    [
+                        -8.59121400000,
+                        41.19589560000
+                    ],
+                    [
+                        -8.59114790000,
+                        41.19577780000
+                    ],
+                    [
+                        -8.59109220000,
+                        41.19565520000
+                    ],
+                    [
+                        -8.59104080000,
+                        41.19552980000
+                    ],
+                    [
+                        -8.59100410000,
+                        41.19540750000
+                    ],
+                    [
+                        -8.59097840000,
+                        41.19527970000
+                    ],
+                    [
+                        -8.59097350000,
+                        41.19515340000
+                    ],
+                    [
+                        -8.59099240000,
+                        41.19502280000
+                    ],
+                    [
+                        -8.59103130000,
+                        41.19489810000
+                    ],
+                    [
+                        -8.59109020000,
+                        41.19477990000
+                    ],
+                    [
+                        -8.59117210000,
+                        41.19466450000
+                    ],
+                    [
+                        -8.59154380000,
+                        41.19422940000
+                    ],
+                    [
+                        -8.59162030000,
+                        41.19413130000
+                    ],
+                    [
+                        -8.59170440000,
+                        41.19402270000
+                    ],
+                    [
+                        -8.59178870000,
+                        41.19390190000
+                    ],
+                    [
+                        -8.59186060000,
+                        41.19378400000
+                    ],
+                    [
+                        -8.59192520000,
+                        41.19366760000
+                    ],
+                    [
+                        -8.59197840000,
+                        41.19355940000
+                    ],
+                    [
+                        -8.59201830000,
+                        41.19345350000
+                    ],
+                    [
+                        -8.59206180000,
+                        41.19333900000
+                    ],
+                    [
+                        -8.59233450000,
+                        41.19238200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|60",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58762990000,
+                        41.19850950000
+                    ],
+                    [
+                        -8.58749160000,
+                        41.19872210000
+                    ],
+                    [
+                        -8.58736280000,
+                        41.19889860000
+                    ],
+                    [
+                        -8.58723830000,
+                        41.19905940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59621090000,
+                        41.19726690000
+                    ],
+                    [
+                        -8.59541360000,
+                        41.19701720000
+                    ],
+                    [
+                        -8.59515580000,
+                        41.19693650000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "slight_left|slight_left|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58447390000,
+                        41.19854670000
+                    ],
+                    [
+                        -8.58529520000,
+                        41.19837920000
+                    ],
+                    [
+                        -8.58549840000,
+                        41.19835330000
+                    ],
+                    [
+                        -8.58571630000,
+                        41.19832850000
+                    ],
+                    [
+                        -8.58607450000,
+                        41.19830530000
+                    ],
+                    [
+                        -8.58641560000,
+                        41.19829200000
+                    ],
+                    [
+                        -8.58691370000,
+                        41.19829450000
+                    ],
+                    [
+                        -8.58747750000,
+                        41.19827990000
+                    ],
+                    [
+                        -8.58786970000,
+                        41.19825660000
+                    ],
+                    [
+                        -8.58818310000,
+                        41.19821950000
+                    ],
+                    [
+                        -8.58844750000,
+                        41.19817760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "40",
+                "name": "A3 acesso a A4 (Poente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58723830000,
+                        41.19905940000
+                    ],
+                    [
+                        -8.58708020000,
+                        41.19915450000
+                    ],
+                    [
+                        -8.58695360000,
+                        41.19923160000
+                    ],
+                    [
+                        -8.58686410000,
+                        41.19927100000
+                    ],
+                    [
+                        -8.58676130000,
+                        41.19930270000
+                    ],
+                    [
+                        -8.58665860000,
+                        41.19931830000
+                    ],
+                    [
+                        -8.58657470000,
+                        41.19932000000
+                    ],
+                    [
+                        -8.58648800000,
+                        41.19931360000
+                    ],
+                    [
+                        -8.58640600000,
+                        41.19929070000
+                    ],
+                    [
+                        -8.58632760000,
+                        41.19925900000
+                    ],
+                    [
+                        -8.58627520000,
+                        41.19922910000
+                    ],
+                    [
+                        -8.58622810000,
+                        41.19919340000
+                    ],
+                    [
+                        -8.58618240000,
+                        41.19914730000
+                    ],
+                    [
+                        -8.58613680000,
+                        41.19909000000
+                    ],
+                    [
+                        -8.58611050000,
+                        41.19902330000
+                    ],
+                    [
+                        -8.58609550000,
+                        41.19895860000
+                    ],
+                    [
+                        -8.58609960000,
+                        41.19888810000
+                    ],
+                    [
+                        -8.58611150000,
+                        41.19882500000
+                    ],
+                    [
+                        -8.58614550000,
+                        41.19876650000
+                    ],
+                    [
+                        -8.58618520000,
+                        41.19871330000
+                    ],
+                    [
+                        -8.58624430000,
+                        41.19866430000
+                    ],
+                    [
+                        -8.58631600000,
+                        41.19861880000
+                    ],
+                    [
+                        -8.58647310000,
+                        41.19855710000
+                    ],
+                    [
+                        -8.58663990000,
+                        41.19852370000
+                    ],
+                    [
+                        -8.58715130000,
+                        41.19847000000
+                    ],
+                    [
+                        -8.58987000000,
+                        41.19819280000
+                    ],
+                    [
+                        -8.59020720000,
+                        41.19815980000
+                    ],
+                    [
+                        -8.59037650000,
+                        41.19813750000
+                    ],
+                    [
+                        -8.59054250000,
+                        41.19810720000
+                    ],
+                    [
+                        -8.59070330000,
+                        41.19806140000
+                    ],
+                    [
+                        -8.59085300000,
+                        41.19800210000
+                    ],
+                    [
+                        -8.59099570000,
+                        41.19792850000
+                    ],
+                    [
+                        -8.59112340000,
+                        41.19784470000
+                    ],
+                    [
+                        -8.59140560000,
+                        41.19763000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58898990000,
+                        41.19670420000
+                    ],
+                    [
+                        -8.58917330000,
+                        41.19644180000
+                    ],
+                    [
+                        -8.58938540000,
+                        41.19618300000
+                    ],
+                    [
+                        -8.58964100000,
+                        41.19587590000
+                    ],
+                    [
+                        -8.58991830000,
+                        41.19556330000
+                    ],
+                    [
+                        -8.59020850000,
+                        41.19526450000
+                    ],
+                    [
+                        -8.59061020000,
+                        41.19488360000
+                    ],
+                    [
+                        -8.59093730000,
+                        41.19459230000
+                    ],
+                    [
+                        -8.59125070000,
+                        41.19430310000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Porto;Lisboa|Porto;Lisboa|Porto;Lisboa|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58713700000,
+                        41.19948380000
+                    ],
+                    [
+                        -8.58733090000,
+                        41.19924490000
+                    ],
+                    [
+                        -8.58752010000,
+                        41.19898840000
+                    ],
+                    [
+                        -8.58769860000,
+                        41.19873930000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.59285290000,
+                    41.19673430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Valença;Braga;Maia",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "-1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Norte)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no",
+                "tunnel": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58951100000,
+                        41.19621330000
+                    ],
+                    [
+                        -8.58901970000,
+                        41.19615930000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Porto;Lisboa|Porto;Lisboa|Porto;Lisboa|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|80",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58769860000,
+                        41.19873930000
+                    ],
+                    [
+                        -8.58786890000,
+                        41.19848360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59515580000,
+                        41.19693650000
+                    ],
+                    [
+                        -8.59490450000,
+                        41.19687760000
+                    ],
+                    [
+                        -8.59465760000,
+                        41.19682880000
+                    ],
+                    [
+                        -8.59444610000,
+                        41.19679800000
+                    ],
+                    [
+                        -8.59419790000,
+                        41.19676630000
+                    ],
+                    [
+                        -8.59389630000,
+                        41.19673180000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59279450000,
+                        41.19690800000
+                    ],
+                    [
+                        -8.59318060000,
+                        41.19688530000
+                    ],
+                    [
+                        -8.59356750000,
+                        41.19688180000
+                    ],
+                    [
+                        -8.59378860000,
+                        41.19689190000
+                    ],
+                    [
+                        -8.59411390000,
+                        41.19691750000
+                    ],
+                    [
+                        -8.59442150000,
+                        41.19695680000
+                    ],
+                    [
+                        -8.59469670000,
+                        41.19700350000
+                    ],
+                    [
+                        -8.59499810000,
+                        41.19706900000
+                    ],
+                    [
+                        -8.59558860000,
+                        41.19724250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo|Vila Real;Valongo;Ermesinde|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 4|A 4|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|80|80",
+                "minspeed:lanes": "50|50|50|none|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59201380000,
+                        41.19251330000
+                    ],
+                    [
+                        -8.59172540000,
+                        41.19317150000
+                    ],
+                    [
+                        -8.59162380000,
+                        41.19338500000
+                    ],
+                    [
+                        -8.59150950000,
+                        41.19359070000
+                    ],
+                    [
+                        -8.59137750000,
+                        41.19379720000
+                    ],
+                    [
+                        -8.59127760000,
+                        41.19393220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59125070000,
+                        41.19430310000
+                    ],
+                    [
+                        -8.59138010000,
+                        41.19415600000
+                    ],
+                    [
+                        -8.59149790000,
+                        41.19400650000
+                    ],
+                    [
+                        -8.59159770000,
+                        41.19386530000
+                    ],
+                    [
+                        -8.59167460000,
+                        41.19375270000
+                    ],
+                    [
+                        -8.59173650000,
+                        41.19364000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58576250000,
+                        41.20057920000
+                    ],
+                    [
+                        -8.58548260000,
+                        41.20083070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58923910000,
+                        41.19607880000
+                    ],
+                    [
+                        -8.58912430000,
+                        41.19621780000
+                    ],
+                    [
+                        -8.58896830000,
+                        41.19641560000
+                    ],
+                    [
+                        -8.58872540000,
+                        41.19675460000
+                    ],
+                    [
+                        -8.58853910000,
+                        41.19704120000
+                    ],
+                    [
+                        -8.58825490000,
+                        41.19751060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58844750000,
+                    41.19817760000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 82",
+                "lanes": "4",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58479960000,
+                        41.19829960000
+                    ],
+                    [
+                        -8.58464030000,
+                        41.19833190000
+                    ],
+                    [
+                        -8.58444080000,
+                        41.19837650000
+                    ],
+                    [
+                        -8.58414860000,
+                        41.19845730000
+                    ],
+                    [
+                        -8.58384790000,
+                        41.19854860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref": "A 4",
+                "highway": "motorway_junction",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58723830000,
+                    41.19905940000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Lisboa",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Sul)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58844750000,
+                        41.19817760000
+                    ],
+                    [
+                        -8.58884150000,
+                        41.19813890000
+                    ],
+                    [
+                        -8.58924580000,
+                        41.19808580000
+                    ],
+                    [
+                        -8.58993620000,
+                        41.19797740000
+                    ],
+                    [
+                        -8.59023240000,
+                        41.19791250000
+                    ],
+                    [
+                        -8.59048140000,
+                        41.19782070000
+                    ],
+                    [
+                        -8.59067840000,
+                        41.19771600000
+                    ],
+                    [
+                        -8.59084040000,
+                        41.19760270000
+                    ],
+                    [
+                        -8.59092130000,
+                        41.19752910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real;Valongo;Ermesinde",
+                "destination:ref": "A 4",
+                "highway": "motorway_junction",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.59089100000,
+                    41.19437710000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58566970000,
+                        41.19820000000
+                    ],
+                    [
+                        -8.58524870000,
+                        41.19823770000
+                    ],
+                    [
+                        -8.58479960000,
+                        41.19829960000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A3 acesso a A4 (Poente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59140560000,
+                        41.19763000000
+                    ],
+                    [
+                        -8.59149690000,
+                        41.19753120000
+                    ],
+                    [
+                        -8.59159360000,
+                        41.19743610000
+                    ],
+                    [
+                        -8.59170980000,
+                        41.19733080000
+                    ],
+                    [
+                        -8.59182970000,
+                        41.19724370000
+                    ],
+                    [
+                        -8.59201320000,
+                        41.19713170000
+                    ],
+                    [
+                        -8.59223540000,
+                        41.19703650000
+                    ],
+                    [
+                        -8.59243260000,
+                        41.19697890000
+                    ],
+                    [
+                        -8.59279450000,
+                        41.19690800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Porto;Lisboa|Porto;Lisboa|Porto;Lisboa|Vila Real;Valongo;Ermesinde|Matosinhos",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|120|80",
+                "minspeed:lanes": "50|50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58591360000,
+                        41.20069120000
+                    ],
+                    [
+                        -8.58617240000,
+                        41.20045250000
+                    ],
+                    [
+                        -8.58666200000,
+                        41.19997830000
+                    ],
+                    [
+                        -8.58702620000,
+                        41.19960020000
+                    ],
+                    [
+                        -8.58713700000,
+                        41.19948380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 82",
+                "lanes": "5",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58377220000,
+                        41.19873380000
+                    ],
+                    [
+                        -8.58447390000,
+                        41.19854670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "direction": "forward",
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58574320000,
+                    41.20051150000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A3 acesso a A4 (Poente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58782860000,
+                        41.19894640000
+                    ],
+                    [
+                        -8.58795630000,
+                        41.19887600000
+                    ],
+                    [
+                        -8.58809760000,
+                        41.19881300000
+                    ],
+                    [
+                        -8.58823770000,
+                        41.19876190000
+                    ],
+                    [
+                        -8.58839400000,
+                        41.19871530000
+                    ],
+                    [
+                        -8.58854860000,
+                        41.19868200000
+                    ],
+                    [
+                        -8.58871540000,
+                        41.19865600000
+                    ],
+                    [
+                        -8.58887100000,
+                        41.19864280000
+                    ],
+                    [
+                        -8.58903760000,
+                        41.19863930000
+                    ],
+                    [
+                        -8.58936020000,
+                        41.19864020000
+                    ],
+                    [
+                        -8.58952200000,
+                        41.19863760000
+                    ],
+                    [
+                        -8.58968560000,
+                        41.19863270000
+                    ],
+                    [
+                        -8.58984590000,
+                        41.19861660000
+                    ],
+                    [
+                        -8.59000540000,
+                        41.19859070000
+                    ],
+                    [
+                        -8.59016280000,
+                        41.19855540000
+                    ],
+                    [
+                        -8.59031470000,
+                        41.19851100000
+                    ],
+                    [
+                        -8.59046120000,
+                        41.19845400000
+                    ],
+                    [
+                        -8.59059880000,
+                        41.19838900000
+                    ],
+                    [
+                        -8.59072870000,
+                        41.19831580000
+                    ],
+                    [
+                        -8.59084030000,
+                        41.19823670000
+                    ],
+                    [
+                        -8.59095330000,
+                        41.19814310000
+                    ],
+                    [
+                        -8.59106630000,
+                        41.19803610000
+                    ],
+                    [
+                        -8.59115230000,
+                        41.19794230000
+                    ],
+                    [
+                        -8.59126610000,
+                        41.19780670000
+                    ],
+                    [
+                        -8.59140560000,
+                        41.19763000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Valença;Braga;Maia",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "40",
+                "name": "A4 acesso a A3 (Norte)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58901970000,
+                        41.19615930000
+                    ],
+                    [
+                        -8.58884860000,
+                        41.19614170000
+                    ],
+                    [
+                        -8.58874020000,
+                        41.19612450000
+                    ],
+                    [
+                        -8.58865130000,
+                        41.19610220000
+                    ],
+                    [
+                        -8.58856700000,
+                        41.19607260000
+                    ],
+                    [
+                        -8.58848720000,
+                        41.19603120000
+                    ],
+                    [
+                        -8.58842560000,
+                        41.19598410000
+                    ],
+                    [
+                        -8.58838200000,
+                        41.19594140000
+                    ],
+                    [
+                        -8.58834630000,
+                        41.19589460000
+                    ],
+                    [
+                        -8.58832060000,
+                        41.19583520000
+                    ],
+                    [
+                        -8.58830930000,
+                        41.19576830000
+                    ],
+                    [
+                        -8.58830940000,
+                        41.19571190000
+                    ],
+                    [
+                        -8.58831570000,
+                        41.19566850000
+                    ],
+                    [
+                        -8.58833330000,
+                        41.19562010000
+                    ],
+                    [
+                        -8.58836370000,
+                        41.19556810000
+                    ],
+                    [
+                        -8.58839150000,
+                        41.19553230000
+                    ],
+                    [
+                        -8.58843790000,
+                        41.19548450000
+                    ],
+                    [
+                        -8.58850560000,
+                        41.19543640000
+                    ],
+                    [
+                        -8.58858250000,
+                        41.19539960000
+                    ],
+                    [
+                        -8.58866720000,
+                        41.19537370000
+                    ],
+                    [
+                        -8.58875170000,
+                        41.19535630000
+                    ],
+                    [
+                        -8.58882570000,
+                        41.19535360000
+                    ],
+                    [
+                        -8.58892290000,
+                        41.19536310000
+                    ],
+                    [
+                        -8.58899860000,
+                        41.19538120000
+                    ],
+                    [
+                        -8.58907130000,
+                        41.19540680000
+                    ],
+                    [
+                        -8.58912990000,
+                        41.19543700000
+                    ],
+                    [
+                        -8.58918500000,
+                        41.19547630000
+                    ],
+                    [
+                        -8.58923940000,
+                        41.19552870000
+                    ],
+                    [
+                        -8.58927960000,
+                        41.19558090000
+                    ],
+                    [
+                        -8.58930350000,
+                        41.19562920000
+                    ],
+                    [
+                        -8.58931610000,
+                        41.19568710000
+                    ],
+                    [
+                        -8.58931900000,
+                        41.19574710000
+                    ],
+                    [
+                        -8.58931340000,
+                        41.19581290000
+                    ],
+                    [
+                        -8.58929710000,
+                        41.19590960000
+                    ],
+                    [
+                        -8.58926890000,
+                        41.19600520000
+                    ],
+                    [
+                        -8.58923910000,
+                        41.19607880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref:lanes": "A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59089100000,
+                        41.19437710000
+                    ],
+                    [
+                        -8.59060560000,
+                        41.19468450000
+                    ],
+                    [
+                        -8.59030360000,
+                        41.19498430000
+                    ],
+                    [
+                        -8.59005580000,
+                        41.19522250000
+                    ],
+                    [
+                        -8.58980300000,
+                        41.19547950000
+                    ],
+                    [
+                        -8.58948260000,
+                        41.19582340000
+                    ],
+                    [
+                        -8.58923910000,
+                        41.19607880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Lisboa",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Sul)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59127090000,
+                        41.19668510000
+                    ],
+                    [
+                        -8.59126420000,
+                        41.19659770000
+                    ],
+                    [
+                        -8.59124730000,
+                        41.19650910000
+                    ],
+                    [
+                        -8.59120490000,
+                        41.19637680000
+                    ],
+                    [
+                        -8.59114430000,
+                        41.19621690000
+                    ],
+                    [
+                        -8.59086340000,
+                        41.19563570000
+                    ],
+                    [
+                        -8.59082550000,
+                        41.19553890000
+                    ],
+                    [
+                        -8.59079860000,
+                        41.19544310000
+                    ],
+                    [
+                        -8.59078250000,
+                        41.19532490000
+                    ],
+                    [
+                        -8.59078230000,
+                        41.19520470000
+                    ],
+                    [
+                        -8.59080130000,
+                        41.19507400000
+                    ],
+                    [
+                        -8.59083020000,
+                        41.19496680000
+                    ],
+                    [
+                        -8.59088110000,
+                        41.19485030000
+                    ],
+                    [
+                        -8.59125070000,
+                        41.19430310000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58723830000,
+                        41.19905940000
+                    ],
+                    [
+                        -8.58704860000,
+                        41.19930400000
+                    ],
+                    [
+                        -8.58684870000,
+                        41.19953510000
+                    ],
+                    [
+                        -8.58647090000,
+                        41.19991690000
+                    ],
+                    [
+                        -8.58576250000,
+                        41.20057920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Valença;Braga;Maia",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Norte)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58447390000,
+                        41.19854670000
+                    ],
+                    [
+                        -8.58455850000,
+                        41.19857340000
+                    ],
+                    [
+                        -8.58509520000,
+                        41.19846450000
+                    ],
+                    [
+                        -8.58527100000,
+                        41.19847480000
+                    ],
+                    [
+                        -8.58541850000,
+                        41.19849390000
+                    ],
+                    [
+                        -8.58553820000,
+                        41.19853050000
+                    ],
+                    [
+                        -8.58564800000,
+                        41.19858990000
+                    ],
+                    [
+                        -8.58572100000,
+                        41.19864760000
+                    ],
+                    [
+                        -8.58578480000,
+                        41.19871160000
+                    ],
+                    [
+                        -8.58584770000,
+                        41.19881290000
+                    ],
+                    [
+                        -8.58608520000,
+                        41.19927310000
+                    ],
+                    [
+                        -8.58613610000,
+                        41.19938600000
+                    ],
+                    [
+                        -8.58617400000,
+                        41.19947990000
+                    ],
+                    [
+                        -8.58620100000,
+                        41.19957600000
+                    ],
+                    [
+                        -8.58621390000,
+                        41.19966100000
+                    ],
+                    [
+                        -8.58621700000,
+                        41.19975400000
+                    ],
+                    [
+                        -8.58620990000,
+                        41.19984850000
+                    ],
+                    [
+                        -8.58618330000,
+                        41.19995790000
+                    ],
+                    [
+                        -8.58614840000,
+                        41.20004230000
+                    ],
+                    [
+                        -8.58603000000,
+                        41.20022880000
+                    ],
+                    [
+                        -8.58574320000,
+                        41.20051150000
+                    ],
+                    [
+                        -8.58576250000,
+                        41.20057920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58830120000,
+                        41.19805410000
+                    ],
+                    [
+                        -8.58798610000,
+                        41.19809520000
+                    ],
+                    [
+                        -8.58766150000,
+                        41.19812690000
+                    ],
+                    [
+                        -8.58738300000,
+                        41.19814960000
+                    ],
+                    [
+                        -8.58651170000,
+                        41.19815440000
+                    ],
+                    [
+                        -8.58566970000,
+                        41.19820000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Valença;Braga;Maia",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "40",
+                "name": "A4 acesso a A3 (Norte)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59013160000,
+                        41.19634710000
+                    ],
+                    [
+                        -8.58998470000,
+                        41.19629880000
+                    ],
+                    [
+                        -8.58984220000,
+                        41.19626450000
+                    ],
+                    [
+                        -8.58969640000,
+                        41.19623970000
+                    ],
+                    [
+                        -8.58951100000,
+                        41.19621330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo|Matosinhos;Aeroporto;Viana do Castelo|Vila Real;Valongo",
+                "destination:ref:lanes": "A 3|A 4|A 4|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59221240000,
+                        41.19215200000
+                    ],
+                    [
+                        -8.59213090000,
+                        41.19229340000
+                    ],
+                    [
+                        -8.59206670000,
+                        41.19240440000
+                    ],
+                    [
+                        -8.59201380000,
+                        41.19251330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A3 acesso a A4 (Poente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58713700000,
+                        41.19948380000
+                    ],
+                    [
+                        -8.58741560000,
+                        41.19924910000
+                    ],
+                    [
+                        -8.58767460000,
+                        41.19904470000
+                    ],
+                    [
+                        -8.58782860000,
+                        41.19894640000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Lisboa",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A4 acesso a A3 (Sul)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59092130000,
+                        41.19752910000
+                    ],
+                    [
+                        -8.59097730000,
+                        41.19746510000
+                    ],
+                    [
+                        -8.59106390000,
+                        41.19735530000
+                    ],
+                    [
+                        -8.59112760000,
+                        41.19725230000
+                    ],
+                    [
+                        -8.59116930000,
+                        41.19716880000
+                    ],
+                    [
+                        -8.59120740000,
+                        41.19708110000
+                    ],
+                    [
+                        -8.59123630000,
+                        41.19699030000
+                    ],
+                    [
+                        -8.59125690000,
+                        41.19689820000
+                    ],
+                    [
+                        -8.59126800000,
+                        41.19679080000
+                    ],
+                    [
+                        -8.59127090000,
+                        41.19668510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|80",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58805290000,
+                        41.19784890000
+                    ],
+                    [
+                        -8.58762990000,
+                        41.19850950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real;Valongo;Ermesinde",
+                "destination:ref": "A 4",
+                "highway": "motorway_junction",
+                "ref": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58898990000,
+                    41.19670420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58844750000,
+                        41.19817760000
+                    ],
+                    [
+                        -8.58887330000,
+                        41.19806950000
+                    ],
+                    [
+                        -8.58933230000,
+                        41.19792510000
+                    ],
+                    [
+                        -8.58977230000,
+                        41.19776630000
+                    ],
+                    [
+                        -8.59020700000,
+                        41.19758780000
+                    ],
+                    [
+                        -8.59049640000,
+                        41.19746350000
+                    ],
+                    [
+                        -8.59093400000,
+                        41.19728510000
+                    ],
+                    [
+                        -8.59136440000,
+                        41.19713400000
+                    ],
+                    [
+                        -8.59153420000,
+                        41.19708460000
+                    ],
+                    [
+                        -8.59185490000,
+                        41.19701600000
+                    ],
+                    [
+                        -8.59208840000,
+                        41.19697370000
+                    ],
+                    [
+                        -8.59238960000,
+                        41.19693610000
+                    ],
+                    [
+                        -8.59279450000,
+                        41.19690800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Trás-os-Montes e Alto Douro",
+                "nat_ref": "IP 4",
+                "oneway": "yes",
+                "ref": "A 4;IP 4",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59389630000,
+                        41.19673180000
+                    ],
+                    [
+                        -8.59368650000,
+                        41.19672060000
+                    ],
+                    [
+                        -8.59352380000,
+                        41.19671680000
+                    ],
+                    [
+                        -8.59335880000,
+                        41.19671650000
+                    ],
+                    [
+                        -8.59319600000,
+                        41.19671810000
+                    ],
+                    [
+                        -8.59285290000,
+                        41.19673430000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58447390000,
+                    41.19854670000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Porto;Lisboa|Porto;Lisboa|Porto;Lisboa|Vila Real;Valongo;Ermesinde",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|60",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58828010000,
+                        41.19782030000
+                    ],
+                    [
+                        -8.58875080000,
+                        41.19705060000
+                    ],
+                    [
+                        -8.58898990000,
+                        41.19670420000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Lisboa",
+                "destination:ref": "A 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "80",
+                "name": "A4 acesso a A3 (Sul)",
+                "oneway": "yes",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59515580000,
+                        41.19693650000
+                    ],
+                    [
+                        -8.59466710000,
+                        41.19678500000
+                    ],
+                    [
+                        -8.59437640000,
+                        41.19670190000
+                    ],
+                    [
+                        -8.59403080000,
+                        41.19661780000
+                    ],
+                    [
+                        -8.59381200000,
+                        41.19658380000
+                    ],
+                    [
+                        -8.59357770000,
+                        41.19656210000
+                    ],
+                    [
+                        -8.59340170000,
+                        41.19655290000
+                    ],
+                    [
+                        -8.59323360000,
+                        41.19655040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Valença;Braga;Maia|Valença;Braga;Maia|Valença;Braga;Maia|Matosinhos;Aeroporto;Viana do Castelo",
+                "destination:ref:lanes": "A 3|A 3|A 3|A 4",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed:lanes": "120|120|120|80",
+                "minspeed:lanes": "50|50|50|none",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.58825490000,
+                        41.19751060000
+                    ],
+                    [
+                        -8.58805290000,
+                        41.19784890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Vila Real;Valongo;Ermesinde",
+                "destination:ref": "A 4",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "name": "A3 acesso a A4 (Nascente)",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59089100000,
+                        41.19437710000
+                    ],
+                    [
+                        -8.59075710000,
+                        41.19446220000
+                    ],
+                    [
+                        -8.59060330000,
+                        41.19454380000
+                    ],
+                    [
+                        -8.59038750000,
+                        41.19464720000
+                    ],
+                    [
+                        -8.59024820000,
+                        41.19471000000
+                    ],
+                    [
+                        -8.59010820000,
+                        41.19476820000
+                    ],
+                    [
+                        -8.58996700000,
+                        41.19481870000
+                    ],
+                    [
+                        -8.58981100000,
+                        41.19486520000
+                    ],
+                    [
+                        -8.58964900000,
+                        41.19490430000
+                    ],
+                    [
+                        -8.58903410000,
+                        41.19503950000
+                    ],
+                    [
+                        -8.58887770000,
+                        41.19508380000
+                    ],
+                    [
+                        -8.58873870000,
+                        41.19513190000
+                    ],
+                    [
+                        -8.58859890000,
+                        41.19519890000
+                    ],
+                    [
+                        -8.58850110000,
+                        41.19526030000
+                    ],
+                    [
+                        -8.58841300000,
+                        41.19532800000
+                    ],
+                    [
+                        -8.58831200000,
+                        41.19542650000
+                    ],
+                    [
+                        -8.58823810000,
+                        41.19551660000
+                    ],
+                    [
+                        -8.58817860000,
+                        41.19560770000
+                    ],
+                    [
+                        -8.58812320000,
+                        41.19571680000
+                    ],
+                    [
+                        -8.58803550000,
+                        41.19593120000
+                    ],
+                    [
+                        -8.58798710000,
+                        41.19604230000
+                    ],
+                    [
+                        -8.58793860000,
+                        41.19614000000
+                    ],
+                    [
+                        -8.58788290000,
+                        41.19623420000
+                    ],
+                    [
+                        -8.58769880000,
+                        41.19647140000
+                    ],
+                    [
+                        -8.58759370000,
+                        41.19657460000
+                    ],
+                    [
+                        -8.58748570000,
+                        41.19666970000
+                    ],
+                    [
+                        -8.58726630000,
+                        41.19685250000
+                    ],
+                    [
+                        -8.58660730000,
+                        41.19740680000
+                    ],
+                    [
+                        -8.58649870000,
+                        41.19749540000
+                    ],
+                    [
+                        -8.58638290000,
+                        41.19758320000
+                    ],
+                    [
+                        -8.58626080000,
+                        41.19766920000
+                    ],
+                    [
+                        -8.58614250000,
+                        41.19774830000
+                    ],
+                    [
+                        -8.58601410000,
+                        41.19782490000
+                    ],
+                    [
+                        -8.58587930000,
+                        41.19789640000
+                    ],
+                    [
+                        -8.58574360000,
+                        41.19795950000
+                    ],
+                    [
+                        -8.58560170000,
+                        41.19802410000
+                    ],
+                    [
+                        -8.58544500000,
+                        41.19808630000
+                    ],
+                    [
+                        -8.58519620000,
+                        41.19817500000
+                    ],
+                    [
+                        -8.58479960000,
+                        41.19829960000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.59515580000,
+                    41.19693650000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "5",
+                "lit": "yes",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada de Entre-Douro-e-Minho",
+                "official_name": "Autoestrada 3",
+                "oneway": "yes",
+                "ref": "A 3",
+                "short_name": "Autoestrada do Minho",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.59233450000,
+                        41.19238200000
+                    ],
+                    [
+                        -8.59246410000,
+                        41.19215690000
+                    ]
+                ]
+            }
+        }
+    ]
+}

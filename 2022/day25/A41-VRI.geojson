@@ -1,0 +1,4024 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -8.67620000000,
+        41.22110000000,
+        -8.65900000000,
+        41.22990000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67088220000,
+                        41.22620420000
+                    ],
+                    [
+                        -8.66985760000,
+                        41.22591370000
+                    ],
+                    [
+                        -8.66927910000,
+                        41.22578200000
+                    ],
+                    [
+                        -8.66875490000,
+                        41.22569540000
+                    ],
+                    [
+                        -8.66778690000,
+                        41.22564150000
+                    ],
+                    [
+                        -8.66718010000,
+                        41.22565100000
+                    ],
+                    [
+                        -8.66669260000,
+                        41.22565970000
+                    ],
+                    [
+                        -8.66592480000,
+                        41.22568460000
+                    ],
+                    [
+                        -8.66527450000,
+                        41.22570900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66634060000,
+                        41.22263790000
+                    ],
+                    [
+                        -8.66620530000,
+                        41.22267710000
+                    ],
+                    [
+                        -8.66602390000,
+                        41.22276380000
+                    ],
+                    [
+                        -8.66580160000,
+                        41.22282990000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Parafita;Viana do Castelo;Vila do Conde",
+                "destination:ref": "A 41",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66856040000,
+                    41.22820030000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67088220000,
+                    41.22620420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "4",
+                "maxspeed": "100",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66207240000,
+                        41.22278670000
+                    ],
+                    [
+                        -8.66122360000,
+                        41.22195410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "name": "Santa Cruz do Bispo / Moreira",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66103920000,
+                    41.22206170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Porto;Braga;Vila Real|Porto;Leixões;Matosinhos;Exponor;Viana do Castelo",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66817250000,
+                        41.22991200000
+                    ],
+                    [
+                        -8.66820930000,
+                        41.22978190000
+                    ],
+                    [
+                        -8.66824020000,
+                        41.22965660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "4",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66861640000,
+                        41.22411780000
+                    ],
+                    [
+                        -8.66841140000,
+                        41.22400660000
+                    ],
+                    [
+                        -8.66827390000,
+                        41.22394730000
+                    ],
+                    [
+                        -8.66812640000,
+                        41.22389690000
+                    ],
+                    [
+                        -8.66797280000,
+                        41.22385350000
+                    ],
+                    [
+                        -8.66781640000,
+                        41.22382070000
+                    ],
+                    [
+                        -8.66757790000,
+                        41.22378800000
+                    ],
+                    [
+                        -8.66737740000,
+                        41.22377270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66548340000,
+                    41.22690550000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Santa Cruz do Bispo; Moreira",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66475260000,
+                    41.22370360000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66103920000,
+                        41.22206170000
+                    ],
+                    [
+                        -8.66140410000,
+                        41.22240280000
+                    ],
+                    [
+                        -8.66261890000,
+                        41.22369590000
+                    ],
+                    [
+                        -8.66286180000,
+                        41.22397670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65942480000,
+                        41.22649920000
+                    ],
+                    [
+                        -8.66015570000,
+                        41.22626780000
+                    ],
+                    [
+                        -8.66049790000,
+                        41.22618470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66628040000,
+                        41.22550440000
+                    ],
+                    [
+                        -8.66609870000,
+                        41.22556360000
+                    ],
+                    [
+                        -8.66588540000,
+                        41.22561420000
+                    ],
+                    [
+                        -8.66547230000,
+                        41.22565050000
+                    ],
+                    [
+                        -8.66527450000,
+                        41.22570900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed:forward": "60",
+                "maxspeed:type:forward": "sign",
+                "oneway": "no",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66698650000,
+                        41.22273150000
+                    ],
+                    [
+                        -8.66686780000,
+                        41.22266900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66544260000,
+                        41.22350740000
+                    ],
+                    [
+                        -8.66552300000,
+                        41.22343550000
+                    ],
+                    [
+                        -8.66558770000,
+                        41.22338880000
+                    ],
+                    [
+                        -8.66577140000,
+                        41.22328200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "90",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66840730000,
+                        41.22832040000
+                    ],
+                    [
+                        -8.66828840000,
+                        41.22892980000
+                    ],
+                    [
+                        -8.66824400000,
+                        41.22914670000
+                    ],
+                    [
+                        -8.66820770000,
+                        41.22931070000
+                    ],
+                    [
+                        -8.66816890000,
+                        41.22945380000
+                    ],
+                    [
+                        -8.66810660000,
+                        41.22965100000
+                    ],
+                    [
+                        -8.66801570000,
+                        41.22992630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "layer": "-1",
+                "oneway": "no",
+                "source": "bing",
+                "tunnel": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66259760000,
+                        41.22609450000
+                    ],
+                    [
+                        -8.66265140000,
+                        41.22575380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Matosinhos;Leixões",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66525030000,
+                        41.22586340000
+                    ],
+                    [
+                        -8.66614580000,
+                        41.22587100000
+                    ],
+                    [
+                        -8.66646430000,
+                        41.22586780000
+                    ],
+                    [
+                        -8.66662810000,
+                        41.22588580000
+                    ],
+                    [
+                        -8.66675380000,
+                        41.22591900000
+                    ],
+                    [
+                        -8.66684270000,
+                        41.22596740000
+                    ],
+                    [
+                        -8.66692680000,
+                        41.22602490000
+                    ],
+                    [
+                        -8.66700280000,
+                        41.22610760000
+                    ],
+                    [
+                        -8.66704610000,
+                        41.22620150000
+                    ],
+                    [
+                        -8.66706900000,
+                        41.22627490000
+                    ],
+                    [
+                        -8.66707560000,
+                        41.22636790000
+                    ],
+                    [
+                        -8.66704770000,
+                        41.22647220000
+                    ],
+                    [
+                        -8.66699110000,
+                        41.22657060000
+                    ],
+                    [
+                        -8.66690450000,
+                        41.22666130000
+                    ],
+                    [
+                        -8.66680610000,
+                        41.22673000000
+                    ],
+                    [
+                        -8.66669190000,
+                        41.22677720000
+                    ],
+                    [
+                        -8.66654320000,
+                        41.22680870000
+                    ],
+                    [
+                        -8.66636530000,
+                        41.22682230000
+                    ],
+                    [
+                        -8.66619320000,
+                        41.22681470000
+                    ],
+                    [
+                        -8.66602860000,
+                        41.22678310000
+                    ],
+                    [
+                        -8.66587530000,
+                        41.22673710000
+                    ],
+                    [
+                        -8.66573940000,
+                        41.22667730000
+                    ],
+                    [
+                        -8.66556290000,
+                        41.22656760000
+                    ],
+                    [
+                        -8.66542110000,
+                        41.22644880000
+                    ],
+                    [
+                        -8.66466120000,
+                        41.22564850000
+                    ],
+                    [
+                        -8.66443840000,
+                        41.22542340000
+                    ],
+                    [
+                        -8.66376640000,
+                        41.22472250000
+                    ],
+                    [
+                        -8.66284180000,
+                        41.22375540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66046630000,
+                        41.22148350000
+                    ],
+                    [
+                        -8.66103920000,
+                        41.22206170000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65868870000,
+                        41.22684610000
+                    ],
+                    [
+                        -8.65942480000,
+                        41.22649920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66387390000,
+                        41.22453270000
+                    ],
+                    [
+                        -8.66419910000,
+                        41.22444610000
+                    ],
+                    [
+                        -8.66432570000,
+                        41.22439580000
+                    ],
+                    [
+                        -8.66446830000,
+                        41.22432550000
+                    ],
+                    [
+                        -8.66459690000,
+                        41.22423930000
+                    ],
+                    [
+                        -8.66478730000,
+                        41.22410530000
+                    ],
+                    [
+                        -8.66502850000,
+                        41.22391720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66527450000,
+                        41.22570900000
+                    ],
+                    [
+                        -8.66507870000,
+                        41.22571810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "100",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66080060000,
+                        41.22154330000
+                    ],
+                    [
+                        -8.66031070000,
+                        41.22105820000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66266040000,
+                        41.22598290000
+                    ],
+                    [
+                        -8.66284070000,
+                        41.22599520000
+                    ],
+                    [
+                        -8.66307640000,
+                        41.22601110000
+                    ],
+                    [
+                        -8.66331130000,
+                        41.22603170000
+                    ],
+                    [
+                        -8.66353540000,
+                        41.22605640000
+                    ],
+                    [
+                        -8.66384720000,
+                        41.22610910000
+                    ],
+                    [
+                        -8.66398180000,
+                        41.22614030000
+                    ],
+                    [
+                        -8.66416340000,
+                        41.22619720000
+                    ],
+                    [
+                        -8.66433370000,
+                        41.22626180000
+                    ],
+                    [
+                        -8.66450000000,
+                        41.22633740000
+                    ],
+                    [
+                        -8.66468850000,
+                        41.22643550000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66525030000,
+                    41.22586340000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66563530000,
+                        41.22286490000
+                    ],
+                    [
+                        -8.66549580000,
+                        41.22285970000
+                    ],
+                    [
+                        -8.66532680000,
+                        41.22283140000
+                    ],
+                    [
+                        -8.66483920000,
+                        41.22265850000
+                    ],
+                    [
+                        -8.66457400000,
+                        41.22262450000
+                    ],
+                    [
+                        -8.66437070000,
+                        41.22265290000
+                    ],
+                    [
+                        -8.66413110000,
+                        41.22274250000
+                    ],
+                    [
+                        -8.66368180000,
+                        41.22306780000
+                    ],
+                    [
+                        -8.66349380000,
+                        41.22315890000
+                    ],
+                    [
+                        -8.66329990000,
+                        41.22321170000
+                    ],
+                    [
+                        -8.66311290000,
+                        41.22322890000
+                    ],
+                    [
+                        -8.66293120000,
+                        41.22321080000
+                    ],
+                    [
+                        -8.66276840000,
+                        41.22317080000
+                    ],
+                    [
+                        -8.66264830000,
+                        41.22311920000
+                    ],
+                    [
+                        -8.66231200000,
+                        41.22291350000
+                    ],
+                    [
+                        -8.66207240000,
+                        41.22278670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_by": "JOSM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65866200000,
+                    41.22665970000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66265700000,
+                        41.22533620000
+                    ],
+                    [
+                        -8.66265830000,
+                        41.22516020000
+                    ],
+                    [
+                        -8.66272090000,
+                        41.22498250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "4",
+                "oneway": "yes",
+                "source": "bing",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66475260000,
+                        41.22370360000
+                    ],
+                    [
+                        -8.66434510000,
+                        41.22368280000
+                    ],
+                    [
+                        -8.66396570000,
+                        41.22363550000
+                    ],
+                    [
+                        -8.66336320000,
+                        41.22351990000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination:lanes": "Maia;Braga;Felgueiras|Maia;Braga;Felgueiras|Porto;Leixões;Matosinhos",
+                "destination:ref": "A 41|A 41|VRI",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66901720000,
+                        41.22606960000
+                    ],
+                    [
+                        -8.66912930000,
+                        41.22555640000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66284180000,
+                        41.22375540000
+                    ],
+                    [
+                        -8.66141520000,
+                        41.22227530000
+                    ],
+                    [
+                        -8.66122360000,
+                        41.22195410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "90",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66888020000,
+                        41.22605330000
+                    ],
+                    [
+                        -8.66871610000,
+                        41.22684350000
+                    ],
+                    [
+                        -8.66852770000,
+                        41.22771450000
+                    ],
+                    [
+                        -8.66840730000,
+                        41.22832040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66380100000,
+                        41.22447510000
+                    ],
+                    [
+                        -8.66315560000,
+                        41.22462890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "junction": "roundabout"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66237670000,
+                        41.22503160000
+                    ],
+                    [
+                        -8.66247500000,
+                        41.22505030000
+                    ],
+                    [
+                        -8.66260790000,
+                        41.22503680000
+                    ],
+                    [
+                        -8.66272090000,
+                        41.22498250000
+                    ],
+                    [
+                        -8.66277280000,
+                        41.22493090000
+                    ],
+                    [
+                        -8.66281190000,
+                        41.22482510000
+                    ],
+                    [
+                        -8.66278260000,
+                        41.22471750000
+                    ],
+                    [
+                        -8.66269120000,
+                        41.22463180000
+                    ],
+                    [
+                        -8.66256450000,
+                        41.22458790000
+                    ],
+                    [
+                        -8.66241480000,
+                        41.22459210000
+                    ],
+                    [
+                        -8.66228510000,
+                        41.22464840000
+                    ],
+                    [
+                        -8.66222450000,
+                        41.22470960000
+                    ],
+                    [
+                        -8.66219320000,
+                        41.22478220000
+                    ],
+                    [
+                        -8.66219470000,
+                        41.22485840000
+                    ],
+                    [
+                        -8.66222870000,
+                        41.22493030000
+                    ],
+                    [
+                        -8.66229160000,
+                        41.22499010000
+                    ],
+                    [
+                        -8.66237670000,
+                        41.22503160000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Parafita;Viana do Castelo;Vila do Conde",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66856040000,
+                        41.22820030000
+                    ],
+                    [
+                        -8.66872300000,
+                        41.22785010000
+                    ],
+                    [
+                        -8.66878200000,
+                        41.22774070000
+                    ],
+                    [
+                        -8.66884500000,
+                        41.22765390000
+                    ],
+                    [
+                        -8.66893550000,
+                        41.22755360000
+                    ],
+                    [
+                        -8.66905490000,
+                        41.22745120000
+                    ],
+                    [
+                        -8.66917160000,
+                        41.22737100000
+                    ],
+                    [
+                        -8.66930840000,
+                        41.22729340000
+                    ],
+                    [
+                        -8.66946330000,
+                        41.22722070000
+                    ],
+                    [
+                        -8.66965500000,
+                        41.22713850000
+                    ],
+                    [
+                        -8.67034910000,
+                        41.22686440000
+                    ],
+                    [
+                        -8.67053820000,
+                        41.22679960000
+                    ],
+                    [
+                        -8.67070040000,
+                        41.22675830000
+                    ],
+                    [
+                        -8.67091170000,
+                        41.22672450000
+                    ],
+                    [
+                        -8.67110750000,
+                        41.22671770000
+                    ],
+                    [
+                        -8.67127680000,
+                        41.22672680000
+                    ],
+                    [
+                        -8.67142400000,
+                        41.22675080000
+                    ],
+                    [
+                        -8.67172570000,
+                        41.22682480000
+                    ],
+                    [
+                        -8.67224110000,
+                        41.22699500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "oneway": "no",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66247510000,
+                        41.22630630000
+                    ],
+                    [
+                        -8.66259760000,
+                        41.22609450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66321230000,
+                        41.22468940000
+                    ],
+                    [
+                        -8.66387390000,
+                        41.22453270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Porto;Braga;Vila Real|Porto;Leixões;Matosinhos;Exponor;Viana do Castelo",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66812960000,
+                        41.23005570000
+                    ],
+                    [
+                        -8.66817250000,
+                        41.22991200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66488340000,
+                        41.22393940000
+                    ],
+                    [
+                        -8.66467350000,
+                        41.22410950000
+                    ],
+                    [
+                        -8.66456110000,
+                        41.22417880000
+                    ],
+                    [
+                        -8.66441940000,
+                        41.22426210000
+                    ],
+                    [
+                        -8.66426050000,
+                        41.22434940000
+                    ],
+                    [
+                        -8.66406570000,
+                        41.22441520000
+                    ],
+                    [
+                        -8.66380100000,
+                        41.22447510000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "lanes": "4",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66507870000,
+                        41.22571810000
+                    ],
+                    [
+                        -8.66411480000,
+                        41.22576010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Santa Cruz do Bispo;Moreira",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66475260000,
+                        41.22370360000
+                    ],
+                    [
+                        -8.66430130000,
+                        41.22358600000
+                    ],
+                    [
+                        -8.66417260000,
+                        41.22352000000
+                    ],
+                    [
+                        -8.66405260000,
+                        41.22341490000
+                    ],
+                    [
+                        -8.66396740000,
+                        41.22325450000
+                    ],
+                    [
+                        -8.66397070000,
+                        41.22308160000
+                    ],
+                    [
+                        -8.66406170000,
+                        41.22290370000
+                    ],
+                    [
+                        -8.66421600000,
+                        41.22278140000
+                    ],
+                    [
+                        -8.66439280000,
+                        41.22271660000
+                    ],
+                    [
+                        -8.66458000000,
+                        41.22269460000
+                    ],
+                    [
+                        -8.66481990000,
+                        41.22271820000
+                    ],
+                    [
+                        -8.66535340000,
+                        41.22292280000
+                    ],
+                    [
+                        -8.66542340000,
+                        41.22298880000
+                    ],
+                    [
+                        -8.66549680000,
+                        41.22308060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67088220000,
+                        41.22620420000
+                    ],
+                    [
+                        -8.67045680000,
+                        41.22601590000
+                    ],
+                    [
+                        -8.67010720000,
+                        41.22587640000
+                    ],
+                    [
+                        -8.66975620000,
+                        41.22575710000
+                    ],
+                    [
+                        -8.66952900000,
+                        41.22570440000
+                    ],
+                    [
+                        -8.66915770000,
+                        41.22564140000
+                    ],
+                    [
+                        -8.66805980000,
+                        41.22549740000
+                    ],
+                    [
+                        -8.66788630000,
+                        41.22546040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "junction": "roundabout"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66562180000,
+                        41.22324100000
+                    ],
+                    [
+                        -8.66569290000,
+                        41.22326910000
+                    ],
+                    [
+                        -8.66577140000,
+                        41.22328200000
+                    ],
+                    [
+                        -8.66586250000,
+                        41.22327720000
+                    ],
+                    [
+                        -8.66594750000,
+                        41.22325200000
+                    ],
+                    [
+                        -8.66601860000,
+                        41.22320890000
+                    ],
+                    [
+                        -8.66607480000,
+                        41.22314190000
+                    ],
+                    [
+                        -8.66609700000,
+                        41.22306450000
+                    ],
+                    [
+                        -8.66608230000,
+                        41.22298610000
+                    ],
+                    [
+                        -8.66604030000,
+                        41.22292390000
+                    ],
+                    [
+                        -8.66597510000,
+                        41.22287420000
+                    ],
+                    [
+                        -8.66589290000,
+                        41.22284190000
+                    ],
+                    [
+                        -8.66580160000,
+                        41.22282990000
+                    ],
+                    [
+                        -8.66571500000,
+                        41.22283820000
+                    ],
+                    [
+                        -8.66563530000,
+                        41.22286490000
+                    ],
+                    [
+                        -8.66555380000,
+                        41.22292190000
+                    ],
+                    [
+                        -8.66550540000,
+                        41.22299720000
+                    ],
+                    [
+                        -8.66549680000,
+                        41.22308060000
+                    ],
+                    [
+                        -8.66552090000,
+                        41.22314820000
+                    ],
+                    [
+                        -8.66556300000,
+                        41.22319970000
+                    ],
+                    [
+                        -8.66562180000,
+                        41.22324100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "maxspeed": "120",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66346160000,
+                        41.22578670000
+                    ],
+                    [
+                        -8.66242200000,
+                        41.22583530000
+                    ],
+                    [
+                        -8.66176890000,
+                        41.22586760000
+                    ],
+                    [
+                        -8.66139670000,
+                        41.22589920000
+                    ],
+                    [
+                        -8.66091240000,
+                        41.22597030000
+                    ],
+                    [
+                        -8.66040720000,
+                        41.22606840000
+                    ],
+                    [
+                        -8.65995490000,
+                        41.22617220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "4",
+                "oneway": "yes",
+                "source": "bing",
+                "turn:lanes": "through|through|through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66721830000,
+                        41.22376620000
+                    ],
+                    [
+                        -8.66475260000,
+                        41.22370360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66727980000,
+                        41.22417980000
+                    ],
+                    [
+                        -8.66722720000,
+                        41.22432530000
+                    ],
+                    [
+                        -8.66716000000,
+                        41.22445580000
+                    ],
+                    [
+                        -8.66698360000,
+                        41.22472960000
+                    ],
+                    [
+                        -8.66681260000,
+                        41.22493240000
+                    ],
+                    [
+                        -8.66660670000,
+                        41.22510710000
+                    ],
+                    [
+                        -8.66645290000,
+                        41.22520260000
+                    ],
+                    [
+                        -8.66627700000,
+                        41.22528110000
+                    ],
+                    [
+                        -8.66606250000,
+                        41.22534840000
+                    ],
+                    [
+                        -8.66584540000,
+                        41.22538500000
+                    ],
+                    [
+                        -8.66567690000,
+                        41.22539400000
+                    ],
+                    [
+                        -8.66539780000,
+                        41.22539780000
+                    ],
+                    [
+                        -8.66522590000,
+                        41.22538840000
+                    ],
+                    [
+                        -8.66507940000,
+                        41.22536380000
+                    ],
+                    [
+                        -8.66492950000,
+                        41.22530650000
+                    ],
+                    [
+                        -8.66482330000,
+                        41.22523570000
+                    ],
+                    [
+                        -8.66474080000,
+                        41.22513930000
+                    ],
+                    [
+                        -8.66468470000,
+                        41.22503500000
+                    ],
+                    [
+                        -8.66465900000,
+                        41.22490230000
+                    ],
+                    [
+                        -8.66464100000,
+                        41.22468250000
+                    ],
+                    [
+                        -8.66465090000,
+                        41.22453820000
+                    ],
+                    [
+                        -8.66468240000,
+                        41.22442270000
+                    ],
+                    [
+                        -8.66476220000,
+                        41.22427090000
+                    ],
+                    [
+                        -8.66487190000,
+                        41.22410730000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66496900000,
+                        41.22618910000
+                    ],
+                    [
+                        -8.66515010000,
+                        41.22639720000
+                    ],
+                    [
+                        -8.66532560000,
+                        41.22659220000
+                    ],
+                    [
+                        -8.66551070000,
+                        41.22677470000
+                    ],
+                    [
+                        -8.66576280000,
+                        41.22699030000
+                    ],
+                    [
+                        -8.66601020000,
+                        41.22718230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Braga;Felgueiras|Maia;Braga;Felgueiras|Porto;Leixões;Matosinhos",
+                "destination:ref": "A 41|A 41|VRI",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66912930000,
+                        41.22555640000
+                    ],
+                    [
+                        -8.66916640000,
+                        41.22538370000
+                    ],
+                    [
+                        -8.66918250000,
+                        41.22527180000
+                    ],
+                    [
+                        -8.66918870000,
+                        41.22515090000
+                    ],
+                    [
+                        -8.66918050000,
+                        41.22500800000
+                    ],
+                    [
+                        -8.66915350000,
+                        41.22487170000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "name": "A41 / Maia / (A3) Braga / A42 Felgueiras",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66046630000,
+                    41.22148350000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67104080000,
+                        41.22642820000
+                    ],
+                    [
+                        -8.67224110000,
+                        41.22699500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67149660000,
+                        41.22644220000
+                    ],
+                    [
+                        -8.67088220000,
+                        41.22620420000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66411480000,
+                        41.22576010000
+                    ],
+                    [
+                        -8.66346160000,
+                        41.22578670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66532840000,
+                        41.22346520000
+                    ],
+                    [
+                        -8.66488340000,
+                        41.22393940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66788630000,
+                        41.22546040000
+                    ],
+                    [
+                        -8.66769730000,
+                        41.22539140000
+                    ],
+                    [
+                        -8.66756000000,
+                        41.22531040000
+                    ],
+                    [
+                        -8.66745510000,
+                        41.22520770000
+                    ],
+                    [
+                        -8.66738420000,
+                        41.22508900000
+                    ],
+                    [
+                        -8.66735520000,
+                        41.22496110000
+                    ],
+                    [
+                        -8.66736840000,
+                        41.22483390000
+                    ],
+                    [
+                        -8.66742090000,
+                        41.22470990000
+                    ],
+                    [
+                        -8.66751450000,
+                        41.22459930000
+                    ],
+                    [
+                        -8.66763420000,
+                        41.22451120000
+                    ],
+                    [
+                        -8.66777870000,
+                        41.22444330000
+                    ],
+                    [
+                        -8.66793790000,
+                        41.22440230000
+                    ],
+                    [
+                        -8.66810490000,
+                        41.22438490000
+                    ],
+                    [
+                        -8.66827660000,
+                        41.22439370000
+                    ],
+                    [
+                        -8.66844240000,
+                        41.22442630000
+                    ],
+                    [
+                        -8.66860110000,
+                        41.22448300000
+                    ],
+                    [
+                        -8.66873190000,
+                        41.22455610000
+                    ],
+                    [
+                        -8.66885380000,
+                        41.22465580000
+                    ],
+                    [
+                        -8.66894440000,
+                        41.22476540000
+                    ],
+                    [
+                        -8.66900470000,
+                        41.22488560000
+                    ],
+                    [
+                        -8.66903830000,
+                        41.22500550000
+                    ],
+                    [
+                        -8.66905110000,
+                        41.22513860000
+                    ],
+                    [
+                        -8.66904300000,
+                        41.22526220000
+                    ],
+                    [
+                        -8.66902710000,
+                        41.22537300000
+                    ],
+                    [
+                        -8.66899360000,
+                        41.22554030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Maia;Braga;Felgueiras",
+                "destination:ref": "A 41;A 3;A 42",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "80",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66046630000,
+                        41.22148350000
+                    ],
+                    [
+                        -8.66091160000,
+                        41.22217920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66694220000,
+                        41.22498710000
+                    ],
+                    [
+                        -8.66684290000,
+                        41.22509910000
+                    ],
+                    [
+                        -8.66674530000,
+                        41.22519340000
+                    ],
+                    [
+                        -8.66664110000,
+                        41.22529090000
+                    ],
+                    [
+                        -8.66650180000,
+                        41.22539120000
+                    ],
+                    [
+                        -8.66637560000,
+                        41.22546390000
+                    ],
+                    [
+                        -8.66628040000,
+                        41.22550440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_by": "JOSM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65932070000,
+                    41.22637810000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66266040000,
+                        41.22598290000
+                    ],
+                    [
+                        -8.66348440000,
+                        41.22593680000
+                    ],
+                    [
+                        -8.66420330000,
+                        41.22590500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "turn:lanes": "through|through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66007170014,
+                        41.22106308445
+                    ],
+                    [
+                        -8.66046630000,
+                        41.22148350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "80",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "turn:lanes": "slight_left|slight_left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66392330000,
+                        41.22509120000
+                    ],
+                    [
+                        -8.66496900000,
+                        41.22618910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "2",
+                "maxspeed:forward": "40",
+                "maxspeed:type:forward": "sign",
+                "oneway": "no",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66686780000,
+                        41.22266900000
+                    ],
+                    [
+                        -8.66674370000,
+                        41.22263820000
+                    ],
+                    [
+                        -8.66662500000,
+                        41.22261760000
+                    ],
+                    [
+                        -8.66652500000,
+                        41.22261990000
+                    ],
+                    [
+                        -8.66634060000,
+                        41.22263790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "3",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66336320000,
+                        41.22351990000
+                    ],
+                    [
+                        -8.66284310000,
+                        41.22332580000
+                    ],
+                    [
+                        -8.66230000000,
+                        41.22300740000
+                    ],
+                    [
+                        -8.66207240000,
+                        41.22278670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Matosinhos;Leixões",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66915350000,
+                        41.22487170000
+                    ],
+                    [
+                        -8.66909890000,
+                        41.22468270000
+                    ],
+                    [
+                        -8.66904300000,
+                        41.22454700000
+                    ],
+                    [
+                        -8.66895220000,
+                        41.22437280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66277280000,
+                        41.22493090000
+                    ],
+                    [
+                        -8.66287320000,
+                        41.22482700000
+                    ],
+                    [
+                        -8.66296870000,
+                        41.22476480000
+                    ],
+                    [
+                        -8.66306160000,
+                        41.22472890000
+                    ],
+                    [
+                        -8.66321230000,
+                        41.22468940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Braga;Felgueiras|Maia;Braga;Felgueiras|Porto;Leixões;Matosinhos",
+                "destination:ref": "A 41|A 41|VRI",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66885320000,
+                        41.22684480000
+                    ],
+                    [
+                        -8.66901720000,
+                        41.22606960000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Maia;Braga;Felgueiras",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66915350000,
+                        41.22487170000
+                    ],
+                    [
+                        -8.66908120000,
+                        41.22476190000
+                    ],
+                    [
+                        -8.66901690000,
+                        41.22468320000
+                    ],
+                    [
+                        -8.66895030000,
+                        41.22461660000
+                    ],
+                    [
+                        -8.66887470000,
+                        41.22454800000
+                    ],
+                    [
+                        -8.66878300000,
+                        41.22447590000
+                    ],
+                    [
+                        -8.66869300000,
+                        41.22441940000
+                    ],
+                    [
+                        -8.66861720000,
+                        41.22438710000
+                    ],
+                    [
+                        -8.66852330000,
+                        41.22435190000
+                    ],
+                    [
+                        -8.66838690000,
+                        41.22431320000
+                    ],
+                    [
+                        -8.66827590000,
+                        41.22429590000
+                    ],
+                    [
+                        -8.66814320000,
+                        41.22428830000
+                    ],
+                    [
+                        -8.66803850000,
+                        41.22428940000
+                    ],
+                    [
+                        -8.66792590000,
+                        41.22430240000
+                    ],
+                    [
+                        -8.66781590000,
+                        41.22432510000
+                    ],
+                    [
+                        -8.66772800000,
+                        41.22435000000
+                    ],
+                    [
+                        -8.66761410000,
+                        41.22439780000
+                    ],
+                    [
+                        -8.66751350000,
+                        41.22445120000
+                    ],
+                    [
+                        -8.66741140000,
+                        41.22451920000
+                    ],
+                    [
+                        -8.66726530000,
+                        41.22464990000
+                    ],
+                    [
+                        -8.66694220000,
+                        41.22498710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65995490000,
+                        41.22617220000
+                    ],
+                    [
+                        -8.65932070000,
+                        41.22637810000
+                    ],
+                    [
+                        -8.65866200000,
+                        41.22665970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway_link",
+                "lanes": "4",
+                "layer": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66737740000,
+                        41.22377270000
+                    ],
+                    [
+                        -8.66721830000,
+                        41.22376620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Matosinhos;Leixões",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67149660000,
+                        41.22644220000
+                    ],
+                    [
+                        -8.67114490000,
+                        41.22624290000
+                    ],
+                    [
+                        -8.67092060000,
+                        41.22611000000
+                    ],
+                    [
+                        -8.67071780000,
+                        41.22598210000
+                    ],
+                    [
+                        -8.67047860000,
+                        41.22581720000
+                    ],
+                    [
+                        -8.67036300000,
+                        41.22573570000
+                    ],
+                    [
+                        -8.67024670000,
+                        41.22564900000
+                    ],
+                    [
+                        -8.67013430000,
+                        41.22555540000
+                    ],
+                    [
+                        -8.66992680000,
+                        41.22536680000
+                    ],
+                    [
+                        -8.66973220000,
+                        41.22517140000
+                    ],
+                    [
+                        -8.66945100000,
+                        41.22486350000
+                    ],
+                    [
+                        -8.66924680000,
+                        41.22464910000
+                    ],
+                    [
+                        -8.66906550000,
+                        41.22446810000
+                    ],
+                    [
+                        -8.66895220000,
+                        41.22437280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Matosinhos;Leixões",
+                "destination:ref": "VRI",
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67149660000,
+                    41.22644220000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Matosinhos;Leixões",
+                "destination:ref": "VRI",
+                "highway": "motorway_link",
+                "lanes": "4",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66895220000,
+                        41.22437280000
+                    ],
+                    [
+                        -8.66884990000,
+                        41.22428930000
+                    ],
+                    [
+                        -8.66861640000,
+                        41.22411780000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Santa Cruz do Bispo;Moreira",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66466120000,
+                        41.22564850000
+                    ],
+                    [
+                        -8.66455450000,
+                        41.22545110000
+                    ],
+                    [
+                        -8.66444300000,
+                        41.22519750000
+                    ],
+                    [
+                        -8.66442160000,
+                        41.22506070000
+                    ],
+                    [
+                        -8.66442580000,
+                        41.22486080000
+                    ],
+                    [
+                        -8.66446490000,
+                        41.22467030000
+                    ],
+                    [
+                        -8.66461440000,
+                        41.22439500000
+                    ],
+                    [
+                        -8.66487190000,
+                        41.22410730000
+                    ],
+                    [
+                        -8.66502850000,
+                        41.22391720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Porto;Braga;Vila Real|Porto;Leixões;Matosinhos;Exponor;Viana do Castelo",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66796658270,
+                        41.23009101433
+                    ],
+                    [
+                        -8.66800948270,
+                        41.22994731440
+                    ],
+                    [
+                        -8.66801570000,
+                        41.22992630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66315560000,
+                        41.22462890000
+                    ],
+                    [
+                        -8.66297410000,
+                        41.22467020000
+                    ],
+                    [
+                        -8.66285970000,
+                        41.22467470000
+                    ],
+                    [
+                        -8.66269120000,
+                        41.22463180000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66266040000,
+                    41.22598290000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66601860000,
+                        41.22320890000
+                    ],
+                    [
+                        -8.66621840000,
+                        41.22311600000
+                    ],
+                    [
+                        -8.66645820000,
+                        41.22300850000
+                    ],
+                    [
+                        -8.66664700000,
+                        41.22296970000
+                    ],
+                    [
+                        -8.66690690000,
+                        41.22299730000
+                    ],
+                    [
+                        -8.66704920000,
+                        41.22305400000
+                    ],
+                    [
+                        -8.66720820000,
+                        41.22316950000
+                    ],
+                    [
+                        -8.66729000000,
+                        41.22329730000
+                    ],
+                    [
+                        -8.66733080000,
+                        41.22350230000
+                    ],
+                    [
+                        -8.66730170000,
+                        41.22385640000
+                    ],
+                    [
+                        -8.66727980000,
+                        41.22417980000
+                    ],
+                    [
+                        -8.66727040000,
+                        41.22436780000
+                    ],
+                    [
+                        -8.66723290000,
+                        41.22455130000
+                    ],
+                    [
+                        -8.66711230000,
+                        41.22474210000
+                    ],
+                    [
+                        -8.66694220000,
+                        41.22498710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Braga;Felgueiras|Porto;Leixões;Matosinhos",
+                "destination:ref": "A 41|VRI",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66856040000,
+                        41.22820030000
+                    ],
+                    [
+                        -8.66860380000,
+                        41.22795480000
+                    ],
+                    [
+                        -8.66865180000,
+                        41.22769090000
+                    ],
+                    [
+                        -8.66875330000,
+                        41.22727440000
+                    ],
+                    [
+                        -8.66885320000,
+                        41.22684480000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66552090000,
+                        41.22314820000
+                    ],
+                    [
+                        -8.66547750000,
+                        41.22327380000
+                    ],
+                    [
+                        -8.66541670000,
+                        41.22337760000
+                    ],
+                    [
+                        -8.66532840000,
+                        41.22346520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66496900000,
+                        41.22618910000
+                    ],
+                    [
+                        -8.66530440000,
+                        41.22648590000
+                    ],
+                    [
+                        -8.66546360000,
+                        41.22661680000
+                    ],
+                    [
+                        -8.66565940000,
+                        41.22675700000
+                    ],
+                    [
+                        -8.66580020000,
+                        41.22682180000
+                    ],
+                    [
+                        -8.66595630000,
+                        41.22687100000
+                    ],
+                    [
+                        -8.66612080000,
+                        41.22690850000
+                    ],
+                    [
+                        -8.66629820000,
+                        41.22692440000
+                    ],
+                    [
+                        -8.66653790000,
+                        41.22691160000
+                    ],
+                    [
+                        -8.66671960000,
+                        41.22687610000
+                    ],
+                    [
+                        -8.66686510000,
+                        41.22682990000
+                    ],
+                    [
+                        -8.66702040000,
+                        41.22675890000
+                    ],
+                    [
+                        -8.66723960000,
+                        41.22663470000
+                    ],
+                    [
+                        -8.66786370000,
+                        41.22610000000
+                    ],
+                    [
+                        -8.66800370000,
+                        41.22601990000
+                    ],
+                    [
+                        -8.66815810000,
+                        41.22597020000
+                    ],
+                    [
+                        -8.66832820000,
+                        41.22593920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66466120000,
+                    41.22564850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "lanes": "4",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66420330000,
+                        41.22590500000
+                    ],
+                    [
+                        -8.66525030000,
+                        41.22586340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "oneway": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66265140000,
+                        41.22575380000
+                    ],
+                    [
+                        -8.66266610000,
+                        41.22555890000
+                    ],
+                    [
+                        -8.66265700000,
+                        41.22533620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|slight_right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67393170000,
+                        41.22761160000
+                    ],
+                    [
+                        -8.67149660000,
+                        41.22644220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "secondary",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66502850000,
+                        41.22391720000
+                    ],
+                    [
+                        -8.66544260000,
+                        41.22350740000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66899360000,
+                        41.22554030000
+                    ],
+                    [
+                        -8.66888020000,
+                        41.22605330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66601020000,
+                        41.22718230000
+                    ],
+                    [
+                        -8.66669760000,
+                        41.22760050000
+                    ],
+                    [
+                        -8.66682620000,
+                        41.22768040000
+                    ],
+                    [
+                        -8.66694570000,
+                        41.22775880000
+                    ],
+                    [
+                        -8.66706560000,
+                        41.22784280000
+                    ],
+                    [
+                        -8.66717750000,
+                        41.22792650000
+                    ],
+                    [
+                        -8.66729020000,
+                        41.22801680000
+                    ],
+                    [
+                        -8.66739420000,
+                        41.22811010000
+                    ],
+                    [
+                        -8.66749430000,
+                        41.22821270000
+                    ],
+                    [
+                        -8.66758460000,
+                        41.22831390000
+                    ],
+                    [
+                        -8.66766840000,
+                        41.22841370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66766840000,
+                        41.22841370000
+                    ],
+                    [
+                        -8.66774720000,
+                        41.22852400000
+                    ],
+                    [
+                        -8.66781190000,
+                        41.22863310000
+                    ],
+                    [
+                        -8.66787980000,
+                        41.22874980000
+                    ],
+                    [
+                        -8.66793460000,
+                        41.22887710000
+                    ],
+                    [
+                        -8.66797730000,
+                        41.22898780000
+                    ],
+                    [
+                        -8.66800790000,
+                        41.22911530000
+                    ],
+                    [
+                        -8.66802980000,
+                        41.22923470000
+                    ],
+                    [
+                        -8.66804350000,
+                        41.22935850000
+                    ],
+                    [
+                        -8.66805060000,
+                        41.22953780000
+                    ],
+                    [
+                        -8.66804120000,
+                        41.22974210000
+                    ],
+                    [
+                        -8.66801570000,
+                        41.22992630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "turn:lanes": "slight_left|slight_left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66286180000,
+                        41.22397670000
+                    ],
+                    [
+                        -8.66392330000,
+                        41.22509120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Maia",
+                "destination:ref": "A41",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "80",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66091160000,
+                        41.22217920000
+                    ],
+                    [
+                        -8.66099660000,
+                        41.22240830000
+                    ],
+                    [
+                        -8.66105080000,
+                        41.22263310000
+                    ],
+                    [
+                        -8.66104020000,
+                        41.22285670000
+                    ],
+                    [
+                        -8.66102280000,
+                        41.22304960000
+                    ],
+                    [
+                        -8.66099610000,
+                        41.22330750000
+                    ],
+                    [
+                        -8.66097820000,
+                        41.22352450000
+                    ],
+                    [
+                        -8.66099850000,
+                        41.22373620000
+                    ],
+                    [
+                        -8.66104720000,
+                        41.22394000000
+                    ],
+                    [
+                        -8.66110950000,
+                        41.22411360000
+                    ],
+                    [
+                        -8.66126490000,
+                        41.22445450000
+                    ],
+                    [
+                        -8.66133530000,
+                        41.22465360000
+                    ],
+                    [
+                        -8.66136730000,
+                        41.22481360000
+                    ],
+                    [
+                        -8.66137890000,
+                        41.22495010000
+                    ],
+                    [
+                        -8.66136300000,
+                        41.22510400000
+                    ],
+                    [
+                        -8.66129680000,
+                        41.22528650000
+                    ],
+                    [
+                        -8.66120630000,
+                        41.22545340000
+                    ],
+                    [
+                        -8.66105660000,
+                        41.22562110000
+                    ],
+                    [
+                        -8.66085860000,
+                        41.22577500000
+                    ],
+                    [
+                        -8.66061870000,
+                        41.22591020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "name": "CREP - A41",
+                "oneway": "yes",
+                "ref": "A 41",
+                "source": "bing",
+                "toll": "no",
+                "turn:lanes": "through|through|through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66049790000,
+                        41.22618470000
+                    ],
+                    [
+                        -8.66083110000,
+                        41.22612260000
+                    ],
+                    [
+                        -8.66148580000,
+                        41.22604290000
+                    ],
+                    [
+                        -8.66205050000,
+                        41.22601080000
+                    ],
+                    [
+                        -8.66266040000,
+                        41.22598290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66061870000,
+                        41.22591020000
+                    ],
+                    [
+                        -8.66038890000,
+                        41.22598860000
+                    ],
+                    [
+                        -8.66004380000,
+                        41.22609280000
+                    ],
+                    [
+                        -8.65995490000,
+                        41.22617220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66496900000,
+                    41.22618910000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66832820000,
+                        41.22593920000
+                    ],
+                    [
+                        -8.66857730000,
+                        41.22593980000
+                    ],
+                    [
+                        -8.66932860000,
+                        41.22603790000
+                    ],
+                    [
+                        -8.66985880000,
+                        41.22611770000
+                    ],
+                    [
+                        -8.67049550000,
+                        41.22628840000
+                    ],
+                    [
+                        -8.67104080000,
+                        41.22642820000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66915350000,
+                    41.22487170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66608230000,
+                        41.22298610000
+                    ],
+                    [
+                        -8.66614330000,
+                        41.22278420000
+                    ],
+                    [
+                        -8.66634060000,
+                        41.22263790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67110750000,
+                    41.22671770000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66525030000,
+                        41.22586340000
+                    ],
+                    [
+                        -8.66614240000,
+                        41.22580310000
+                    ],
+                    [
+                        -8.66739730000,
+                        41.22577170000
+                    ],
+                    [
+                        -8.66823180000,
+                        41.22579500000
+                    ],
+                    [
+                        -8.66871850000,
+                        41.22581900000
+                    ],
+                    [
+                        -8.66924470000,
+                        41.22590660000
+                    ],
+                    [
+                        -8.66983660000,
+                        41.22602020000
+                    ],
+                    [
+                        -8.67049110000,
+                        41.22620820000
+                    ],
+                    [
+                        -8.67104080000,
+                        41.22642820000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66256450000,
+                        41.22458790000
+                    ],
+                    [
+                        -8.66248190000,
+                        41.22449190000
+                    ],
+                    [
+                        -8.66239190000,
+                        41.22440430000
+                    ],
+                    [
+                        -8.66228330000,
+                        41.22430020000
+                    ],
+                    [
+                        -8.66216610000,
+                        41.22423340000
+                    ],
+                    [
+                        -8.66202770000,
+                        41.22418020000
+                    ],
+                    [
+                        -8.66167660000,
+                        41.22408670000
+                    ],
+                    [
+                        -8.66154730000,
+                        41.22402450000
+                    ],
+                    [
+                        -8.66145670000,
+                        41.22394860000
+                    ],
+                    [
+                        -8.66138730000,
+                        41.22385350000
+                    ],
+                    [
+                        -8.66136440000,
+                        41.22379130000
+                    ],
+                    [
+                        -8.66136160000,
+                        41.22368070000
+                    ],
+                    [
+                        -8.66138200000,
+                        41.22359530000
+                    ],
+                    [
+                        -8.66142850000,
+                        41.22351220000
+                    ],
+                    [
+                        -8.66150270000,
+                        41.22343850000
+                    ],
+                    [
+                        -8.66160260000,
+                        41.22338120000
+                    ],
+                    [
+                        -8.66175110000,
+                        41.22334320000
+                    ],
+                    [
+                        -8.66186470000,
+                        41.22333000000
+                    ],
+                    [
+                        -8.66198700000,
+                        41.22334570000
+                    ],
+                    [
+                        -8.66210430000,
+                        41.22338030000
+                    ],
+                    [
+                        -8.66221390000,
+                        41.22343380000
+                    ],
+                    [
+                        -8.66233370000,
+                        41.22350820000
+                    ],
+                    [
+                        -8.66286180000,
+                        41.22397670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.66805060000,
+                    41.22953780000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "secondary",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66247500000,
+                        41.22505030000
+                    ],
+                    [
+                        -8.66258450000,
+                        41.22518060000
+                    ],
+                    [
+                        -8.66265700000,
+                        41.22533620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "maxspeed": "100",
+                "name": "Via Regional Interior",
+                "oneway": "yes",
+                "ref": "VRI",
+                "source": "bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66122360000,
+                        41.22195410000
+                    ],
+                    [
+                        -8.66080060000,
+                        41.22154330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Aeroporto",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "maxspeed": "50",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66468850000,
+                        41.22643550000
+                    ],
+                    [
+                        -8.66548340000,
+                        41.22690550000
+                    ],
+                    [
+                        -8.66601020000,
+                        41.22718230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Maia;Braga;Felgueiras|Porto;Leixões|Perafita;Viana do Castelo;Vila do Conde",
+                "destination:ref": "A 41",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "surface": "asphalt",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66824020000,
+                        41.22965660000
+                    ],
+                    [
+                        -8.66856040000,
+                        41.22820030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Santa Cruz do Bispo;Moreira",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "60",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.66103920000,
+                        41.22206170000
+                    ],
+                    [
+                        -8.66139440000,
+                        41.22254730000
+                    ],
+                    [
+                        -8.66147150000,
+                        41.22268170000
+                    ],
+                    [
+                        -8.66151400000,
+                        41.22283520000
+                    ],
+                    [
+                        -8.66151040000,
+                        41.22299600000
+                    ],
+                    [
+                        -8.66147870000,
+                        41.22313610000
+                    ],
+                    [
+                        -8.66141970000,
+                        41.22326430000
+                    ],
+                    [
+                        -8.66134040000,
+                        41.22343340000
+                    ],
+                    [
+                        -8.66128410000,
+                        41.22357770000
+                    ],
+                    [
+                        -8.66125830000,
+                        41.22369540000
+                    ],
+                    [
+                        -8.66125850000,
+                        41.22378880000
+                    ],
+                    [
+                        -8.66130060000,
+                        41.22388580000
+                    ],
+                    [
+                        -8.66138310000,
+                        41.22399570000
+                    ],
+                    [
+                        -8.66150650000,
+                        41.22408800000
+                    ],
+                    [
+                        -8.66165220000,
+                        41.22414570000
+                    ],
+                    [
+                        -8.66183920000,
+                        41.22419860000
+                    ],
+                    [
+                        -8.66199160000,
+                        41.22424310000
+                    ],
+                    [
+                        -8.66209730000,
+                        41.22428750000
+                    ],
+                    [
+                        -8.66220260000,
+                        41.22434490000
+                    ],
+                    [
+                        -8.66225960000,
+                        41.22441690000
+                    ],
+                    [
+                        -8.66228410000,
+                        41.22449820000
+                    ],
+                    [
+                        -8.66228510000,
+                        41.22464840000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "5",
+                "oneway": "yes",
+                "ref": "A 41",
+                "toll": "yes",
+                "turn:lanes": "||||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.67224110000,
+                        41.22699500000
+                    ],
+                    [
+                        -8.67397160000,
+                        41.22780690000
+                    ]
+                ]
+            }
+        }
+    ]
+}

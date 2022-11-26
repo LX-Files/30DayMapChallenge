@@ -1,0 +1,2684 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -8.49070000000,
+        40.27030000000,
+        -8.47730000000,
+        40.27680000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Porto;Mealhada",
+                "destination:ref:to": "A 14",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48296190000,
+                        40.27112160000
+                    ],
+                    [
+                        -8.48267360000,
+                        40.27179010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Condeixa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47938320000,
+                        40.27288740000
+                    ],
+                    [
+                        -8.47966100000,
+                        40.27296740000
+                    ],
+                    [
+                        -8.48008940000,
+                        40.27314330000
+                    ],
+                    [
+                        -8.48101010000,
+                        40.27351050000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Porto;Mealhada",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48110350000,
+                        40.27396140000
+                    ],
+                    [
+                        -8.48057130000,
+                        40.27455380000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47960320000,
+                        40.27254710000
+                    ],
+                    [
+                        -8.47923150000,
+                        40.27251910000
+                    ],
+                    [
+                        -8.47894680000,
+                        40.27247930000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Figueira da Foz;Montemor",
+                "destination:ref": "A 14",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48007460000,
+                        40.27537610000
+                    ],
+                    [
+                        -8.48032100000,
+                        40.27519560000
+                    ],
+                    [
+                        -8.48080840000,
+                        40.27480720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Condeixa",
+                "highway": "motorway_junction",
+                "ref": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.47938320000,
+                    40.27288740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "source": "Bing",
+                "toll": "yes",
+                "turn:lanes": "merge_to_right|"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47943250000,
+                        40.27498180000
+                    ],
+                    [
+                        -8.47943550000,
+                        40.27548900000
+                    ],
+                    [
+                        -8.47937650000,
+                        40.27573850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48538580000,
+                        40.27434980000
+                    ],
+                    [
+                        -8.48591380000,
+                        40.27434450000
+                    ],
+                    [
+                        -8.48654900000,
+                        40.27429010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Coimbra Sul",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48265410000,
+                        40.27214370000
+                    ],
+                    [
+                        -8.48282340000,
+                        40.27182380000
+                    ],
+                    [
+                        -8.48311510000,
+                        40.27114220000
+                    ],
+                    [
+                        -8.48327740000,
+                        40.27063090000
+                    ],
+                    [
+                        -8.48337340000,
+                        40.27023290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Mealhada",
+                "destination:ref:to": "A 14",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48228720000,
+                        40.27247450000
+                    ],
+                    [
+                        -8.48222780000,
+                        40.27256250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through;left|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47809130000,
+                        40.27234080000
+                    ],
+                    [
+                        -8.47879020000,
+                        40.27264240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Condeixa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48197140000,
+                        40.27380180000
+                    ],
+                    [
+                        -8.48229790000,
+                        40.27384470000
+                    ],
+                    [
+                        -8.48272410000,
+                        40.27383150000
+                    ],
+                    [
+                        -8.48306920000,
+                        40.27376190000
+                    ],
+                    [
+                        -8.48341150000,
+                        40.27359080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Coimbra Sul",
+                "highway": "motorway_junction",
+                "ref": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48617510000,
+                    40.27385950000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "yes|no",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through;left|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48535680000,
+                        40.27378980000
+                    ],
+                    [
+                        -8.48508560000,
+                        40.27374770000
+                    ],
+                    [
+                        -8.48464140000,
+                        40.27365870000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48334440000,
+                        40.27096330000
+                    ],
+                    [
+                        -8.48334250000,
+                        40.27071770000
+                    ],
+                    [
+                        -8.48337340000,
+                        40.27023290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48386500000,
+                        40.27316160000
+                    ],
+                    [
+                        -8.48394550000,
+                        40.27299110000
+                    ],
+                    [
+                        -8.48398690000,
+                        40.27282240000
+                    ],
+                    [
+                        -8.48399170000,
+                        40.27265730000
+                    ],
+                    [
+                        -8.48397440000,
+                        40.27248490000
+                    ],
+                    [
+                        -8.48391570000,
+                        40.27229050000
+                    ],
+                    [
+                        -8.48380560000,
+                        40.27209170000
+                    ],
+                    [
+                        -8.48377150000,
+                        40.27197790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "merge_to_right|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48377150000,
+                        40.27197790000
+                    ],
+                    [
+                        -8.48346850000,
+                        40.27146530000
+                    ],
+                    [
+                        -8.48336360000,
+                        40.27112270000
+                    ],
+                    [
+                        -8.48334440000,
+                        40.27096330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|no",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47918920000,
+                        40.27629090000
+                    ],
+                    [
+                        -8.47902390000,
+                        40.27653440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Figueira da Foz;Cantanhede",
+                "highway": "motorway_junction",
+                "ref": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48110350000,
+                    40.27396140000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48463390000,
+                        40.27315570000
+                    ],
+                    [
+                        -8.48432360000,
+                        40.27282190000
+                    ],
+                    [
+                        -8.48409580000,
+                        40.27242110000
+                    ],
+                    [
+                        -8.48386260000,
+                        40.27207640000
+                    ],
+                    [
+                        -8.48377150000,
+                        40.27197790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48238310000,
+                        40.27399320000
+                    ],
+                    [
+                        -8.48299080000,
+                        40.27411500000
+                    ],
+                    [
+                        -8.48330870000,
+                        40.27417380000
+                    ],
+                    [
+                        -8.48404920000,
+                        40.27426720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48348670192,
+                        40.26837098373
+                    ],
+                    [
+                        -8.48350820192,
+                        40.26869608380
+                    ],
+                    [
+                        -8.48349910192,
+                        40.26926948394
+                    ],
+                    [
+                        -8.48346370192,
+                        40.26967638404
+                    ],
+                    [
+                        -8.48337340000,
+                        40.27023290000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Figueira da Foz",
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48059860000,
+                        40.27343590000
+                    ],
+                    [
+                        -8.48079930000,
+                        40.27351330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "no|yes",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48834690000,
+                        40.27381200000
+                    ],
+                    [
+                        -8.48779960000,
+                        40.27385790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48169210000,
+                        40.27351660000
+                    ],
+                    [
+                        -8.48210470000,
+                        40.27299810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|no",
+                "destination": "Coimbra;Viseu",
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48181130000,
+                        40.27273830000
+                    ],
+                    [
+                        -8.48145910000,
+                        40.27261820000
+                    ],
+                    [
+                        -8.48099020000,
+                        40.27253850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47894680000,
+                        40.27247930000
+                    ],
+                    [
+                        -8.47866170000,
+                        40.27241170000
+                    ],
+                    [
+                        -8.47828360000,
+                        40.27227750000
+                    ],
+                    [
+                        -8.47777580000,
+                        40.27204350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48332380000,
+                        40.26838720000
+                    ],
+                    [
+                        -8.48334530000,
+                        40.26871230000
+                    ],
+                    [
+                        -8.48333620000,
+                        40.26928570000
+                    ],
+                    [
+                        -8.48330080000,
+                        40.26969260000
+                    ],
+                    [
+                        -8.48321200000,
+                        40.27023860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48321200000,
+                        40.27023860000
+                    ],
+                    [
+                        -8.48312560000,
+                        40.27060310000
+                    ],
+                    [
+                        -8.48296190000,
+                        40.27112160000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|no",
+                "destination:lanes": "Lisboa;Condeixa|Figueira|Figueira",
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|through;left|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47879020000,
+                        40.27264240000
+                    ],
+                    [
+                        -8.47938320000,
+                        40.27288740000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48155030000,
+                        40.27345830000
+                    ],
+                    [
+                        -8.48110350000,
+                        40.27396140000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48234730000,
+                        40.27265670000
+                    ],
+                    [
+                        -8.48240700000,
+                        40.27256530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Figueira da Foz",
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47938320000,
+                        40.27288740000
+                    ],
+                    [
+                        -8.47961440000,
+                        40.27301070000
+                    ],
+                    [
+                        -8.48003290000,
+                        40.27320900000
+                    ],
+                    [
+                        -8.48059860000,
+                        40.27343590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "maxspeed:type": "sign",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48654900000,
+                        40.27429010000
+                    ],
+                    [
+                        -8.48739290000,
+                        40.27419820000
+                    ],
+                    [
+                        -8.48828920000,
+                        40.27403680000
+                    ],
+                    [
+                        -8.48952200000,
+                        40.27374300000
+                    ],
+                    [
+                        -8.49075500000,
+                        40.27339250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Mealhada",
+                "destination:ref:to": "A 14",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48267360000,
+                        40.27179010000
+                    ],
+                    [
+                        -8.48250920000,
+                        40.27210560000
+                    ],
+                    [
+                        -8.48228720000,
+                        40.27247450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|no",
+                "destination:lanes": "Porto|Coimbra;Viseu|Coimbra;Viseu",
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48227390000,
+                        40.27290480000
+                    ],
+                    [
+                        -8.48181130000,
+                        40.27273830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra Norte;Viseu",
+                "destination:ref:to": "IP 3; IC 2",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48296190000,
+                        40.27112160000
+                    ],
+                    [
+                        -8.48265560000,
+                        40.27158430000
+                    ],
+                    [
+                        -8.48242020000,
+                        40.27181610000
+                    ],
+                    [
+                        -8.48211080000,
+                        40.27202450000
+                    ],
+                    [
+                        -8.48174020000,
+                        40.27218330000
+                    ],
+                    [
+                        -8.48123620000,
+                        40.27227980000
+                    ],
+                    [
+                        -8.47964310000,
+                        40.27243030000
+                    ],
+                    [
+                        -8.47921590000,
+                        40.27241700000
+                    ],
+                    [
+                        -8.47876080000,
+                        40.27233120000
+                    ],
+                    [
+                        -8.47830180000,
+                        40.27220990000
+                    ],
+                    [
+                        -8.47777580000,
+                        40.27204350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48006190000,
+                        40.27252770000
+                    ],
+                    [
+                        -8.47960320000,
+                        40.27254710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_junction",
+                "ref": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48181130000,
+                    40.27273830000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48210470000,
+                        40.27299810000
+                    ],
+                    [
+                        -8.48234730000,
+                        40.27265670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra Norte;Viseu",
+                "highway": "motorway_junction",
+                "ref": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48296190000,
+                    40.27112160000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48186270000,
+                        40.27307720000
+                    ],
+                    [
+                        -8.48155030000,
+                        40.27345830000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48099020000,
+                        40.27253850000
+                    ],
+                    [
+                        -8.48041380000,
+                        40.27250810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Figueira da Foz;Cantanhede",
+                "destination:ref": "A 14",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48110350000,
+                        40.27396140000
+                    ],
+                    [
+                        -8.48074710000,
+                        40.27425120000
+                    ],
+                    [
+                        -8.48050650000,
+                        40.27440750000
+                    ],
+                    [
+                        -8.48023630000,
+                        40.27446150000
+                    ],
+                    [
+                        -8.47996300000,
+                        40.27443750000
+                    ],
+                    [
+                        -8.47970660000,
+                        40.27430880000
+                    ],
+                    [
+                        -8.47954440000,
+                        40.27413820000
+                    ],
+                    [
+                        -8.47951460000,
+                        40.27392030000
+                    ],
+                    [
+                        -8.47956590000,
+                        40.27373410000
+                    ],
+                    [
+                        -8.47972850000,
+                        40.27355430000
+                    ],
+                    [
+                        -8.47985380000,
+                        40.27349500000
+                    ],
+                    [
+                        -8.48002820000,
+                        40.27343950000
+                    ],
+                    [
+                        -8.48022030000,
+                        40.27342730000
+                    ],
+                    [
+                        -8.48037750000,
+                        40.27344350000
+                    ],
+                    [
+                        -8.48079930000,
+                        40.27351330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48181150000,
+                        40.27385720000
+                    ],
+                    [
+                        -8.48238310000,
+                        40.27399320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47895210000,
+                        40.27691560000
+                    ],
+                    [
+                        -8.47933820000,
+                        40.27633850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "no|not_right|no",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48668860000,
+                        40.27388540000
+                    ],
+                    [
+                        -8.48617510000,
+                        40.27385950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.49071970000,
+                        40.27328700000
+                    ],
+                    [
+                        -8.48952700000,
+                        40.27360380000
+                    ],
+                    [
+                        -8.48879030000,
+                        40.27374890000
+                    ],
+                    [
+                        -8.48834690000,
+                        40.27381200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48341150000,
+                        40.27359080000
+                    ],
+                    [
+                        -8.48365480000,
+                        40.27341180000
+                    ],
+                    [
+                        -8.48386500000,
+                        40.27316160000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Figueira da Foz;Montemor",
+                "destination:ref": "A 14",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48080840000,
+                        40.27480720000
+                    ],
+                    [
+                        -8.48114220000,
+                        40.27462590000
+                    ],
+                    [
+                        -8.48163750000,
+                        40.27442360000
+                    ],
+                    [
+                        -8.48221430000,
+                        40.27428740000
+                    ],
+                    [
+                        -8.48280180000,
+                        40.27422390000
+                    ],
+                    [
+                        -8.48374890000,
+                        40.27427770000
+                    ],
+                    [
+                        -8.48404920000,
+                        40.27426720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Mealhada",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47809130000,
+                        40.27234080000
+                    ],
+                    [
+                        -8.47832350000,
+                        40.27249710000
+                    ],
+                    [
+                        -8.47868540000,
+                        40.27275170000
+                    ],
+                    [
+                        -8.47896160000,
+                        40.27305330000
+                    ],
+                    [
+                        -8.47909440000,
+                        40.27326450000
+                    ],
+                    [
+                        -8.47919820000,
+                        40.27350080000
+                    ],
+                    [
+                        -8.47932520000,
+                        40.27423450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "no|yes",
+                "destination": "Viseu;Coimbra Norte;Porto;Mealhada",
+                "destination:ref:to": "IP 3; A 1",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through;left|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48617510000,
+                        40.27385950000
+                    ],
+                    [
+                        -8.48579270000,
+                        40.27384170000
+                    ],
+                    [
+                        -8.48535680000,
+                        40.27378980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48072420000,
+                        40.27460230000
+                    ],
+                    [
+                        -8.48129590000,
+                        40.27395780000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Lisboa;Coimbra Sul",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48240700000,
+                        40.27256530000
+                    ],
+                    [
+                        -8.48265410000,
+                        40.27214370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47777580000,
+                        40.27204350000
+                    ],
+                    [
+                        -8.47735380000,
+                        40.27183840000
+                    ],
+                    [
+                        -8.47685720000,
+                        40.27163720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "no|yes|yes",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48779960000,
+                        40.27385790000
+                    ],
+                    [
+                        -8.48752880000,
+                        40.27387090000
+                    ],
+                    [
+                        -8.48710190000,
+                        40.27388620000
+                    ],
+                    [
+                        -8.48668860000,
+                        40.27388540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47937650000,
+                        40.27573850000
+                    ],
+                    [
+                        -8.47925500000,
+                        40.27606790000
+                    ],
+                    [
+                        -8.47918920000,
+                        40.27629090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "maxspeed:type": "sign",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48404920000,
+                        40.27426720000
+                    ],
+                    [
+                        -8.48470510000,
+                        40.27432590000
+                    ],
+                    [
+                        -8.48538580000,
+                        40.27434980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47932520000,
+                        40.27423450000
+                    ],
+                    [
+                        -8.47943250000,
+                        40.27498180000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|yes|no",
+                "destination:lanes": "Porto|Coimbra;Viseu|Coimbra;Viseu",
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48380060000,
+                        40.27343980000
+                    ],
+                    [
+                        -8.48322180000,
+                        40.27325020000
+                    ],
+                    [
+                        -8.48227390000,
+                        40.27290480000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48222780000,
+                        40.27256250000
+                    ],
+                    [
+                        -8.48195610000,
+                        40.27294490000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48096930000,
+                        40.27357880000
+                    ],
+                    [
+                        -8.48181150000,
+                        40.27385720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra Norte;Viseu;Mosteiro de Lorvão",
+                "highway": "motorway_junction",
+                "ref": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48240700000,
+                    40.27256530000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47975650000,
+                        40.27314890000
+                    ],
+                    [
+                        -8.47961660000,
+                        40.27330960000
+                    ],
+                    [
+                        -8.47946370000,
+                        40.27354230000
+                    ],
+                    [
+                        -8.47938910000,
+                        40.27373030000
+                    ],
+                    [
+                        -8.47934720000,
+                        40.27393540000
+                    ],
+                    [
+                        -8.47932520000,
+                        40.27423450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|no",
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48041380000,
+                        40.27250810000
+                    ],
+                    [
+                        -8.48006190000,
+                        40.27252770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Coimbra Norte;Viseu;Mosteiro de Lorvão",
+                "destination:ref": "A 14",
+                "destination:ref:to": "IP 3",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48240700000,
+                        40.27256530000
+                    ],
+                    [
+                        -8.48271420000,
+                        40.27225420000
+                    ],
+                    [
+                        -8.48281450000,
+                        40.27217860000
+                    ],
+                    [
+                        -8.48294820000,
+                        40.27211910000
+                    ],
+                    [
+                        -8.48310660000,
+                        40.27209170000
+                    ],
+                    [
+                        -8.48325970000,
+                        40.27208210000
+                    ],
+                    [
+                        -8.48341970000,
+                        40.27211980000
+                    ],
+                    [
+                        -8.48357200000,
+                        40.27218230000
+                    ],
+                    [
+                        -8.48368880000,
+                        40.27227880000
+                    ],
+                    [
+                        -8.48377780000,
+                        40.27239770000
+                    ],
+                    [
+                        -8.48381570000,
+                        40.27251010000
+                    ],
+                    [
+                        -8.48380900000,
+                        40.27260170000
+                    ],
+                    [
+                        -8.48377780000,
+                        40.27270960000
+                    ],
+                    [
+                        -8.48371790000,
+                        40.27281900000
+                    ],
+                    [
+                        -8.48361300000,
+                        40.27290900000
+                    ],
+                    [
+                        -8.48348770000,
+                        40.27297830000
+                    ],
+                    [
+                        -8.48334400000,
+                        40.27301310000
+                    ],
+                    [
+                        -8.48320270000,
+                        40.27303230000
+                    ],
+                    [
+                        -8.48307490000,
+                        40.27302030000
+                    ],
+                    [
+                        -8.48290320000,
+                        40.27298820000
+                    ],
+                    [
+                        -8.48192400000,
+                        40.27261610000
+                    ],
+                    [
+                        -8.48138820000,
+                        40.27249910000
+                    ],
+                    [
+                        -8.48084260000,
+                        40.27245830000
+                    ],
+                    [
+                        -8.48041380000,
+                        40.27250810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Mealhada",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48057130000,
+                        40.27455380000
+                    ],
+                    [
+                        -8.48012980000,
+                        40.27508330000
+                    ],
+                    [
+                        -8.47992290000,
+                        40.27533010000
+                    ],
+                    [
+                        -8.47918920000,
+                        40.27629090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47902390000,
+                        40.27653440000
+                    ],
+                    [
+                        -8.47880230000,
+                        40.27686600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48181130000,
+                        40.27273830000
+                    ],
+                    [
+                        -8.48144460000,
+                        40.27268990000
+                    ],
+                    [
+                        -8.48097880000,
+                        40.27265830000
+                    ],
+                    [
+                        -8.48057190000,
+                        40.27272690000
+                    ],
+                    [
+                        -8.48021100000,
+                        40.27285210000
+                    ],
+                    [
+                        -8.47990710000,
+                        40.27302200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "-1",
+                "oneway": "yes",
+                "toll": "yes",
+                "tunnel": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47990710000,
+                        40.27302200000
+                    ],
+                    [
+                        -8.47975650000,
+                        40.27314890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48129590000,
+                        40.27395780000
+                    ],
+                    [
+                        -8.48169210000,
+                        40.27351660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "change:lanes": "yes|yes|no",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48464140000,
+                        40.27365870000
+                    ],
+                    [
+                        -8.48436100000,
+                        40.27359880000
+                    ],
+                    [
+                        -8.48380060000,
+                        40.27343980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "not_right|yes|yes",
+                "destination:lanes": "Lisboa;Condeixa;Figueira da Foz;Cantanhede|Figueira da Foz;Cantanhede|Porto;Mealhada",
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47677550000,
+                        40.27177590000
+                    ],
+                    [
+                        -8.47725720000,
+                        40.27196970000
+                    ],
+                    [
+                        -8.47763820000,
+                        40.27212770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48079930000,
+                        40.27351330000
+                    ],
+                    [
+                        -8.48096930000,
+                        40.27357880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto",
+                "highway": "motorway_junction",
+                "ref": "8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.47809130000,
+                    40.27234080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination": "Lisboa;Condeixa",
+                "highway": "motorway_link",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48101010000,
+                        40.27351050000
+                    ],
+                    [
+                        -8.48197140000,
+                        40.27380180000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa;Coimbra Sul",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48617510000,
+                        40.27385950000
+                    ],
+                    [
+                        -8.48586870000,
+                        40.27377890000
+                    ],
+                    [
+                        -8.48563370000,
+                        40.27371240000
+                    ],
+                    [
+                        -8.48517750000,
+                        40.27353700000
+                    ],
+                    [
+                        -8.48489670000,
+                        40.27336190000
+                    ],
+                    [
+                        -8.48463390000,
+                        40.27315570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48195610000,
+                        40.27294490000
+                    ],
+                    [
+                        -8.48186270000,
+                        40.27307720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "placement": "right_of:1",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47933820000,
+                        40.27633850000
+                    ],
+                    [
+                        -8.48007460000,
+                        40.27537610000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Figueira da Foz;Montemor",
+                "highway": "motorway_junction",
+                "ref": "13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48007460000,
+                    40.27537610000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Lisboa;Coimbra;Viseu",
+                "destination:ref:to": "IP 3",
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.48007460000,
+                        40.27537610000
+                    ],
+                    [
+                        -8.48072420000,
+                        40.27460230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "not_right|not_right|no",
+                "destination:lanes": "Lisboa;Condeixa;Figueira da Foz;Cantanhede|Figueira da Foz;Cantanhede|Porto;Mealhada",
+                "highway": "motorway",
+                "int_ref": "E 801",
+                "lanes": "3",
+                "oneway": "yes",
+                "ref": "A 14",
+                "source": "Bing",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.47763820000,
+                        40.27212770000
+                    ],
+                    [
+                        -8.47809130000,
+                        40.27234080000
+                    ]
+                ]
+            }
+        }
+    ]
+}

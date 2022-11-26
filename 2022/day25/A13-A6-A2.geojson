@@ -1,0 +1,2768 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -8.65520000000,
+        38.59840000000,
+        -8.63290000000,
+        38.61160000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes|yes",
+                "destination:lanes": "Lisboa;Setúbal|Lisboa;Setúbal|Norte;Santarém|Norte;Santarém",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63857980000,
+                        38.60067010000
+                    ],
+                    [
+                        -8.63926460000,
+                        38.60104690000
+                    ],
+                    [
+                        -8.63993580000,
+                        38.60137760000
+                    ],
+                    [
+                        -8.64055460000,
+                        38.60165430000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Setúbal",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64337300000,
+                        38.60565130000
+                    ],
+                    [
+                        -8.64388520000,
+                        38.60545090000
+                    ],
+                    [
+                        -8.64481550000,
+                        38.60509520000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63778200000,
+                        38.60757260000
+                    ],
+                    [
+                        -8.64013080000,
+                        38.60677230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63744020000,
+                        38.60000300000
+                    ],
+                    [
+                        -8.63764730000,
+                        38.60025860000
+                    ],
+                    [
+                        -8.63800060000,
+                        38.60048360000
+                    ],
+                    [
+                        -8.63836970000,
+                        38.60072800000
+                    ],
+                    [
+                        -8.63856760000,
+                        38.60087220000
+                    ],
+                    [
+                        -8.63876400000,
+                        38.60103070000
+                    ],
+                    [
+                        -8.63890190000,
+                        38.60117110000
+                    ],
+                    [
+                        -8.63902350000,
+                        38.60133300000
+                    ],
+                    [
+                        -8.63912780000,
+                        38.60150440000
+                    ],
+                    [
+                        -8.63920670000,
+                        38.60169310000
+                    ],
+                    [
+                        -8.63926020000,
+                        38.60190460000
+                    ],
+                    [
+                        -8.63927890000,
+                        38.60210000000
+                    ],
+                    [
+                        -8.63926510000,
+                        38.60231870000
+                    ],
+                    [
+                        -8.63922410000,
+                        38.60252940000
+                    ],
+                    [
+                        -8.63915720000,
+                        38.60276870000
+                    ],
+                    [
+                        -8.63818980000,
+                        38.60556970000
+                    ],
+                    [
+                        -8.63807620000,
+                        38.60581520000
+                    ],
+                    [
+                        -8.63788620000,
+                        38.60616010000
+                    ],
+                    [
+                        -8.63770700000,
+                        38.60642180000
+                    ],
+                    [
+                        -8.63749890000,
+                        38.60668820000
+                    ],
+                    [
+                        -8.63724310000,
+                        38.60695670000
+                    ],
+                    [
+                        -8.63708430000,
+                        38.60710430000
+                    ],
+                    [
+                        -8.63692640000,
+                        38.60723500000
+                    ],
+                    [
+                        -8.63675340000,
+                        38.60736810000
+                    ],
+                    [
+                        -8.63652690000,
+                        38.60755660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Espanha;Évora;Vendas Novas",
+                "highway": "motorway_junction",
+                "ref": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.63744020000,
+                    38.60000300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "turn:lanes": "slight_left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64911470000,
+                        38.60481210000
+                    ],
+                    [
+                        -8.64884420000,
+                        38.60425180000
+                    ],
+                    [
+                        -8.64862250000,
+                        38.60396000000
+                    ],
+                    [
+                        -8.64841640000,
+                        38.60371950000
+                    ],
+                    [
+                        -8.64810030000,
+                        38.60340850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64206460000,
+                        38.60263330000
+                    ],
+                    [
+                        -8.64146890000,
+                        38.60295670000
+                    ],
+                    [
+                        -8.64097290000,
+                        38.60330610000
+                    ],
+                    [
+                        -8.64020530000,
+                        38.60407050000
+                    ],
+                    [
+                        -8.63949500000,
+                        38.60484880000
+                    ],
+                    [
+                        -8.63887490000,
+                        38.60556500000
+                    ],
+                    [
+                        -8.63823650000,
+                        38.60627020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64144340000,
+                        38.60200040000
+                    ],
+                    [
+                        -8.64215400000,
+                        38.60236910000
+                    ],
+                    [
+                        -8.64283420000,
+                        38.60275760000
+                    ],
+                    [
+                        -8.64334920000,
+                        38.60316010000
+                    ],
+                    [
+                        -8.64348410000,
+                        38.60329640000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|yes|yes",
+                "destination": "Espanha;Évora;Vendas Novas",
+                "destination:country": "ES",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64436150000,
+                        38.60488860000
+                    ],
+                    [
+                        -8.64390800000,
+                        38.60515540000
+                    ],
+                    [
+                        -8.64327830000,
+                        38.60546920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 13",
+                "turn:lanes": "through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64897130000,
+                        38.60817730000
+                    ],
+                    [
+                        -8.64905880000,
+                        38.60775440000
+                    ],
+                    [
+                        -8.64917410000,
+                        38.60732160000
+                    ],
+                    [
+                        -8.64928410000,
+                        38.60694110000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63823650000,
+                        38.60627020000
+                    ],
+                    [
+                        -8.63797810000,
+                        38.60652660000
+                    ],
+                    [
+                        -8.63770650000,
+                        38.60677490000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63691050000,
+                        38.60736030000
+                    ],
+                    [
+                        -8.63652690000,
+                        38.60755660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63411300000,
+                        38.60865400000
+                    ],
+                    [
+                        -8.63285770000,
+                        38.60908360000
+                    ],
+                    [
+                        -8.63179830000,
+                        38.60944620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Espanha;Évora;Norte;Santarém",
+                "highway": "motorway_junction",
+                "ref": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65308720000,
+                    38.60247320000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63294960000,
+                        38.60923790000
+                    ],
+                    [
+                        -8.63418810000,
+                        38.60880700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Algarve;Alcácer",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63294960000,
+                        38.60923790000
+                    ],
+                    [
+                        -8.63354930000,
+                        38.60908420000
+                    ],
+                    [
+                        -8.63413470000,
+                        38.60896460000
+                    ],
+                    [
+                        -8.63501840000,
+                        38.60892310000
+                    ],
+                    [
+                        -8.63603860000,
+                        38.60890650000
+                    ],
+                    [
+                        -8.63633650000,
+                        38.60889160000
+                    ],
+                    [
+                        -8.63659160000,
+                        38.60884680000
+                    ],
+                    [
+                        -8.63681980000,
+                        38.60877110000
+                    ],
+                    [
+                        -8.63701040000,
+                        38.60866550000
+                    ],
+                    [
+                        -8.63716450000,
+                        38.60852930000
+                    ],
+                    [
+                        -8.63726850000,
+                        38.60839890000
+                    ],
+                    [
+                        -8.63735230000,
+                        38.60822980000
+                    ],
+                    [
+                        -8.63766550000,
+                        38.60734040000
+                    ],
+                    [
+                        -8.63781860000,
+                        38.60690300000
+                    ],
+                    [
+                        -8.63801770000,
+                        38.60633180000
+                    ],
+                    [
+                        -8.63970170000,
+                        38.60145560000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 2",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63717340000,
+                        38.59960590000
+                    ],
+                    [
+                        -8.63642910000,
+                        38.59912420000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64175590000,
+                        38.60317260000
+                    ],
+                    [
+                        -8.64195990000,
+                        38.60306300000
+                    ],
+                    [
+                        -8.64217970000,
+                        38.60298400000
+                    ],
+                    [
+                        -8.64243200000,
+                        38.60295400000
+                    ],
+                    [
+                        -8.64270810000,
+                        38.60296930000
+                    ],
+                    [
+                        -8.64296570000,
+                        38.60303160000
+                    ],
+                    [
+                        -8.64314260000,
+                        38.60309710000
+                    ],
+                    [
+                        -8.64348410000,
+                        38.60329640000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63418810000,
+                        38.60880700000
+                    ],
+                    [
+                        -8.63477280000,
+                        38.60860580000
+                    ],
+                    [
+                        -8.63733880000,
+                        38.60772810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64423170000,
+                        38.60213860000
+                    ],
+                    [
+                        -8.64383430000,
+                        38.60216510000
+                    ],
+                    [
+                        -8.64344850000,
+                        38.60221410000
+                    ],
+                    [
+                        -8.64278590000,
+                        38.60236350000
+                    ],
+                    [
+                        -8.64246640000,
+                        38.60247530000
+                    ],
+                    [
+                        -8.64206460000,
+                        38.60263330000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "change:lanes": "yes|not_right|not_left",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "turn:lanes": "slight_left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64810030000,
+                        38.60340850000
+                    ],
+                    [
+                        -8.64779650000,
+                        38.60312060000
+                    ],
+                    [
+                        -8.64753800000,
+                        38.60294080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no|no",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64190730000,
+                        38.60616860000
+                    ],
+                    [
+                        -8.64264670000,
+                        38.60591070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 13",
+                "toll": "yes",
+                "turn:lanes": "through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64907590000,
+                        38.61004020000
+                    ],
+                    [
+                        -8.64897960000,
+                        38.60958620000
+                    ],
+                    [
+                        -8.64894700000,
+                        38.60915260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination": "Algarve;Alcácer",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63970170000,
+                        38.60145560000
+                    ],
+                    [
+                        -8.63989270000,
+                        38.60092540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Norte;Santarém",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64264670000,
+                    38.60591070000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 90",
+                "lanes": "5",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:2",
+                "ref": "A 2",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65199270000,
+                        38.60269920000
+                    ],
+                    [
+                        -8.65312960000,
+                        38.60262320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Setúbal",
+                "destination:ref": "A 2",
+                "destination:ref:to": "A 12",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64934680000,
+                        38.60664310000
+                    ],
+                    [
+                        -8.64955860000,
+                        38.60597860000
+                    ],
+                    [
+                        -8.64966230000,
+                        38.60549490000
+                    ],
+                    [
+                        -8.64962840000,
+                        38.60501650000
+                    ],
+                    [
+                        -8.64953350000,
+                        38.60458410000
+                    ],
+                    [
+                        -8.64947710000,
+                        38.60434100000
+                    ],
+                    [
+                        -8.64945130000,
+                        38.60412150000
+                    ],
+                    [
+                        -8.64948790000,
+                        38.60391550000
+                    ],
+                    [
+                        -8.64955050000,
+                        38.60371700000
+                    ],
+                    [
+                        -8.64969310000,
+                        38.60348790000
+                    ],
+                    [
+                        -8.64994220000,
+                        38.60327360000
+                    ],
+                    [
+                        -8.65026310000,
+                        38.60310330000
+                    ],
+                    [
+                        -8.65072330000,
+                        38.60297200000
+                    ],
+                    [
+                        -8.65138170000,
+                        38.60280900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63652690000,
+                        38.60755660000
+                    ],
+                    [
+                        -8.63631060000,
+                        38.60768290000
+                    ],
+                    [
+                        -8.63604110000,
+                        38.60782290000
+                    ],
+                    [
+                        -8.63577810000,
+                        38.60795380000
+                    ],
+                    [
+                        -8.63554640000,
+                        38.60804800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Évora;Norte;Santarém",
+                "destination:ref": "A 6;A 13",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "turn:lanes": "through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64703640000,
+                        38.60316850000
+                    ],
+                    [
+                        -8.64604090000,
+                        38.60380910000
+                    ],
+                    [
+                        -8.64562470000,
+                        38.60408240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination:ref": "A 2;A 6",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "turn:lanes": "slight_left|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64753800000,
+                        38.60294080000
+                    ],
+                    [
+                        -8.64695150000,
+                        38.60261440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Norte;Santarém",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64327830000,
+                    38.60546920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Lisboa;Setúbal|Lisboa;Setúbal|Norte;Santarém|Norte;Santarém",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63793160000,
+                        38.60028610000
+                    ],
+                    [
+                        -8.63857980000,
+                        38.60067010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Évora;Vendas Novas",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64695150000,
+                    38.60261440000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64013080000,
+                        38.60677230000
+                    ],
+                    [
+                        -8.64190730000,
+                        38.60616860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63554640000,
+                        38.60804800000
+                    ],
+                    [
+                        -8.63484450000,
+                        38.60840240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Setúbal",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65138170000,
+                        38.60280900000
+                    ],
+                    [
+                        -8.65199270000,
+                        38.60269920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Norte;Santarém",
+                "highway": "motorway_junction",
+                "ref": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64144340000,
+                    38.60200040000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64695150000,
+                        38.60261440000
+                    ],
+                    [
+                        -8.64628450000,
+                        38.60240130000
+                    ],
+                    [
+                        -8.64559430000,
+                        38.60221820000
+                    ],
+                    [
+                        -8.64491410000,
+                        38.60214950000
+                    ],
+                    [
+                        -8.64455850000,
+                        38.60213160000
+                    ],
+                    [
+                        -8.64423170000,
+                        38.60213860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01;E 90",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65549830000,
+                        38.60229350000
+                    ],
+                    [
+                        -8.65308720000,
+                        38.60247320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "destination": "Espanha;Évora;Norte;Santarém",
+                "destination:ref": "A 6;A 13",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64863320000,
+                        38.60250900000
+                    ],
+                    [
+                        -8.64812770000,
+                        38.60267510000
+                    ],
+                    [
+                        -8.64768400000,
+                        38.60284080000
+                    ],
+                    [
+                        -8.64703640000,
+                        38.60316850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Setúbal",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64529210000,
+                        38.60489750000
+                    ],
+                    [
+                        -8.64742680000,
+                        38.60404570000
+                    ],
+                    [
+                        -8.64956790000,
+                        38.60320860000
+                    ],
+                    [
+                        -8.65009020000,
+                        38.60305000000
+                    ],
+                    [
+                        -8.65069270000,
+                        38.60290110000
+                    ],
+                    [
+                        -8.65138170000,
+                        38.60280900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63856480000,
+                        38.60045240000
+                    ],
+                    [
+                        -8.63793630000,
+                        38.60009160000
+                    ],
+                    [
+                        -8.63717340000,
+                        38.59960590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64264670000,
+                        38.60591070000
+                    ],
+                    [
+                        -8.64340570000,
+                        38.60580890000
+                    ],
+                    [
+                        -8.64389660000,
+                        38.60579250000
+                    ],
+                    [
+                        -8.64438190000,
+                        38.60584240000
+                    ],
+                    [
+                        -8.64500170000,
+                        38.60599580000
+                    ],
+                    [
+                        -8.64556210000,
+                        38.60624480000
+                    ],
+                    [
+                        -8.64607980000,
+                        38.60657600000
+                    ],
+                    [
+                        -8.64660920000,
+                        38.60699820000
+                    ],
+                    [
+                        -8.64705610000,
+                        38.60744790000
+                    ],
+                    [
+                        -8.64740730000,
+                        38.60783650000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Évora;Norte;Santarém",
+                "destination:ref": "A 6;A 13",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "turn:lanes": "through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64562470000,
+                        38.60408240000
+                    ],
+                    [
+                        -8.64501600000,
+                        38.60446170000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 90",
+                "lanes": "3",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65459910000,
+                        38.60250820000
+                    ],
+                    [
+                        -8.65675900000,
+                        38.60236280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Algarve;Alcácer;Évora;Vendas Novas",
+                "destination:ref": "A 2;A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64934680000,
+                        38.60664310000
+                    ],
+                    [
+                        -8.64938730000,
+                        38.60625470000
+                    ],
+                    [
+                        -8.64940310000,
+                        38.60588430000
+                    ],
+                    [
+                        -8.64935520000,
+                        38.60556510000
+                    ],
+                    [
+                        -8.64926500000,
+                        38.60518210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64348410000,
+                        38.60329640000
+                    ],
+                    [
+                        -8.64577920000,
+                        38.60566070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no|no",
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64928410000,
+                        38.60694110000
+                    ],
+                    [
+                        -8.64934680000,
+                        38.60664310000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 13",
+                "toll": "yes",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64740730000,
+                        38.60783650000
+                    ],
+                    [
+                        -8.64856070000,
+                        38.60982120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63740050000,
+                        38.60752410000
+                    ],
+                    [
+                        -8.63484450000,
+                        38.60840240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "4",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63484450000,
+                        38.60840240000
+                    ],
+                    [
+                        -8.63411300000,
+                        38.60865400000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 13",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64980540000,
+                        38.61172730000
+                    ],
+                    [
+                        -8.64963950000,
+                        38.61142850000
+                    ],
+                    [
+                        -8.64941650000,
+                        38.61099800000
+                    ],
+                    [
+                        -8.64922370000,
+                        38.61051260000
+                    ],
+                    [
+                        -8.64914330000,
+                        38.61029680000
+                    ],
+                    [
+                        -8.64907590000,
+                        38.61004020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "none|none|none|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64002560000,
+                        38.60123620000
+                    ],
+                    [
+                        -8.63937530000,
+                        38.60090650000
+                    ],
+                    [
+                        -8.63856480000,
+                        38.60045240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64577920000,
+                        38.60566070000
+                    ],
+                    [
+                        -8.64670720000,
+                        38.60670870000
+                    ],
+                    [
+                        -8.64716860000,
+                        38.60738570000
+                    ],
+                    [
+                        -8.64740730000,
+                        38.60783650000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Évora;Norte;Santarém",
+                "destination:ref": "A 6;A 13",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65308720000,
+                        38.60247320000
+                    ],
+                    [
+                        -8.65119700000,
+                        38.60233070000
+                    ],
+                    [
+                        -8.65047730000,
+                        38.60230620000
+                    ],
+                    [
+                        -8.64979040000,
+                        38.60232430000
+                    ],
+                    [
+                        -8.64917100000,
+                        38.60240050000
+                    ],
+                    [
+                        -8.64863320000,
+                        38.60250900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "maxspeed": "120",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63642910000,
+                        38.59912420000
+                    ],
+                    [
+                        -8.63598830000,
+                        38.59882840000
+                    ],
+                    [
+                        -8.63567610000,
+                        38.59862500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 90",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65312960000,
+                        38.60262320000
+                    ],
+                    [
+                        -8.65459910000,
+                        38.60250820000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Espanha;Évora;Vendas Novas",
+                "destination:country": "ES",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64327830000,
+                        38.60546920000
+                    ],
+                    [
+                        -8.64263450000,
+                        38.60573540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Algarve;Alcácer",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63989270000,
+                        38.60092540000
+                    ],
+                    [
+                        -8.63994270000,
+                        38.60074430000
+                    ],
+                    [
+                        -8.63996440000,
+                        38.60060970000
+                    ],
+                    [
+                        -8.63995520000,
+                        38.60044670000
+                    ],
+                    [
+                        -8.63992100000,
+                        38.60033680000
+                    ],
+                    [
+                        -8.63987250000,
+                        38.60024400000
+                    ],
+                    [
+                        -8.63979770000,
+                        38.60015600000
+                    ],
+                    [
+                        -8.63971080000,
+                        38.60008160000
+                    ],
+                    [
+                        -8.63960340000,
+                        38.60000500000
+                    ],
+                    [
+                        -8.63948180000,
+                        38.59994700000
+                    ],
+                    [
+                        -8.63936150000,
+                        38.59990650000
+                    ],
+                    [
+                        -8.63919720000,
+                        38.59988120000
+                    ],
+                    [
+                        -8.63907690000,
+                        38.59987080000
+                    ],
+                    [
+                        -8.63894050000,
+                        38.59986920000
+                    ],
+                    [
+                        -8.63881950000,
+                        38.59987340000
+                    ],
+                    [
+                        -8.63840340000,
+                        38.59989300000
+                    ],
+                    [
+                        -8.63825850000,
+                        38.59989360000
+                    ],
+                    [
+                        -8.63813430000,
+                        38.59988380000
+                    ],
+                    [
+                        -8.63800230000,
+                        38.59986420000
+                    ],
+                    [
+                        -8.63788700000,
+                        38.59984200000
+                    ],
+                    [
+                        -8.63777170000,
+                        38.59980810000
+                    ],
+                    [
+                        -8.63766750000,
+                        38.59977080000
+                    ],
+                    [
+                        -8.63717340000,
+                        38.59960590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:ref": "001",
+                "change:lanes": "no|yes|yes",
+                "destination": "Espanha;Évora;Norte;Santarém",
+                "destination:ref": "A 6;A 13",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64501600000,
+                        38.60446170000
+                    ],
+                    [
+                        -8.64436150000,
+                        38.60488860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "bridge:ref": "001.2",
+                "destination": "Lisboa;Setúbal",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64481550000,
+                        38.60509520000
+                    ],
+                    [
+                        -8.64529210000,
+                        38.60489750000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Espanha;Évora;Vendas Novas",
+                "destination:country": "ES",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64263450000,
+                        38.60573540000
+                    ],
+                    [
+                        -8.64180660000,
+                        38.60602200000
+                    ],
+                    [
+                        -8.64004080000,
+                        38.60662410000
+                    ],
+                    [
+                        -8.63786440000,
+                        38.60736600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "highway": "motorway",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 13",
+                "toll": "yes",
+                "turn:lanes": "through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64894700000,
+                        38.60915260000
+                    ],
+                    [
+                        -8.64892920000,
+                        38.60878580000
+                    ],
+                    [
+                        -8.64897130000,
+                        38.60817730000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "3",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63188160000,
+                        38.60959680000
+                    ],
+                    [
+                        -8.63294960000,
+                        38.60923790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "maxspeed": "120",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63555420000,
+                        38.59874890000
+                    ],
+                    [
+                        -8.63585360000,
+                        38.59894790000
+                    ],
+                    [
+                        -8.63627930000,
+                        38.59923100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no|not_left|yes",
+                "destination:lanes": "Lisboa;Setúbal|Lisboa;Setúbal|Norte;Santarém|Norte;Santarém",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|slight_right|slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64055460000,
+                        38.60165430000
+                    ],
+                    [
+                        -8.64144340000,
+                        38.60200040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63786440000,
+                        38.60736600000
+                    ],
+                    [
+                        -8.63740050000,
+                        38.60752410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Setúbal",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "2",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64144340000,
+                        38.60200040000
+                    ],
+                    [
+                        -8.64338740000,
+                        38.60247830000
+                    ],
+                    [
+                        -8.64459230000,
+                        38.60269180000
+                    ],
+                    [
+                        -8.64567280000,
+                        38.60282190000
+                    ],
+                    [
+                        -8.64689200000,
+                        38.60286350000
+                    ],
+                    [
+                        -8.64815500000,
+                        38.60286300000
+                    ],
+                    [
+                        -8.64976340000,
+                        38.60281390000
+                    ],
+                    [
+                        -8.65066150000,
+                        38.60275300000
+                    ],
+                    [
+                        -8.65199270000,
+                        38.60269920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "layer": "1",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "placement": "right_of:1",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63567610000,
+                        38.59862500000
+                    ],
+                    [
+                        -8.63454060000,
+                        38.59787210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Évora;Vendas Novas",
+                "destination:ref": "A 6",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "merge_to_right|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63770650000,
+                        38.60677490000
+                    ],
+                    [
+                        -8.63734170000,
+                        38.60705600000
+                    ],
+                    [
+                        -8.63706940000,
+                        38.60725150000
+                    ],
+                    [
+                        -8.63691050000,
+                        38.60736030000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Algarve;Alcácer",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.63294960000,
+                    38.60923790000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Algarve;Alcácer",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "2",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.65308720000,
+                        38.60247320000
+                    ],
+                    [
+                        -8.64975910000,
+                        38.60268350000
+                    ],
+                    [
+                        -8.64817200000,
+                        38.60274110000
+                    ],
+                    [
+                        -8.64689470000,
+                        38.60275450000
+                    ],
+                    [
+                        -8.64571790000,
+                        38.60270640000
+                    ],
+                    [
+                        -8.64464230000,
+                        38.60257790000
+                    ],
+                    [
+                        -8.64344080000,
+                        38.60235760000
+                    ],
+                    [
+                        -8.64209390000,
+                        38.60200550000
+                    ],
+                    [
+                        -8.64063250000,
+                        38.60150740000
+                    ],
+                    [
+                        -8.64002560000,
+                        38.60123620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Lisboa;Setúbal",
+                "highway": "motorway_junction",
+                "ref": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64934680000,
+                    38.60664310000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "no|no",
+                "destination": "Lisboa;Setúbal",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64264670000,
+                        38.60591070000
+                    ],
+                    [
+                        -8.64337300000,
+                        38.60565130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Norte;Santarém",
+                "destination:ref": "A 13",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64327830000,
+                        38.60546920000
+                    ],
+                    [
+                        -8.64289470000,
+                        38.60556350000
+                    ],
+                    [
+                        -8.64256210000,
+                        38.60560750000
+                    ],
+                    [
+                        -8.64221740000,
+                        38.60559510000
+                    ],
+                    [
+                        -8.64172390000,
+                        38.60546930000
+                    ],
+                    [
+                        -8.64131620000,
+                        38.60520100000
+                    ],
+                    [
+                        -8.64109090000,
+                        38.60482370000
+                    ],
+                    [
+                        -8.64104800000,
+                        38.60425360000
+                    ],
+                    [
+                        -8.64121960000,
+                        38.60374210000
+                    ],
+                    [
+                        -8.64159510000,
+                        38.60332290000
+                    ],
+                    [
+                        -8.64175590000,
+                        38.60317260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "highway": "motorway",
+                "int_ref": "E 90",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 6",
+                "toll": "yes",
+                "turn:lanes": "through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63733880000,
+                        38.60772810000
+                    ],
+                    [
+                        -8.63778200000,
+                        38.60757260000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Algarve;Alcácer",
+                "destination:ref": "A 2",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64695150000,
+                        38.60261440000
+                    ],
+                    [
+                        -8.64632200000,
+                        38.60231320000
+                    ],
+                    [
+                        -8.64565510000,
+                        38.60208140000
+                    ],
+                    [
+                        -8.64496800000,
+                        38.60192160000
+                    ],
+                    [
+                        -8.64436430000,
+                        38.60181840000
+                    ],
+                    [
+                        -8.64375160000,
+                        38.60176130000
+                    ],
+                    [
+                        -8.64216370000,
+                        38.60171730000
+                    ],
+                    [
+                        -8.64130550000,
+                        38.60158730000
+                    ],
+                    [
+                        -8.64002560000,
+                        38.60123620000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Lisboa;Setúbal|Lisboa;Setúbal|Norte;Santarém|Norte;Santarém",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63744020000,
+                        38.60000300000
+                    ],
+                    [
+                        -8.63793160000,
+                        38.60028610000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "2",
+                "maxspeed": "120",
+                "maxspeed:advisory": "50",
+                "oneway": "yes",
+                "ref": "A 13",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64856070000,
+                        38.60982120000
+                    ],
+                    [
+                        -8.64924790000,
+                        38.61103870000
+                    ],
+                    [
+                        -8.64948660000,
+                        38.61147880000
+                    ],
+                    [
+                        -8.64966090000,
+                        38.61177850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "change:lanes": "no|not_left|yes",
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "3",
+                "layer": "1",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63441390000,
+                        38.59799100000
+                    ],
+                    [
+                        -8.63555420000,
+                        38.59874890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01",
+                "lanes": "4",
+                "maxspeed": "120",
+                "name": "Autoestrada do Sul",
+                "oneway": "yes",
+                "ref": "A 2",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|through;slight_right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.63627930000,
+                        38.59923100000
+                    ],
+                    [
+                        -8.63744020000,
+                        38.60000300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:ref": "A 2;A 6",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "oneway": "yes",
+                "placement": "right_of:2",
+                "turn:lanes": "slight_left|through|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.64926500000,
+                        38.60518210000
+                    ],
+                    [
+                        -8.64911470000,
+                        38.60481210000
+                    ]
+                ]
+            }
+        }
+    ]
+}

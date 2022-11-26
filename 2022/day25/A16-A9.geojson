@@ -1,0 +1,3132 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -9.27790000000,
+        38.76480000000,
+        -9.26560000000,
+        38.77260000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_junction",
+                "ref": "14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27761200000,
+                    38.77193470000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26963590000,
+                        38.76508130000
+                    ],
+                    [
+                        -9.26981330000,
+                        38.76369340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Rua da Alemanha",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27207230000,
+                        38.76945890000
+                    ],
+                    [
+                        -9.27203520000,
+                        38.76941550000
+                    ],
+                    [
+                        -9.27199200000,
+                        38.76938240000
+                    ],
+                    [
+                        -9.27177750000,
+                        38.76928790000
+                    ],
+                    [
+                        -9.27171940000,
+                        38.76925790000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27684220000,
+                        38.77166320000
+                    ],
+                    [
+                        -9.27619600000,
+                        38.77143590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Sintra;Agualva-Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27117070000,
+                        38.77002860000
+                    ],
+                    [
+                        -9.27142820000,
+                        38.77007050000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|no|not_left|yes",
+                "highway": "motorway",
+                "lanes": "5",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26949140000,
+                        38.76489970000
+                    ],
+                    [
+                        -9.26944450000,
+                        38.76523450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada da Xetaria",
+                "oneway": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27108940000,
+                        38.77105740000
+                    ],
+                    [
+                        -9.27104810000,
+                        38.77131270000
+                    ],
+                    [
+                        -9.27102440000,
+                        38.77156550000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27219150000,
+                        38.77027750000
+                    ],
+                    [
+                        -9.27252240000,
+                        38.77039140000
+                    ],
+                    [
+                        -9.27345660000,
+                        38.77076910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26849220000,
+                        38.76767950000
+                    ],
+                    [
+                        -9.26832630000,
+                        38.76767550000
+                    ],
+                    [
+                        -9.26816320000,
+                        38.76768400000
+                    ],
+                    [
+                        -9.26800130000,
+                        38.76770570000
+                    ],
+                    [
+                        -9.26784930000,
+                        38.76774040000
+                    ],
+                    [
+                        -9.26769470000,
+                        38.76778830000
+                    ],
+                    [
+                        -9.26754890000,
+                        38.76784740000
+                    ],
+                    [
+                        -9.26740970000,
+                        38.76791960000
+                    ],
+                    [
+                        -9.26728590000,
+                        38.76800100000
+                    ],
+                    [
+                        -9.26717550000,
+                        38.76808830000
+                    ],
+                    [
+                        -9.26708230000,
+                        38.76818100000
+                    ],
+                    [
+                        -9.26699060000,
+                        38.76829220000
+                    ],
+                    [
+                        -9.26692130000,
+                        38.76840690000
+                    ],
+                    [
+                        -9.26686720000,
+                        38.76852200000
+                    ],
+                    [
+                        -9.26682540000,
+                        38.76864920000
+                    ],
+                    [
+                        -9.26680330000,
+                        38.76876810000
+                    ],
+                    [
+                        -9.26679440000,
+                        38.76889710000
+                    ],
+                    [
+                        -9.26680150000,
+                        38.76902430000
+                    ],
+                    [
+                        -9.26681910000,
+                        38.76915130000
+                    ],
+                    [
+                        -9.26686110000,
+                        38.76938000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada da Xetaria",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27099970000,
+                        38.77062050000
+                    ],
+                    [
+                        -9.27103360000,
+                        38.77068440000
+                    ],
+                    [
+                        -9.27105820000,
+                        38.77073610000
+                    ],
+                    [
+                        -9.27107660000,
+                        38.77080130000
+                    ],
+                    [
+                        -9.27108940000,
+                        38.77105740000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Cascais",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26700400000,
+                        38.77070390000
+                    ],
+                    [
+                        -9.26719070000,
+                        38.77056860000
+                    ],
+                    [
+                        -9.26739040000,
+                        38.77041250000
+                    ],
+                    [
+                        -9.26761360000,
+                        38.77023310000
+                    ],
+                    [
+                        -9.26782920000,
+                        38.77003130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes",
+                "destination": "Cascais",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26817580000,
+                        38.76966130000
+                    ],
+                    [
+                        -9.26831420000,
+                        38.76949840000
+                    ],
+                    [
+                        -9.26843930000,
+                        38.76933980000
+                    ],
+                    [
+                        -9.26859410000,
+                        38.76911660000
+                    ],
+                    [
+                        -9.26872830000,
+                        38.76890440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "source": "Bing",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27519400000,
+                        38.77087250000
+                    ],
+                    [
+                        -9.27424950000,
+                        38.77054370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26676410000,
+                        38.77040880000
+                    ],
+                    [
+                        -9.26670190000,
+                        38.77049930000
+                    ],
+                    [
+                        -9.26664490000,
+                        38.77056580000
+                    ],
+                    [
+                        -9.26657590000,
+                        38.77063830000
+                    ],
+                    [
+                        -9.26649090000,
+                        38.77071180000
+                    ],
+                    [
+                        -9.26637990000,
+                        38.77079750000
+                    ],
+                    [
+                        -9.26624790000,
+                        38.77088460000
+                    ],
+                    [
+                        -9.26589350000,
+                        38.77108790000
+                    ],
+                    [
+                        -9.26569060000,
+                        38.77118990000
+                    ],
+                    [
+                        -9.26548350000,
+                        38.77127890000
+                    ],
+                    [
+                        -9.26464950000,
+                        38.77163440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Agualva-Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27142820000,
+                        38.77007050000
+                    ],
+                    [
+                        -9.27169370000,
+                        38.77014570000
+                    ],
+                    [
+                        -9.27190540000,
+                        38.77021420000
+                    ],
+                    [
+                        -9.27219150000,
+                        38.77027750000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "toll_booth"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27480740000,
+                    38.77157050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Cascais",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27136670000,
+                        38.77060230000
+                    ],
+                    [
+                        -9.27152290000,
+                        38.77054110000
+                    ],
+                    [
+                        -9.27160670000,
+                        38.77052510000
+                    ],
+                    [
+                        -9.27169120000,
+                        38.77052610000
+                    ],
+                    [
+                        -9.27177270000,
+                        38.77054290000
+                    ],
+                    [
+                        -9.27269060000,
+                        38.77075560000
+                    ],
+                    [
+                        -9.27283950000,
+                        38.77079280000
+                    ],
+                    [
+                        -9.27297790000,
+                        38.77083470000
+                    ],
+                    [
+                        -9.27312470000,
+                        38.77088510000
+                    ],
+                    [
+                        -9.27326850000,
+                        38.77094580000
+                    ],
+                    [
+                        -9.27343130000,
+                        38.77101720000
+                    ],
+                    [
+                        -9.27364630000,
+                        38.77112360000
+                    ],
+                    [
+                        -9.27413470000,
+                        38.77133230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Cascais;Sintra;Agualva;Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway",
+                "lanes": "2",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27147710000,
+                        38.76998970000
+                    ],
+                    [
+                        -9.27195820000,
+                        38.77016220000
+                    ],
+                    [
+                        -9.27219150000,
+                        38.77027750000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left",
+                "destination": "Loures",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17;IC 22",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26944450000,
+                        38.76523450000
+                    ],
+                    [
+                        -9.26929050000,
+                        38.76642410000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26905870000,
+                        38.76824020000
+                    ],
+                    [
+                        -9.26914650000,
+                        38.76799900000
+                    ],
+                    [
+                        -9.26922180000,
+                        38.76775450000
+                    ],
+                    [
+                        -9.26928700000,
+                        38.76750650000
+                    ],
+                    [
+                        -9.26933590000,
+                        38.76725220000
+                    ],
+                    [
+                        -9.26937930000,
+                        38.76700160000
+                    ],
+                    [
+                        -9.26941550000,
+                        38.76675100000
+                    ],
+                    [
+                        -9.26955100000,
+                        38.76572940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "6",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27619600000,
+                        38.77143590000
+                    ],
+                    [
+                        -9.27511330000,
+                        38.77106060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "6",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27345660000,
+                        38.77076910000
+                    ],
+                    [
+                        -9.27494890000,
+                        38.77130420000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Cascais;Sintra;Agualva;Cacém",
+                "highway": "motorway_junction",
+                "ref": "2A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.26505390000,
+                    38.77165450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27480740000,
+                        38.77157050000
+                    ],
+                    [
+                        -9.27527230000,
+                        38.77173460000
+                    ],
+                    [
+                        -9.27548700000,
+                        38.77179380000
+                    ],
+                    [
+                        -9.27572730000,
+                        38.77185060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada da Xetaria",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27158920000,
+                        38.76918340000
+                    ],
+                    [
+                        -9.27149700000,
+                        38.76913550000
+                    ],
+                    [
+                        -9.27141340000,
+                        38.76908510000
+                    ],
+                    [
+                        -9.27134340000,
+                        38.76902900000
+                    ],
+                    [
+                        -9.27129860000,
+                        38.76897040000
+                    ],
+                    [
+                        -9.27124490000,
+                        38.76886480000
+                    ],
+                    [
+                        -9.27118010000,
+                        38.76866240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27361010000,
+                        38.77053530000
+                    ],
+                    [
+                        -9.27282820000,
+                        38.77031110000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26982650000,
+                        38.76847630000
+                    ],
+                    [
+                        -9.26975820000,
+                        38.76837300000
+                    ],
+                    [
+                        -9.26968400000,
+                        38.76827050000
+                    ],
+                    [
+                        -9.26959200000,
+                        38.76816430000
+                    ],
+                    [
+                        -9.26949650000,
+                        38.76807000000
+                    ],
+                    [
+                        -9.26937430000,
+                        38.76797930000
+                    ],
+                    [
+                        -9.26924630000,
+                        38.76789810000
+                    ],
+                    [
+                        -9.26911020000,
+                        38.76783030000
+                    ],
+                    [
+                        -9.26896560000,
+                        38.76777510000
+                    ],
+                    [
+                        -9.26880590000,
+                        38.76772870000
+                    ],
+                    [
+                        -9.26864550000,
+                        38.76769720000
+                    ],
+                    [
+                        -9.26849220000,
+                        38.76767950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Agualva-Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26944450000,
+                        38.76523450000
+                    ],
+                    [
+                        -9.26925800000,
+                        38.76576300000
+                    ],
+                    [
+                        -9.26918880000,
+                        38.76600540000
+                    ],
+                    [
+                        -9.26908140000,
+                        38.76623720000
+                    ],
+                    [
+                        -9.26893390000,
+                        38.76651320000
+                    ],
+                    [
+                        -9.26876450000,
+                        38.76674680000
+                    ],
+                    [
+                        -9.26854490000,
+                        38.76700260000
+                    ],
+                    [
+                        -9.26819890000,
+                        38.76728910000
+                    ],
+                    [
+                        -9.26761110000,
+                        38.76765860000
+                    ],
+                    [
+                        -9.26706170000,
+                        38.76797500000
+                    ],
+                    [
+                        -9.26684400000,
+                        38.76812710000
+                    ],
+                    [
+                        -9.26665360000,
+                        38.76829230000
+                    ],
+                    [
+                        -9.26649270000,
+                        38.76849300000
+                    ],
+                    [
+                        -9.26638310000,
+                        38.76870070000
+                    ],
+                    [
+                        -9.26632900000,
+                        38.76890710000
+                    ],
+                    [
+                        -9.26629690000,
+                        38.76909950000
+                    ],
+                    [
+                        -9.26628920000,
+                        38.76924230000
+                    ],
+                    [
+                        -9.26632940000,
+                        38.76944730000
+                    ],
+                    [
+                        -9.26638040000,
+                        38.76960830000
+                    ],
+                    [
+                        -9.26643900000,
+                        38.76974780000
+                    ],
+                    [
+                        -9.26650910000,
+                        38.76986970000
+                    ],
+                    [
+                        -9.26659500000,
+                        38.76998470000
+                    ],
+                    [
+                        -9.26666970000,
+                        38.77006770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "toll_booth"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27519400000,
+                    38.77087250000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26661560000,
+                        38.77078880000
+                    ],
+                    [
+                        -9.26634790000,
+                        38.77094120000
+                    ],
+                    [
+                        -9.26607640000,
+                        38.77108670000
+                    ],
+                    [
+                        -9.26579040000,
+                        38.77122250000
+                    ],
+                    [
+                        -9.26549930000,
+                        38.77134650000
+                    ],
+                    [
+                        -9.26520800000,
+                        38.77145710000
+                    ],
+                    [
+                        -9.26490880000,
+                        38.77155840000
+                    ],
+                    [
+                        -9.26464950000,
+                        38.77163440000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27108940000,
+                        38.77105740000
+                    ],
+                    [
+                        -9.27114040000,
+                        38.77090160000
+                    ],
+                    [
+                        -9.27118610000,
+                        38.77079040000
+                    ],
+                    [
+                        -9.27124290000,
+                        38.77069820000
+                    ],
+                    [
+                        -9.27131100000,
+                        38.77064160000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "source": "Bing",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27424950000,
+                        38.77054370000
+                    ],
+                    [
+                        -9.27380440000,
+                        38.77036680000
+                    ],
+                    [
+                        -9.27343150000,
+                        38.77025180000
+                    ],
+                    [
+                        -9.27310190000,
+                        38.77017710000
+                    ],
+                    [
+                        -9.27277580000,
+                        38.77011000000
+                    ],
+                    [
+                        -9.27250110000,
+                        38.77003650000
+                    ],
+                    [
+                        -9.27183890000,
+                        38.76981570000
+                    ],
+                    [
+                        -9.27177500000,
+                        38.76978850000
+                    ],
+                    [
+                        -9.27173870000,
+                        38.76975710000
+                    ],
+                    [
+                        -9.27171080000,
+                        38.76971970000
+                    ],
+                    [
+                        -9.27168940000,
+                        38.76968080000
+                    ],
+                    [
+                        -9.27168470000,
+                        38.76963620000
+                    ],
+                    [
+                        -9.27168840000,
+                        38.76957070000
+                    ],
+                    [
+                        -9.27172730000,
+                        38.76947230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27761200000,
+                        38.77193470000
+                    ],
+                    [
+                        -9.27684220000,
+                        38.77166320000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Cascais;Sintra;Agualva;Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26505390000,
+                        38.77165450000
+                    ],
+                    [
+                        -9.26578060000,
+                        38.77144510000
+                    ],
+                    [
+                        -9.26601400000,
+                        38.77136190000
+                    ],
+                    [
+                        -9.26636630000,
+                        38.77119970000
+                    ],
+                    [
+                        -9.26673590000,
+                        38.77101680000
+                    ],
+                    [
+                        -9.26703720000,
+                        38.77085710000
+                    ],
+                    [
+                        -9.26774980000,
+                        38.77044500000
+                    ],
+                    [
+                        -9.26816450000,
+                        38.77020520000
+                    ],
+                    [
+                        -9.26837070000,
+                        38.77008900000
+                    ],
+                    [
+                        -9.26858040000,
+                        38.76997560000
+                    ],
+                    [
+                        -9.26879820000,
+                        38.76987350000
+                    ],
+                    [
+                        -9.26900450000,
+                        38.76979300000
+                    ],
+                    [
+                        -9.26918060000,
+                        38.76973970000
+                    ],
+                    [
+                        -9.26941070000,
+                        38.76968810000
+                    ],
+                    [
+                        -9.26956680000,
+                        38.76966320000
+                    ],
+                    [
+                        -9.26974880000,
+                        38.76964720000
+                    ],
+                    [
+                        -9.26990100000,
+                        38.76964080000
+                    ],
+                    [
+                        -9.27005490000,
+                        38.76964250000
+                    ],
+                    [
+                        -9.27021330000,
+                        38.76965380000
+                    ],
+                    [
+                        -9.27035990000,
+                        38.76967190000
+                    ],
+                    [
+                        -9.27053400000,
+                        38.76969990000
+                    ],
+                    [
+                        -9.27067940000,
+                        38.76973340000
+                    ],
+                    [
+                        -9.27084530000,
+                        38.76977890000
+                    ],
+                    [
+                        -9.27123150000,
+                        38.76990120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes",
+                "destination": "Loures",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17;IC 22",
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26929050000,
+                        38.76642410000
+                    ],
+                    [
+                        -9.26918750000,
+                        38.76714660000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes|yes",
+                "highway": "motorway",
+                "lanes": "5",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|right|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26956490000,
+                        38.76433860000
+                    ],
+                    [
+                        -9.26949140000,
+                        38.76489970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27761200000,
+                        38.77193470000
+                    ],
+                    [
+                        -9.27713310000,
+                        38.77165290000
+                    ],
+                    [
+                        -9.27649630000,
+                        38.77137010000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Cascais;Sintra;Agualva;Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27123150000,
+                        38.76990120000
+                    ],
+                    [
+                        -9.27147710000,
+                        38.76998970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Loures",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17;IC 22",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26918750000,
+                        38.76714660000
+                    ],
+                    [
+                        -9.26913600000,
+                        38.76740520000
+                    ],
+                    [
+                        -9.26907710000,
+                        38.76765630000
+                    ],
+                    [
+                        -9.26899960000,
+                        38.76791050000
+                    ],
+                    [
+                        -9.26890980000,
+                        38.76816150000
+                    ],
+                    [
+                        -9.26881140000,
+                        38.76840050000
+                    ],
+                    [
+                        -9.26869000000,
+                        38.76864070000
+                    ],
+                    [
+                        -9.26855650000,
+                        38.76887720000
+                    ],
+                    [
+                        -9.26840930000,
+                        38.76910550000
+                    ],
+                    [
+                        -9.26824930000,
+                        38.76933670000
+                    ],
+                    [
+                        -9.26807080000,
+                        38.76955490000
+                    ],
+                    [
+                        -9.26787940000,
+                        38.76976910000
+                    ],
+                    [
+                        -9.26767720000,
+                        38.76996820000
+                    ],
+                    [
+                        -9.26757140000,
+                        38.77007010000
+                    ],
+                    [
+                        -9.26746080000,
+                        38.77016260000
+                    ],
+                    [
+                        -9.26723240000,
+                        38.77035710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Agualva-Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26776590000,
+                        38.77063950000
+                    ],
+                    [
+                        -9.26793300000,
+                        38.77066580000
+                    ],
+                    [
+                        -9.26815600000,
+                        38.77068110000
+                    ],
+                    [
+                        -9.26844300000,
+                        38.77067480000
+                    ],
+                    [
+                        -9.26879440000,
+                        38.77061420000
+                    ],
+                    [
+                        -9.26911360000,
+                        38.77052220000
+                    ],
+                    [
+                        -9.26965270000,
+                        38.77030260000
+                    ],
+                    [
+                        -9.26987760000,
+                        38.77021830000
+                    ],
+                    [
+                        -9.27023430000,
+                        38.77009700000
+                    ],
+                    [
+                        -9.27043280000,
+                        38.77005310000
+                    ],
+                    [
+                        -9.27063400000,
+                        38.77002170000
+                    ],
+                    [
+                        -9.27087580000,
+                        38.77000770000
+                    ],
+                    [
+                        -9.27106050000,
+                        38.77001970000
+                    ],
+                    [
+                        -9.27117070000,
+                        38.77002860000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27649630000,
+                        38.77137010000
+                    ],
+                    [
+                        -9.27580230000,
+                        38.77109080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Sintra;Agualva-Cacém",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26666970000,
+                        38.77006770000
+                    ],
+                    [
+                        -9.26673980000,
+                        38.77014370000
+                    ],
+                    [
+                        -9.26690300000,
+                        38.77026850000
+                    ],
+                    [
+                        -9.26706130000,
+                        38.77038350000
+                    ],
+                    [
+                        -9.26722220000,
+                        38.77045880000
+                    ],
+                    [
+                        -9.26738890000,
+                        38.77053050000
+                    ],
+                    [
+                        -9.26753380000,
+                        38.77057650000
+                    ],
+                    [
+                        -9.26770770000,
+                        38.77063030000
+                    ],
+                    [
+                        -9.26776590000,
+                        38.77063950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26872830000,
+                        38.76890440000
+                    ],
+                    [
+                        -9.26883420000,
+                        38.76871700000
+                    ],
+                    [
+                        -9.26895300000,
+                        38.76848040000
+                    ],
+                    [
+                        -9.26905870000,
+                        38.76824020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Sul",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27128590000,
+                        38.76973340000
+                    ],
+                    [
+                        -9.27113230000,
+                        38.76966150000
+                    ],
+                    [
+                        -9.27100840000,
+                        38.76958480000
+                    ],
+                    [
+                        -9.27088170000,
+                        38.76949650000
+                    ],
+                    [
+                        -9.27077410000,
+                        38.76939820000
+                    ],
+                    [
+                        -9.27068100000,
+                        38.76930290000
+                    ],
+                    [
+                        -9.27059520000,
+                        38.76919240000
+                    ],
+                    [
+                        -9.27051950000,
+                        38.76907480000
+                    ],
+                    [
+                        -9.27046600000,
+                        38.76895630000
+                    ],
+                    [
+                        -9.27042340000,
+                        38.76883170000
+                    ],
+                    [
+                        -9.27039670000,
+                        38.76871000000
+                    ],
+                    [
+                        -9.27038200000,
+                        38.76857960000
+                    ],
+                    [
+                        -9.27038310000,
+                        38.76845620000
+                    ],
+                    [
+                        -9.27040110000,
+                        38.76832860000
+                    ],
+                    [
+                        -9.27043570000,
+                        38.76819620000
+                    ],
+                    [
+                        -9.27047510000,
+                        38.76808490000
+                    ],
+                    [
+                        -9.27063420000,
+                        38.76771930000
+                    ],
+                    [
+                        -9.27068560000,
+                        38.76760120000
+                    ],
+                    [
+                        -9.27072490000,
+                        38.76747980000
+                    ],
+                    [
+                        -9.27075500000,
+                        38.76736200000
+                    ],
+                    [
+                        -9.27077570000,
+                        38.76723480000
+                    ],
+                    [
+                        -9.27077260000,
+                        38.76711870000
+                    ],
+                    [
+                        -9.27075860000,
+                        38.76698730000
+                    ],
+                    [
+                        -9.27072860000,
+                        38.76686370000
+                    ],
+                    [
+                        -9.27068250000,
+                        38.76674370000
+                    ],
+                    [
+                        -9.27062850000,
+                        38.76663120000
+                    ],
+                    [
+                        -9.27056240000,
+                        38.76652300000
+                    ],
+                    [
+                        -9.27024620000,
+                        38.76606920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "toll_booth"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27494890000,
+                    38.77130420000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Sul",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "merge_to_left|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27024620000,
+                        38.76606920000
+                    ],
+                    [
+                        -9.27009350000,
+                        38.76585610000
+                    ],
+                    [
+                        -9.27002260000,
+                        38.76574300000
+                    ],
+                    [
+                        -9.26995340000,
+                        38.76562540000
+                    ],
+                    [
+                        -9.26989150000,
+                        38.76549050000
+                    ],
+                    [
+                        -9.26985050000,
+                        38.76535480000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "lit": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27144830000,
+                        38.76918120000
+                    ],
+                    [
+                        -9.27138300000,
+                        38.76920310000
+                    ],
+                    [
+                        -9.27132820000,
+                        38.76923850000
+                    ],
+                    [
+                        -9.27128830000,
+                        38.76928450000
+                    ],
+                    [
+                        -9.27126680000,
+                        38.76933680000
+                    ],
+                    [
+                        -9.27126480000,
+                        38.76939160000
+                    ],
+                    [
+                        -9.27128230000,
+                        38.76944470000
+                    ],
+                    [
+                        -9.27131820000,
+                        38.76949200000
+                    ],
+                    [
+                        -9.27137330000,
+                        38.76953170000
+                    ],
+                    [
+                        -9.27144110000,
+                        38.76955690000
+                    ],
+                    [
+                        -9.27151530000,
+                        38.76956530000
+                    ],
+                    [
+                        -9.27158950000,
+                        38.76955620000
+                    ],
+                    [
+                        -9.27165680000,
+                        38.76953040000
+                    ],
+                    [
+                        -9.27169590000,
+                        38.76950420000
+                    ],
+                    [
+                        -9.27172730000,
+                        38.76947230000
+                    ],
+                    [
+                        -9.27175600000,
+                        38.76942040000
+                    ],
+                    [
+                        -9.27176450000,
+                        38.76936420000
+                    ],
+                    [
+                        -9.27175190000,
+                        38.76930850000
+                    ],
+                    [
+                        -9.27171940000,
+                        38.76925790000
+                    ],
+                    [
+                        -9.27166220000,
+                        38.76921230000
+                    ],
+                    [
+                        -9.27158920000,
+                        38.76918340000
+                    ],
+                    [
+                        -9.27151900000,
+                        38.76917440000
+                    ],
+                    [
+                        -9.27144830000,
+                        38.76918120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa Sul",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27153670000,
+                        38.76982750000
+                    ],
+                    [
+                        -9.27128590000,
+                        38.76973340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada da Xetaria",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27118010000,
+                        38.76866240000
+                    ],
+                    [
+                        -9.27118320000,
+                        38.76882720000
+                    ],
+                    [
+                        -9.27120870000,
+                        38.76897670000
+                    ],
+                    [
+                        -9.27126830000,
+                        38.76913980000
+                    ],
+                    [
+                        -9.27129090000,
+                        38.76922330000
+                    ],
+                    [
+                        -9.27128830000,
+                        38.76928450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27572730000,
+                        38.77185060000
+                    ],
+                    [
+                        -9.27626580000,
+                        38.77198800000
+                    ],
+                    [
+                        -9.27683780000,
+                        38.77210380000
+                    ],
+                    [
+                        -9.27762160000,
+                        38.77222500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes",
+                "turn:lanes": "merge_to_left|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26686110000,
+                        38.76938000000
+                    ],
+                    [
+                        -9.26689140000,
+                        38.76952830000
+                    ],
+                    [
+                        -9.26691580000,
+                        38.76965750000
+                    ],
+                    [
+                        -9.26693040000,
+                        38.76978050000
+                    ],
+                    [
+                        -9.26692450000,
+                        38.76994140000
+                    ],
+                    [
+                        -9.26690990000,
+                        38.77005490000
+                    ],
+                    [
+                        -9.26687850000,
+                        38.77016860000
+                    ],
+                    [
+                        -9.26682930000,
+                        38.77029650000
+                    ],
+                    [
+                        -9.26676410000,
+                        38.77040880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes",
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27225170000,
+                        38.77012280000
+                    ],
+                    [
+                        -9.27174990000,
+                        38.76995070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada da Xetaria",
+                "oneway": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27121540000,
+                        38.76771040000
+                    ],
+                    [
+                        -9.27117890000,
+                        38.76852060000
+                    ],
+                    [
+                        -9.27117710000,
+                        38.76859410000
+                    ],
+                    [
+                        -9.27118010000,
+                        38.76866240000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Cascais",
+                "destination:ref": "A 16",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27413470000,
+                        38.77133230000
+                    ],
+                    [
+                        -9.27432370000,
+                        38.77140550000
+                    ],
+                    [
+                        -9.27480740000,
+                        38.77157050000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left|yes",
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27609710000,
+                        38.77169770000
+                    ],
+                    [
+                        -9.27697310000,
+                        38.77200050000
+                    ],
+                    [
+                        -9.27762160000,
+                        38.77222500000
+                    ],
+                    [
+                        -9.27767870000,
+                        38.77224430000
+                    ],
+                    [
+                        -9.27837330000,
+                        38.77250350000
+                    ],
+                    [
+                        -9.27864720000,
+                        38.77260460000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27282820000,
+                        38.77031110000
+                    ],
+                    [
+                        -9.27225170000,
+                        38.77012280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27139300000,
+                        38.77038560000
+                    ],
+                    [
+                        -9.27133770000,
+                        38.77030410000
+                    ],
+                    [
+                        -9.27132360000,
+                        38.77025660000
+                    ],
+                    [
+                        -9.27132360000,
+                        38.77022730000
+                    ],
+                    [
+                        -9.27146310000,
+                        38.76968780000
+                    ],
+                    [
+                        -9.27148740000,
+                        38.76965100000
+                    ],
+                    [
+                        -9.27152020000,
+                        38.76961800000
+                    ],
+                    [
+                        -9.27165680000,
+                        38.76953040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27919260000,
+                        38.77261670000
+                    ],
+                    [
+                        -9.27887680000,
+                        38.77243920000
+                    ],
+                    [
+                        -9.27864720000,
+                        38.77232960000
+                    ],
+                    [
+                        -9.27838550000,
+                        38.77220910000
+                    ],
+                    [
+                        -9.27770840000,
+                        38.77196660000
+                    ],
+                    [
+                        -9.27761200000,
+                        38.77193470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left",
+                "destination": "Cascais",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26505390000,
+                        38.77165450000
+                    ],
+                    [
+                        -9.26556950000,
+                        38.77146510000
+                    ],
+                    [
+                        -9.26583700000,
+                        38.77135300000
+                    ],
+                    [
+                        -9.26617670000,
+                        38.77119120000
+                    ],
+                    [
+                        -9.26643640000,
+                        38.77105340000
+                    ],
+                    [
+                        -9.26670880000,
+                        38.77088710000
+                    ],
+                    [
+                        -9.26700400000,
+                        38.77070390000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26955100000,
+                        38.76572940000
+                    ],
+                    [
+                        -9.26963590000,
+                        38.76508130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "8",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27494890000,
+                        38.77130420000
+                    ],
+                    [
+                        -9.27609710000,
+                        38.77169770000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27125970000,
+                        38.76981680000
+                    ],
+                    [
+                        -9.27112690000,
+                        38.76976550000
+                    ],
+                    [
+                        -9.27097530000,
+                        38.76970180000
+                    ],
+                    [
+                        -9.27083880000,
+                        38.76964100000
+                    ],
+                    [
+                        -9.27071310000,
+                        38.76957290000
+                    ],
+                    [
+                        -9.27058580000,
+                        38.76949080000
+                    ],
+                    [
+                        -9.27046330000,
+                        38.76939870000
+                    ],
+                    [
+                        -9.27035960000,
+                        38.76930400000
+                    ],
+                    [
+                        -9.27026830000,
+                        38.76920480000
+                    ],
+                    [
+                        -9.27018990000,
+                        38.76910620000
+                    ],
+                    [
+                        -9.27011560000,
+                        38.76899680000
+                    ],
+                    [
+                        -9.26998630000,
+                        38.76876340000
+                    ],
+                    [
+                        -9.26990390000,
+                        38.76861310000
+                    ],
+                    [
+                        -9.26982650000,
+                        38.76847630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27174990000,
+                        38.76995070000
+                    ],
+                    [
+                        -9.27151550000,
+                        38.76989960000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa Norte",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 1;A 8;A 10;IC 16;IC 17",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27151550000,
+                        38.76989960000
+                    ],
+                    [
+                        -9.27125970000,
+                        38.76981680000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "lit": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27111730000,
+                        38.77066940000
+                    ],
+                    [
+                        -9.27118430000,
+                        38.77067400000
+                    ],
+                    [
+                        -9.27125050000,
+                        38.77066450000
+                    ],
+                    [
+                        -9.27131100000,
+                        38.77064160000
+                    ],
+                    [
+                        -9.27136670000,
+                        38.77060230000
+                    ],
+                    [
+                        -9.27140440000,
+                        38.77055290000
+                    ],
+                    [
+                        -9.27142210000,
+                        38.77049710000
+                    ],
+                    [
+                        -9.27141820000,
+                        38.77043970000
+                    ],
+                    [
+                        -9.27139300000,
+                        38.77038560000
+                    ],
+                    [
+                        -9.27134770000,
+                        38.77033880000
+                    ],
+                    [
+                        -9.27128660000,
+                        38.77030450000
+                    ],
+                    [
+                        -9.27121510000,
+                        38.77028590000
+                    ],
+                    [
+                        -9.27113980000,
+                        38.77028470000
+                    ],
+                    [
+                        -9.27106750000,
+                        38.77030100000
+                    ],
+                    [
+                        -9.27100900000,
+                        38.77033020000
+                    ],
+                    [
+                        -9.27096310000,
+                        38.77037080000
+                    ],
+                    [
+                        -9.27093320000,
+                        38.77041970000
+                    ],
+                    [
+                        -9.27092160000,
+                        38.77047340000
+                    ],
+                    [
+                        -9.27092950000,
+                        38.77052750000
+                    ],
+                    [
+                        -9.27095620000,
+                        38.77057780000
+                    ],
+                    [
+                        -9.27099970000,
+                        38.77062050000
+                    ],
+                    [
+                        -9.27105430000,
+                        38.77065120000
+                    ],
+                    [
+                        -9.27111730000,
+                        38.77066940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "placement": "middle_of:2",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26723240000,
+                        38.77035710000
+                    ],
+                    [
+                        -9.26704820000,
+                        38.77049540000
+                    ],
+                    [
+                        -9.26687280000,
+                        38.77061920000
+                    ],
+                    [
+                        -9.26673940000,
+                        38.77070840000
+                    ],
+                    [
+                        -9.26661560000,
+                        38.77078880000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "6",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27511330000,
+                        38.77106060000
+                    ],
+                    [
+                        -9.27361010000,
+                        38.77053530000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Rua da Alemanha",
+                "oneway": "no",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27234550000,
+                        38.76982790000
+                    ],
+                    [
+                        -9.27228380000,
+                        38.76977140000
+                    ],
+                    [
+                        -9.27223360000,
+                        38.76969200000
+                    ],
+                    [
+                        -9.27219230000,
+                        38.76962650000
+                    ],
+                    [
+                        -9.27214700000,
+                        38.76954560000
+                    ],
+                    [
+                        -9.27207230000,
+                        38.76945890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Sul",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "lit": "yes",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27174990000,
+                        38.76995070000
+                    ],
+                    [
+                        -9.27153670000,
+                        38.76982750000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Rua da Alemanha",
+                "oneway": "yes",
+                "source": "Bing"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27172730000,
+                        38.76947230000
+                    ],
+                    [
+                        -9.27176540000,
+                        38.76944580000
+                    ],
+                    [
+                        -9.27180220000,
+                        38.76943200000
+                    ],
+                    [
+                        -9.27185420000,
+                        38.76942140000
+                    ],
+                    [
+                        -9.27191010000,
+                        38.76941870000
+                    ],
+                    [
+                        -9.27196470000,
+                        38.76942540000
+                    ],
+                    [
+                        -9.27201360000,
+                        38.76944030000
+                    ],
+                    [
+                        -9.27207230000,
+                        38.76945890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "toll_booth"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27511330000,
+                    38.77106060000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa Sul",
+                "destination:ref": "A 9",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26985050000,
+                        38.76535480000
+                    ],
+                    [
+                        -9.26983160000,
+                        38.76526200000
+                    ],
+                    [
+                        -9.26981310000,
+                        38.76515920000
+                    ],
+                    [
+                        -9.26979760000,
+                        38.76503580000
+                    ],
+                    [
+                        -9.26979120000,
+                        38.76488520000
+                    ],
+                    [
+                        -9.26979170000,
+                        38.76468520000
+                    ],
+                    [
+                        -9.26980100000,
+                        38.76449300000
+                    ],
+                    [
+                        -9.26984190000,
+                        38.76409530000
+                    ],
+                    [
+                        -9.26981330000,
+                        38.76369340000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Sintra;Agualva-Cacém",
+                "highway": "motorway_junction",
+                "ref": "2A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.26944450000,
+                    38.76523450000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Belas;Idanha;Monte Abraão",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "lit": "yes",
+                "oneway": "yes",
+                "ref": "A 16",
+                "source": "Bing",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27580230000,
+                        38.77109080000
+                    ],
+                    [
+                        -9.27555360000,
+                        38.77099510000
+                    ],
+                    [
+                        -9.27519400000,
+                        38.77087250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lit": "yes",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.27131820000,
+                        38.76949200000
+                    ],
+                    [
+                        -9.27134930000,
+                        38.76955870000
+                    ],
+                    [
+                        -9.27135990000,
+                        38.76960610000
+                    ],
+                    [
+                        -9.27135840000,
+                        38.76965640000
+                    ],
+                    [
+                        -9.27120950000,
+                        38.77015910000
+                    ],
+                    [
+                        -9.27118380000,
+                        38.77020790000
+                    ],
+                    [
+                        -9.27113150000,
+                        38.77025580000
+                    ],
+                    [
+                        -9.27106750000,
+                        38.77030100000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "change:lanes": "yes|not_right|not_left",
+                "destination": "Cascais",
+                "destination:ref:to": "A 5;IC 19",
+                "highway": "motorway",
+                "lanes": "3",
+                "name": "Circular Regional Exterior de Lisboa (CREL)",
+                "nat_ref": "IC 18",
+                "oneway": "yes",
+                "ref": "A 9",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.26782920000,
+                        38.77003130000
+                    ],
+                    [
+                        -9.26801100000,
+                        38.76984920000
+                    ],
+                    [
+                        -9.26817580000,
+                        38.76966130000
+                    ]
+                ]
+            }
+        }
+    ]
+}

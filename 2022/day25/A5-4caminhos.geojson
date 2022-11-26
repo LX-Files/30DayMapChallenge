@@ -1,0 +1,1325 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -9.19910000000,
+        38.72330000000,
+        -9.18970000000,
+        38.72700000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19433170000,
+                        38.72634270000
+                    ],
+                    [
+                        -9.19437370000,
+                        38.72631660000
+                    ],
+                    [
+                        -9.19440860000,
+                        38.72628470000
+                    ],
+                    [
+                        -9.19443520000,
+                        38.72624830000
+                    ],
+                    [
+                        -9.19445260000,
+                        38.72620860000
+                    ],
+                    [
+                        -9.19446010000,
+                        38.72616710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19038110000,
+                    38.72562280000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada da Costa do Estoril",
+                "oneway": "yes",
+                "ref": "A 5",
+                "surface": "paved",
+                "toll": "no",
+                "turn:lanes": "through|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.18989890000,
+                        38.72564650000
+                    ],
+                    [
+                        -9.19038110000,
+                        38.72562280000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "name": "Estrada de Monsanto",
+                "oneway": "yes",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19417500000,
+                        38.72565500000
+                    ],
+                    [
+                        -9.19417020000,
+                        38.72570970000
+                    ],
+                    [
+                        -9.19415880000,
+                        38.72575560000
+                    ],
+                    [
+                        -9.19413460000,
+                        38.72584570000
+                    ],
+                    [
+                        -9.19410450000,
+                        38.72588120000
+                    ],
+                    [
+                        -9.19399520000,
+                        38.72598570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada da Costa do Estoril",
+                "oneway": "yes",
+                "ref": "A 5",
+                "surface": "paved",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19038110000,
+                        38.72562280000
+                    ],
+                    [
+                        -9.19089840000,
+                        38.72558000000
+                    ],
+                    [
+                        -9.19136230000,
+                        38.72552830000
+                    ],
+                    [
+                        -9.19213270000,
+                        38.72540660000
+                    ],
+                    [
+                        -9.19291900000,
+                        38.72523950000
+                    ],
+                    [
+                        -9.19354800000,
+                        38.72507870000
+                    ],
+                    [
+                        -9.19447510000,
+                        38.72476810000
+                    ],
+                    [
+                        -9.19539550000,
+                        38.72442040000
+                    ],
+                    [
+                        -9.19744460000,
+                        38.72368340000
+                    ],
+                    [
+                        -9.19892020000,
+                        38.72315070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Monsanto",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19038110000,
+                        38.72562280000
+                    ],
+                    [
+                        -9.19100760000,
+                        38.72565020000
+                    ],
+                    [
+                        -9.19140080000,
+                        38.72570300000
+                    ],
+                    [
+                        -9.19185750000,
+                        38.72580540000
+                    ],
+                    [
+                        -9.19237690000,
+                        38.72594550000
+                    ],
+                    [
+                        -9.19260200000,
+                        38.72598910000
+                    ],
+                    [
+                        -9.19292330000,
+                        38.72601760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Estrada do Alvito"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19346550000,
+                        38.72437780000
+                    ],
+                    [
+                        -9.19278540000,
+                        38.72452210000
+                    ],
+                    [
+                        -9.19254950000,
+                        38.72458140000
+                    ],
+                    [
+                        -9.19230700000,
+                        38.72463450000
+                    ],
+                    [
+                        -9.19201110000,
+                        38.72469810000
+                    ],
+                    [
+                        -9.19191490000,
+                        38.72471310000
+                    ],
+                    [
+                        -9.19169020000,
+                        38.72474340000
+                    ],
+                    [
+                        -9.19149100000,
+                        38.72476000000
+                    ],
+                    [
+                        -9.19122670000,
+                        38.72477030000
+                    ],
+                    [
+                        -9.19092640000,
+                        38.72477440000
+                    ],
+                    [
+                        -9.19064970000,
+                        38.72476430000
+                    ],
+                    [
+                        -9.19050000000,
+                        38.72476090000
+                    ],
+                    [
+                        -9.19036250000,
+                        38.72474690000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sul;Praça de Espanha;Avenida de Ceuta;Marquês de Pombal",
+                "destination:ref": "A 5",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19393630000,
+                        38.72438100000
+                    ],
+                    [
+                        -9.19401740000,
+                        38.72425200000
+                    ],
+                    [
+                        -9.19406680000,
+                        38.72418760000
+                    ],
+                    [
+                        -9.19417890000,
+                        38.72410920000
+                    ],
+                    [
+                        -9.19517540000,
+                        38.72366740000
+                    ],
+                    [
+                        -9.19537020000,
+                        38.72361230000
+                    ],
+                    [
+                        -9.19550690000,
+                        38.72360080000
+                    ],
+                    [
+                        -9.19564440000,
+                        38.72364560000
+                    ],
+                    [
+                        -9.19570450000,
+                        38.72372600000
+                    ],
+                    [
+                        -9.19574640000,
+                        38.72386370000
+                    ],
+                    [
+                        -9.19570890000,
+                        38.72400310000
+                    ],
+                    [
+                        -9.19552160000,
+                        38.72415960000
+                    ],
+                    [
+                        -9.19534190000,
+                        38.72429390000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19370120000,
+                        38.72408630000
+                    ],
+                    [
+                        -9.19364900000,
+                        38.72409050000
+                    ],
+                    [
+                        -9.19359890000,
+                        38.72410280000
+                    ],
+                    [
+                        -9.19355300000,
+                        38.72412260000
+                    ],
+                    [
+                        -9.19351300000,
+                        38.72414920000
+                    ],
+                    [
+                        -9.19348070000,
+                        38.72418150000
+                    ],
+                    [
+                        -9.19345730000,
+                        38.72421810000
+                    ],
+                    [
+                        -9.19344370000,
+                        38.72425770000
+                    ],
+                    [
+                        -9.19344050000,
+                        38.72429860000
+                    ],
+                    [
+                        -9.19344790000,
+                        38.72433920000
+                    ],
+                    [
+                        -9.19346550000,
+                        38.72437780000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "ref": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19738180000,
+                    38.72355170000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "name": "Estrada de Monsanto",
+                "oneway": "yes",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19442430000,
+                        38.72604900000
+                    ],
+                    [
+                        -9.19438080000,
+                        38.72598740000
+                    ],
+                    [
+                        -9.19434050000,
+                        38.72593200000
+                    ],
+                    [
+                        -9.19430570000,
+                        38.72587650000
+                    ],
+                    [
+                        -9.19424260000,
+                        38.72576250000
+                    ],
+                    [
+                        -9.19422670000,
+                        38.72573710000
+                    ],
+                    [
+                        -9.19417500000,
+                        38.72565500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "yes",
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "layer": "1",
+                "name": "Estrada de Monsanto",
+                "oneway": "no",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19392060000,
+                        38.72519130000
+                    ],
+                    [
+                        -9.19365440000,
+                        38.72469040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19446010000,
+                        38.72616710000
+                    ],
+                    [
+                        -9.19445760000,
+                        38.72612620000
+                    ],
+                    [
+                        -9.19444550000,
+                        38.72608640000
+                    ],
+                    [
+                        -9.19442430000,
+                        38.72604900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19363680000,
+                        38.72448810000
+                    ],
+                    [
+                        -9.19368700000,
+                        38.72449420000
+                    ],
+                    [
+                        -9.19373780000,
+                        38.72449250000
+                    ],
+                    [
+                        -9.19378730000,
+                        38.72448330000
+                    ],
+                    [
+                        -9.19383350000,
+                        38.72446680000
+                    ],
+                    [
+                        -9.19387470000,
+                        38.72444360000
+                    ],
+                    [
+                        -9.19390940000,
+                        38.72441470000
+                    ],
+                    [
+                        -9.19393630000,
+                        38.72438100000
+                    ],
+                    [
+                        -9.19395500000,
+                        38.72434220000
+                    ],
+                    [
+                        -9.19396320000,
+                        38.72430130000
+                    ],
+                    [
+                        -9.19396060000,
+                        38.72425990000
+                    ],
+                    [
+                        -9.19394740000,
+                        38.72421980000
+                    ],
+                    [
+                        -9.19392410000,
+                        38.72418260000
+                    ],
+                    [
+                        -9.19389160000,
+                        38.72414990000
+                    ],
+                    [
+                        -9.19385140000,
+                        38.72412290000
+                    ],
+                    [
+                        -9.19382870000,
+                        38.72411190000
+                    ],
+                    [
+                        -9.19378830000,
+                        38.72409770000
+                    ],
+                    [
+                        -9.19374540000,
+                        38.72408910000
+                    ],
+                    [
+                        -9.19370120000,
+                        38.72408630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bicycle": "no",
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "name": "Autoestrada da Costa do Estoril",
+                "oneway": "yes",
+                "ref": "A 5",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19534190000,
+                        38.72429390000
+                    ],
+                    [
+                        -9.19441340000,
+                        38.72463620000
+                    ],
+                    [
+                        -9.19418610000,
+                        38.72471080000
+                    ],
+                    [
+                        -9.19350790000,
+                        38.72493360000
+                    ],
+                    [
+                        -9.19286850000,
+                        38.72510500000
+                    ],
+                    [
+                        -9.19209570000,
+                        38.72526510000
+                    ],
+                    [
+                        -9.19131490000,
+                        38.72539190000
+                    ],
+                    [
+                        -9.19086780000,
+                        38.72544660000
+                    ],
+                    [
+                        -9.19034750000,
+                        38.72548630000
+                    ],
+                    [
+                        -9.18986250000,
+                        38.72550450000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "maxspeed": "50",
+                "name": "Estrada do Penedo",
+                "oneway": "no",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19377500000,
+                        38.72347470000
+                    ],
+                    [
+                        -9.19373610000,
+                        38.72355670000
+                    ],
+                    [
+                        -9.19370240000,
+                        38.72373930000
+                    ],
+                    [
+                        -9.19369870000,
+                        38.72383570000
+                    ],
+                    [
+                        -9.19369920000,
+                        38.72391150000
+                    ],
+                    [
+                        -9.19370120000,
+                        38.72408630000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_link",
+                "oneway": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19389340000,
+                        38.72613120000
+                    ],
+                    [
+                        -9.19365720000,
+                        38.72610140000
+                    ],
+                    [
+                        -9.19292330000,
+                        38.72601760000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "lanes": "2",
+                "name": "Estrada de Monsanto",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19486300000,
+                        38.72698180000
+                    ],
+                    [
+                        -9.19473590000,
+                        38.72685990000
+                    ],
+                    [
+                        -9.19460730000,
+                        38.72672060000
+                    ],
+                    [
+                        -9.19447730000,
+                        38.72655590000
+                    ],
+                    [
+                        -9.19433170000,
+                        38.72634270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "maxspeed": "120",
+                "traffic_sign": "maxspeed"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19418610000,
+                    38.72471080000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19280240000,
+                    38.72532510000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19399520000,
+                        38.72598570000
+                    ],
+                    [
+                        -9.19395670000,
+                        38.72601560000
+                    ],
+                    [
+                        -9.19392620000,
+                        38.72605080000
+                    ],
+                    [
+                        -9.19390480000,
+                        38.72608980000
+                    ],
+                    [
+                        -9.19389340000,
+                        38.72613120000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19346550000,
+                        38.72437780000
+                    ],
+                    [
+                        -9.19348870000,
+                        38.72440860000
+                    ],
+                    [
+                        -9.19351840000,
+                        38.72443580000
+                    ],
+                    [
+                        -9.19355370000,
+                        38.72445860000
+                    ],
+                    [
+                        -9.19359360000,
+                        38.72447620000
+                    ],
+                    [
+                        -9.19363680000,
+                        38.72448810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "created_by": "JOSM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19654570000,
+                    38.72361890000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bicycle": "no",
+                "change:lanes": "yes|yes|not_right|no",
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "name": "Autoestrada da Costa do Estoril",
+                "oneway": "yes",
+                "ref": "A 5",
+                "toll": "no"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19738180000,
+                        38.72355170000
+                    ],
+                    [
+                        -9.19534190000,
+                        38.72429390000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bicycle": "no",
+                "change:lanes": "yes|yes|not_right|no",
+                "highway": "motorway",
+                "lanes": "4",
+                "maxspeed": "120",
+                "name": "Autoestrada da Costa do Estoril",
+                "oneway": "yes",
+                "ref": "A 5",
+                "toll": "no",
+                "turn:lanes": "through|through|through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19886070000,
+                        38.72302140000
+                    ],
+                    [
+                        -9.19738180000,
+                        38.72355170000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19442430000,
+                        38.72604900000
+                    ],
+                    [
+                        -9.19438230000,
+                        38.72600440000
+                    ],
+                    [
+                        -9.19432740000,
+                        38.72596930000
+                    ],
+                    [
+                        -9.19426320000,
+                        38.72594590000
+                    ],
+                    [
+                        -9.19419350000,
+                        38.72593560000
+                    ],
+                    [
+                        -9.19412270000,
+                        38.72593910000
+                    ],
+                    [
+                        -9.19405520000,
+                        38.72595610000
+                    ],
+                    [
+                        -9.19399520000,
+                        38.72598570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "name": "Estrada de Monsanto",
+                "oneway": "no",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19417500000,
+                        38.72565500000
+                    ],
+                    [
+                        -9.19393600000,
+                        38.72521520000
+                    ],
+                    [
+                        -9.19392060000,
+                        38.72519130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "lanes": "2",
+                "maxspeed": "50",
+                "name": "Estrada das Oliveiras de Baixo",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19647560000,
+                        38.72623110000
+                    ],
+                    [
+                        -9.19545910000,
+                        38.72618550000
+                    ],
+                    [
+                        -9.19471930000,
+                        38.72617230000
+                    ],
+                    [
+                        -9.19446010000,
+                        38.72616710000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Toponímia: Sítios. Início: Confluência com Avenida Tenente Martins - Estrada das Oliveiras de Baixo - Rotunda de Pina Manique.",
+                "highway": "tertiary",
+                "name": "Estrada de Monsanto",
+                "source:description": "dadosabertos.cm-lisboa.pt",
+                "source:pkey": "390",
+                "start_date": "1896-08-20",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19365440000,
+                        38.72469040000
+                    ],
+                    [
+                        -9.19363850000,
+                        38.72464300000
+                    ],
+                    [
+                        -9.19362950000,
+                        38.72460050000
+                    ],
+                    [
+                        -9.19362610000,
+                        38.72454560000
+                    ],
+                    [
+                        -9.19363680000,
+                        38.72448810000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19389340000,
+                        38.72613120000
+                    ],
+                    [
+                        -9.19389230000,
+                        38.72617470000
+                    ],
+                    [
+                        -9.19390220000,
+                        38.72621750000
+                    ],
+                    [
+                        -9.19392250000,
+                        38.72625800000
+                    ],
+                    [
+                        -9.19395260000,
+                        38.72629460000
+                    ],
+                    [
+                        -9.19399130000,
+                        38.72632590000
+                    ],
+                    [
+                        -9.19403700000,
+                        38.72635070000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "give_way"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19552160000,
+                    38.72415960000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "name": "Avenida Tenente Martins"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19403700000,
+                        38.72635070000
+                    ],
+                    [
+                        -9.19372220000,
+                        38.72671030000
+                    ],
+                    [
+                        -9.19353960000,
+                        38.72692610000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "tertiary",
+                "junction": "roundabout",
+                "name": "Cruz das Oliveiras",
+                "surface": "asphalt"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19403700000,
+                        38.72635070000
+                    ],
+                    [
+                        -9.19408410000,
+                        38.72636710000
+                    ],
+                    [
+                        -9.19413430000,
+                        38.72637660000
+                    ],
+                    [
+                        -9.19418580000,
+                        38.72637890000
+                    ],
+                    [
+                        -9.19423700000,
+                        38.72637380000
+                    ],
+                    [
+                        -9.19428620000,
+                        38.72636160000
+                    ],
+                    [
+                        -9.19433170000,
+                        38.72634270000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Sintra;Cascais;Amadora",
+                "destination:ref": "A 5",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19292330000,
+                        38.72601760000
+                    ],
+                    [
+                        -9.19270630000,
+                        38.72594360000
+                    ],
+                    [
+                        -9.19263500000,
+                        38.72589420000
+                    ],
+                    [
+                        -9.19258060000,
+                        38.72583100000
+                    ],
+                    [
+                        -9.19254220000,
+                        38.72575530000
+                    ],
+                    [
+                        -9.19252880000,
+                        38.72568130000
+                    ],
+                    [
+                        -9.19255450000,
+                        38.72558080000
+                    ],
+                    [
+                        -9.19264850000,
+                        38.72544400000
+                    ],
+                    [
+                        -9.19280240000,
+                        38.72532510000
+                    ],
+                    [
+                        -9.19291900000,
+                        38.72523950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Monsanto",
+                "highway": "motorway_link",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -9.19738180000,
+                        38.72355170000
+                    ],
+                    [
+                        -9.19654570000,
+                        38.72361890000
+                    ],
+                    [
+                        -9.19603070000,
+                        38.72360550000
+                    ],
+                    [
+                        -9.19554110000,
+                        38.72356910000
+                    ],
+                    [
+                        -9.19535950000,
+                        38.72358560000
+                    ],
+                    [
+                        -9.19516680000,
+                        38.72363900000
+                    ],
+                    [
+                        -9.19413350000,
+                        38.72408820000
+                    ],
+                    [
+                        -9.19401000000,
+                        38.72412970000
+                    ],
+                    [
+                        -9.19396230000,
+                        38.72413460000
+                    ],
+                    [
+                        -9.19385140000,
+                        38.72412290000
+                    ]
+                ]
+            }
+        }
+    ]
+}

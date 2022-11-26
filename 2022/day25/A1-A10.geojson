@@ -1,0 +1,2390 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "bbox": [
+        -8.97260000000,
+        39.01410000000,
+        -8.96010000000,
+        39.02040000000
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway_junction",
+                "name": "Arruda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.96369340000,
+                    39.02382590000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96623380000,
+                        39.01567900000
+                    ],
+                    [
+                        -8.96634970000,
+                        39.01427330000
+                    ],
+                    [
+                        -8.96637390000,
+                        39.01395500000
+                    ],
+                    [
+                        -8.96640320000,
+                        39.01356950000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96896210000,
+                        39.01727110000
+                    ],
+                    [
+                        -8.96895240000,
+                        39.01719650000
+                    ],
+                    [
+                        -8.96888600000,
+                        39.01694350000
+                    ],
+                    [
+                        -8.96875580000,
+                        39.01668160000
+                    ],
+                    [
+                        -8.96857580000,
+                        39.01643770000
+                    ],
+                    [
+                        -8.96833690000,
+                        39.01622930000
+                    ],
+                    [
+                        -8.96808320000,
+                        39.01606660000
+                    ],
+                    [
+                        -8.96778820000,
+                        39.01593530000
+                    ],
+                    [
+                        -8.96744800000,
+                        39.01583340000
+                    ],
+                    [
+                        -8.96707320000,
+                        39.01578370000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Porto;Carregado",
+                "highway": "motorway_junction",
+                "ref": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.96075790000,
+                    39.01731850000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado;Lisboa;Vila Franca;Plataforma Logística",
+                "destination:lanes": "Porto|",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through;right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.97153630000,
+                        39.01761570000
+                    ],
+                    [
+                        -8.97039640000,
+                        39.01737510000
+                    ],
+                    [
+                        -8.97014840000,
+                        39.01731180000
+                    ],
+                    [
+                        -8.96979110000,
+                        39.01717330000
+                    ],
+                    [
+                        -8.96948050000,
+                        39.01697350000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Arruda;Benavente;Algarve",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96488180000,
+                        39.02204960000
+                    ],
+                    [
+                        -8.96505580000,
+                        39.02170350000
+                    ],
+                    [
+                        -8.96522830000,
+                        39.02130580000
+                    ],
+                    [
+                        -8.96538070000,
+                        39.02093580000
+                    ],
+                    [
+                        -8.96559520000,
+                        39.02033930000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96406870000,
+                        39.01768540000
+                    ],
+                    [
+                        -8.96426100000,
+                        39.01776550000
+                    ],
+                    [
+                        -8.96442000000,
+                        39.01785840000
+                    ],
+                    [
+                        -8.96464270000,
+                        39.01805010000
+                    ],
+                    [
+                        -8.96497950000,
+                        39.01846430000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96835200000,
+                        39.01813970000
+                    ],
+                    [
+                        -8.96856410000,
+                        39.01797230000
+                    ],
+                    [
+                        -8.96875940000,
+                        39.01784950000
+                    ],
+                    [
+                        -8.96904320000,
+                        39.01771080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96904320000,
+                        39.01771080000
+                    ],
+                    [
+                        -8.96930950000,
+                        39.01763100000
+                    ],
+                    [
+                        -8.96959220000,
+                        39.01758080000
+                    ],
+                    [
+                        -8.96978380000,
+                        39.01756830000
+                    ],
+                    [
+                        -8.97001610000,
+                        39.01757210000
+                    ],
+                    [
+                        -8.97029480000,
+                        39.01759890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96743130000,
+                        39.01861990000
+                    ],
+                    [
+                        -8.96772680000,
+                        39.01848510000
+                    ],
+                    [
+                        -8.96835200000,
+                        39.01813970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96648320000,
+                        39.01479940000
+                    ],
+                    [
+                        -8.96651520000,
+                        39.01436900000
+                    ],
+                    [
+                        -8.96655170000,
+                        39.01412040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96318900000,
+                        39.01718900000
+                    ],
+                    [
+                        -8.96200250000,
+                        39.01720220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Lisboa;Vila Franca",
+                "highway": "motorway_junction",
+                "ref": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.96625140000,
+                    39.01725050000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Porto;Aveiras de Cima|Porto;Aveiras de Cima|Alenquer;Carregado;Azambuja",
+                "destination:ref:lanes": "A 1|A 1|EN 3",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96502370000,
+                        39.02013210000
+                    ],
+                    [
+                        -8.96468320000,
+                        39.02102400000
+                    ],
+                    [
+                        -8.96429260000,
+                        39.02189010000
+                    ],
+                    [
+                        -8.96404370000,
+                        39.02237700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Alenquer;Carregado;Azambuja",
+                "destination:ref": "EN 3",
+                "destination:ref:to": "EN 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96585910000,
+                        39.01478360000
+                    ],
+                    [
+                        -8.96585240000,
+                        39.01482190000
+                    ],
+                    [
+                        -8.96573780000,
+                        39.01516270000
+                    ],
+                    [
+                        -8.96555660000,
+                        39.01544260000
+                    ],
+                    [
+                        -8.96440020000,
+                        39.01661470000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96424700000,
+                        39.01729500000
+                    ],
+                    [
+                        -8.96483150000,
+                        39.01728640000
+                    ],
+                    [
+                        -8.96625140000,
+                        39.01725050000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "exit_to": "Porto;Carregado;Lisboa;Vila Franca;Plataforma Logística",
+                "highway": "motorway_junction",
+                "ref": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.97153630000,
+                    39.01761570000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96636210000,
+                        39.01917690000
+                    ],
+                    [
+                        -8.96644060000,
+                        39.01914010000
+                    ],
+                    [
+                        -8.96744040000,
+                        39.01872260000
+                    ],
+                    [
+                        -8.96789970000,
+                        39.01845290000
+                    ],
+                    [
+                        -8.96835200000,
+                        39.01813970000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96369340000,
+                        39.02382590000
+                    ],
+                    [
+                        -8.96414110000,
+                        39.02299700000
+                    ],
+                    [
+                        -8.96443550000,
+                        39.02249040000
+                    ],
+                    [
+                        -8.96470970000,
+                        39.02193550000
+                    ],
+                    [
+                        -8.96546340000,
+                        39.02009080000
+                    ],
+                    [
+                        -8.96590420000,
+                        39.01840370000
+                    ],
+                    [
+                        -8.96607520000,
+                        39.01731020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "120",
+                "note": "A10 / IC2 / IC3",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96625140000,
+                        39.01725050000
+                    ],
+                    [
+                        -8.96675750000,
+                        39.01722850000
+                    ],
+                    [
+                        -8.96789260000,
+                        39.01728730000
+                    ],
+                    [
+                        -8.96906870000,
+                        39.01739940000
+                    ],
+                    [
+                        -8.97012430000,
+                        39.01753170000
+                    ],
+                    [
+                        -8.97146990000,
+                        39.01778850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96868380000,
+                        39.01817980000
+                    ],
+                    [
+                        -8.96884140000,
+                        39.01796220000
+                    ],
+                    [
+                        -8.96895350000,
+                        39.01760590000
+                    ],
+                    [
+                        -8.96896210000,
+                        39.01727110000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96200250000,
+                        39.01720220000
+                    ],
+                    [
+                        -8.96169920000,
+                        39.01720180000
+                    ],
+                    [
+                        -8.96148560000,
+                        39.01719990000
+                    ],
+                    [
+                        -8.96104260000,
+                        39.01719720000
+                    ],
+                    [
+                        -8.96057160000,
+                        39.01719830000
+                    ],
+                    [
+                        -8.96000580000,
+                        39.01718890000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96559000000,
+                        39.01515250000
+                    ],
+                    [
+                        -8.96538330000,
+                        39.01538110000
+                    ],
+                    [
+                        -8.96380670000,
+                        39.01666940000
+                    ],
+                    [
+                        -8.96351490000,
+                        39.01686030000
+                    ],
+                    [
+                        -8.96329790000,
+                        39.01695920000
+                    ],
+                    [
+                        -8.96308650000,
+                        39.01703180000
+                    ],
+                    [
+                        -8.96269800000,
+                        39.01710410000
+                    ],
+                    [
+                        -8.96200250000,
+                        39.01720220000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca;Plataforma Logística;Benavente;Algarve",
+                "destination:ref": "A 1;A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96559520000,
+                        39.02033930000
+                    ],
+                    [
+                        -8.96574460000,
+                        39.02001930000
+                    ],
+                    [
+                        -8.96585740000,
+                        39.01981170000
+                    ],
+                    [
+                        -8.96597010000,
+                        39.01965910000
+                    ],
+                    [
+                        -8.96612180000,
+                        39.01951810000
+                    ],
+                    [
+                        -8.96636540000,
+                        39.01937430000
+                    ],
+                    [
+                        -8.96668720000,
+                        39.01923780000
+                    ],
+                    [
+                        -8.96780890000,
+                        39.01882090000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Alenquer;Carregado;Azambuja",
+                "destination:ref": "EN 3",
+                "destination:ref:to": "EN 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96591540000,
+                        39.01415910000
+                    ],
+                    [
+                        -8.96590760000,
+                        39.01440680000
+                    ],
+                    [
+                        -8.96585910000,
+                        39.01478360000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96605030000,
+                        39.01546490000
+                    ],
+                    [
+                        -8.96592480000,
+                        39.01587450000
+                    ],
+                    [
+                        -8.96585730000,
+                        39.01613110000
+                    ],
+                    [
+                        -8.96574250000,
+                        39.01633230000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination:lanes": "Benavente;Algarve|Benavente;Algarve|Porto;Carregado;Lisboa;Vila Franca;Plataforma Logística|Porto;Carregado;Lisboa;Vila Franca;Plataforma Logística",
+                "highway": "motorway",
+                "lanes": "4",
+                "layer": "2",
+                "maxspeed": "120",
+                "note": "A10 / IC2 / IC3",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.97296100000,
+                        39.01790020000
+                    ],
+                    [
+                        -8.97153630000,
+                        39.01761570000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96546610000,
+                        39.01593700000
+                    ],
+                    [
+                        -8.96519360000,
+                        39.01613200000
+                    ],
+                    [
+                        -8.96498580000,
+                        39.01634510000
+                    ],
+                    [
+                        -8.96481160000,
+                        39.01657350000
+                    ],
+                    [
+                        -8.96470970000,
+                        39.01679560000
+                    ],
+                    [
+                        -8.96458900000,
+                        39.01740620000
+                    ],
+                    [
+                        -8.96461240000,
+                        39.01761660000
+                    ],
+                    [
+                        -8.96465660000,
+                        39.01781440000
+                    ],
+                    [
+                        -8.96480540000,
+                        39.01814020000
+                    ],
+                    [
+                        -8.96497950000,
+                        39.01846430000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado;Lisboa;Vila Franca;Plataforma Logística",
+                "destination:lanes": "Porto|Porto|Lisboa",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96948050000,
+                        39.01697350000
+                    ],
+                    [
+                        -8.96919550000,
+                        39.01671110000
+                    ],
+                    [
+                        -8.96895990000,
+                        39.01645720000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "4",
+                "layer": "2",
+                "maxspeed": "120",
+                "note": "A10 / IC2 / IC3",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes",
+                "turn:lanes": "|||merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.97146990000,
+                        39.01778850000
+                    ],
+                    [
+                        -8.97289110000,
+                        39.01805150000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96574250000,
+                        39.01633230000
+                    ],
+                    [
+                        -8.96549050000,
+                        39.01661170000
+                    ],
+                    [
+                        -8.96524850000,
+                        39.01685100000
+                    ],
+                    [
+                        -8.96507520000,
+                        39.01709430000
+                    ],
+                    [
+                        -8.96496790000,
+                        39.01739740000
+                    ],
+                    [
+                        -8.96495510000,
+                        39.01759950000
+                    ],
+                    [
+                        -8.96497310000,
+                        39.01778920000
+                    ],
+                    [
+                        -8.96503820000,
+                        39.01799840000
+                    ],
+                    [
+                        -8.96515770000,
+                        39.01818980000
+                    ],
+                    [
+                        -8.96528220000,
+                        39.01833730000
+                    ],
+                    [
+                        -8.96544330000,
+                        39.01846350000
+                    ],
+                    [
+                        -8.96562460000,
+                        39.01857370000
+                    ],
+                    [
+                        -8.96584070000,
+                        39.01867930000
+                    ],
+                    [
+                        -8.96607410000,
+                        39.01875370000
+                    ],
+                    [
+                        -8.96631640000,
+                        39.01879190000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96657910000,
+                        39.01842310000
+                    ],
+                    [
+                        -8.96643450000,
+                        39.01835670000
+                    ],
+                    [
+                        -8.96628670000,
+                        39.01825340000
+                    ],
+                    [
+                        -8.96621690000,
+                        39.01816680000
+                    ],
+                    [
+                        -8.96613920000,
+                        39.01803310000
+                    ],
+                    [
+                        -8.96609960000,
+                        39.01784380000
+                    ],
+                    [
+                        -8.96607520000,
+                        39.01731020000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "|merge_to_left"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96631640000,
+                        39.01879190000
+                    ],
+                    [
+                        -8.96656160000,
+                        39.01879940000
+                    ],
+                    [
+                        -8.96681000000,
+                        39.01877890000
+                    ],
+                    [
+                        -8.96705600000,
+                        39.01874030000
+                    ],
+                    [
+                        -8.96743130000,
+                        39.01861990000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96655170000,
+                        39.01412040000
+                    ],
+                    [
+                        -8.96659250000,
+                        39.01363140000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination:lanes": "Arruda;A9-CREL|Lisboa;Vila Franca;Arruda;A9-CREL|Porto;Carregado",
+                "highway": "motorway",
+                "lanes": "3",
+                "layer": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes",
+                "turn:lanes": "through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96000460000,
+                        39.01732240000
+                    ],
+                    [
+                        -8.96075790000,
+                        39.01731850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "maxspeed": "60",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96591540000,
+                        39.01415910000
+                    ],
+                    [
+                        -8.96577060000,
+                        39.01482370000
+                    ],
+                    [
+                        -8.96559000000,
+                        39.01515250000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Lisboa;Vila Franca;Plataforma Logística|Benavente;Algarve",
+                "destination:ref:lanes": "A 1|A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "left|through"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96780890000,
+                        39.01882090000
+                    ],
+                    [
+                        -8.96809310000,
+                        39.01867690000
+                    ],
+                    [
+                        -8.96835220000,
+                        39.01851730000
+                    ],
+                    [
+                        -8.96858280000,
+                        39.01831590000
+                    ],
+                    [
+                        -8.96868380000,
+                        39.01817980000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96895990000,
+                        39.01645720000
+                    ],
+                    [
+                        -8.96866040000,
+                        39.01608260000
+                    ],
+                    [
+                        -8.96830910000,
+                        39.01578900000
+                    ],
+                    [
+                        -8.96805050000,
+                        39.01561270000
+                    ],
+                    [
+                        -8.96771830000,
+                        39.01544150000
+                    ],
+                    [
+                        -8.96731330000,
+                        39.01525250000
+                    ],
+                    [
+                        -8.96711170000,
+                        39.01515010000
+                    ],
+                    [
+                        -8.96691510000,
+                        39.01500350000
+                    ],
+                    [
+                        -8.96678770000,
+                        39.01486320000
+                    ],
+                    [
+                        -8.96667700000,
+                        39.01470090000
+                    ],
+                    [
+                        -8.96660930000,
+                        39.01453330000
+                    ],
+                    [
+                        -8.96657500000,
+                        39.01435130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96423540000,
+                        39.01703130000
+                    ],
+                    [
+                        -8.96398670000,
+                        39.01708140000
+                    ],
+                    [
+                        -8.96318900000,
+                        39.01718900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "120",
+                "note": "A10 / IC2 / IC3",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96908670000,
+                        39.01729150000
+                    ],
+                    [
+                        -8.96789700000,
+                        39.01719060000
+                    ],
+                    [
+                        -8.96677120000,
+                        39.01713990000
+                    ],
+                    [
+                        -8.96482140000,
+                        39.01714220000
+                    ],
+                    [
+                        -8.96435900000,
+                        39.01716590000
+                    ],
+                    [
+                        -8.96382940000,
+                        39.01718420000
+                    ],
+                    [
+                        -8.96318900000,
+                        39.01718900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "merge_to_left|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96514320000,
+                        39.01650670000
+                    ],
+                    [
+                        -8.96482040000,
+                        39.01677580000
+                    ],
+                    [
+                        -8.96473040000,
+                        39.01683180000
+                    ],
+                    [
+                        -8.96456540000,
+                        39.01692460000
+                    ],
+                    [
+                        -8.96447960000,
+                        39.01696010000
+                    ],
+                    [
+                        -8.96423540000,
+                        39.01703130000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "3",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96605030000,
+                        39.01546490000
+                    ],
+                    [
+                        -8.96596310000,
+                        39.01652120000
+                    ],
+                    [
+                        -8.96587600000,
+                        39.01730620000
+                    ],
+                    [
+                        -8.96571230000,
+                        39.01838050000
+                    ],
+                    [
+                        -8.96543280000,
+                        39.01953850000
+                    ],
+                    [
+                        -8.96527320000,
+                        39.02005670000
+                    ],
+                    [
+                        -8.96503460000,
+                        39.02072180000
+                    ],
+                    [
+                        -8.96452490000,
+                        39.02189740000
+                    ],
+                    [
+                        -8.96413120000,
+                        39.02266330000
+                    ],
+                    [
+                        -8.96358020000,
+                        39.02365980000
+                    ],
+                    [
+                        -8.96336880000,
+                        39.02405510000
+                    ],
+                    [
+                        -8.96307200000,
+                        39.02458920000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96888050000,
+                        39.01727060000
+                    ],
+                    [
+                        -8.96886440000,
+                        39.01720800000
+                    ],
+                    [
+                        -8.96878220000,
+                        39.01699200000
+                    ],
+                    [
+                        -8.96865910000,
+                        39.01678980000
+                    ],
+                    [
+                        -8.96851770000,
+                        39.01662910000
+                    ],
+                    [
+                        -8.96833710000,
+                        39.01647210000
+                    ],
+                    [
+                        -8.96792780000,
+                        39.01624810000
+                    ],
+                    [
+                        -8.96719600000,
+                        39.01595360000
+                    ],
+                    [
+                        -8.96678830000,
+                        39.01566190000
+                    ],
+                    [
+                        -8.96664310000,
+                        39.01546280000
+                    ],
+                    [
+                        -8.96653610000,
+                        39.01526170000
+                    ],
+                    [
+                        -8.96649520000,
+                        39.01504380000
+                    ],
+                    [
+                        -8.96648320000,
+                        39.01479940000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination:lanes": "Alenquer;Carregado;Azambuja|Benavente;Algarve",
+                "destination:ref:lanes": "EN 3|A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96599760000,
+                        39.01344910000
+                    ],
+                    [
+                        -8.96591540000,
+                        39.01415910000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96868380000,
+                        39.01817980000
+                    ],
+                    [
+                        -8.96879340000,
+                        39.01797330000
+                    ],
+                    [
+                        -8.96889660000,
+                        39.01763110000
+                    ],
+                    [
+                        -8.96888050000,
+                        39.01727060000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.97029480000,
+                        39.01759890000
+                    ],
+                    [
+                        -8.97146990000,
+                        39.01778850000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96895990000,
+                        39.01645720000
+                    ],
+                    [
+                        -8.96861490000,
+                        39.01614540000
+                    ],
+                    [
+                        -8.96819640000,
+                        39.01586400000
+                    ],
+                    [
+                        -8.96787030000,
+                        39.01572160000
+                    ],
+                    [
+                        -8.96753580000,
+                        39.01561980000
+                    ],
+                    [
+                        -8.96719820000,
+                        39.01556770000
+                    ],
+                    [
+                        -8.96683910000,
+                        39.01555250000
+                    ],
+                    [
+                        -8.96659210000,
+                        39.01556770000
+                    ],
+                    [
+                        -8.96629680000,
+                        39.01561250000
+                    ],
+                    [
+                        -8.96598360000,
+                        39.01569910000
+                    ],
+                    [
+                        -8.96569980000,
+                        39.01581280000
+                    ],
+                    [
+                        -8.96546610000,
+                        39.01593700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "120",
+                "note": "A10 / IC2 / IC3",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.97153630000,
+                        39.01761570000
+                    ],
+                    [
+                        -8.97016150000,
+                        39.01743390000
+                    ],
+                    [
+                        -8.96908670000,
+                        39.01729150000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Lisboa;Vila Franca",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "2",
+                "maxspeed": "40",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96625140000,
+                        39.01725050000
+                    ],
+                    [
+                        -8.96687670000,
+                        39.01729390000
+                    ],
+                    [
+                        -8.96720680000,
+                        39.01735380000
+                    ],
+                    [
+                        -8.96736160000,
+                        39.01742180000
+                    ],
+                    [
+                        -8.96746690000,
+                        39.01749580000
+                    ],
+                    [
+                        -8.96755680000,
+                        39.01761210000
+                    ],
+                    [
+                        -8.96761220000,
+                        39.01773970000
+                    ],
+                    [
+                        -8.96763260000,
+                        39.01786470000
+                    ],
+                    [
+                        -8.96761640000,
+                        39.01799640000
+                    ],
+                    [
+                        -8.96756410000,
+                        39.01812880000
+                    ],
+                    [
+                        -8.96747490000,
+                        39.01824150000
+                    ],
+                    [
+                        -8.96734650000,
+                        39.01834340000
+                    ],
+                    [
+                        -8.96719600000,
+                        39.01841690000
+                    ],
+                    [
+                        -8.96704090000,
+                        39.01845740000
+                    ],
+                    [
+                        -8.96686870000,
+                        39.01847520000
+                    ],
+                    [
+                        -8.96672300000,
+                        39.01845740000
+                    ],
+                    [
+                        -8.96657910000,
+                        39.01842310000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes",
+                "turn:lanes": "through|through|through|right"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96620910000,
+                        39.01350780000
+                    ],
+                    [
+                        -8.96605030000,
+                        39.01546490000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96524360000,
+                        39.01939780000
+                    ],
+                    [
+                        -8.96513190000,
+                        39.01982610000
+                    ],
+                    [
+                        -8.96502370000,
+                        39.02013210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Arruda dos Vinhos",
+                "destination:ref": "A 10",
+                "destination:ref:to": "A 9",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96559520000,
+                        39.02033930000
+                    ],
+                    [
+                        -8.96570960000,
+                        39.01997520000
+                    ],
+                    [
+                        -8.96577350000,
+                        39.01980480000
+                    ],
+                    [
+                        -8.96582220000,
+                        39.01968620000
+                    ],
+                    [
+                        -8.96588770000,
+                        39.01958160000
+                    ],
+                    [
+                        -8.96596740000,
+                        39.01948330000
+                    ],
+                    [
+                        -8.96608170000,
+                        39.01936290000
+                    ],
+                    [
+                        -8.96619660000,
+                        39.01926520000
+                    ],
+                    [
+                        -8.96636210000,
+                        39.01917690000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Alenquer;Carregado;Azambuja",
+                "destination:ref": "EN 3",
+                "destination:ref:to": "EN 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96440020000,
+                        39.01661470000
+                    ],
+                    [
+                        -8.96424290000,
+                        39.01685970000
+                    ],
+                    [
+                        -8.96415350000,
+                        39.01710210000
+                    ],
+                    [
+                        -8.96412170000,
+                        39.01743640000
+                    ],
+                    [
+                        -8.96420010000,
+                        39.01782930000
+                    ],
+                    [
+                        -8.96438970000,
+                        39.01820490000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "layer": "2",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96075790000,
+                        39.01731850000
+                    ],
+                    [
+                        -8.96208970000,
+                        39.01739590000
+                    ],
+                    [
+                        -8.96367720000,
+                        39.01759310000
+                    ],
+                    [
+                        -8.96387890000,
+                        39.01762820000
+                    ],
+                    [
+                        -8.96406870000,
+                        39.01768540000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Lisboa;Vila Franca;Plataforma Logística",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96657500000,
+                        39.01435130000
+                    ],
+                    [
+                        -8.96655170000,
+                        39.01412040000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "3",
+                "layer": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96497950000,
+                        39.01846430000
+                    ],
+                    [
+                        -8.96511340000,
+                        39.01870610000
+                    ],
+                    [
+                        -8.96520260000,
+                        39.01895590000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Benavente;Algarve",
+                "destination:ref": "A 10",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "80",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96707320000,
+                        39.01578370000
+                    ],
+                    [
+                        -8.96675890000,
+                        39.01578280000
+                    ],
+                    [
+                        -8.96626820000,
+                        39.01585510000
+                    ],
+                    [
+                        -8.96579870000,
+                        39.01602660000
+                    ],
+                    [
+                        -8.96544200000,
+                        39.01625380000
+                    ],
+                    [
+                        -8.96514320000,
+                        39.01650670000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "destination": "Alenquer;Carregado;Azambuja",
+                "destination:ref": "EN 3",
+                "destination:ref:to": "EN 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes",
+                "turn:lanes": "merge_to_left|none"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96438970000,
+                        39.01820490000
+                    ],
+                    [
+                        -8.96468270000,
+                        39.01868670000
+                    ],
+                    [
+                        -8.96497430000,
+                        39.01920080000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "motorway",
+                "int_ref": "E 01;E 80",
+                "lanes": "4",
+                "maxspeed": "120",
+                "minspeed": "50",
+                "name": "Autoestrada do Norte",
+                "oneway": "yes",
+                "operator": "Brisa",
+                "ref": "A 1",
+                "surface": "asphalt",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96607520000,
+                        39.01731020000
+                    ],
+                    [
+                        -8.96617140000,
+                        39.01652360000
+                    ],
+                    [
+                        -8.96623380000,
+                        39.01567900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "bridge": "viaduct",
+                "highway": "motorway",
+                "lanes": "2",
+                "layer": "2",
+                "maxspeed": "120",
+                "oneway": "yes",
+                "ref": "A 10",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96075790000,
+                        39.01731850000
+                    ],
+                    [
+                        -8.96321790000,
+                        39.01730640000
+                    ],
+                    [
+                        -8.96424700000,
+                        39.01729500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Alenquer;Carregado;Azambuja",
+                "destination:ref": "EN 3",
+                "destination:ref:to": "EN 1",
+                "highway": "motorway_link",
+                "lanes": "1",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96497430000,
+                        39.01920080000
+                    ],
+                    [
+                        -8.96499130000,
+                        39.01924350000
+                    ],
+                    [
+                        -8.96506430000,
+                        39.01954300000
+                    ],
+                    [
+                        -8.96502370000,
+                        39.02013210000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "destination": "Porto;Carregado",
+                "destination:ref": "A 1",
+                "highway": "motorway_link",
+                "lanes": "2",
+                "oneway": "yes",
+                "toll": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.96520260000,
+                        39.01895590000
+                    ],
+                    [
+                        -8.96524480000,
+                        39.01916430000
+                    ],
+                    [
+                        -8.96524360000,
+                        39.01939780000
+                    ]
+                ]
+            }
+        }
+    ]
+}
