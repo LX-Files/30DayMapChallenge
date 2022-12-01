@@ -4,6 +4,7 @@
 <p>Think of it as a way to pass the time, until the next edition of the challenge.</p>
 <p>Images captured via MapStack from Stamen Studio. Raster images edited in #Photoshop. Final composition in #Illustrator. Font used: FiraSans.</p>
 <p>Map data © OpenStreetMap contributors</p>
+<p>The inspiration for this work came from a deck published in Germany, in 1838, the so called <a href="https://commons.wikimedia.org/wiki/Category:Court_game_of_geography"><i>Court Game of Geography</i></a>. 
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2022-day-30__remix.png</b> - the collage.</li>
