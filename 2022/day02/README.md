@@ -1,5 +1,5 @@
 <h1>MAP for day 2 - LINES</h1>
-<h2>Ariadne's thread - Creating contour lines and a Digital Elevation Model by drawing and processing a large number of paths.</h2>
+<h2>ARIADNE'S THREAD - CREATING CONTOUR LINES AND A DIGITAL ELEVATION MODEL BY DRAWING AND PROCESSING A LARGE NUMBER OF PATHS.</h2>
 <p>The ideia was taken from a <a href="https://youtu.be/watch?v=bLbY3iMBW-A">YouTube video</a> made by Monde Geospatial. The DEM is the end result of a processing pipeline which includes Google Earth, TCX Converter, Excel and QGIS.</p>
 <p>The large image shows the coverage of a small area of the city. The inset images show the full path coverage of the whole municipality (top), contour lines generated at 10m interval (middle) and the resulting DEM (bottom).</p>
 <p>This proof of concept was tested using the 1911 municipality contour, slightly different from the current one.</p>
