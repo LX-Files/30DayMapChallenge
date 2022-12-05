@@ -5,7 +5,7 @@
 <p>Map data © OpenStreetMap contributors.</p>
 <p>File listing:</p>
 <ul>
-<li><b>30daymapchallenge__2022-day01__POINTS.png</b> - the MAP itself.</li>
+<li><b>30daymapchallenge__2022-day01__points.png</b> - the MAP itself.</li>
 <li><b>lx_all_nodes.osm.pbf</b> - all nodes in compressed OSM file format.</li>
 <li><b>lx_municipality_contour.gpx</b> - the contour line for the Lisbon municipality in 2022.</li>
 </ul>
