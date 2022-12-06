@@ -10,3 +10,10 @@
 <li><b>lx_municipality_contour.gpx</b> - the contour line for the Lisbon municipality in 2022.</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day01__points.png" width=auto>
+</td>
+</tr>
+</table>
