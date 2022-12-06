@@ -12,3 +12,11 @@
 <p>João Paulo Amado | @jpamado, 2022.</p>
 <p>&nbsp;</p>
 <p>Open data from the Lisbon city hall web site available in <a href="https://lisboaaberta.cm-lisboa.pt/index.php/pt/dados/conjuntos-de-dados">https://lisboaaberta.cm-lisboa.pt/index.php/pt/dados/conjuntos-de-dados</a></p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-04__green.png" width=auto>
+</td>
+</tr>
+</table>
