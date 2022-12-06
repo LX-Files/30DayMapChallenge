@@ -13,3 +13,10 @@
   <li><b>dem.zip</b> - the Digital Elevation Model in GeoTIFF format.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-02__lines.png" width=auto>
+</td>
+</tr>
+</table>
