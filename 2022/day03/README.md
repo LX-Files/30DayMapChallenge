@@ -10,3 +10,11 @@
   <li><b>landuse_lx_municipality.geojson</b> - GeoJSON file with all the polygons drawn.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-03__polygons.png" width=auto>
+</td>
+</tr>
+</table>
