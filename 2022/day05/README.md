@@ -13,7 +13,7 @@ https://www.unhcr.org/refugee-statistics/download/?url=d03M37</p>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
 <p>&nbsp;</p>
-<video controls>
-  <source src="file:///O|/OneDrive/Media/Twitter-video/academic_life.mp4" type="video/mp4">
+<video width="640" controls>
+  <source src="30daymapchallenge__2022-day-05__ukraine.mp4" type="video/mp4">
 </video>
 </body>
