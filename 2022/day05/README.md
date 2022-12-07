@@ -14,6 +14,6 @@ https://www.unhcr.org/refugee-statistics/download/?url=d03M37</p>
 <p>João Paulo Amado | @jpamado, 2022.</p>
 <p>&nbsp;</p>
 <video width="640" controls>
-  <source src="30daymapchallenge__2022-day-05__ukraine.mp4" type="video/mp4">
+  <source src="https://github.com/LX-Files/30DayMapChallenge/blob/main/2022/day05/30daymapchallenge__2022-day-05__ukraine.mp4" type="video/mp4">
 </video>
 </body>
