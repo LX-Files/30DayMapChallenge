@@ -20,7 +20,7 @@ DEM © Copernicus Programme</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2022-day-08__raster.png" width=auto>
+<img src="30daymapchallenge__2022-day-08__osm.png" width=auto>
 </td>
 </tr>
 </table>
