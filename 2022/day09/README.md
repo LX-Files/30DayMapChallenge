@@ -5,7 +5,7 @@
 <p>Original 3D scene reconstructed in Microsoft Photosynth. Cloud point extracted from the original synth with SynthExport by Christoph Hausner. Image editing in #Photoshop. Final composition in #Illustrator. Font used: FiraSans.</p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2022-day-09__space.png</b> - partial view of the point cloud.</li>
+  <li><b>30daymapchallenge__2022-day-09__space.png</b> - the collage with the partial view of the point cloud, the description and the inset panoramic view.</li>
   <li><b>detail.png</b> - detailed view of a smaller portion of the city included in the point cloud (from Google Earth).</li>
   <li><b>panorama_medium.jpg</b> - a panoramic view of the whole area included in the point cloud, in medium quality.</li>
   <li><b>spedro.x3d</b> - the point cloud in X3D format.</li>
