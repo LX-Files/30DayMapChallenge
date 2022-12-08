@@ -1,5 +1,5 @@
 <h1>MAP for day 6 - NETWORK</h1>
-<h2>The tramway network in Lisbon around 1958</h2>
+<h2>THE TRAMWAY NETWORK IN LISBON AROUND 1958</h2>
 <p>The Lisbon tramway network reached it's maximum extent somewhere between 1958 and 1960. The map shows all the lines and depots, comprising 145 km of tracks on the streets, with another 15 km on depots and sidings.</p>
 <p>Both the motor bus and later on the subway brought deep changes to this network across several decades, mostly from the 1950s onwards, with the abandonment of most routes.</p>
 <p>Today the tramway network has an extent of 54 km. The existing tracks are located on the riverside and hilly routes. There is a single depot for the rolling stock, in Santo Amaro, which also doubles as the museum of the public transport company, CARRIS.</p>
