@@ -7,7 +7,7 @@
 <p>Inset map extracted from #OpenStreetMap online. Small country map styled in #QGIS. Image editing in #Photoshop. Final composition in #Illustrator. Font used: FiraSans.</p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2022-day-10__bad-map.jpg</b> - the MAP itself.</li>
+  <li><b>30daymapchallenge__2022-day-10__bad-map.png</b> - the MAP itself.</li>
   <li><b>bad-map.jpg</b> - the hand-drawn portion of the map.</li>
   <li><b>columbeira.jpg</b> - photo of three caves 'Gruta da Água', 'Gruta Nova da Columbeira' and 'Gruta do Caixão'.</li>
   <li><b>lapa_larga.jpg</b> - photo of the 'Abrigo da Lapa Larga'.</li>
@@ -17,3 +17,11 @@
 <p><a href="http://www.cm-bombarral.pt/custompages/showpage.aspx?pageid=41c93b1d-db25-4c97-b8b0-94b6375f6212">Page about archaeology in the Bombarral municipality (in Portuguese)</a></p>
 <p><a href="http://hdl.handle.net/10400.2/6251">A detailed book about these caves (in Portuguese)</a></p>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-10__bad-map.png" width=auto>
+</td>
+</tr>
+</table>
