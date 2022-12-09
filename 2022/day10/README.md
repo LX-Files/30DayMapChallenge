@@ -1,5 +1,5 @@
 <h1>MAP for day 10 - A BAD MAP</h1>
-<h2>Wrong location!</h2>
+<h2>WRONG LOCATION!</h2>
 <p>This map was drawn by hand while on the move, during a paleontology field trip in April 1986. Is was meant to show the location of a series of caves, near Bombarral in the western side of Portugal, containing pre-historical remains, both human and animal. The end result wasn’t perfect, with some words barely readable.</p>
 <p>However, the main problem was a complete misplacement of a couple of caves. My map was rotated in the sense that North points towards the right. The couple of caves that I placed on the left side of the map (South), named ‘gruta das pulgas 1 e 2’ (or ‘Cave of Fleas 1 and 2’) are actually the northermost caves of this complex, as shown on the inset map.</p>
 <p>Fortunately this whole place had already been extensively studied and documented, otherwise anyone using this map would spend some fun times looking for a ghost cave.</p>
