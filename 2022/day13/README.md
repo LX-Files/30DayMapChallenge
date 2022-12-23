@@ -10,5 +10,5 @@
   <li><b>planet_earth.docx</b> - the Word document containing the editable version.</li>
 </ul>
 
-<p>For the map to be edited, it is necessary to install the Europe font. It is available <a href="https://www.dafont.com/es/woodcutter-manero.d3980?page=25">here</a>.<p>
+<p>For the map to be edited, it is necessary to install the Europe font. It is available <a href="https://www.dafont.com/es/europe.font">here</a>.<p>
 <p>João Paulo Amado | @jpamado, 2022.</p>
