@@ -9,5 +9,20 @@ If pork meat and pork blood are nearly essential to all of them, lots of additio
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2022-day-15__food-and-drink_v3.jpg</b> - the MAP itself.</li>
+  <li><b>continental_maritime_border.geojson</b> - the Portuguese maritime border in GeoJSON format.</li>
+  <li><b>land_border.geojson</b> - the Portuguese land border in GeoJSON format.</li>
+  <li><b>province_minho.geojson</b> - the contour of the <i>Minho</i> province in GeoJSON format.</li>
+  <li><b>province_tras-os-montes.geojson</b> - the contour of the <i>Trás-os-Montes e Alto-Douro</i> province in GeoJSON format.</li>
+  <li><b>province_douro.geojson</b> - the contour of the <i>Douro Litoral</i> province in GeoJSON format.</li>
+  <li><b>province_beiras.geojson</b> - the contour of the <i>Beira Alta</i> and <i>Beira Baixa</i> provinces in GeoJSON format.</li>
+  <li><b>province_estremadura.geojson</b> - the contour of the <i>Estremadura</i> province in GeoJSON format.</li>
+  <li><b>province_ribatejo.geojson</b> - the contour of the <i>Ribatejo</i> province in GeoJSON format.</li>
+  <li><b>province_alentejos.geojson</b> - the contour of the <i>Alto Alentejo</i> and <i>Baixo Alentejo</i> provinces in GeoJSON format.</li>
+  <li><b>province_algarve.geojson</b> - the contour of the <i>Algarve</i> province in GeoJSON format.</li>
+  <li><b>barroso.geojson</b> - the contour of the <i>Barroso</i> geographic region in GeoJSON format.</li>
+  <li><b>parque_natural_serra_da_estrela.geojson</b> - the contour of the natural park surrounding the highest Portuguese mountain, <i>Serra da Estrela</i>, in GeoJSON format.</li>
+  <li><b>municipality_montalegre.geojson></b> - the contour of the <i>Montalegre</i> municipality in GeoJSON format.</li>
+  <li><b>municipality_guarda.geojson</b> - the contour of the <i>Guarda</i> municipality in GeoJSON format.</li>
+  <li><b>municipality_cartaxo.geojson</b> - the contour of the <i>Cartaxo</i> municipality in GeoJSON format.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
