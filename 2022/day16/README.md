@@ -8,3 +8,11 @@
   <li><b>30daymapchallenge__2022-day-16__minimal.png</b> - the MAP itself.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-16__minimal.png" width=auto>
+</td>
+</tr>
+</table>
