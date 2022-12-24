@@ -8,7 +8,7 @@ If pork meat and pork blood are nearly essential to all of them, lots of additio
 <p>Map data © OpenStreetMap contributors. DEM © Copernicus Programme.</p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2022-day-15__food-and-drink_v3.jpg</b> - the MAP itself.</li>
+  <li><b>30daymapchallenge__2022-day-15__food-and-drink.png</b> - the MAP itself.</li>
   <li><b>continental_maritime_border.geojson</b> - the Portuguese maritime border in GeoJSON format.</li>
   <li><b>land_border.geojson</b> - the Portuguese land border in GeoJSON format.</li>
   <li><b>province_minho.geojson</b> - the contour of the <i>Minho</i> province in GeoJSON format.</li>
@@ -26,3 +26,11 @@ If pork meat and pork blood are nearly essential to all of them, lots of additio
   <li><b>municipality_cartaxo.geojson</b> - the contour of the <i>Cartaxo</i> municipality in GeoJSON format.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-15__food-and-drink.png" width=auto>
+</td>
+</tr>
+</table>
