@@ -19,3 +19,11 @@ as just a series of lines and loops. The coordinates give their location in the 
   <li><b>A41-VRI.geojson</b> - intersection between the A41 motorway and the VRI highway.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-25__2-colors.png" width=auto>
+</td>
+</tr>
+</table>
