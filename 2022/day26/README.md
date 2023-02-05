@@ -15,3 +15,11 @@ a dashed orange line.</p>
   <li><b>alqueva_border.geojson</b> - the international border ith Spain in GeoJSON format.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-26__islands.png" width=auto>
+</td>
+</tr>
+</table>
