@@ -20,3 +20,11 @@ Final composition in #Illustrator. Font used: FiraSans.</p>
   <li><b>movement__swimming_pool.geojson</b> - swimming pools in GeoJSON format.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-23__movement.png" width=auto>
+</td>
+</tr>
+</table>
