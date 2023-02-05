@@ -11,3 +11,11 @@
   <li><b>30daymapchallenge__2022-day-24__fantasy.png</b> - the MAP itself.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-24__fantasy.png" width=auto>
+</td>
+</tr>
+</table>
