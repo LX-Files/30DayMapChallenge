@@ -1,7 +1,7 @@
 <h1>MAP for day 28 - 3D</h1>
 <h2>PAPERCRAFT LISBON (a work in progress)</h2>
 <p>A 3D representation of the Lisbon DEM, with the sattelite view of the same area mapped onto the surface.</p>
-<p>I wasn't able to finish this 3D representation of Lisbon in time for this day, but wanted to share all the same. The process is a bit convoluted. In order to have a physical representation of the Lisbon DEM, 3D printing would be an obvious answer. However, I also wanted a colored surface representation - an aerial view mapped onto a 3D surface. With no easy or cheap way to get that result, either by printing or thermoforming, I opted for the one method within practical (?) reach - papercraft. The project scale would be 1:25000.</p>
+<p>I wasn't able to finish this 3D representation of Lisbon in time for this day, but wanted to share it all the same. The process is a bit convoluted. In order to have a physical representation of the Lisbon DEM, 3D printing would be an obvious answer. However, I also wanted a colored surface representation - an aerial view mapped onto a 3D surface. With no easy or cheap way to get that result, either by printing or thermoforming, I opted for the one method within practical (?) reach - papercraft. The project scale would be 1:25000.</p>
 <p>The necessary steps were:</p>
 <ul>
 <li>In QGIS, I used the 'DEM 3D printing' plugin and a Lisbon DEM, to create a grid of 6*6 STL files, as if the objective was a classic 3D print; I used a vertical exaggeration value of 3.</li>
@@ -21,3 +21,11 @@
   <li><b>30daymapchallenge__2022-day-28__3d.jpg</b> - partial view of the papercraft assembly.</li>
   </ul>
 <p>João Paulo Amado | @jpamado, 2022.</p>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td style="border:thin #000">
+<img src="30daymapchallenge__2022-day-28__3d.jpg" width=auto>
+</td>
+</tr>
+</table>
