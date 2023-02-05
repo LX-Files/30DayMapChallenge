@@ -5,7 +5,7 @@
 <p>The necessary steps were:</p>
 <ul>
 <li>In QGIS, I used the 'DEM 3D printing' plugin and a Lisbon DEM, to create a grid of 6*6 STL files, as if the objective was a classic 3D print; I used a vertical exaggeration value of 3.</li>
-<li>Using MeshLab, I simplified the meshes, reducing their amount to 200 per segment; this simplification is vital to allow manual work.</li>
+<li>Using MeshLab, I simplified the meshes, reducing the triangle count to 200 per segment; this simplification is vital to allow manual work.</li>
 <li>From Google Earth, I captured a satellite view corresponding to the DEM area./li>
 <li>Using Photoshop, the full raster of that capture was split into 36 segments.</li>
 <li>Using Adobe Dimension, I performed UV mapping on each STL, aligning each of the 36 satellite rasters over the corresponding 3D segment.</li>
