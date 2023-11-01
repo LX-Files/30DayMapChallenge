@@ -6,6 +6,7 @@
 <ul>
 <li><b>30daymapchallenge__2023-day01__points.png</b> - the MAP itself.</li>
 </ul>
+<p>&nbsp;</p>
 <p>João Paulo Amado | @jpamado, 2023.</p>
 <table>
 <tr>
