@@ -5,7 +5,7 @@
 </p>
 <p>File listing:</p>
 <ul>
-<li><b>30daymapchallenge__2023-day03__points.png</b> - the MAP itself.</li>
+<li><b>30daymapchallenge__2023-day03__polygons.png</b> - the MAP itself.</li>
 <li><b>1-triangle.osm</b> - the location of the triangular building in Barcelona, Spain.</li>
 <li><b>2-square.osm</b> - the location of the square building in Paris, France.</li>
 <li><b>3-pentagon.osm</b> - the location of the pentagonal building in Washington, USA.</li>
@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2023-day03__lines.png" width=auto>
+<img src="30daymapchallenge__2023-day03__polygons.png" width=auto>
 </td>
 </tr>
 </table>
