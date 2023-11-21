@@ -5,8 +5,8 @@
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2023-day20__outdoors.png</b> - the MAP itself.</li>
-  <li><b>cml__big_parks_and_gardens.geojson</b> - big parks and gardens, from the OpenStreetMap database.</li>
-  <li><b>cml__green_areas.geojson</b> - green areas, from the OpenStreetMap database.</li>
+  <li><b>big_parks_and_gardens.geojson</b> - big parks and gardens, from the OpenStreetMap database.</li>
+  <li><b>green_areas.geojson</b> - green areas, from the OpenStreetMap database.</li>
   <li><b>lisbon__highway_tracks.osm</b> - highway vectors defined as tracks, from the OpenStreetMap database.</li>
   <li><b>lx_municipality_contour.osm</b> - the contour line for the Lisbon municipality.</li>
   </ul>
