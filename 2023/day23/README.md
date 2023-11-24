@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2023-day23__3d.png" width=auto>
+<img src="30daymapchallenge__2023-day23__3D.png" width=auto>
 </td>
 </tr>
 </table>
