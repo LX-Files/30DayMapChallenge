@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2024-day01__points.png" width=auto>
+<img src="30daymapchallenge__2024-day-01__points.png" width=auto>
 </td>
 </tr>
 </table>
