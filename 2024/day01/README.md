@@ -8,8 +8,8 @@
 <li><b>30daymapchallenge__2024-day01__points.png</b> - the MAP itself.</li>
 <li><b>lx_municipality_contour.gpx</b> - the contour line for the Lisbon municipality in 2024.</li>
 </ul>
-<p>&nbsp;</p>
 <p>João Paulo Amado | @jpamado, 2024.</p>
+<p>&nbsp;</p>
 <table>
 <tr>
 <td style="border:thin #000">
