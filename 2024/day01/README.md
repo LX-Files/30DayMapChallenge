@@ -1,7 +1,7 @@
 <h1>MAP for day 1 - POINTS</h1>
 <h2>CITY LIGHTS</h2> 
 <p>All the city lights in Lisbon, according to the data provided by the city hall, dated from 2020. The most up-to-date information isn't available for download, only visible online. This map shows the position of 72130 public city lights.</p>
-<p>Data provided by <a href="https://lisboaaberta.cm-lisboa.pt/index.php/pt/">Lisboa Aberta. Map styling in <b>#QGIS</b>. Raster editing in <b>#Photoshop</b>. Final composition in <b>#Illustrator</b>. Font used: <b>FiraSans</b>. Map data Câmara Municipal de Lisboa and  © OpenStreetMap contributors.
+<p>Data provided by <a href="https://lisboaaberta.cm-lisboa.pt/index.php/pt/">Lisboa Aberta</a>. Map styling in <b>#QGIS</b>. Raster editing in <b>#Photoshop</b>. Final composition in <b>#Illustrator</b>. Font used: <b>FiraSans</b>. Map data Câmara Municipal de Lisboa and  © OpenStreetMap contributors.
 </p>
 <p>File listing:</p>
 <ul>
