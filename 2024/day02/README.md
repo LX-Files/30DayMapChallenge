@@ -17,7 +17,7 @@ DEM © Copernicus Programme</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2024-day02__lines.png" width=auto>
+<img src="30daymapchallenge__2024-day-02__lines.png" width=auto>
 </td>
 </tr>
 </table>
