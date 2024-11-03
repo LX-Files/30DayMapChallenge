@@ -5,6 +5,8 @@
 Eran Ben-Joseph & David Gordon. Hexagonal Planning in Theory and Practice
 <i>Journal of Urban Design</i>, Vol. 5, No. 3, 237-265, 2000</p>
 <p>Raster images captured from the online version of OpenStreetMap (top) and Google Earth (bottom). Final composition in <b>#Illustrator</b>. Font used: <b>FiraSans</b>.</p>
+<p>Map data © OpenStreetMap contributors.<br>
+Satellite images © 2022-2024 Google.</p>
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2024-day04__hexagons.png</b> - the MAP itself</li>
