@@ -5,7 +5,7 @@
 DEM © Copernicus Programme</p>
 <p>File listing:</p>
 <ul>
-  <li><b>30daymapchallenge__2024-day03__lines.png</b> - the MAP itself</li>
+  <li><b>30daymapchallenge__2024-day03__polygons.png</b> - the MAP itself</li>
   <li><b>continental_maritime_border.geojson</b> - the Atlantic border</li>
   <li><b>land_border.geojson</b> - the border with Spain</li>
   <li><b>boundary_protected-area_edit.osm</b> - elements tagged as boundary:protected_area in continental Portugal in the OpenStreetMap database</li>
@@ -15,7 +15,7 @@ DEM © Copernicus Programme</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2024-day03__lines.png" width=auto>
+<img src="30daymapchallenge__2024-day03__polygons.png" width=auto>
 </td>
 </tr>
 </table>
