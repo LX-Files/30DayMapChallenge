@@ -13,7 +13,7 @@ Current submarine cables © 2024 TeleGeography</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2024-day06__raster.png" width=auto>
+<img src="30daymapchallenge__2024-day06__raster.jpg" width=auto>
 </td>
 </tr>
 </table>
