@@ -1,0 +1,3191 @@
+﻿local;cod;quant;dicofre
+Portugal;PT;37234;PT
+Continente;1;35946;1
+Centro;16;14064;16
+Alentejo;18;10015;18
+Norte;11;9439;11
+Beiras e Serra da Estrela;16J;3320;16J
+Baixo Alentejo;184;3165;184
+Alentejo Central;187;2622;187
+Alto Tâmega;11B;2209;11B
+Viseu Dão Lafões;16G;2125;16G
+Beira Baixa;16H;2024;16H
+Terras de Trás-os-Montes;11E;2020;11E
+Região de Coimbra;16E;1858;16E
+Alto Alentejo;186;1659;186
+Médio Tejo;16I;1579;16I
+Oeste;16B;1575;16B
+Lezíria do Tejo;185;1453;185
+Algarve;15;1437;15
+Algarve;150;1437;150
+Região de Leiria;16F;1212;16F
+Douro;11D;1206;11D
+Alto Minho;111;1128;111
+Alentejo Litoral;181;1116;181
+Área Metropolitana de Lisboa;17;992;17
+Área Metropolitana de Lisboa;170;992;170
+Ave;119;921;119
+Alandroal;1870701;902;870701
+Castelo Branco;16H0502;730;6H0502
+Cávado;112;692;112
+Área Metropolitana do Porto;11A;651;11A
+Montalegre;11B1706;615;1B1706
+Tâmega e Sousa;11C;612;11C
+Odemira;1810211;596;810211
+Portalegre;1861214;582;861214
+Ribeira de Pena;11B1709;575;1B1709
+Fundão;16J0504;549;6J0504
+Santarém;1851416;524;851416
+Mogadouro;11E0408;521;1E0408
+Guarda;16J0907;517;6J0907
+Moura;1840210;495;840210
+Penamacor;16H0507;461;6H0507
+Torres Vedras;16B1113;448;6B1113
+Mértola;1840209;444;840209
+Serpa;1840213;439;840213
+Beja;1840205;422;840205
+Sabugal;16J0911;406;6J0911
+Terras de Bouro;1120310;398;120310
+São Pedro do Sul;16G1816;396;6G1816
+União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto);187070107;393;070107
+Arcos de Valdevez;1111601;391;111601
+Proença-a-Nova;16H0508;387;6H0508
+Região de Aveiro;16D;373;16D
+Covilhã;16J0503;372;6J0503
+Aguiar da Beira;16G0901;369;6G0901
+Castro Daire;16G1803;361;6G1803
+Vila Pouca de Aguiar;11B1713;357;1B1713
+Almodôvar;1840202;357;840202
+Sertã;16I0509;356;6I0509
+Ourique;1840212;351;840212
+Bragança;11E0402;349;1E0402
+Reguengos de Monsaraz;1870711;334;870711
+Lourinhã;16B1108;308;6B1108
+Santiago Maior;187070103;304;070103
+Cuba;1840207;299;840207
+Pombal;16F1015;293;6F1015
+Macedo de Cavaleiros;11E0405;292;1E0405
+Santiago do Cacém;1811509;292;811509
+Mondim de Basto;1191705;290;191705
+Cuba;184020701;288;020701
+Boticas;11B1702;283;1B1702
+Celorico da Beira;16J0903;274;6J0903
+Cabeceiras de Basto;1190304;268;190304
+Chamusca;1851407;268;851407
+Seia;16J0912;263;6J0912
+Loulé;1500808;262;500808
+Mirandela;11E0407;257;1E0407
+Castro Marim;1500804;240;500804
+Alvadia;11B170901;235;170901
+Vila Real;11D1714;233;1D1714
+Rio Maior;1851414;229;851414
+União das freguesias de Cerva e Limões;11B170908;227;170908
+Abrantes;16I1401;225;6I1401
+Leiria;16F1009;224;6F1009
+Porto de Mós;16F1016;224;6F1016
+Coimbra;16E0603;222;6E0603
+União das freguesias de Vila Nova de São Bento e Vale de Vargo;184021309;219;021309
+Chaves;11B1703;217;1B1703
+Ourém;16I1421;217;6I1421
+Mafra;1701109;217;701109
+Mourão;1870708;216;870708
+União das freguesias de Ermelo e Pardelhas;119170510;214;170510
+Ponte de Lima;1111607;212;111607
+Amarante;11C1301;210;1C1301
+Portel;1870709;205;870709
+Gouveia;16J0906;202;6J0906
+Soure;16E0615;199;6E0615
+Alcoutim;1500802;199;500802
+Ferreira do Zêzere;16I1411;195;6I1411
+Coruche;1851409;195;851409
+Alcobaça;16B1001;193;6B1001
+Ponte de Sor;1861213;193;861213
+União das freguesias de Almodôvar e Graça dos Padrões;184020209;192;020209
+Nisa;1861212;192;861212
+Redondo;1870710;190;870710
+Montemor-o-Novo;1870706;189;870706
+Vinhais;11E0412;182;1E0412
+Penamacor;16H050710;181;050710
+Alenquer;16B1101;180;6B1101
+Gavião;1861209;180;861209
+Tondela;16G1821;178;6G1821
+Trancoso;16J0913;178;6J0913
+Terena (São Pedro);187070105;178;070105
+Vouzela;16G1824;177;6G1824
+Idanha-a-Nova;16H0505;176;6H0505
+Alturas do Barroso e Cerdedo;11B170217;173;170217
+Melgaço;1111603;170;111603
+Oliveira do Hospital;16E0611;168;6E0611
+Ansião;16F1003;168;6F1003
+Alegrete;186121402;165;121402
+Valpaços;11B1712;162;1B1712
+União das freguesias de Proença-a-Nova e Peral;16H050807;162;050807
+Vila Viçosa;1870714;162;870714
+União das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras;187070612;161;070612
+Silves;1500813;161;500813
+Arouca;11A0104;159;1A0104
+Granja;187070801;159;070801
+Condeixa-a-Nova;16E0604;157;6E0604
+Tomar;16I1418;155;6I1418
+União das freguesias de Coruche, Fajarda e Erra;185140909;150;140909
+Arganil;16E0601;147;6E0601
+União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador;184021009;145;021009
+Redondo;187071002;145;071002
+Alfândega da Fé;11E0401;142;1E0401
+União das freguesias de Salvada e Quintos;184020522;141;020522
+Azambuja;1851103;141;851103
+União das freguesias de A dos Cunhados e Maceira;16B111321;139;111321
+Torres Novas;16I1419;139;6I1419
+Belmonte;16J0501;139;6J0501
+Covide;112031008;136;031008
+Oleiros;16H0506;135;6H0506
+Vila Velha de Ródão;16H0511;135;6H0511
+União das freguesias de Parreira e Chouto;185140709;135;140709
+Águas Belas;16I141101;134;141101
+Santana de Cambas;184020905;134;020905
+Castro Marim;150080402;134;080402
+Penacova;16E0613;132;6E0613
+Alvaiázere;16F1002;131;6F1002
+Oliveira de Frades;16G1810;131;6G1810
+Sobral da Adiça;184021008;130;021008
+Estremoz;1870704;130;870704
+Fornos de Algodres;16J0905;128;6J0905
+Loures;1701107;127;701107
+Murça;11D1707;125;1D1707
+Palmela;1701508;125;701508
+Vieira do Minho;1190311;123;190311
+Vale de Cambra;11A0119;123;1A0119
+Ourique;184021203;123;021203
+União das freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra;181150912;122;150912
+Vila do Bispo;1500815;122;500815
+Tábua;16E0616;121;6E0616
+União das freguesias de Serpa (Salvador e Santa Maria);184021308;120;021308
+Alcanede;185141604;120;141604
+União das freguesias de Reguengo e São Julião;186121412;120;121412
+União das freguesias de Safara e Santo Aleixo da Restauração;184021010;118;021010
+Sintra;1701111;117;701111
+Reguengos de Monsaraz;187071104;117;071104
+Alijó;11D1701;116;1D1701
+União das freguesias de Arez e Amieira do Tejo;186121211;116;121211
+Rio Douro;119030415;114;030415
+União das freguesias de Ribeira de Nisa e Carreiras;186121413;114;121413
+Viana do Castelo;1111609;113;111609
+Cadaval;16B1104;113;6B1104
+União das freguesias de Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães;16B111326;113;111326
+Miranda do Douro;11E0406;112;1E0406
+Vimioso;11E0411;112;1E0411
+Sesimbra;1701511;112;701511
+Caldas da Rainha;16B1006;111;6B1006
+Ulme;185140704;111;140704
+Sesimbra (Castelo);170151101;110;151101
+Évora;1870705;110;870705
+União das freguesias de Vale de Prazeres e Mata da Rainha;16J050436;109;050436
+Corte do Pinto;184020902;109;020902
+União das freguesias de Garvão e Santa Luzia;184021207;109;021207
+União de freguesias da cidade de Santarém;185141633;109;141633
+Monsaraz;187071103;108;071103
+Vila Verde;1120313;107;120313
+União das freguesias do Sabugal e Aldeia de Santo António;16J091145;105;091145
+Moimenta da Beira;11D1807;104;1D1807
+Viseu;16G1823;104;6G1823
+Pinhel;16J0910;104;6J0910
+União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei;11E040830;102;040830
+União das freguesias de São Bartolomeu dos Galegos e Moledo;16B110814;102;110814
+Vila Nova de Milfontes;181021111;102;021111
+Lousã;16E0607;101;6E0607
+União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires;16H050713;101;050713
+Marvão;1861210;101;861210
+Mação;16I1413;100;6I1413
+São Salvador e Santa Maria;181021120;100;021120
+União das freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros;184020910;100;020910
+Tresminas;11B171312;99;171312
+Meimão;16H050707;99;050707
+Ciladas;187071402;99;071402
+União das freguesias de Sobreira Formosa e Alvito da Beira;16H050808;98;050808
+Santana da Serra;184021206;97;021206
+União das freguesias de Chorense e Monte;112031019;96;031019
+União das freguesias de Gondiães e Vilar de Cunhas;119030420;96;030420
+Moita dos Ferreiros;16B110803;96;110803
+Santo André das Tojeiras;16H050221;96;050221
+União das freguesias de Aguiar da Beira e Coruche;16G090114;94;090114
+Vila Nova de Paiva;16G1822;94;6G1822
+Alcácer do Sal;1811501;94;811501
+Sarzedas;16H050223;93;050223
+Cinfães;11C1804;91;1C1804
+Almagreira;16F101503;91;101503
+Glória;187070402;91;070402
+Póvoa de Lanhoso;1190309;90;190309
+Montargil;186121302;90;121302
+São Bartolomeu de Messines;150081305;90;081305
+Cantanhede;16E0602;88;6E0602
+Grândola;1811505;88;811505
+Crato;1861206;88;861206
+Sertã;16I050912;87;050912
+Castelo de Vide;1861205;87;861205
+Odeleite;150080403;87;080403
+Tramagal;16I140115;86;140115
+Abitureiras;185141601;86;141601
+Fortios;186121404;86;121404
+União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega;11B170909;84;170909
+União das freguesias de Viade de Baixo e Fervidelas;11B170642;83;170642
+Alcanena;16I1402;83;6I1402
+Barrancos;1840204;83;840204
+Barrancos;184020401;83;020401
+Tavira;1500814;83;500814
+Águeda;16D0101;82;6D0101
+União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso;186120607;82;120607
+União das freguesias de Campo e Campinho;187071106;82;071106
+Montemor-o-Velho;16E0610;81;6E0610
+Sátão;16G1817;81;6G1817
+Santa Cruz;184020205;81;020205
+Cabril;11B170601;80;170601
+Ameixial;150080803;80;080803
+Vila do Bispo e Raposeira;150081506;80;081506
+União das freguesias de Pensalvos e Parada de Monteiros;11B171320;77;171320
+União das freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo;16J050434;77;050434
+São Martinho das Amoreiras;181021107;77;021107
+Gondoriz;111160115;76;160115
+Monforte da Beira;16H050216;76;050216
+Soure;16E061509;75;061509
+Aveiras de Cima;185110303;75;110303
+Salir;150080807;75;080807
+Fafe;1190307;74;190307
+Póvoa de Varzim;11A1313;74;1A1313
+São Bento;16F101610;74;101610
+Portel;187070905;74;070905
+Barcelos;1120302;73;120302
+São João da Pesqueira;11D1815;73;1D1815
+União das freguesias de Chaviães e Paços;111160320;72;160320
+Braga;1120303;72;120303
+Celorico de Basto;11C0305;72;1C0305
+Penela;16E0614;71;6E0614
+União das freguesias de Sequeiros e Gradiz;16G090115;71;090115
+Montes da Senhora;16H050802;71;050802
+Mêda;16J0909;71;6J0909
+São Luís;181021106;71;021106
+União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões;16G181621;70;181621
+Relíquias;181021102;70;021102
+Vidigueira;1840214;70;840214
+Carrazeda de Ansiães;11D0403;68;1D0403
+Santiago da Guarda;16F100307;68;100307
+União das freguesias de Souto de Aguiar da Beira e Valverde;16G090116;68;090116
+Erada;16J050310;68;050310
+Valhelhas;16J090747;68;090747
+Castro Verde;1840206;68;840206
+Lagos;1500807;68;500807
+Jou;11D170704;67;170704
+Matela;11E041108;67;041108
+União das freguesias de São Martinho das Moitas e Covas do Rio;16G181622;67;181622
+União das freguesias de Casével e Vaqueiros;185141631;67;141631
+Carvalheira;112031004;66;031004
+Carrazedo de Montenegro e Curros;11B171232;66;171232
+Moita;1701506;66;701506
+União das freguesias de Alcoutim e Pereiro;150080206;66;080206
+União das freguesias de Adoufe e Vilarinho de Samardã;11D171431;65;171431
+Manteigas;16J0908;65;6J0908
+Arraiolos;1870702;65;870702
+Alvão;11B171319;64;171319
+Sernancelhe;11D1818;64;1D1818
+Vinhais;11E041235;64;041235
+Miranda do Corvo;16E0609;64;6E0609
+Mangualde;16G1806;64;6G1806
+Sobral de Monte Agraço;16B1112;63;6B1112
+Zambujal;16E060410;63;060410
+Vale;111160149;62;160149
+Vila Nova de Foz Côa;11D0914;62;1D0914
+União das freguesias de Arrimal e Mendiga;16F101616;62;101616
+Nelas;16G1809;62;6G1809
+Loures;170110707;62;110707
+União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário;170110919;62;110919
+União das freguesias de Santa Clara-a-Nova e Gomes Aires;184020210;62;020210
+Monção;1111604;61;111604
+União das freguesias de Vilarinho dos Galegos e Ventozelo;11E040832;61;040832
+União das freguesias de Parada de Ester e Ester;16G180325;61;180325
+União das freguesias de Açores e Velosa;16J090323;61;090323
+União das freguesias de Pousafoles do Bispo, Pena Lobo e Lomba;16J091143;61;091143
+Arões;11A011901;60;011901
+Penafiel;11C1311;60;1C1311
+Celas;11E041204;60;041204
+Figueira da Foz;16E0605;60;6E0605
+União das freguesias de Cebolais de Cima e Retaxo;16H050226;60;050226
+União das freguesias de Albernoa e Trindade;184020519;60;020519
+Elvas;1861207;60;861207
+Nazaré;16B1011;59;6B1011
+Vila Nova de Poiares;16E0617;59;6E0617
+União das freguesias de Carvalhais e Candal;16G181620;59;181620
+Castelo Branco;16H050205;59;050205
+União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar;170111123;59;111123
+União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana;181150107;59;150107
+União das freguesias de São Bartolomeu do Outeiro e Oriola;187070910;59;070910
+Leomil;11D180709;58;180709
+Cabril;16G180303;58;180303
+Videmonte;16J090749;58;090749
+Mértola;184020904;58;020904
+Vila Marim;11D171429;57;171429
+Penas Roias;11E040812;57;040812
+União das freguesias de Lousã e Vilarinho;16E060708;57;060708
+Cortiçada;16G090103;57;090103
+Troviscal;16I050913;57;050913
+Cortes do Meio;16J050308;57;050308
+União das freguesias de Castro Verde e Casével;184020606;57;020606
+Amareleja;184021001;57;021001
+Faro;1500805;57;500805
+Paredes de Coura;1111605;56;111605
+São Pedro do Esteval;16H050805;56;050805
+Monchique;1500809;56;500809
+Torre de Moncorvo;11D0409;55;1D0409
+Sever do Vouga;16D0117;55;6D0117
+Pampilhosa da Serra;16E0612;55;6E0612
+União das freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca;16I141921;55;141921
+Moita;170150603;55;150603
+Mourão;187070803;55;070803
+Candemil;11C130107;54;130107
+Vila Flor;11E0410;54;1E0410
+Évora de Alcobaça;16B100108;54;100108
+Vila Verde dos Francos;16B110114;54;110114
+Góis;16E0606;54;6E0606
+Abiul;16F101501;54;101501
+Codesseiro;16J090714;54;090714
+Ferreira do Alentejo;1840208;54;840208
+União das freguesias de Cambeses do Rio, Donões e Mourilhe;11B170636;53;170636
+União das freguesias de Degracias e Pombalinho;16E061513;53;061513
+Ansião;16F100309;53;100309
+Malpica do Tejo;16H050214;53;050214
+Alvoco da Serra;16J091201;53;091201
+Paredes;11A1310;52;1A1310
+Sarraquinhos;11B170629;52;170629
+Abela;181150901;52;150901
+Belver;186120902;52;120902
+Margem;186120905;52;120905
+Penedono;11D1812;51;1D1812
+Santa Marta de Penaguião;11D1711;51;1D1711
+Alcofra;16G182401;51;182401
+Caria;16J050102;51;050102
+Maçal do Chão;16J090309;51;090309
+Alcaria;16J050402;51;050402
+União das freguesias de Santo Estêvão e Moita;16J091146;51;091146
+União das freguesias de Grândola e Santa Margarida da Serra;181150506;51;150506
+Aljustrel;1840201;51;840201
+União das freguesias de Malagueira e Horta das Figueiras;187070524;51;070524
+Olhão;1500810;51;500810
+Salto;11B170626;50;170626
+Sabrosa;11D1710;50;1D1710
+Reguengo Grande;16B110805;50;110805
+União das freguesias de Lourinhã e Atalaia;16B110812;50;110812
+Manhouce;16G181607;50;181607
+Vila Franca de Xira;1701114;50;701114
+Cabeça Gorda;184020504;50;020504
+Alcobertas;185141401;50;141401
+São Salvador da Aramenha;186121004;50;121004
+União das freguesias da Sé e São Lourenço;186121411;50;121411
+Martim Longo;150080203;50;080203
+União das freguesias de Cabreiros e Albergaria da Serra;11A010422;49;010422
+União das freguesias de Parada e Faílde;11E040253;49;040253
+União das freguesias de São Miguel, Santa Eufémia e Rabaçal;16E061407;49;061407
+Pussos São Pedro;16F100209;49;100209
+Santa Comba Dão;16G1814;49;6G1814
+União das freguesias de Alvega e Concavada;16I140122;49;140122
+Matança;16J090510;49;090510
+Milharado;170110911;49;110911
+Fráguas;185141405;49;141405
+União das freguesias de Gavião e Atalaia;186120906;49;120906
+Guimarães;1190308;48;190308
+Santa Maria da Feira;11A0109;48;1A0109
+Ansiães;11C130103;48;130103
+São Martinho do Peso;11E040817;48;040817
+Setúbal;1701512;48;701512
+Vaqueiros;150080205;48;080205
+União das freguesias de São Jorge e Ermelo;111160161;47;160161
+Ponte da Barca;1111606;47;111606
+Vila do Conde;11A1316;47;1A1316
+Marco de Canaveses;11C1307;47;1C1307
+Fontes;11D171103;47;171103
+União das freguesias de Maxial e Monte Redondo;16B111325;47;111325
+Moimentinha;16J091311;47;091311
+Cercal;181150903;47;150903
+Sines;1811513;47;811513
+Freixo de Espada à Cinta;11D0404;46;1D0404
+Sezulfe;11E040528;46;040528
+Albergaria-a-Velha;16D0102;46;6D0102
+Estarreja;16D0108;46;6D0108
+Benquerenças;16H050203;46;050203
+Unhais da Serra;16J050325;46;050325
+União das freguesias de Poceirão e Marateca;170150806;46;150806
+Azambuja;185110304;46;110304
+Figueiró dos Vinhos;16F1008;45;6F1008
+União das freguesias de Monte Real e Carvide;16F100935;45;100935
+União das freguesias de Cernache do Bonjardim, Nesperal e Palhais;16I050915;45;050915
+Póvoa de São Miguel;184021002;45;021002
+Montoito;187071001;45;071001
+União das freguesias de Borbela e Lamas de Olo;11D171432;44;171432
+União das freguesias de Lamas e Cercal;16B110412;44;110412
+São Vicente da Beira;16H050222;44;050222
+Vila de Frades;184021404;44;021404
+Grijó de Parada;11E040219;43;040219
+Ramalhal;16B111311;43;111311
+Oleiros-Amieira;16H050614;43;050614
+Sarnadas de Ródão;16H051103;43;051103
+Fátima;16I142106;43;142106
+São Teotónio;181021121;43;021121
+União das freguesias de Santa Vitória e Mombeja;184020523;43;020523
+Arraiolos;187070201;43;070201
+Borba;1870703;43;870703
+Soajo;111160146;42;160146
+União das freguesias de Prado e Remoães;111160322;42;160322
+Chã;11B170604;42;170604
+União das freguesias de Remondes e Soutelo;11E040831;42;040831
+Peniche;16B1014;42;6B1014
+Lagares;16E061106;42;061106
+Alvaiázere;16F100208;42;100208
+Ladoeiro;16H050505;42;050505
+Arronches;1861202;42;861202
+Urra;186121410;42;121410
+Monchique;150080903;42;080903
+Laundos;11A131308;41;131308
+Outeiro;11B170619;41;170619
+Moledo;16G180313;41;180313
+União das freguesias de Freixianda, Ribeira do Fárrio e Formigais;16I142119;41;142119
+Colos;181021118;41;021118
+União das freguesias de São Vicente do Paul e Vale de Figueira;185141634;41;141634
+Viana do Alentejo;1870713;41;870713
+Lagoa;11E040516;40;040516
+Vila de Ala;11E040826;40;040826
+Famalicão;16B101101;40;101101
+Atouguia da Baleia;16B101402;40;101402
+Batalha;16F1004;40;6F1004
+Sul;16G181616;40;181616
+Vila Cova à Coelheira;16G182206;40;182206
+Almaceda;16H050202;40;050202
+Verdelhos;16J050327;40;050327
+Castelo Novo;16J050413;40;050413
+União das freguesias de Aldeias e Mangualde da Serra;16J090623;40;090623
+Montijo;1701507;40;701507
+Brinches;184021302;40;021302
+Foros de Arrão;186121304;40;121304
+Mealhada;16E0111;39;6E0111
+Pedrógão Grande;16F1013;39;6F1013
+Pelariga;16F101508;39;101508
+Perais;16H051102;39;051102
+Nossa Senhora das Misericórdias;16I142111;39;142111
+Almeida;16J0902;39;6J0902
+Inguias;16J050104;39;050104
+Telhado;16J050427;39;050427
+Guarda;16J090758;39;090758
+União das freguesias de Brunhozinho, Castanheira e Sanhoane;11E040829;38;040829
+Aveiro;16D0105;38;6D0105
+Ferreira de Aves;16G181704;38;181704
+União das freguesias de Escalos de Cima e Lousa;16H050228;38;050228
+Baleizão;184020502;38;020502
+Nossa Senhora da Conceição e São Bartolomeu;187071406;38;071406
+Gavieira;111160113;37;160113
+Chacim;11E040509;37;040509
+Anadia;16D0103;37;6D0103
+União das freguesias de Belmonte e Colmeal da Torre;16J050106;37;050106
+União das freguesias de Ponte de Sor, Tramaga e Vale de Açor;186121308;37;121308
+Vilar da Veiga;112031017;36;031017
+União das freguesias de Campanhó e Paradança;119170509;36;170509
+São Vicente;11B170334;36;170334
+Tarouca;11D1820;36;1D1820
+Suçães;11E040729;36;040729
+União das Freguesias de Avidagos, Navalho e Pereira;11E040739;36;040739
+União das freguesias de Mação, Penhascoso e Aboboreira;16I141309;36;141309
+Sardoal;16I1417;36;6I1417
+Vila de Rei;16I0510;36;6I0510
+Vila Franca do Deão;16J090752;36;090752
+Alcaria Ruiva;184020901;36;020901
+Rio Maior;185141408;36;141408
+Santana;187070906;36;070906
+Giões;150080202;36;080202
+Silves;150081307;36;081307
+Telões;11B171311;35;171311
+Morais;11E040521;35;040521
+Carvalhais;11E040711;35;040711
+União das freguesias de Reriz e Gafanhão;16G180327;35;180327
+União das freguesias de Escalos de Baixo e Mata;16H050227;35;050227
+Vila Velha de Ródão;16H051104;35;051104
+Pinhal Novo;170150803;35;150803
+Quinta do Anjo;170150804;35;150804
+Sines;181151301;35;151301
+Nossa Senhora das Neves;184020506;35;020506
+Alter do Chão;1861201;35;861201
+Vila Nova de Gaia;11A1317;34;1A1317
+Nespereira;11C180409;34;180409
+Vilar Chão;11E040118;34;040118
+Mortágua;16E1808;34;6E1808
+Ventosa;16G182411;34;182411
+Várzea dos Cavaleiros;16I050914;34;050914
+Prados;16J090312;34;090312
+Folgosinho;16J090605;34;090605
+Sortelha;16J091133;34;091133
+União das freguesias de Sameice e Santa Eulália;16J091231;34;091231
+Boavista dos Pinheiros;181021116;34;021116
+União das freguesias de Conceição e Estoi;150080507;34;080507
+Montaria;111160920;33;160920
+União das freguesias de São Julião de Palácios e Deilão;11E040256;33;040256
+União das freguesias de Abrigada e Cabanas de Torres;16B110117;33;110117
+Arcozelo das Maias;16G181002;33;181002
+União das freguesias de Rapa e Cadafaz;16J090326;33;090326
+São João Baptista;186120504;33;120504
+União das freguesias de Amieira e Alqueva;187070909;33;070909
+Valença;1111608;32;111608
+Oliveira de Azeméis;11A0113;32;1A0113
+União das freguesias de Retorta e Tougues;11A131634;32;131634
+União das freguesias de Vilar de Perdizes e Meixide;11B170643;32;170643
+Valongo de Milhais;11D170708;32;170708
+União das freguesias de Gebelim e Soeima;11E040124;32;040124
+Quintela de Lampaças;11E040233;32;040233
+Castanheira de Pêra;16F1007;32;6F1007
+União das freguesias de Castanheira de Pêra e Coentral;16F100703;32;100703
+Mões;16G180312;32;180312
+Castelo;16I050903;32;050903
+Alvito;1840203;32;840203
+Assunção, Ajuda, Salvador e Santo Ildefonso;186120712;32;120712
+Bilhó;119170502;31;170502
+Rossas;119031113;31;031113
+Baião;11C1302;31;1C1302
+União das freguesias de Carlão e Amieiro;11D170120;31;170120
+Lamego;11D1805;31;1D1805
+União das freguesias de Franco e Vila Boa;11E040741;31;040741
+Sobral de Monte Agraço;16B111203;31;111203
+Lorvão;16E061304;31;061304
+Carregal do Sal;16G1802;31;6G1802
+Valadares;16G181617;31;181617
+Ferreirós do Dão;16G182107;31;182107
+Campia;16G182403;31;182403
+União das freguesias de São Facundo e Vale das Mós;16I140123;31;140123
+Fóios;16J091114;31;091114
+União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés;170110922;31;110922
+Pias;184021303;31;021303
+Cartaxo;1851406;31;851406
+Cachopo;150081401;31;081401
+Alfarela de Jales;11B171302;30;171302
+União das freguesias de Sendim e Atenor;11E040620;30;040620
+São Martinho da Cortiça;16E060114;30;060114
+União das freguesias de Semide e Rio Vide;16E060906;30;060906
+Castro Daire;16G180304;30;180304
+Estreito-Vilar Barroco;16H050613;30;050613
+Vila de Rei;16I051003;30;051003
+Ferro;16J050311;30;050311
+Enxames;16J050431;30;050431
+União das freguesias de Moimenta da Serra e Vinhó;16J090627;30;090627
+Jarmelo São Miguel;16J090759;30;090759
+União das freguesias de Ferreira do Alentejo e Canhestros;184020808;30;020808
+Vila Verde de Ficalho;184021307;30;021307
+São Sebastião;185141411;30;141411
+Salvaterra de Magos;1851415;30;851415
+União das freguesias de Bensafrim e Barão de São João;150080707;30;080707
+União das freguesias de Meixedo e Padornelos;11B170637;29;170637
+Quintela;11D181814;29;181814
+Poiares (Santo André);16E061703;29;061703
+União das freguesias de Malhou, Louriceira e Espinheiro;16I140212;29;140212
+Capinha;16J050411;29;050411
+União das freguesias de Melo e Nabais;16J090626;29;090626
+Santo António das Areias;186121003;29;121003
+Sousel;1861215;29;861215
+Mora;1870707;29;870707
+Loulé (São Clemente);150080808;29;080808
+Vila Real de Santo António;1500816;29;500816
+Cabaços e Fojo Lobal;111160756;28;160756
+Santo Tirso;11A1314;28;1A1314
+Morgade;11B170616;28;170616
+Turquel;16B100114;28;100114
+União das freguesias de Dois Portos e Runa;16B111324;28;111324
+União das freguesias de Marrazes e Barosa;16F100934;28;100934
+União das freguesias de Cambra e Carvalhal de Vermilhas;16G182413;28;182413
+União das freguesias de Idanha-a-Nova e Alcafozes;16H050518;28;050518
+Moitas Venda;16I140207;28;140207
+União das freguesias de Areias e Pias;16I141111;28;141111
+União das freguesias de Cumeada e Marmeleiro;16I050916;28;050916
+União das freguesias de Igreja Nova e Cheleiros;170110920;28;110920
+Vila Nova da Baronia;184020302;28;020302
+União das freguesias de Marmeleira e Assentiz;185141416;28;141416
+Montalvão;186121205;28;121205
+Viana do Alentejo;187071302;28;071302
+Vila Nova de Famalicão;1190312;27;190312
+Zoio;11E040249;27;040249
+Aljubarrota;16B100120;27;100120
+Serpins;16E060704;27;060704
+União das freguesias de Penalva de Alva e São Sebastião da Feira;16E061125;27;061125
+Penalva do Castelo;16G1811;27;6G1811
+Paranhos;16J091208;27;091208
+Bucelas;170110702;27;110702
+Ermidas-Sado;181150904;27;150904
+Almoster;185141606;27;141606
+Comenda;186120903;27;120903
+Capelins (Santo António);187070104;27;070104
+Corval;187071102;27;071102
+Caminha;1111602;26;111602
+Rio Caldo;112031013;26;031013
+Balazar;11A131305;26;131305
+União das freguesias de Olo e Canadelo;11C130146;26;130146
+Lousada;11C1305;26;1C1305
+União das freguesias de São João da Pesqueira e Várzea de Trevões;11D181515;26;181515
+Pombeiro da Beira;16E060113;26;060113
+Midões;16E061608;26;061608
+Louriçal do Campo;16H050212;26;050212
+Constância;16I1408;26;6I1408
+Cabeçudo;16I050901;26;050901
+Mêda, Outeiro de Gatos e Fonte Longa;16J090917;26;090917
+Loriga;16J091207;26;091207
+Cascais;1701105;26;701105
+União das freguesias de Azeitão (São Lourenço e São Simão);170151209;26;151209
+Messejana;184020103;26;020103
+União das freguesias de Estremoz (Santa Maria e Santo André);187070414;26;070414
+Albufeira;1500801;26;500801
+Vila Nova de Cacela;150081601;26;081601
+Vilar e Viveiro;11B170221;25;170221
+Castelo de Paiva;11C0106;25;1C0106
+União das freguesias de Silva e Águas Vivas;11E040621;25;040621
+Vila Chã de Braciosa;11E040616;25;040616
+União das freguesias de Painho e Figueiros;16B110413;25;110413
+Óbidos;16B1012;25;6B1012
+Sarzedo;16E060115;25;060115
+União das freguesias de Covas e Vila Nova de Oliveirinha;16E061617;25;061617
+União das freguesias de Póvoa de Rio de Moinhos e Cafede;16H050231;25;050231
+Sardoal;16I141703;25;141703
+União das freguesias de Casais e Alviobeira;16I141818;25;141818
+Alvendre;16J090705;25;090705
+União das freguesias de São João das Lampas e Terrugem;170111127;25;111127
+Pardais;187071404;25;071404
+Quelfes;150081005;25;081005
+União das freguesias de Moncarapacho e Fuseta;150081006;25;081006
+São Brás de Alportel;1500812;25;500812
+São Brás de Alportel;150081201;25;081201
+Sagres;150081504;25;081504
+Serdedelo;111160746;24;160746
+Cantelães;119031105;24;031105
+União das freguesias de Pópulo e Ribalonga;11D170122;24;170122
+União das freguesias de Lavandeira, Beira Grande e Selores;11D040323;24;040323
+União das freguesias de Ferradosa e Sendim da Serra;11E040123;24;040123
+Azinhoso;11E040801;24;040801
+Benedita;16B100105;24;100105
+União das freguesias de Campelos e Outeiro da Cabeça;16B111322;24;111322
+Macinhata do Vouga;16D010112;24;010112
+União das freguesias de Cantanhede e Pocariça;16E060220;24;060220
+Nogueira do Cravo;16E061111;24;061111
+Serro Ventoso;16F101613;24;101613
+Pena Verde;16G090109;24;090109
+Salvador;16H050711;24;050711
+São Pedro de Tomar;16I141813;24;141813
+União das freguesias de Alhandra, São João dos Montes e Calhandriz;170111412;24;111412
+Fronteira;1861208;24;861208
+Rebordões (Santa Maria);111160744;23;160744
+União das freguesias de Barroselas e Carvoeiro;111160941;23;160941
+Amares;1120301;23;120301
+Codessoso, Curros e Fiães do Tâmega;11B170220;23;170220
+Dornelas;11B170210;23;170210
+União das freguesias de Sezelhe e Covelães;11B170640;23;170640
+União das freguesias de Aboadela, Sanche e Várzea;11C130141;23;130141
+São João de Tarouca;11D182006;23;182006
+Salselas;11E040526;23;040526
+Alfeizerão;16B100102;23;100102
+União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha;16B110118;23;110118
+Vagos;16D0118;23;6D0118
+Almalaguês;16E060301;23;060301
+União das freguesias de Antuzede e Vil de Matos;16E060332;23;060332
+Figueira de Lorvão;16E061302;23;061302
+Alvorge;16F100301;23;100301
+Pedrógão Grande;16F101302;23;101302
+Alqueidão da Serra;16F101602;23;101602
+União das freguesias de Monsanto e Idanha-a-Velha;16H050520;23;050520
+Alpedrinha;16J050406;23;050406
+Manteigas (Santa Maria);16J090802;23;090802
+Manteigas (São Pedro);16J090803;23;090803
+Santa Comba;16J091213;23;091213
+Pernes;185141614;23;141614
+Portimão;1500811;23;500811
+União das freguesias de Chorente, Góios, Courel, Pedra Furada e Gueral;112030296;22;030296
+Negrões;11B170618;22;170618
+União das freguesias de Izeda, Calvelhe e Paradinha Nova;11E040252;22;040252
+União das freguesias de Sé, Santa Maria e Meixedo;11E040257;22;040257
+Ota;16B110109;22;110109
+União das freguesias de São Martinho de Árvore e Lamarosa;16E060337;22;060337
+Ega;16E060406;22;060406
+Arazede;16E061002;22;061002
+São Mamede;16F100403;22;100403
+Carapito;16G090102;22;090102
+Pendilhe;16G182203;22;182203
+Benquerença;16H050706;22;050706
+Cardigos;16I141303;22;141303
+União das freguesias de Madalena e Beselga;16I141819;22;141819
+União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais;16I141821;22;141821
+Vale de Espinho;16J091136;22;091136
+Póvoa do Concelho;16J091314;22;091314
+Melides;181150503;22;150503
+União das freguesias de Panoias e Conceição;184021208;22;021208
+Nossa Senhora da Graça de Póvoa e Meadas;186120501;22;120501
+Santa Maria da Devesa;186120502;22;120502
+Aljezur;1500803;22;500803
+União das freguesias de Lagos (São Sebastião e Santa Maria);150080708;22;080708
+Vila Nova de Cerveira;1111610;21;111610
+Louredo;119031109;21;031109
+Nogueira da Montanha;11B170318;21;170318
+Pitões das Junias;11B170623;21;170623
+Alijó;11D170101;21;170101
+União das freguesias de Barcel, Marmelos e Valverde da Gestosa;11E040740;21;040740
+União das freguesias de Souselas e Botão;16E060339;21;060339
+Arega;16F100802;21;100802
+Vila Cã;16F101514;21;101514
+Nelas;16G180903;21;180903
+Carvoeiro;16I141304;21;141304
+União das freguesias de Ermida e Figueiredo;16I050917;21;050917
+União das freguesias de Brogueira, Parceiros de Igreja e Alcorochel;16I141918;21;141918
+Arrifana;16J090706;21;090706
+Almada;1701503;21;701503
+Torrão;181150104;21;150104
+Selmes;184021402;21;021402
+São Matias;186121208;21;121208
+União de freguesias de Querença, Tôr e Benafim;150080812;21;080812
+Gondoriz;112031009;20;031009
+Póvoa de Lanhoso (Nossa Senhora do Amparo);119030919;20;030919
+União das freguesias de Canelas e Espiunca;11A010423;20;010423
+Santa Marinha;11B170906;20;170906
+Vreia de Jales;11B171316;20;171316
+Alvite;11D180702;20;180702
+Oliveira do Bairro;16D0114;20;6D0114
+Góis;16E060604;20;060604
+Travanca de Lagos;16E061119;20;061119
+União das freguesias de Parceiros e Azoia;16F100937;20;100937
+União das freguesias de Santa Catarina da Serra e Chainça;16F100938;20;100938
+Redinha;16F101510;20;101510
+Porto de Mós - São João Baptista e São Pedro;16F101614;20;101614
+União das freguesias de Mamouros, Alva e Ribolhos;16G180323;20;180323
+São João da Serra;16G181008;20;181008
+União das freguesias de São Pedro do Sul, Várzea e Baiões;16G181623;20;181623
+Touro;16G182205;20;182205
+Castelejo;16J050412;20;050412
+Três Povos;16J050432;20;050432
+Luzianes-Gare;181021115;20;021115
+Chancelaria;186120102;20;120102
+Sousel;186121504;20;121504
+Rio de Moinhos;187070303;20;070303
+Boliqueime;150080804;20;080804
+União das freguesias de Algoz e Tunes;150081310;20;081310
+União das freguesias de Castro Laboreiro e Lamas de Mouro;111160319;19;160319
+Santo André;11B170627;19;170627
+Tendais;11C180416;19;180416
+Várzea, Aliviada e Folhada;11C130740;19;130740
+Vila Verde;11D170117;19;170117
+Poiares;11D040406;19;040406
+União das freguesias de Castelãos e Vilar do Monte;11E040541;19;040541
+Anobra;16E060401;19;060401
+Miranda do Corvo;16E060902;19;060902
+União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas;16G182133;19;182133
+União das freguesias de Boa Aldeia, Farminhão e Torredeita;16G182336;19;182336
+União das freguesias de Zebreira e Segura;16H050521;19;050521
+Fratel;16H051101;19;051101
+União das freguesias de Matas e Cercal;16I142121;19;142121
+Urqueira;16I142114;19;142114
+Tortosendo;16J050324;19;050324
+Encarnação;170110904;19;110904
+Benavente;1851405;19;851405
+Azinhal;150080401;19;080401
+Esposende;1120306;18;120306
+União das freguesias de Covelo de Paivó e Janarde;11A010424;18;010424
+Algeriz;11B171203;18;171203
+Penela da Beira;11D181207;18;181207
+Gouvinhas;11D171004;18;171004
+União das freguesias de Vilarouco e Pereiros;11D181517;18;181517
+Cedovim;11D091403;18;091403
+Brunhoso;11E040804;18;040804
+Meirinhos;11E040809;18;040809
+Bombarral;16B1005;18;6B1005
+União das freguesias do Cadaval e Pêro Moniz;16B110411;18;110411
+Vilar;16B110410;18;110410
+União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório;16B100617;18;100617
+São Pedro da Cadeira;16B111314;18;111314
+Samuel;16E061508;18;061508
+Mouronho;16E061609;18;061609
+Pombal;16F101509;18;101509
+União das freguesias de Oliveira de Frades, Souto de Lafões e Sejães;16G181015;18;181015
+Canas de Santa Maria;16G182103;18;182103
+Lajeosa do Mondego;16J090307;18;090307
+Orjais;16J050312;18;050312
+União das freguesias de Cantar-Galo e Vila do Carvalho;16J050333;18;050333
+União das freguesias de Teixoso e Sarzedo;16J050337;18;050337
+Ranhados;16J090915;18;090915
+Agregação das freguesias Sul de Pinhel;16J091028;18;091028
+União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim);170111128;18;111128
+Sabóia;181021103;18;021103
+União das freguesias de Beja (Santiago Maior e São João Baptista);184020521;18;020521
+União das freguesias de Trigaches e São Brissos;184020524;18;020524
+Asseiceira;185141410;18;141410
+Avis;1861203;18;861203
+Campo Maior;1861204;18;861204
+Merufe;111160415;17;160415
+União das freguesias de Vila Cova e Feitos;1120302FH;17;0302FH
+Junqueira;11A011905;17;011905
+Felgueiras;11C1303;17;1C1303
+Resende;11C1813;17;1C1813
+Vilarinho da Castanheira;11D040318;17;040318
+União das freguesias de Lagoaça e Fornos;11D040408;17;040408
+São Lourenço de Ribapinhão;11D171011;17;171011
+Andrães;11D171403;17;171403
+Samil;11E040240;17;040240
+Sortes.;11E040248;17;040248
+Vinhas;11E040538;17;040538
+Santulhão;11E041110;17;041110
+Arruda dos Vinhos;16B1102;17;6B1102
+Silveira;16B111316;17;111316
+Arganil;16E060102;17;060102
+União das freguesias de Taveiro, Ameal e Arzila;16E060340;17;060340
+Sazes do Lorvão;16E061310;17;061310
+Pelmá;16F100205;17;100205
+Dornelas;16G090105;17;090105
+Cujó;16G180305;17;180305
+União das freguesias de Treixedo e Nagozela;16G181412;17;181412
+Penha Garcia;16H050510;17;050510
+União das freguesias de Monfortinho e Salvaterra do Extremo;16H050519;17;050519
+Santa Margarida da Coutada;16I140803;17;140803
+União das freguesias de Rio de Couros e Casal dos Bernardos;16I142122;17;142122
+Forno Telheiro;16J090306;17;090306
+Minhocal;16J090311;17;090311
+União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão;16J090518;17;090518
+Jarmelo São Pedro;16J090760;17;090760
+Pinhel;16J091017;17;091017
+Bendada;16J091110;17;091110
+Sabugueiro;16J091210;17;091210
+Lousa;170110708;17;110708
+São José da Lamarosa;185140903;17;140903
+Esperança;186120202;17;120202
+Santa Maria de Marvão;186121002;17;121002
+Vimieiro;187070206;17;070206
+Pavia;187070704;17;070704
+Guia;150080102;17;080102
+União das freguesias de Tavira (Santa Maria e Santiago);150081412;17;081412
+Moldes;11A010414;16;010414
+Gondomar;11A1304;16;1A1304
+União das freguesias de Canedo, Vale e Vila Maior;11A010933;16;010933
+Paços de Ferreira;11C1309;16;1C1309
+Paredes da Beira;11D181505;16;181505
+Tabuaço;11D1819;16;1D1819
+Vila Nova de Foz Côa;11D091419;16;091419
+União das freguesias de Ribafria e Pereiro de Palhacana;16B110121;16;110121
+União das freguesias de Tornada e Salir do Porto;16B100619;16;100619
+Sapataria;16B111202;16;111202
+União das freguesias de Eiras e São Paulo de Frades;16E060335;16;060335
+União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova;16E060411;16;060411
+Almoster;16F100201;16;100201
+Amor;16F100901;16;100901
+Marinha Grande;16F1010;16;6F1010
+União das freguesias de Destriz e Reigoso;16G181014;16;181014
+União das freguesias de Tondela e Nandufe;16G182132;16;182132
+União das freguesias de Serra e Junceira;16I141820;16;141820
+Gonçalo;16J090757;16;090757
+Sameiro;16J090801;16;090801
+Lamegal;16J091012;16;091012
+União das freguesias de Seia, São Romão e Lapa dos Dinheiros;16J091233;16;091233
+União das freguesias de Trancoso (São Pedro e Santa Maria) e Souto Maior;16J091332;16;091332
+Alcochete;1701502;16;701502
+União das freguesias de Beja (Salvador e Santa Maria da Feira);184020520;16;020520
+União das freguesias de Alfundão e Peroguarda;184020807;16;020807
+Santo Estêvão;185140503;16;140503
+Pontével;185140604;16;140604
+União das freguesias de São João da Ribeira e Ribeira de São João;185141418;16;141418
+União das freguesias de Glória do Ribatejo e Granho;185141507;16;141507
+Galveias;186121301;16;121301
+União das freguesias de Grade e Carralcova;111160156;15;160156
+União das freguesias de Cibões e Brufe;112031020;15;031020
+União das freguesias de Arco de Baúlhe e Vila Nune;119030419;15;030419
+Sanfins;11B170327;15;170327
+União das freguesias de Calvão e Soutelinho da Raia;11B170356;15;170356
+União das freguesias de Bigorne, Magueija e Pretarouca;11D180526;15;180526
+Castro Vicente;11E040808;15;040808
+Freixiel;11E041005;15;041005
+União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro;16B100618;15;100618
+Santo Quintino;16B111201;15;111201
+União das freguesias de Sebal e Belide;16E060412;15;060412
+Vila Nova do Ceira;16E060605;15;060605
+Penacova;16E061307;15;061307
+São Miguel de Poiares;16E061704;15;061704
+União das freguesias de Figueiró dos Vinhos e Bairradas;16F100806;15;100806
+União das freguesias de Colmeias e Memória;16F100932;15;100932
+Louriçal;16F101506;15;101506
+São João de Areias;16G181406;15;181406
+Vila Maior;16G181619;15;181619
+União das freguesias de São João do Monte e Mosteirinho;16G182130;15;182130
+Isna;16H050605;15;050605
+Vale da Senhora da Póvoa;16H050712;15;050712
+Pedrógão Pequeno;16I050911;15;050911
+Chancelaria;16I141904;15;141904
+União das freguesias de Casegas e Ourondo;16J050334;15;050334
+Orca;16J050420;15;050420
+Pêro Viseu;16J050421;15;050421
+Arcozelo;16J090602;15;090602
+Vela;16J090748;15;090748
+Aldeia Nova;16J091301;15;091301
+União das freguesias de Vilares e Carnicães;16J091335;15;091335
+União das freguesias de Pegões;170150711;15;150711
+Setúbal (São Sebastião);170151205;15;151205
+Vialonga;170111408;15;111408
+Azinheira dos Barros e São Mamede do Sádão;181150501;15;150501
+Santo André;181150907;15;150907
+União das freguesias de São Domingos e Vale de Água;181150913;15;150913
+Assunção;186120201;15;120201
+Fronteira;186120802;15;120802
+União de freguesias de Monte e Queimadela;119030743;14;030743
+São Pedro de Veiga de Lila;11B171223;14;171223
+Vales;11B171227;14;171227
+Arnóia;11C030502;14;030502
+União das freguesias de Lustosa e Barrosas (Santo Estêvão);11C130530;14;130530
+União das freguesias de Pombal e Vales;11E040126;14;040126
+Pinela;11E040230;14;040230
+Mirandela;11E040721;14;040721
+União das freguesias de Valtorno e Mourão;11E041022;14;041022
+Pinelo;11E041109;14;041109
+Valado dos Frades;16B101103;14;101103
+União das freguesias de Canelas e Fermelã;16D010809;14;010809
+União das freguesias de Côja e Barril de Alva;16E060121;14;060121
+União das freguesias de Trouxemil e Torre de Vilela;16E060341;14;060341
+Furadouro;16E060407;14;060407
+União das freguesias de Ervedal e Vila Franca da Beira;16E061122;14;061122
+Fajão-Vidual;16E061211;14;061211
+União das freguesias de Friúmes e Paradela;16E061312;14;061312
+União das freguesias de Oliveira do Mondego e Travanca do Mondego;16E061313;14;061313
+Pousaflores;16F100306;14;100306
+União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze;16F101519;14;101519
+Vilar Seco;16G180906;14;180906
+Figueiredo de Alva;16G181606;14;181606
+Rosmaninhal;16H050512;14;050512
+Zibreira;16I141916;14;141916
+Muxagata;16J090511;14;090511
+União das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos;16J091141;14;091141
+União das freguesias de Vide e Cabeça;16J091236;14;091236
+Alcochete;170150201;14;150201
+União das freguesias de Charneca de Caparica e Sobreda;170150314;14;150314
+Seixal;1701510;14;701510
+São Martinho;181150105;14;150105
+União das freguesias de Aljustrel e Rio de Moinhos;184020106;14;020106
+São Barnabé;184020206;14;020206
+Vale de Cavalos;185140705;14;140705
+Nossa Senhora de Machede;187070503;14;070503
+Lagoa;1500806;14;500806
+União das freguesias de Lagoa e Carvoeiro;150080608;14;080608
+Correlhã;111160716;13;160716
+Cerdal;111160803;13;160803
+União das freguesias da Ribeira do Neiva;112031360;13;031360
+União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel);112031365;13;031365
+Cavez;119030407;13;030407
+Travassos;119030927;13;030927
+União das freguesias de Ruivães e Campos;119031125;13;031125
+Cepelos;11A011903;13;011903
+Valongo;11A1315;13;1A1315
+União das freguesias de Carva e Vilares;11D170710;13;170710
+Peso da Régua;11D1708;13;1D1708
+União das freguesias de Távora e Pereiro;11D181921;13;181921
+União das freguesias de Adeganha e Cardanha;11D040918;13;040918
+União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco;11E040542;13;040542
+Bruçó;11E040803;13;040803
+Vale da Madre;11E040822;13;040822
+Usseira;16B101209;13;101209
+São João de Loure e Frossos;16D010210;13;010210
+Couto de Esteves;16D011702;13;011702
+Rocas do Vouga;16D011705;13;011705
+São Silvestre;16E060324;13;060324
+União das freguesias de Foz de Arouce e Casal de Ermio;16E060707;13;060707
+Tentúgal;16E061011;13;061011
+Seixo da Beira;16E061118;13;061118
+Portela do Fojo-Machio;16E061212;13;061212
+União das freguesias de Espariz e Sinde;16E061618;13;061618
+União das freguesias de Santa Eufémia e Boa Vista;16F100939;13;100939
+União das freguesias de Caparrosa e Silvares;16G182128;13;182128
+Calde;16G182305;13;182305
+Assentiz;16I141902;13;141902
+União das freguesias de Covilhã e Canhoso;16J050335;13;050335
+União das freguesias de Vale Formoso e Aldeia do Souto;16J050338;13;050338
+Figueira de Castelo Rodrigo;16J0904;13;6J0904
+Alcaide;16J050401;13;050401
+Bogas de Cima;16J050410;13;050410
+Fatela;16J050416;13;050416
+Santana da Azinha;16J090738;13;090738
+União das freguesias de Vila Franca das Naves e Feital;16J091334;13;091334
+Alcabideche;170110501;13;110501
+Canaviais;187070515;13;070515
+Alcáçovas;187071301;13;071301
+Aljezur;150080301;13;080301
+União das freguesias de Faro (Sé e São Pedro);150080508;13;080508
+Senharei;111160144;12;160144
+União das freguesias de Bico e Cristelo;111160522;12;160522
+União das freguesias de Alvite e Passos;119030418;12;030418
+União das freguesias de Arouca e Burgo;11A010421;12;010421
+Paredes;11A131025;12;131025
+Roge;11A011907;12;011907
+Valoura;11B171313;12;171313
+Real;11C010606;12;010606
+Sedielos;11D170809;12;170809
+Paços;11D171007;12;171007
+Alfândega da Fé;11E040102;12;040102
+Olmos;11E040523;12;040523
+Lamas de Orelhão;11E040718;12;040718
+São Salvador;11E040728;12;040728
+Castelo Branco;11E040807;12;040807
+Cela;16B100106;12;100106
+Alvorninha;16B100602;12;100602
+Salir de Matos;16B100609;12;100609
+União das freguesias de Beduído e Veiros;16D010808;12;010808
+Ovar;16D0115;12;6D0115
+Piódão;16E060111;12;060111
+Cadima;16E060203;12;060203
+União das freguesias de Assafarge e Antanhol;16E060333;12;060333
+Sobral;16E180808;12;180808
+Figueiró do Campo;16E061504;12;061504
+Tapéus;16E061510;12;061510
+Vinha da Rainha;16E061512;12;061512
+Arrifana;16E061701;12;061701
+Caranguejeira;16F100907;12;100907
+União das freguesias de Monte Redondo e Carreira;16F100936;12;100936
+União das freguesias de Mezio e Moura Morta;16G180324;12;180324
+Senhorim;16G180905;12;180905
+Ribeiradio;16G181007;12;181007
+União das freguesias de Arca e Varzielas;16G181013;12;181013
+Serrazes;16G181615;12;181615
+Sátão;16G181710;12;181710
+Santiago de Besteiros;16G182118;12;182118
+União das freguesias de Barreiro de Besteiros e Tourigo;16G182127;12;182127
+União das freguesias de Vouzela e Paços de Vilharigues;16G182415;12;182415
+Mouriscas;16I140106;12;140106
+Carvalhal;16I050902;12;050902
+Maçainhas;16J050105;12;050105
+Adão;16J090766;12;090766
+Alverca da Beira/Bouça Cova;16J091029;12;091029
+Aldeia da Ponte;16J091103;12;091103
+União das freguesias de Seixo do Côa e Vale Longo;16J091147;12;091147
+Tamanhos;16J091321;12;091321
+União das freguesias de Atalaia e Alto Estanqueiro-Jardia;170150709;12;150709
+Porto Covo;181151302;12;151302
+Monforte;1861211;12;861211
+Orada;187070302;12;070302
+União das freguesias de Bacelo e Senhora da Saúde;187070522;12;070522
+Mexilhoeira Grande;150081102;12;081102
+União das freguesias de Luz de Tavira e Santo Estêvão;150081411;12;081411
+Prozelo;111160128;11;160128
+Fornelos e Queijada;111160758;11;160758
+União de freguesias de Aboim, Felgueiras, Gontim e Pedraído;119030737;11;030737
+Sapiãos;11B170215;11;170215
+Águas Frias;11B170301;11;170301
+Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras);11B170361;11;170361
+Vilarelho da Raia;11B170345;11;170345
+Basto (São Clemente);11C030520;11;030520
+Abragão;11C131101;11;131101
+Cabeça Boa;11D040903;11;040903
+Carviçais;11D040905;11;040905
+Vilarelhos;11E040119;11;040119
+Paços;11E040724;11;040724
+União das freguesias de Nunes e Ousilhão;11E041238;11;041238
+Arruda dos Vinhos;16B110202;11;110202
+União das freguesias de Tamengos, Aguim e Óis do Bairro;16D010318;11;010318
+Eixo e Eirol;16D010515;11;010515
+Salreu;16D010806;11;010806
+São João do Campo;16E060320;11;060320
+União das freguesias de Santa Clara e Castelo Viegas;16E060336;11;060336
+União das freguesias de São Martinho do Bispo e Ribeira de Frades;16E060338;11;060338
+Espinhal;16E061402;11;061402
+Coimbrão;16F100909;11;100909
+União das freguesias de Tavares (Chãs, Várzea e Travanca);16G180622;11;180622
+São Vicente de Lafões;16G181009;11;181009
+União das freguesias de Romãs, Decermilo e Vila Longa;16G181714;11;181714
+Cota;16G182310;11;182310
+Tinalhas;16H050225;11;050225
+União das freguesias de Pedrógão de São Pedro e Bemposta;16H050714;11;050714
+Bemposta;16I140104;11;140104
+Vila Nova da Barquinha;16I1420;11;6I1420
+União das freguesias de Azinhal, Peva e Valverde;16J090231;11;090231
+União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego;16J090324;11;090324
+União das freguesias de Janeiro de Cima e Bogas de Baixo;16J050433;11;050433
+Cativelos;16J090603;11;090603
+Poço do Canto;16J090912;11;090912
+União das freguesias de Tourais e Lajes;16J091235;11;091235
+União das freguesias de Santo Antão e São Julião do Tojal;170110729;11;110729
+Vila Alva;184020703;11;020703
+Branca;185140905;11;140905
+Couço;185140902;11;140902
+Caia, São Pedro e Alcáçova;186120713;11;120713
+Borba (Matriz);187070301;11;070301
+Odiáxere;150080704;11;080704
+União das freguesias de Conceição e Cabanas de Tavira;150081410;11;081410
+Fiães;111160307;10;160307
+Paderne;111160311;10;160311
+Cabração e Moreira do Lima;111160757;10;160757
+São Pedro d'Arcos;111160703;10;160703
+Valdreu;112031355;10;031355
+Santo Emilião;119030922;10;030922
+Recarei;11A131019;10;131019
+São Pedro de Castelões;11A011902;10;011902
+União das freguesias de Campo e Sobrado;11A131506;10;131506
+União das freguesias de Sandim, Olival, Lever e Crestuma;11A131729;10;131729
+Covas do Barroso;11B170208;10;170208
+União das freguesias das Eiras, São Julião de Montenegro e Cela;11B170355;10;170355
+Vreia de Bornes;11B171315;10;171315
+União das freguesias de Carvalho e Basto (Santa Tecla);11C030526;10;030526
+Lagares e Figueira;11C131142;10;131142
+Vilar de Maçada;11D170118;10;170118
+Lazarim;11D180511;10;180511
+Souto;11D181209;10;181209
+Numão;11D091411;10;091411
+Touça;11D091416;10;091416
+Abreiro;11E040702;10;040702
+União das freguesias de Freixeda e Vila Verde;11E040742;10;040742
+União das freguesias de Vilas Boas e Vilarinho das Azenhas;11E041024;10;041024
+União das freguesias de Alenquer (Santo Estêvão e Triana);16B110119;10;110119
+Aguada de Cima;16D010103;10;010103
+Valongo do Vouga;16D010119;10;010119
+Alquerubim;16D010202;10;010202
+Angeja;16D010203;10;010203
+Oiã;16D011403;10;011403
+União das freguesias de Silva Escura e Dornelas;16D011711;10;011711
+União das freguesias de Ponte de Vagos e Santa Catarina;16D011813;10;011813
+Ferreira-a-Nova;16E060521;10;060521
+Lavos;16E060522;10;060522
+União das freguesias de Cadafaz e Colmeal;16E060606;10;060606
+Casal Comba;16E011103;10;011103
+Vacariça;16E011107;10;011107
+Seixo de Gatões;16E061010;10;061010
+União das freguesias de São Pedro de Alva e São Paio de Mondego;16E061314;10;061314
+Chão de Couce;16F100304;10;100304
+Batalha;16F100401;10;100401
+Oliveira do Conde;16G180204;10;180204
+Pinheiro;16G180319;10;180319
+União das freguesias de Picão e Ermida;16G180326;10;180326
+União das freguesias de Mangualde, Mesquitela e Cunha Alta;16G180619;10;180619
+Pinheiro;16G181005;10;181005
+São Miguel de Vila Boa;16G181709;10;181709
+União das freguesias de Vila Nova de Paiva, Alhais e Fráguas;16G182208;10;182208
+União das freguesias de Freixial e Juncal do Campo;16H050229;10;050229
+Sobral;16H050611;10;050611
+União das freguesias de Abrantes (São Vicente e São João) e Alferrarede;16I140120;10;140120
+União das freguesias de Alcanena e Vila Moreira;16I140211;10;140211
+Amêndoa;16I141302;10;141302
+Seiça;16I142113;10;142113
+Olalhas;16I141808;10;141808
+Paialvo;16I141809;10;141809
+União das freguesias de Além da Ribeira e Pedreira;16I141817;10;141817
+Castanheira;16J090712;10;090712
+União das freguesias de Cascais e Estoril;170110508;10;110508
+Vale de Santiago;181021122;10;021122
+São Francisco da Serra;181150910;10;150910
+Alcoentre;185110301;10;110301
+Abrã;185141602;10;141602
+Alter do Chão;186120101;10;120101
+Mosteiros;186120203;10;120203
+Santiago Maior;186120503;10;120503
+Santana;186121207;10;121207
+Santa Bárbara de Nexe;150080503;10;080503
+Almancil;150080801;10;080801
+Alte;150080802;10;080802
+São Marcos da Serra;150081306;10;081306
+Santa Catarina da Fonte do Bispo;150081404;10;081404
+Sampriz;111160619;9;160619
+Gondufe;111160728;9;160728
+União das freguesias de Gandra e Taião;111160817;9;160817
+União das freguesias de Subportela, Deocriste e Portela Susã;111160946;9;160946
+União das freguesias de Esposende, Marinhas e Gandra;112030618;9;030618
+Coucieiro;112031311;9;031311
+União das freguesias do Vade;112031369;9;031369
+União das freguesias de Fonte Arcada e Oliveira;119030934;9;030934
+Santa Eulália;11A010416;9;010416
+Ervededo;11B170312;9;170312
+Oura;11B170320;9;170320
+São Pedro de Agostém;11B170333;9;170333
+Tinhela e Alvarelhos;11B171235;9;171235
+Gove;11C130206;9;130206
+União das freguesias de Raiva, Pedorido e Paraíso;11C010610;9;010610
+Armamar;11D1801;9;1D1801
+Pereiros;11D040312;9;040312
+União das freguesias de Amedo e Zedes;11D040320;9;040320
+Murça;11D170705;9;170705
+União das freguesias de Sernancelhe e Sarzeda;11D181821;9;181821
+União das freguesias de Felgar e Souto da Velha;11D040919;9;040919
+Parâmio;11E040229;9;040229
+Salsas;11E040239;9;040239
+Saldanha;11E040815;9;040815
+Ervedosa;11E041208;9;041208
+Carvalhal;16B100502;9;100502
+Cacia;16D010502;9;010502
+União das freguesias de Portunhos e Outil;16E060222;9;060222
+Torres do Mondego;16E060329;9;060329
+Alhadas;16E060519;9;060519
+Alvares;16E060601;9;060601
+Espinho;16E180804;9;180804
+Carvalho;16E061301;9;061301
+Tábua;16E061614;9;061614
+União das freguesias de Ázere e Covelo;16E061616;9;061616
+União das freguesias de Pinheiro de Coja e Meda de Mouros;16E061619;9;061619
+Graça;16F101301;9;101301
+União das freguesias de Guia, Ilha e Mata Mourisca;16F101518;9;101518
+Eirado;16G090106;9;090106
+Cabanas de Viriato;16G180202;9;180202
+Almofala;16G180301;9;180301
+Canas de Senhorim;16G180901;9;180901
+Guardão;16G182108;9;182108
+São Cipriano e Vil de Souto;16G182340;9;182340
+Queirã;16G182409;9;182409
+União das freguesias de Fataunços e Figueiredo das Donas;16G182414;9;182414
+Álvaro;16H050601;9;050601
+União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo;16I140124;9;140124
+Serra de Santo António;16I140209;9;140209
+Beco;16I141103;9;141103
+Envendos;16I141305;9;141305
+Sabacheira;16I141814;9;141814
+União das freguesias de Castelo Mendo, Ade, Monteperobolso e Mesquitela;16J090232;9;090232
+Linhares;16J090308;9;090308
+Queiriz;16J090512;9;090512
+União das freguesias de Cortiçô e Vila Chã;16J090517;9;090517
+Souto da Casa;16J050426;9;050426
+União das freguesias de Póvoa de Atalaia e Atalaia do Campo;16J050435;9;050435
+Vila Cortês da Serra;16J090619;9;090619
+Sobral da Serra;16J090744;9;090744
+União das freguesias de Azueira e Sobral da Abelheira;170110918;9;110918
+Palmela;170150802;9;150802
+Almeirim;1851403;9;851403
+União das freguesias de Ereira e Lapa;185140610;9;140610
+União das freguesias de Azoia de Cima e Tremês;185141630;9;141630
+Vale de Santarém;185141625;9;141625
+São João Baptista;186120403;9;120403
+Longomel;186121305;9;121305
+União das freguesias de Portela e Extremo;111160160;8;160160
+Lindoso;111160612;8;160612
+União das freguesias de Entre Ambos-os-Rios, Ermida e Germil;111160627;8;160627
+Navió e Vitorino dos Piães;111160760;8;160760
+Refóios do Lima;111160737;8;160737
+Adaúfe;112030301;8;030301
+União das freguesias de Este (São Pedro e São Mamede);112030370;8;030370
+Cabeceiras de Basto;119030406;8;030406
+Alvarenga;11A010402;8;010402
+União das freguesias de Foz do Sousa e Covelo;11A130414;8;130414
+Trofa;11A1318;8;1A1318
+Macieira de Cambra;11A011906;8;011906
+Boticas e Granja;11B170219;8;170219
+Vila da Ponte;11B170635;8;170635
+Canedo;11B170902;8;170902
+Vila Meã;11C130147;8;130147
+Cinfães;11C180403;8;180403
+Castainço;11D181203;8;181203
+Arnas;11D181801;8;181801
+Guiães;11D171410;8;171410
+União das freguesias de Rebordainhos e Pombares;11E040254;8;040254
+União das freguesias de Rio Frio e Milhão;11E040255;8;040255
+Cortiços;11E040510;8;040510
+Picote;11E040611;8;040611
+Paradela;11E040811;8;040811
+Foz do Arelho;16B100606;8;100606
+União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão;16D010123;8;010123
+União das freguesias de Trofa, Segadães e Lamas do Vouga;16D010126;8;010126
+União das freguesias do Préstimo e Macieira de Alcoba;16D010127;8;010127
+Murtosa;16D0112;8;6D0112
+Murtede;16E060208;8;060208
+Brasfemes;16E060309;8;060309
+União das freguesias de Vila Seca e Bem da Fé;16E060413;8;060413
+Barcouço;16E011102;8;011102
+Vila Nova;16E060905;8;060905
+União das freguesias de Lagos da Beira e Lajeosa;16E061123;8;061123
+Unhais-o-Velho;16E061209;8;061209
+Cumeeira;16E061401;8;061401
+Maçãs de Dona Maria;16F100204;8;100204
+Aguda;16F100801;8;100801
+União das freguesias de Leiria, Pousos, Barreira e Cortes;16F100933;8;100933
+União das freguesias de Souto da Carpalhosa e Ortigosa;16F100940;8;100940
+Marinha Grande;16F101001;8;101001
+Gosende;16G180309;8;180309
+Monteiras;16G180314;8;180314
+São Joaninho;16G180322;8;180322
+Cunha Baixa;16G180605;8;180605
+União das freguesias de Santiago de Cassurrães e Póvoa de Cervães;16G180621;8;180621
+Castelo de Penalva;16G181102;8;181102
+Silgueiros;16G182317;8;182317
+Mosteiro;16H050607;8;050607
+Orvalho;16H050609;8;050609
+Martinchel;16I140105;8;140105
+Nossa Senhora do Pranto;16I141110;8;141110
+Nossa Senhora da Piedade;16I142115;8;142115
+Alcaravela;16I141701;8;141701
+União das freguesias de Olaia e Paço;16I141919;8;141919
+Algodres;16J090501;8;090501
+Casal Vasco;16J090502;8;090502
+João Antão;16J090722;8;090722
+União de freguesias de Avelãs de Ambom e Rocamondo;16J090761;8;090761
+Coriscada;16J090905;8;090905
+Alto do Palurdo;16J091032;8;091032
+Casteleiro;16J091112;8;091112
+Souto;16J091134;8;091134
+Santo Isidoro;170110913;8;110913
+Ervidel;184020102;8;020102
+Figueira dos Cavaleiros;184020803;8;020803
+Espírito Santo;184020903;8;020903
+Marinhais;185141502;8;141502
+Avis;186120303;8;120303
+Cabeço de Vide;186120801;8;120801
+Santiago do Escoural;187070605;8;070605
+União das freguesias de Cortiçadas de Lavre e Lavre;187070611;8;070611
+Loulé (São Sebastião);150080809;8;080809
+Quarteira;150080805;8;080805
+Alferce;150080901;8;080901
+Barão de São Miguel;150081501;8;081501
+Budens;150081502;8;081502
+Sistelo;111160145;7;160145
+União das freguesias de Gondar e Orbacém;111160223;7;160223
+União das freguesias de Vila e Roussas;111160323;7;160323
+Longos Vales;111160411;7;160411
+União das freguesias de Formariz e Ferreira;111160524;7;160524
+Calheiros;111160713;7;160713
+Facha;111160718;7;160718
+Aboim da Nóbrega e Gondomar;112031359;7;031359
+Prado (São Miguel);112031350;7;031350
+São Gens;119030728;7;030728
+União das freguesias de Airão Santa Maria, Airão São João e Vermil;119030876;7;030876
+União das freguesias de Esperança e Brunhais;119030933;7;030933
+Pinheiro;119031112;7;031112
+Chave;11A010407;7;010407
+Urrô;11A010419;7;010419
+Maia;11A1306;7;1A1306
+União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz;11A011322;7;011322
+Aguiar de Sousa;11A131001;7;131001
+União das freguesias de Areias, Sequeiró, Lama e Palmeira;11A131433;7;131433
+Mairos;11B170316;7;170316
+União das freguesias da Madalena e Samaiões;11B170354;7;170354
+União das freguesias de Venda Nova e Pondras;11B170641;7;170641
+Canaveses;11B171206;7;171206
+Valpaços e Sanfins;11B171236;7;171236
+União das freguesias de Campelo e Ovil;11C130223;7;130223
+Fervença;11C030510;7;030510
+Vale de Bouro;11C030521;7;030521
+Oliveira do Douro;11C180410;7;180410
+União das freguesias de Alhões, Bustelo, Gralheira e Ramires;11C180418;7;180418
+União das freguesias de Freixo de Espada à Cinta e Mazouco;11D040407;7;040407
+Torgueda;11D171426;7;171426
+União das freguesias de Eucisia, Gouveia e Valverde;11E040122;7;040122
+Mós;11E040224;7;040224
+Lamas;11E040518;7;040518
+União das freguesias de Bornes e Burga;11E040540;7;040540
+Genísio;11E040605;7;040605
+Torre de Dona Chama;11E040730;7;040730
+União das freguesias de Avantos e Romeu;11E040738;7;040738
+São Martinho do Porto;16B100112;7;100112
+União das freguesias de Carregado e Cadafais;16B110120;7;110120
+Roliça;16B100503;7;100503
+Santa Maria, São Pedro e Sobral da Lagoa;16B101210;7;101210
+União das freguesias de Carvoeira e Carmões;16B111323;7;111323
+Ventosa;16B111318;7;111318
+União das freguesias de Águeda e Borralha;16D010121;7;010121
+Albergaria-a-Velha e Valmaior;16D010209;7;010209
+Avanca;16D010801;7;010801
+Ílhavo;16D0110;7;6D0110
+Ílhavo (São Salvador);16D011008;7;011008
+Válega;16D011507;7;011507
+União das freguesias de Cedrim e Paradela;16D011710;7;011710
+União das freguesias de Cerdeira e Moura da Serra;16E060120;7;060120
+União das freguesias de Vila Cova de Alva e Anseriz;16E060122;7;060122
+Sanguinheira;16E060218;7;060218
+Tocha;16E060214;7;060214
+Cernache;16E060312;7;060312
+Bom Sucesso;16E060515;7;060515
+Marinha das Ondas;16E060508;7;060508
+Lamas;16E060901;7;060901
+Meãs do Campo;16E061006;7;061006
+Santo Varão;16E061009;7;061009
+Pampilhosa da Serra;16E061206;7;061206
+Reguengo do Fetal;16F100402;7;100402
+Vieira de Leiria;16F101002;7;101002
+Vila Facaia;16F101303;7;101303
+União das freguesias de Currelos, Papízios e Sobral;16G180208;7;180208
+Fornos de Maceira Dão;16G180607;7;180607
+Castelões;16G182105;7;182105
+Salgueiro do Campo;16H050220;7;050220
+Toulões;16H050516;7;050516
+Chãos;16I141104;7;141104
+Ferreira do Zêzere;16I141106;7;141106
+Atalaia;16I142001;7;142001
+Baraçal;16J090302;7;090302
+Fornos de Algodres;16J090505;7;090505
+Soalheira;16J050425;7;050425
+Gouveia;16J090625;7;090625
+Benespera;16J090709;7;090709
+Famalicão;16J090717;7;090717
+União de freguesias de Mizarela, Pêro Soares e Vila Soeiro;16J090763;7;090763
+Santiago;16J091216;7;091216
+Odivelas;1701116;7;701116
+União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires;170151007;7;151007
+Rio de Mouro;170111108;7;111108
+União das freguesias da Chamusca e Pinheiro Grande;185140708;7;140708
+Santana do Mato;185140908;7;140908
+União das freguesias de Salvaterra de Magos e Foros de Salvaterra;185141508;7;141508
+União das freguesias de Romeira e Várzea;185141632;7;141632
+São Vicente e Ventosa;186120708;7;120708
+Monforte;186121102;7;121102
+Alpalhão;186121201;7;121201
+Nossa Senhora da Graça do Divor;187070502;7;070502
+União das freguesias de São Manços e São Vicente do Pigeiro;187070526;7;070526
+Brotas;187070701;7;070701
+Portimão;150081103;7;081103
+Cabreiro;111160106;6;160106
+Infesta;111160510;6;160510
+Estorãos;111160717;6;160717
+Labrujó, Rendufe e Vilar do Monte;111160759;6;160759
+Lanheses;111160915;6;160915
+Vila de Punhe;111160938;6;160938
+Golães;119030714;6;030714
+União das freguesias de Calvos e Frades;119030931;6;030931
+Tabuaças;119031118;6;031118
+Escariz;11A010409;6;010409
+Matosinhos;11A1308;6;1A1308
+Carregosa;11A011301;6;011301
+União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo;11A010935;6;010935
+União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães;11A131437;6;131437
+União das freguesias de Gulpilhares e Valadares;11A131726;6;131726
+Ardãos e Bobadela;11B170218;6;170218
+Anelhe;11B170302;6;170302
+Vila Verde da Raia;11B170343;6;170343
+Ervões;11B171209;6;171209
+Capeludos;11B171305;6;171305
+Lufrei;11C130121;6;130121
+Vila Chã do Marão;11C130139;6;130139
+Canelas;11C131105;6;131105
+Beselga;11D181202;6;181202
+Várzea da Serra;11D182009;6;182009
+União das freguesias de Agrobom, Saldonha e Vale Pereiro;11E040121;6;040121
+União das freguesias de Caçarelhos e Angueira;11E041116;6;041116
+União das freguesias de Sobreiro de Baixo e Alvaredos;11E041240;6;041240
+Vila Boa de Ousilhão;11E041229;6;041229
+Vilar Seco de Lomba;11E041234;6;041234
+União das freguesias de Pataias e Martingança;16B100123;6;100123
+Carnota;16B110106;6;110106
+Ventosa;16B110113;6;110113
+Nadadouro;16B100608;6;100608
+Vidais;16B100615;6;100615
+Nazaré;16B101102;6;101102
+Branca;16D010204;6;010204
+União das freguesias de Bustos, Troviscal e Mamarrosa;16D011407;6;011407
+União das freguesias de Sepins e Bolho;16E060223;6;060223
+Tavarede;16E060512;6;060512
+Mira;16E0608;6;6E0608
+Carapinheira;16E061003;6;061003
+Liceia;16E061005;6;061005
+União das freguesias de Montemor-o-Velho e Gatões;16E061016;6;061016
+União das freguesias de Oliveira do Hospital e São Paio de Gramaços;16E061124;6;061124
+Alfarelos;16E061501;6;061501
+Arrabal;16F100902;6;100902
+Juncal;16F101606;6;101606
+Espinho;16G180606;6;180606
+União das freguesias de Santa Comba Dão e Couto do Mosteiro;16G181411;6;181411
+Alcains;16H050201;6;050201
+Constância;16I140801;6;140801
+Alburitel;16I142101;6;142101
+Caxarias;16I142104;6;142104
+União das freguesias de Gondemaria e Olival;16I142120;6;142120
+União das freguesias de Torres Novas (Santa Maria, Salvador e Santiago);16I141920;6;141920
+Fundada;16I051001;6;051001
+Boidobra;16J050305;6;050305
+Paços da Serra;16J090613;6;090613
+Aldeia do Bispo;16J090703;6;090703
+Pínzio;16J091018;6;091018
+União das freguesias de Atalaia e Safurdão;16J091035;6;091035
+Aldeia do Bispo;16J091102;6;091102
+Pinhanços;16J091209;6;091209
+Teixeira;16J091221;6;091221
+União das freguesias de Caparica e Trafaria;170150313;6;150313
+União das freguesias de Malveira e São Miguel de Alcainça;170110921;6;110921
+União das freguesias de Gaio-Rosário e Sarilhos Pequenos;170150608;6;150608
+Canha;170150701;6;150701
+União das freguesias de Montijo e Afonsoeiro;170150710;6;150710
+Santa Clara-a-Velha;181021119;6;021119
+Fazendas de Almeirim;185140303;6;140303
+Nossa Senhora da Expectação;186120401;6;120401
+União das freguesias de Espírito Santo, Nossa Senhora da Graça e São Simão;186121212;6;121212
+Casa Branca;186121502;6;121502
+Vendas Novas;1870712;6;870712
+Vendas Novas;187071201;6;071201
+Odeceixe;150080303;6;080303
+Aguiã;111160102;5;160102
+Ázere;111160104;5;160104
+Cabana Maior;111160105;5;160105
+Rio Frio;111160130;5;160130
+União das freguesias de Alvora e Loureda;111160152;5;160152
+União das freguesias de Venade e Azevedo;111160225;5;160225
+Riba de Mouro;111160424;5;160424
+União das freguesias de Sago, Lordelo e Parada;111160439;5;160439
+União das freguesias de Paredes de Coura e Resende;111160526;5;160526
+Ribeira;111160739;5;160739
+União das freguesias de Nogueira, Meixedo e Vilar de Murteda;111160945;5;160945
+Covas;111161004;5;161004
+União das freguesias de Alvito (São Pedro e São Martinho) e Couto;112030291;5;030291
+União das freguesias de Santa Lucrécia de Algeriz e Navarra;112030380;5;030380
+União das freguesias de Marrancos e Arcozelo;112031364;5;031364
+Pedraça;119030413;5;030413
+Estorãos;119030708;5;030708
+União de freguesias de Antime e Silvares (São Clemente);119030739;5;030739
+União das freguesias de Sande Vila Nova e Sande São Clemente;119030887;5;030887
+Rendufinho;119030921;5;030921
+Serzedelo;119030924;5;030924
+Guilhofrei;119031108;5;031108
+Loureiro;11A011304;5;011304
+União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail;11A011321;5;011321
+Sobreira;11A131020;5;131020
+União das freguesias da Póvoa de Varzim, Beiriz e Argivai;11A131315;5;131315
+Romariz;11A010922;5;010922
+Monte Córdova;11A131413;5;131413
+Avintes;11A131702;5;131702
+União das freguesias de Loivos e Póvoa de Agrações;11B170357;5;170357
+Reigoso;11B170625;5;170625
+União das freguesias de Montalegre e Padroso;11B170638;5;170638
+União das freguesias de Paradela, Contim e Fiães;11B170639;5;170639
+São João da Corveira;11B171222;5;171222
+Mancelos;11C130123;5;130123
+Travanca;11C130136;5;130136
+União das freguesias de Vila Garcia, Aboim e Chapa;11C130148;5;130148
+União das freguesias de Teixeira e Teixeiró;11C130226;5;130226
+Rego;11C030517;5;030517
+Santiago de Piães;11C180412;5;180412
+Soalhães;11C130722;5;130722
+Meixomil;11C130910;5;130910
+Carrazeda de Ansiães;11D040304;5;040304
+Castelo;11D180708;5;180708
+União das freguesias de Peva e Segões;11D180723;5;180723
+Cunha;11D181804;5;181804
+União das freguesias de Tarouca e Dálvares;11D182013;5;182013
+Mondrões;11D171416;5;171416
+União das freguesias de Constantim e Vale de Nogueiras;11D171433;5;171433
+União das freguesias de Pena, Quintã e Vila Cova;11D171436;5;171436
+União das freguesias de São Tomé do Castelo e Justes;11D171437;5;171437
+Alfaião;11E040201;5;040201
+Peredo;11E040524;5;040524
+São Martinho de Angueira;11E040613;5;040613
+Seixo de Manhoses;11E041013;5;041013
+Agrochão;11E041201;5;041201
+Vimeiro;16B100116;5;100116
+Carvalhal Benfeito;16B100604;5;100604
+Landal;16B100607;5;100607
+Vimeiro;16B110808;5;110808
+Sangalhos;16D010309;5;010309
+Esgueira;16D010505;5;010505
+Bunheiro;16D011201;5;011201
+União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã;16D011509;5;011509
+Talhadas;16D011708;5;011708
+União das freguesias de Covões e Camarneira;16E060221;5;060221
+Luso;16E011104;5;011104
+Mira;16E060801;5;060801
+Aldeia das Dez;16E061101;5;061101
+Janeiro de Baixo;16E061204;5;061204
+Pessegueiro;16E061207;5;061207
+Vila Nova de Anços;16E061511;5;061511
+Regueira de Pontes;16F100921;5;100921
+Carnide;16F101504;5;101504
+Mira de Aire;16F101608;5;101608
+Pedreiras;16F101609;5;101609
+Pinheiro;16G090110;5;090110
+Abrunhosa-a-Velha;16G180601;5;180601
+União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato;16G180620;5;180620
+São Joaninho;16G181405;5;181405
+Pinho;16G181609;5;181609
+São Félix;16G181612;5;181612
+Lajeosa do Dão;16G182109;5;182109
+União das freguesias de Mouraz e Vila Nova da Rainha;16G182129;5;182129
+União das freguesias de Ninho do Açor e Sobral do Campo;16H050230;5;050230
+Cambas;16H050603;5;050603
+Aranhas;16H050704;5;050704
+Asseiceira;16I141802;5;141802
+Pedrógão;16I141909;5;141909
+Mesquitela;16J090310;5;090310
+São Paio;16J090617;5;090617
+União das freguesias de Figueiró da Serra e Freixo da Serra;16J090624;5;090624
+Aldeia Viçosa;16J090704;5;090704
+Maçainhas;16J090723;5;090723
+Meios;16J090725;5;090725
+Ramela;16J090734;5;090734
+Freixedas;16J091010;5;091010
+União das freguesias de Carragozela e Várzea de Meruge;16J091230;5;091230
+Vila Cova à Coelheira;16J091228;5;091228
+Moreira de Rei;16J091312;5;091312
+União das freguesias de Freches e Torres;16J091330;5;091330
+Valdujo;16J091325;5;091325
+Mafra;170110909;5;110909
+Alhos Vedros;170150601;5;150601
+Fernão Ferro;170151006;5;151006
+Gâmbia-Pontes-Alto da Guerra;170151207;5;151207
+Longueira/Almograve;181021117;5;021117
+São Marcos da Ataboeira;184020605;5;020605
+Pedrógão;184021401;5;021401
+Aveiras de Baixo;185110302;5;110302
+Golegã;1851412;5;851412
+Golegã;185141202;5;141202
+União das freguesias de Achete, Azoia de Baixo e Póvoa de Santarém;185141629;5;141629
+União das freguesias de Barbacena e Vila Fernando;186120714;5;120714
+Beirã;186121001;5;121001
+Alagoa;186121401;5;121401
+São Cristóvão;187070606;5;070606
+Paderne;150080103;5;080103
+Luz;150080703;5;080703
+Marmelete;150080902;5;080902
+Cendufe;111160108;4;160108
+União das freguesias de Jolda (Madalena) e Rio Cabrão;111160158;4;160158
+União das freguesias de Souto e Tabaçô;111160162;4;160162
+União das freguesias de Távora (Santa Maria e São Vicente);111160163;4;160163
+Gave;111160308;4;160308
+Moreira;111160418;4;160418
+Tangil;111160428;4;160428
+Castanheira;111160503;4;160503
+Padornelo;111160514;4;160514
+União das freguesias de Cossourado e Linhares;111160523;4;160523
+União das freguesias de Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães;111160628;4;160628
+Anais;111160701;4;160701
+Arcozelo;111160704;4;160704
+União das freguesias de Geraz do Lima (Santa Maria, Santa Leocádia e Moreira) e Deão;111160943;4;160943
+Cornes;111161003;4;161003
+Esporões;112030313;4;030313
+Palmeira;112030331;4;030331
+Pedralva;112030334;4;030334
+Sobreposta;112030355;4;030355
+União das freguesias de Nogueira, Fraião e Lamaçães;112030377;4;030377
+Moure;112031328;4;031328
+São Cristóvão de Mondim de Basto;119170505;4;170505
+Vilar de Ferreiros;119170508;4;170508
+Salamonde;119031115;4;031115
+Pedome;119031230;4;031230
+Vilarinho das Cambas;119031249;4;031249
+Rossas;11A010415;4;010415
+Tropeço;11A010418;4;010418
+União das freguesias de Gondomar (São Cosme), Valbom e Jovim;11A130415;4;130415
+Baltar;11A131003;4;131003
+Rebordosa;11A131018;4;131018
+Argoncilhe;11A010901;4;010901
+União das freguesias de Lobão, Gião, Louredo e Guisande;11A010934;4;010934
+União das freguesias de Pedroso e Seixezelo;11A131728;4;131728
+Cimo de Vila da Castanheira;11B170309;4;170309
+Planalto de Monforte (União das freguesias de Oucidres e Bobadela);11B170353;4;170353
+Covelo do Gerês;11B170607;4;170607
+Serapicos;11B171224;4;171224
+União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão;11C130142;4;130142
+União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure;11C130335;4;130335
+Avessadas e Rosém;11C130733;4;130733
+Marco;11C130736;4;130736
+Vila Boa de Quires e Maureles;11C130741;4;130741
+União das freguesias de Anreade e São Romão de Aregos;11C181316;4;181316
+União das freguesias de Freigil e Miomães;11C181318;4;181318
+União das freguesias de Paradinha e Nagosa;11D180721;4;180721
+União das freguesias de Pêra Velha, Aldeia de Nacomba e Ariz;11D180722;4;180722
+União das freguesias de Antas e Ourozinho;11D181210;4;181210
+União das freguesias de Penedono e Granja;11D181211;4;181211
+Soutelo do Douro;11D181509;4;181509
+União das freguesias de Trevões e Espinhosa;11D181516;4;181516
+União das freguesias de Fonte Arcada e Escurquela;11D181819;4;181819
+Açoreira;11D040901;4;040901
+Castelo Melhor;11D091402;4;091402
+Abaças;11D171401;4;171401
+União das freguesias de Mouçós e Lamares;11D171434;4;171434
+Rebordãos;11E040236;4;040236
+Lombo;11E040519;4;040519
+Vilarinho de Agrochão;11E040536;4;040536
+Duas Igrejas;11E040604;4;040604
+União das freguesias de Ifanes e Paradela;11E040619;4;040619
+Samões;11E041010;4;041010
+União das freguesias de Vale de Frades e Avelanoso;11E041117;4;041117
+Rebordelo;11E041219;4;041219
+União das freguesias de Coz, Alpedriz e Montes;16B100122;4;100122
+Arranhó;16B110201;4;110201
+Vermelha;16B110409;4;110409
+A dos Francos;16B100601;4;100601
+Santa Catarina;16B100611;4;100611
+Moita;16D010307;4;010307
+União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas;16D010316;4;010316
+Vila Nova de Monsarros;16D010312;4;010312
+Vilarinho do Bairro;16D010313;4;010313
+Aradas;16D010501;4;010501
+Requeixo, Nossa Senhora de Fátima e Nariz;16D010516;4;010516
+Oliveira do Bairro;16D011404;4;011404
+Sever do Vouga;16D011706;4;011706
+União das freguesias de Fonte de Angeão e Covão do Lobo;16D011812;4;011812
+Maiorca;16E060507;4;060507
+Gândaras;16E060706;4;060706
+Trezói;16E180809;4;180809
+União das freguesias de Gesteira e Brunhós;16E061514;4;061514
+Carapinha;16E061603;4;061603
+São João da Boa Vista;16E061612;4;061612
+Lavegadas;16E061702;4;061702
+Forninhos;16G090107;4;090107
+Beijós;16G180201;4;180201
+Sezures;16G181111;4;181111
+União das freguesias de Antas e Matela;16G181114;4;181114
+Bordonhos;16G181602;4;181602
+Pindelo dos Milagres;16G181608;4;181608
+Campo de Besteiros;16G182102;4;182102
+Dardavaz;16G182106;4;182106
+Abraveses;16G182301;4;182301
+Fragosela;16G182315;4;182315
+Povolide;16G182320;4;182320
+Ranhados;16G182321;4;182321
+União das freguesias de Barreiros e Cepões;16G182335;4;182335
+Aldeia de Santa Margarida;16H050502;4;050502
+São Miguel de Acha;16H050514;4;050514
+Madeirã;16H050606;4;050606
+Fontes;16I140118;4;140118
+Atouguia;16I142102;4;142102
+Almeida;16J090203;4;090203
+Nave de Haver;16J090219;4;090219
+Carrapichana;16J090304;4;090304
+São Jorge da Beira;16J050318;4;050318
+Silvares;16J050424;4;050424
+Vila Franca da Serra;16J090620;4;090620
+Vila Nova de Tazem;16J090621;4;090621
+Cavadoude;16J090713;4;090713
+Marmeleiro;16J090724;4;090724
+Pêra do Moço;16J090730;4;090730
+Vila Fernando;16J090751;4;090751
+Lameiras;16J091013;4;091013
+Souro Pires;16J091024;4;091024
+Vascoveiro;16J091027;4;091027
+Baraçal;16J091109;4;091109
+Nave;16J091120;4;091120
+Girabolhos;16J091205;4;091205
+Sandomil;16J091212;4;091212
+União das freguesias de Vale do Seixo e Vila Garcia;16J091333;4;091333
+Barreiro;1701504;4;701504
+União das freguesias de Palhais e Coina;170150411;4;150411
+São Domingos de Rana;170110506;4;110506
+Fanhões;170110705;4;110705
+União das freguesias de Camarate, Unhos e Apelação;170110731;4;110731
+União das freguesias de Alverca do Ribatejo e Sobralinho;170111413;4;111413
+Vila Franca de Xira;170111409;4;111409
+Alvalade;181150902;4;150902
+Aldeia dos Fernandes;184020208;4;020208
+Rosário;184020203;4;020203
+Alvito;184020301;4;020301
+Santa Clara de Louredo;184020510;4;020510
+Entradas;184020603;4;020603
+União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa;185110310;4;110310
+União das freguesias do Cartaxo e Vale da Pinta;185140609;4;140609
+Arneiro das Milhariças;185141608;4;141608
+Póvoa da Isenta;185141616;4;141616
+Figueira e Barros;186120306;4;120306
+Vaiamonte;186121104;4;121104
+Tolosa;186121210;4;121210
+Igrejinha;187070202;4;070202
+Mora;187070703;4;070703
+Alvor;150081101;4;081101
+União das freguesias de Alcantarilha e Pêra;150081309;4;081309
+Aboim das Choças;111160101;3;160101
+União das freguesias de Arcos de Valdevez (São Paio) e Giela;111160153;3;160153
+União das freguesias de Eiras e Mei;111160155;3;160155
+União das freguesias de Guilhadeses e Santar;111160157;3;160157
+União das freguesias de Vilela, São Cosme e São Damião e Sá;111160164;3;160164
+União das freguesias de Arga (Baixo, Cima e São João);111160221;3;160221
+União das freguesias de Moledo e Cristelo;111160224;3;160224
+São Paio;111160317;3;160317
+União das freguesias de Parada do Monte e Cubalhão;111160321;3;160321
+Pias;111160420;3;160420
+Trute;111160431;3;160431
+União das freguesias de Mazedo e Cortes;111160436;3;160436
+Parada;111160515;3;160515
+Romarigães;111160519;3;160519
+Azias;111160601;3;160601
+Oleiros;111160614;3;160614
+União das freguesias de Crasto, Ruivos e Grovelas;111160626;3;160626
+União das freguesias de Touvedo (São Lourenço e Salvador);111160629;3;160629
+Ardegão, Freixo e Mato;111160753;3;160753
+Gemieira;111160727;3;160727
+Sá;111160740;3;160740
+Santa Cruz do Lima;111160743;3;160743
+Vitorino das Donas;111160750;3;160750
+Fontoura;111160805;3;160805
+União das freguesias de São Julião e Silva;111160819;3;160819
+Castelo do Neiva;111160910;3;160910
+Freixieiro de Soutelo;111160914;3;160914
+Santa Marta de Portuzelo;111160928;3;160928
+União das freguesias de Torre e Vila Mou;111160947;3;160947
+União das freguesias de Campos e Vila Meã;111161016;3;161016
+União das freguesias de Reboreda e Nogueira;111161018;3;161018
+Carrazedo;112030107;3;030107
+Goães;112030112;3;030112
+União das freguesias de Amares e Figueiredo;112030125;3;030125
+Abade de Neiva;112030201;3;030201
+Balugães;112030212;3;030212
+Pousa;112030261;3;030261
+União das freguesias de Campo e Tamel (São Pedro Fins);112030294;3;030294
+União das freguesias de Milhazes, Vilar de Figos e Faria;1120302FA;3;0302FA
+Ruilhe;112030338;3;030338
+União das freguesias de Arentim e Cunha;112030363;3;030363
+União das freguesias de Cabreiros e Passos (São Julião);112030366;3;030366
+União das freguesias de Crespos e Pousada;112030368;3;030368
+União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente);112030369;3;030369
+União das freguesias de Real, Dume e Semelhe;112030379;3;030379
+União das freguesias de Palmeira de Faro e Curvos;112030620;3;030620
+Gême;112031317;3;031317
+Loureira;112031325;3;031325
+União das freguesias de Escariz (São Mamede) e Escariz (São Martinho);112031362;3;031362
+União das freguesias de Pico de Regalados, Gondiães e Mós;112031366;3;031366
+União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho);112031368;3;031368
+União das freguesias de Refojos de Basto, Outeiro e Painzela;119030421;3;030421
+Arões (São Romão);119030730;3;030730
+Quinchães;119030722;3;030722
+Travassós;119030733;3;030733
+União de freguesias de Freitas e Vila Cova;119030742;3;030742
+União de freguesias de Moreira do Rei e Várzea Cova;119030744;3;030744
+União das freguesias de Leitões, Oleiros e Figueiredo;119030883;3;030883
+União das freguesias de Selho São Lourenço e Gominhães;119030888;3;030888
+União das freguesias de Souto Santa Maria, Souto São Salvador e Gondomar;119030890;3;030890
+Lanhoso;119030915;3;030915
+Monsul;119030917;3;030917
+Sobradelo da Goma;119030925;3;030925
+União das freguesias de Anjos e Vilar do Chão;119031123;3;031123
+Fradelos;119031215;3;031215
+Espinho;11A0107;3;1A0107
+União das freguesias de Melres e Medas;11A130416;3;130416
+Vila de Cucujães;11A011319;3;011319
+Milheirós de Poiares;11A010914;3;010914
+São João de Ver;11A010926;3;010926
+União das freguesias de Campo (São Martinho), São Salvador do Campo e Negrelos (São Mamede);11A131434;3;131434
+União das freguesias de Bougado (São Martinho e Santiago);11A131810;3;131810
+Alfena;11A131501;3;131501
+União das freguesias de Touguinha e Touguinhó;11A131636;3;131636
+Beça;11B170203;3;170203
+Santo António de Monforte;11B170330;3;170330
+Cervos;11B170603;3;170603
+Gralhas;11B170612;3;170612
+Friões;11B171212;3;171212
+Salvador do Monte;11C130129;3;130129
+Telões;11C130135;3;130135
+União das freguesias de Bustelo, Carneiro e Carvalho de Rei;11C130143;3;130143
+União das freguesias de Baião (Santa Leocádia) e Mesquinhata;11C130222;3;130222
+Borba de Montanha;11C030503;3;030503
+União das freguesias de Britelo, Gémeos e Ourilhe;11C030523;3;030523
+União das freguesias de Caçarilhe e Infesta;11C030524;3;030524
+União das freguesias de Canedo de Basto e Corgo;11C030525;3;030525
+Fornelos;11C180406;3;180406
+Sousela;11C130524;3;130524
+Banho e Carvalhosa;11C130704;3;130704
+Penha Longa e Paços de Gaiolo;11C130738;3;130738
+Capela;11C131106;3;131106
+Galegos;11C131113;3;131113
+Recezinhos (São Martinho);11C131133;3;131133
+Rio Mau;11C131138;3;131138
+Favaios;11D170107;3;170107
+São Mamede de Ribatua;11D170114;3;170114
+Vila Chã;11D170116;3;170116
+São Cosmado;11D180114;3;180114
+União das freguesias de Aricera e Goujoim;11D180121;3;180121
+Seixo de Ansiães;11D040316;3;040316
+Ligares;11D040404;3;040404
+Mesão Frio;11D1704;3;1D1704
+Barqueiros;11D170401;3;170401
+União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane;11D171111;3;171111
+Ervedosa do Douro;11D181502;3;181502
+Granjal;11D181810;3;181810
+Mós;11D040913;3;040913
+Campeã;11D171406;3;171406
+Sambade;11E040111;3;040111
+Espinhosela;11E040213;3;040213
+França;11E040215;3;040215
+Carrapatas;11E040507;3;040507
+Corujas;11E040511;3;040511
+Vale Benfeito;11E040532;3;040532
+Caravelas;11E040710;3;040710
+Múrias;11E040722;3;040722
+São Pedro Velho;11E040727;3;040727
+Vale de Telhas;11E040734;3;040734
+Bemposta;11E040802;3;040802
+Roios;11E041009;3;041009
+União das freguesias de Candoso e Carvalho de Egas;11E041021;3;041021
+Vilar Seco;11E041113;3;041113
+Vale das Fontes;11E041227;3;041227
+Bárrio;16B100104;3;100104
+Olhalvo;16B110108;3;110108
+Peral;16B110407;3;110407
+União das freguesias de Travassô e Óis da Ribeira;16D010125;3;010125
+Avelãs de Cima;16D010305;3;010305
+São Lourenço do Bairro;16D010310;3;010310
+Santa Joana;16D010513;3;010513
+Pessegueiro do Vouga;16D011704;3;011704
+Ouca;16D011805;3;011805
+Folques;16E060109;3;060109
+Ourentã;16E060209;3;060209
+Quiaios;16E060524;3;060524
+Pampilhosa;16E011106;3;011106
+União das freguesias da Mealhada, Ventosa do Bairro e Antes;16E011109;3;011109
+Pereira;16E061008;3;061008
+Marmeleira;16E180805;3;180805
+Pala;16E180807;3;180807
+União das freguesias de Mortágua, Vale de Remígio, Cortegaça e Almaça;16E180811;3;180811
+Meruge;16E061110;3;061110
+Dornelas do Zêzere;16E061202;3;061202
+Podentes;16E061403;3;061403
+Granja do Ulmeiro;16E061506;3;061506
+Maceira;16F100913;3;100913
+Carriço;16F101505;3;101505
+Vermoil;16F101513;3;101513
+Calvaria de Cima;16F101605;3;101605
+União das freguesias de Alvados e Alcaria;16F101615;3;101615
+Pepim;16G180317;3;180317
+Lapa do Lobo;16G180908;3;180908
+União das freguesias de Carvalhal Redondo e Aguieira;16G180910;3;180910
+Ínsua;16G181105;3;181105
+União das freguesias de Vila Cova do Covelo/Mareco;16G181115;3;181115
+Pinheiro de Ázere;16G181403;3;181403
+União das freguesias de Ovoa e Vimieiro;16G181410;3;181410
+Avelal;16G181702;3;181702
+Lobão da Beira;16G182110;3;182110
+Molelos;16G182111;3;182111
+União das freguesias de São Miguel do Outeiro e Sabugosa;16G182131;3;182131
+Bodiosa;16G182304;3;182304
+Lordosa;16G182316;3;182316
+Rio de Loba;16G182323;3;182323
+São Miguel do Mato;16G182410;3;182410
+Sarnadas de São Simão;16H050610;3;050610
+Meimoa;16H050708;3;050708
+Pego;16I140107;3;140107
+Monsanto;16I140208;3;140208
+Igreja Nova do Sobral;16I141107;3;141107
+Tancos;16I142003;3;142003
+Malhada Sorda;16J090213;3;090213
+Ratoeira;16J090314;3;090314
+Vale de Azares;16J090318;3;090318
+Dominguizo;16J050309;3;050309
+Figueira de Castelo Rodrigo;16J090408;3;090408
+União das freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia;16J090421;3;090421
+Maceira;16J090509;3;090509
+União das freguesias de Sobral Pichorro e Fuinhas;16J090519;3;090519
+Barroca;16J050408;3;050408
+Nespereira;16J090612;3;090612
+Panoias de Cima;16J090728;3;090728
+Barreira;16J090902;3;090902
+Águas Belas;16J091101;3;091101
+Quintas de São Bartolomeu;16J091124;3;091124
+Vila do Touro;16J091139;3;091139
+Castanheira;16J091303;3;091303
+Guilheiro;16J091310;3;091310
+Odivelas;170111603;3;111603
+União das freguesias de Ramada e Caneças;170111610;3;111610
+Amora;170151002;3;151002
+Sesimbra (Santiago);170151102;3;151102
+Colares;170111105;3;111105
+São João de Negrilhos;184020104;3;020104
+Alpiarça;1851404;3;851404
+Alpiarça;185140401;3;140401
+Cunheira;186120104;3;120104
+Ervedal;186120305;3;120305
+Nossa Senhora da Graça dos Degolados;186120402;3;120402
+Aldeia da Mata;186120601;3;120601
+São Brás e São Lourenço;186120707;3;120707
+Cano;186121501;3;121501
+União das freguesias de São Bento do Cortiço e Santo Estêvão;187070415;3;070415
+Veiros;187070413;3;070413
+União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe;187070525;3;070525
+União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé;187070527;3;070527
+Cabrela;187070601;3;070601
+Foros de Vale de Figueira;187070610;3;070610
+Vera Cruz;187070908;3;070908
+Ferreiras;150080104;3;080104
+Bordeira;150080302;3;080302
+Vila Real de Santo António;150081602;3;081602
+Miranda;111160121;2;160121
+Oliveira;111160123;2;160123
+Padroso;111160125;2;160125
+Rio de Moinhos;111160131;2;160131
+União das freguesias de Arcos de Valdevez (Salvador), Vila Fonche e Parada;111160154;2;160154
+União das freguesias de Padreiro (Salvador e Santa Cristina);111160159;2;160159
+Abedim;111160401;2;160401
+Bela;111160406;2;160406
+União das freguesias de Anhões e Luzio;111160434;2;160434
+Coura;111160505;2;160505
+Cunha;111160507;2;160507
+Mozelos;111160513;2;160513
+Vascões;111160521;2;160521
+Boivães;111160602;2;160602
+Bravães;111160603;2;160603
+Lavradas;111160611;2;160611
+Bárrio e Cepões;111160755;2;160755
+Beiral do Lima;111160707;2;160707
+Fontão;111160721;2;160721
+Rebordões (Souto);111160747;2;160747
+Anha;111160904;2;160904
+Perre;111160926;2;160926
+São Romão de Neiva;111160923;2;160923
+União das freguesias de Mazarefes e Vila Fria;111160944;2;160944
+Gondarém;111161006;2;161006
+Bouro (Santa Marta);112030120;2;030120
+Caires;112030105;2;030105
+Lago;112030113;2;030113
+Rendufe;112030118;2;030118
+União das freguesias de Vilela, Seramil e Paredes Secas;112030129;2;030129
+União das freguesias de Silveiros e Rio Covo (Santa Eulália);1120302FE;2;0302FE
+Sequeira;112030354;2;030354
+União das freguesias de Celeirós, Aveleda e Vimieiro;112030367;2;030367
+União das freguesias de Merelim (São Paio), Panoias e Parada de Tibães;112030374;2;030374
+Forjães;112030608;2;030608
+União das freguesias de Fonte Boa e Rio Tinto;112030619;2;030619
+Souto;112031014;2;031014
+Valdosende;112031015;2;031015
+Cervães;112031309;2;031309
+Lage;112031323;2;031323
+Oleiros;112031330;2;031330
+União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago);112031361;2;031361
+Armil;119030705;2;030705
+Ribeiros;119030725;2;030725
+Gonça;119030820;2;030820
+Ponte;119030838;2;030838
+Silvares;119030868;2;030868
+União das freguesias de Arosa e Castelões;119030877;2;030877
+Galegos;119030912;2;030912
+Mosteiro;119031110;2;031110
+União das freguesias de Caniçada e Soengas;119031124;2;031124
+União das freguesias de Ventosa e Cova;119031126;2;031126
+Vieira do Minho;119031120;2;031120
+Joane;119031219;2;031219
+Lousado;119031224;2;031224
+Nine;119031227;2;031227
+União das freguesias de Ruivães e Novais;119031257;2;031257
+Vizela;1190314;2;190314
+Silvalde;11A010705;2;010705
+Moreira;11A130609;2;130609
+São Pedro Fins;11A130613;2;130613
+União das freguesias de Custóias, Leça do Balio e Guifões;11A130811;2;130811
+União das freguesias de Matosinhos e Leça da Palmeira;11A130812;2;130812
+Cesar;11A011302;2;011302
+São Martinho da Gândara;11A011315;2;011315
+União das freguesias de Nogueira do Cravo e Pindelo;11A011320;2;011320
+Cete;11A131008;2;131008
+Duas Igrejas;11A131010;2;131010
+Gandra;11A131011;2;131011
+Vandoma;11A131022;2;131022
+União das freguesias de Caldas de São Jorge e Pigeiros;11A010932;2;010932
+União de freguesias de São Miguel de Souto e Mosteirô;11A010936;2;010936
+Aves;11A131405;2;131405
+Reguenga;11A131418;2;131418
+União das freguesias de Lamelas e Guimarei;11A131436;2;131436
+União das freguesias de Alvarelhos e Guidões;11A131809;2;131809
+União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho;11A011910;2;011910
+Guilhabreu;11A131611;2;131611
+União das freguesias de Rio Mau e Arcos;11A131635;2;131635
+Vila do Conde;11A131628;2;131628
+Arcozelo;11A131701;2;131701
+Canelas;11A131703;2;131703
+São Félix da Marinha;11A131717;2;131717
+União das freguesias de Serzedo e Perosinho;11A131731;2;131731
+Pinho;11B170213;2;170213
+Curalha;11B170310;2;170310
+Moreiras;11B170317;2;170317
+Outeiro Seco;11B170321;2;170321
+Paradela;11B170322;2;170322
+Redondelo;11B170324;2;170324
+Vilar de Nantes;11B170344;2;170344
+Vilas Boas;11B170347;2;170347
+Vilela do Tâmega;11B170349;2;170349
+Bouçoães;11B171205;2;171205
+Rio Torto;11B171217;2;171217
+Santa Maria de Emeres;11B171219;2;171219
+Bornes de Aguiar;11B171303;2;171303
+Louredo;11C130120;2;130120
+Rebordelo;11C130128;2;130128
+União das freguesias de Freixo de Cima e de Baixo;11C130145;2;130145
+União das freguesias de Ancede e Ribadouro;11C130221;2;130221
+União das freguesias de Sobrado e Bairros;11C010611;2;010611
+Moreira do Castelo;11C030515;2;030515
+Ribas;11C030518;2;030518
+União das freguesias de Veade, Gagos e Molares;11C030527;2;030527
+Ferreiros de Tendais;11C180405;2;180405
+Moimenta;11C180408;2;180408
+São Cristóvão de Nogueira;11C180413;2;180413
+Travanca;11C180417;2;180417
+União das freguesias de Macieira da Lixa e Caramos;11C130334;2;130334
+União das freguesias de Vila Cova da Lixa e Borba de Godim;11C130339;2;130339
+União das freguesias de Nespereira e Casais;11C130531;2;130531
+União das freguesias de Silvares, Pias, Nogueira e Alvarenga;11C130532;2;130532
+Vila Boa do Bispo;11C130730;2;130730
+Carvalhosa;11C130902;2;130902
+Ferreira;11C130905;2;130905
+Seroa;11C130916;2;130916
+Bustelo;11C131103;2;131103
+Duas Igrejas;11C131109;2;131109
+Eja;11C131110;2;131110
+Penafiel;11C131139;2;131139
+Perozelo;11C131125;2;131125
+Termas de São Vicente;11C131143;2;131143
+São Martinho de Mouros;11C181314;2;181314
+São Martinho das Chãs;11D180115;2;180115
+Penajóia;11D180516;2;180516
+Penude;11D180517;2;180517
+Arcozelos;11D180703;2;180703
+Cabaços;11D180706;2;180706
+Caria;11D180707;2;180707
+União das freguesias de Noura e Palheiros;11D170711;2;170711
+Torre do Pinhão;11D171014;2;171014
+União das freguesias de Ferreirim e Macieira;11D181818;2;181818
+Vila da Ponte;11D181817;2;181817
+União das freguesias de Pinheiros e Vale de Figueira;11D181920;2;181920
+Mondim da Beira;11D182004;2;182004
+Larinho;11D040910;2;040910
+Freixo de Numão;11D091418;2;091418
+Sebadelhe;11D091414;2;091414
+Folhadela;11D171409;2;171409
+Baçal;11E040204;2;040204
+Donai;11E040212;2;040212
+Gostei;11E040218;2;040218
+Rabal;11E040234;2;040234
+Santa Comba de Rossas;11E040241;2;040241
+Sendas;11E040246;2;040246
+União das freguesias de Aveleda e Rio de Onor;11E040250;2;040250
+Amendoeira;11E040502;2;040502
+União das freguesias de Ala e Vilarinho do Monte;11E040539;2;040539
+Malhadas;11E040607;2;040607
+Póvoa;11E040612;2;040612
+Frechas;11E040716;2;040716
+Santalha;11E041221;2;041221
+União das freguesias de Soeira, Fresulfe e Mofreita;11E041241;2;041241
+Vila Verde;11E041230;2;041230
+São Tiago dos Velhos;16B110204;2;110204
+União das freguesias do Bombarral e Vale Covo;16B100506;2;100506
+União das freguesias de Miragaia e Marteleira;16B110813;2;110813
+Gaeiras;16B101208;2;101208
+Serra d'El-Rei;16B101405;2;101405
+Ponte do Rol;16B111310;2;111310
+Turcifal;16B111317;2;111317
+Fermentelos;16D010109;2;010109
+União das freguesias de Barrô e Aguada de Baixo;16D010122;2;010122
+União das freguesias de Recardães e Espinhel;16D010124;2;010124
+Pardilhó;16D010805;2;010805
+Murtosa;16D011203;2;011203
+Gafanha da Boa Hora;16D011804;2;011804
+União das freguesias de Cepos e Teixeira;16E060119;2;060119
+Ançã;16E060201;2;060201
+Febres;16E060207;2;060207
+Santo António dos Olivais;16E060318;2;060318
+União das freguesias de Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu);16E060334;2;060334
+Vila Verde;16E060513;2;060513
+Avô;16E061103;2;061103
+Bobadela;16E061104;2;061104
+Lourosa;16E061109;2;061109
+Milagres;16F100915;2;100915
+Parada;16G180206;2;180206
+Quintela de Azurara;16G180614;2;180614
+Pindo;16G181109;2;181109
+Mioma;16G181706;2;181706
+Silvã de Cima;16G181711;2;181711
+União das freguesias de Águas Boas e Forles;16G181713;2;181713
+Queiriga;16G182204;2;182204
+Campo;16G182306;2;182306
+Cavernães;16G182307;2;182307
+Coutos de Viseu;16G182337;2;182337
+Ribafeita;16G182322;2;182322
+São Pedro de France;16G182329;2;182329
+Faíl e Vila Chã de Sá;16G182338;2;182338
+Fornelo do Monte;16G182407;2;182407
+Lardosa;16H050211;2;050211
+Bugalhos;16I140202;2;140202
+Minde;16I140206;2;140206
+Montalvo;16I140802;2;140802
+Entroncamento;16I1410;2;6I1410
+Nossa Senhora de Fátima;16I141002;2;141002
+Ortiga;16I141307;2;141307
+Valhascos;16I141704;2;141704
+União das freguesias de Amoreira, Parada e Cabreira;16J090230;2;090230
+União das freguesias de Leomil, Mido, Senouras e Aldeia Nova;16J090234;2;090234
+Vilar Formoso;16J090229;2;090229
+Peraboa;16J050315;2;050315
+União das freguesias de Barco e Coutada;16J050332;2;050332
+União das freguesias de Cinco Vilas e Reigada;16J090420;2;090420
+Lavacolhos;16J050419;2;050419
+Casal de Cinza;16J090711;2;090711
+Faia;16J090716;2;090716
+União de freguesias de Corujeira e Trinta;16J090762;2;090762
+União de freguesias de Rochoso e Monte Margarida;16J090765;2;090765
+Vale de Amoreira;16J090804;2;090804
+Rabaçal;16J090914;2;090914
+Vale do Côa;16J091033;2;091033
+Aldeia Velha;16J091106;2;091106
+Malcata;16J091118;2;091118
+União das freguesias de Ruvina, Ruivós e Vale das Éguas;16J091144;2;091144
+União das freguesias de Santa Marinha e São Martinho;16J091232;2;091232
+Valezim;16J091225;2;091225
+Fiães;16J091307;2;091307
+Granja;16J091309;2;091309
+Rio de Mel;16J091316;2;091316
+São Francisco;170150203;2;150203
+União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça);170151210;2;151210
+Algueirão-Mem Martins;170111102;2;111102
+Casal de Cambra;170111115;2;111115
+União das freguesias de Castanheira do Ribatejo e Cachoeiras;170111414;2;111414
+Santa Bárbara de Padrões;184020604;2;020604
+Almeirim;185140301;2;140301
+Samora Correia;185140502;2;140502
+Vila Chã de Ourique;185140607;2;140607
+União das freguesias de Azambujeira e Malaqueijo;185141415;2;141415
+Moçarria;185141613;2;141613
+Gáfete;186120604;2;120604
+Santa Eulália;186120706;2;120706
+União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro;187070208;2;070208
+Arcos;187070401;2;070401
+São Domingos de Ana Loura;187070411;2;070411
+União das freguesias do Ameixial (Santa Vitória e São Bento);187070417;2;070417
+Luz;187070802;2;070802
+Rogil;150080304;2;080304
+Monte Redondo;111160122;1;160122
+Paçô;111160124;1;160124
+Âncora;111160201;1;160201
+Argela;111160205;1;160205
+Dem;111160209;1;160209
+Lanhelas;111160211;1;160211
+Riba de Âncora;111160214;1;160214
+União das freguesias de Caminha (Matriz) e Vilarelho;111160222;1;160222
+Vilar de Mouros;111160218;1;160218
+Vile;111160220;1;160220
+Alvaredo;111160301;1;160301
+Penso;111160313;1;160313
+Barbeita;111160404;1;160404
+Barroças e Taias;111160405;1;160405
+Cambeses;111160407;1;160407
+Segude;111160427;1;160427
+União das freguesias de Ceivães e Badim;111160435;1;160435
+Rubiães;111160520;1;160520
+União das freguesias de Insalde e Porreiras;111160525;1;160525
+Associação de freguesias do Vale do Neiva;111160754;1;160754
+Calvelo;111160714;1;160714
+Friastelas;111160724;1;160724
+Gandra;111160726;1;160726
+Poiares;111160734;1;160734
+Santa Comba;111160742;1;160742
+Seara;111160745;1;160745
+Boivão;111160802;1;160802
+União das freguesias de Valença, Cristelo Covo e Arão;111160820;1;160820
+Afife;111160901;1;160901
+Amonde;111160903;1;160903
+Areosa;111160905;1;160905
+Carreço;111160908;1;160908
+Chafé;111160940;1;160940
+Mujães;111160922;1;160922
+Outeiro;111160925;1;160925
+União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela;111160948;1;160948
+Loivo;111161007;1;161007
+Mentrestido;111161009;1;161009
+Sapardos;111161012;1;161012
+Sopo;111161013;1;161013
+Barreiros;112030102;1;030102
+Dornelas;112030108;1;030108
+União das freguesias de Caldelas, Sequeiros e Paranhos;112030126;1;030126
+União das freguesias de Ferreiros, Prozelo e Besteiros;112030127;1;030127
+Carapeços;112030218;1;030218
+Martim;112030247;1;030247
+Panque;112030256;1;030256
+Paradela;112030257;1;030257
+Perelhal;112030260;1;030260
+Roriz;112030264;1;030264
+União das freguesias de Areias de Vilar e Encourados;112030292;1;030292
+União das freguesias de Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro);112030293;1;030293
+União das freguesias de Carreira e Fonte Coberta;112030295;1;030295
+União das freguesias de Negreiros e Chavão;1120302FB;1;0302FB
+União das freguesias de Quintiães e Aguiar;1120302FC;1;0302FC
+União das freguesias de Sequeade e Bastuço (São João e Santo Estevão);1120302FD;1;0302FD
+Braga (São Vítor);112030351;1;030351
+Espinho;112030312;1;030312
+Figueiredo;112030315;1;030315
+Priscos;112030336;1;030336
+Tadim;112030356;1;030356
+União das freguesias de Ferreiros e Gondizalves;112030371;1;030371
+União das freguesias de Lomar e Arcos;112030373;1;030373
+União das freguesias de Merelim (São Pedro) e Frossos;112030375;1;030375
+União das freguesias de Morreira e Trandeiras;112030376;1;030376
+União das freguesias de Nogueiró e Tenões;112030378;1;030378
+Gemeses;112030610;1;030610
+Vila Chã;112030615;1;030615
+Campo do Gerês;112031003;1;031003
+Ribeira;112031012;1;031012
+Cabanelas;112031308;1;031308
+Freiriz;112031316;1;031316
+Pico;112031335;1;031335
+Ponte;112031337;1;031337
+Soutelo;112031352;1;031352
+Turiz;112031354;1;031354
+Vila de Prado;112031342;1;031342
+Abadim;119030401;1;030401
+Bucos;119030405;1;030405
+Fafe;119030709;1;030709
+Fornelos;119030712;1;030712
+Medelo;119030716;1;030716
+Paços;119030719;1;030719
+Regadas;119030723;1;030723
+Revelhe;119030724;1;030724
+União de freguesias de Ardegão, Arnozela e Seidões;119030740;1;030740
+União de freguesias de Cepães e Fareja;119030741;1;030741
+Vinhós;119030736;1;030736
+Brito;119030807;1;030807
+Caldelas;119030808;1;030808
+Gondar;119030821;1;030821
+Guardizela;119030823;1;030823
+Infantas;119030824;1;030824
+Longos;119030827;1;030827
+Nespereira;119030832;1;030832
+Ronfe;119030840;1;030840
+São Torcato;119030865;1;030865
+Selho (São Cristóvão);119030850;1;030850
+Selho (São Jorge);119030854;1;030854
+Serzedelo;119030866;1;030866
+União das freguesias de Abação e Gémeos;119030875;1;030875
+União das freguesias de Atães e Rendufe;119030878;1;030878
+União das freguesias de Briteiros São Salvador e Briteiros Santa Leocádia;119030880;1;030880
+União das freguesias de Candoso São Tiago e Mascotelos;119030881;1;030881
+União das freguesias de Conde e Gandarela;119030882;1;030882
+União das freguesias de Prazins Santo Tirso e Corvite;119030885;1;030885
+União das freguesias de Sande São Lourenço e Balazar;119030886;1;030886
+Atei;119170501;1;170501
+Covelas;119030906;1;030906
+Garfe;119030913;1;030913
+União das freguesias de Verim, Friande e Ajude;119030935;1;030935
+Vilela;119030929;1;030929
+Eira Vedra;119031107;1;031107
+União das freguesias de Anissó e Soutelo;119031122;1;031122
+Castelões;119031210;1;031210
+Louro;119031223;1;031223
+Oliveira (Santa Maria);119031239;1;031239
+Requião;119031233;1;031233
+União das freguesias de Avidos e Lagoa;119031252;1;031252
+União das freguesias de Esmeriz e Cabeçudos;119031254;1;031254
+União das freguesias de Lemenhe, Mouquim e Jesufrei;119031256;1;031256
+União das freguesias de Seide;119031258;1;031258
+Vale (São Martinho);119031241;1;031241
+Infias;119031404;1;031404
+União das freguesias de Tagilde e Vizela (São Paio);119031409;1;031409
+Mansores;11A010413;1;010413
+União das freguesias de Anta e Guetim;11A010706;1;010706
+Lomba;11A130405;1;130405
+Castêlo da Maia;11A130618;1;130618
+Folgosa;11A130603;1;130603
+Vila Nova da Telha;11A130616;1;130616
+União das freguesias de Perafita, Lavra e Santa Cruz do Bispo;11A130813;1;130813
+União das freguesias de São Mamede de Infesta e Senhora da Hora;11A130814;1;130814
+Fajões;11A011303;1;011303
+Beire;11A131004;1;131004
+Parada de Todeia;11A131017;1;131017
+Sobrosa;11A131021;1;131021
+Porto;11A1312;1;1A1312
+Campanhã;11A131203;1;131203
+União das freguesias de Aver-o-Mar, Amorim e Terroso;11A131313;1;131313
+Arrifana;11A010902;1;010902
+Fiães;11A010907;1;010907
+Água Longa;11A131402;1;131402
+União das freguesias de Carreira e Refojos de Riba de Ave;11A131435;1;131435
+Vilarinho;11A131432;1;131432
+Covelas;11A131806;1;131806
+Muro;11A131808;1;131808
+União das freguesias de Coronado (São Romão e São Mamede);11A131811;1;131811
+Árvore;11A131602;1;131602
+Azurara;11A131604;1;131604
+Macieira da Maia;11A131614;1;131614
+Mindelo;11A131616;1;131616
+União das freguesias de Vilar e Mosteiró;11A131637;1;131637
+Canidelo;11A131704;1;131704
+Bustelo;11B170305;1;170305
+Santa Leocádia;11B170329;1;170329
+Santo Estêvão;11B170331;1;170331
+Tronco;11B170340;1;170340
+União das freguesias de Soutelo e Seara Velha;11B170359;1;170359
+União das freguesias de Travancas e Roriz;11B170360;1;170360
+Vale de Anta;11B170341;1;170341
+Solveira;11B170631;1;170631
+Fornos do Pinhal;11B171211;1;171211
+Padrela e Tazem;11B171215;1;171215
+Sonim e Barreiros;11B171234;1;171234
+Vassal;11B171229;1;171229
+Sabroso de Aguiar;11B171317;1;171317
+Soutelo de Aguiar;11B171310;1;171310
+Vila Pouca de Aguiar;11B171314;1;171314
+Fregim;11C130112;1;130112
+Fridão;11C130115;1;130115
+Gondar;11C130117;1;130117
+Jazente;11C130118;1;130118
+União das freguesias de Figueiró (Santiago e Santa Cristina);11C130144;1;130144
+Vila Caiz;11C130138;1;130138
+Gestaçô;11C130205;1;130205
+Loivos do Monte;11C130208;1;130208
+Santa Marinha do Zêzere;11C130215;1;130215
+União das freguesias de Santa Cruz do Douro e São Tomé de Covelas;11C130225;1;130225
+Valadares;11C130219;1;130219
+Fornos;11C010602;1;010602
+Santa Maria de Sardoura;11C010607;1;010607
+São Martinho de Sardoura;11C010608;1;010608
+Codeçoso;11C030508;1;030508
+Espadanedo;11C180404;1;180404
+Souselo;11C180414;1;180414
+Airães;11C130302;1;130302
+Friande;11C130305;1;130305
+Pinheiro;11C130314;1;130314
+Regilde;11C130318;1;130318
+Revinhade;11C130319;1;130319
+União das freguesias de Pedreira, Rande e Sernande;11C130336;1;130336
+União das freguesias de Torrados e Sousa;11C130337;1;130337
+União das freguesias de Unhão e Lordelo;11C130338;1;130338
+União das freguesias de Vila Fria e Vizela (São Jorge);11C130340;1;130340
+Meinedo;11C130513;1;130513
+Nevogilde;11C130515;1;130515
+União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida);11C130527;1;130527
+União das freguesias de Cristelos, Boim e Ordem;11C130528;1;130528
+Bem Viver;11C130734;1;130734
+Paredes de Viadores e Manhuncelos;11C130737;1;130737
+Sande e São Lourenço do Douro;11C130739;1;130739
+Santo Isidoro e Livração;11C130735;1;130735
+Figueiró;11C130906;1;130906
+Frazão Arreigada;11C130917;1;130917
+Freamunde;11C130908;1;130908
+Paços de Ferreira;11C130918;1;130918
+Sanfins Lamoso Codessos;11C130919;1;130919
+Boelhe;11C131102;1;131102
+Castelões;11C131107;1;131107
+Croca;11C131108;1;131108
+Fonte Arcada;11C131112;1;131112
+Guilhufe e Urrô;11C131141;1;131141
+Irivo;11C131115;1;131115
+Paço de Sousa;11C131122;1;131122
+Rans;11C131128;1;131128
+Recezinhos (São Mamede);11C131132;1;131132
+Valpedre;11C131136;1;131136
+Cárquere;11C181303;1;181303
+Paus;11C181310;1;181310
+Resende;11C181311;1;181311
+São Cipriano;11C181312;1;181312
+União das freguesias de Felgueiras e Feirão;11C181317;1;181317
+Pegarinhos;11D170108;1;170108
+União das freguesias de Castedo e Cotas;11D170121;1;170121
+Fontelo;11D180107;1;180107
+Pombal;11D040314;1;040314
+União das freguesias de Castanheiro do Norte e Ribalonga;11D040322;1;040322
+Lamego (Almacave e Sé);11D180525;1;180525
+União das freguesias de Parada do Bispo e Valdigem;11D180528;1;180528
+Vila da Rua;11D180716;1;180716
+Sever;11D180719;1;180719
+Candedo;11D170701;1;170701
+Fiolhoso;11D170703;1;170703
+Póvoa de Penela;11D181208;1;181208
+União das freguesias de Poiares e Canelas;11D170816;1;170816
+Parada de Pinhão;11D171005;1;171005
+Cumieira;11D171102;1;171102
+Riodades;11D181507;1;181507
+Valongo dos Azeites;11D181512;1;181512
+Carregal;11D181802;1;181802
+Chosendo;11D181803;1;181803
+Arcos;11D181902;1;181902
+Tabuaço;11D181914;1;181914
+Horta da Vilariça;11D040909;1;040909
+Lordelo;11D171414;1;171414
+União das freguesias de Nogueira e Ermida;11D171435;1;171435
+Vila Real;11D171438;1;171438
+Babe;11E040203;1;040203
+Castro de Avelãs;11E040209;1;040209
+Gimonde;11E040216;1;040216
+Serapicos;11E040247;1;040247
+Ferreira;11E040514;1;040514
+Miranda do Douro;11E040608;1;040608
+Aguieiras;11E040703;1;040703
+Vale de Asnes;11E040731;1;040731
+Argozelo;11E041103;1;041103
+Edral;11E041206;1;041206
+Penhas Juntas;11E041216;1;041216
+Vilar de Ossos;11E041232;1;041232
+Vilar de Peregrinos;11E041233;1;041233
+Maiorga;16B100109;1;100109
+Meca;16B110107;1;110107
+Alguber;16B110401;1;110401
+Ribamar;16B110810;1;110810
+Santa Bárbara;16B110806;1;110806
+A dos Negros;16B101201;1;101201
+Olho Marinho;16B101203;1;101203
+Vau;16B101207;1;101207
+Freiria;16B111306;1;111306
+Ribeira de Fráguas;16D010206;1;010206
+União das freguesias de Arcos e Mogofores;16D010317;1;010317
+Oliveirinha;16D010508;1;010508
+União das freguesias de Glória e Vera Cruz;16D010517;1;010517
+Gafanha da Nazaré;16D011006;1;011006
+Torreira;16D011204;1;011204
+Palhaça;16D011405;1;011405
+Maceda;16D011504;1;011504
+Calvão;16D011801;1;011801
+Santo André de Vagos;16D011810;1;011810
+Sosa;16D011807;1;011807
+União das freguesias de Vagos e Santo António;16D011814;1;011814
+Benfeita;16E060104;1;060104
+Celavisa;16E060105;1;060105
+Pomares;16E060112;1;060112
+Secarias;16E060116;1;060116
+Cordinhã;16E060205;1;060205
+São Caetano;16E060215;1;060215
+Alqueidão;16E060502;1;060502
+Buarcos;16E060520;1;060520
+Paião;16E060523;1;060523
+Praia de Mira;16E060804;1;060804
+União das freguesias de Abrunheira, Verride e Vila Nova da Barca;16E061015;1;061015
+Candosa;16E061602;1;061602
+Póvoa de Midões;16E061611;1;061611
+Avelar;16F100303;1;100303
+Golpilheira;16F100404;1;100404
+Campelo;16F100803;1;100803
+Bidoeira de Cima;16F100926;1;100926
+Moita;16F101003;1;101003
+Meirinhas;16F101515;1;101515
+Alcafache;16G180602;1;180602
+São João da Fresta;16G180616;1;180616
+União das freguesias de Santar e Moreira;16G180911;1;180911
+Esmolfe;16G181103;1;181103
+Germil;16G181104;1;181104
+Real;16G181110;1;181110
+Rio de Moinhos;16G181707;1;181707
+Parada de Gonta;16G182116;1;182116
+Tonda;16G182122;1;182122
+Mundão;16G182318;1;182318
+Orgens;16G182319;1;182319
+Repeses e São Salvador;16G182339;1;182339
+Santos Evos;16G182325;1;182325
+São João de Lourosa;16G182327;1;182327
+Viseu;16G182341;1;182341
+Oledo;16H050509;1;050509
+Proença-a-Velha;16H050511;1;050511
+Rio de Moinhos;16I140108;1;140108
+União das freguesias de Aldeia do Mato e Souto;16I140121;1;140121
+Santiago de Montalegre;16I141702;1;141702
+Carregueiros;16I141804;1;141804
+Meia Via;16I141917;1;141917
+Riachos;16I141910;1;141910
+Praia do Ribatejo;16I142002;1;142002
+Vila Nova da Barquinha;16I142006;1;142006
+Freixo;16J090210;1;090210
+União das freguesias de Junça e Naves;16J090233;1;090233
+União das freguesias de Miuzela e Porto de Ovelha;16J090236;1;090236
+União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais;16J090325;1;090325
+Aldeia de São Francisco de Assis;16J050302;1;050302
+Paul;16J050314;1;050314
+Castelo Rodrigo;16J090403;1;090403
+Escalhão;16J090406;1;090406
+Mata de Lobos;16J090410;1;090410
+União das freguesias de Algodres, Vale de Afonsinho e Vilar de Amargo;16J090418;1;090418
+Figueiró da Granja;16J090504;1;090504
+Fernão Joanes;16J090718;1;090718
+Porto da Carne;16J090732;1;090732
+Vila Cortês do Mondego;16J090750;1;090750
+Vila Garcia;16J090753;1;090753
+Marialva;16J090908;1;090908
+Prova e Casteição;16J090918;1;090918
+Ervedosa;16J091009;1;091009
+Manigoto;16J091014;1;091014
+Terras de Massueime;16J091030;1;091030
+Valbom/Bogalhal;16J091031;1;091031
+Bismula;16J091111;1;091111
+Cerdeira;16J091113;1;091113
+Quadrazais;16J091123;1;091123
+União das freguesias de Lajeosa e Forcalhos;16J091142;1;091142
+Vila Boa;16J091138;1;091138
+Sazes da Beira;16J091219;1;091219
+Travancinha;16J091224;1;091224
+Cogula;16J091304;1;091304
+Palhais;16J091313;1;091313
+Reboleiro;16J091315;1;091315
+União das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho;16J091331;1;091331
+União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas;170150312;1;150312
+Amadora;1701115;1;701115
+Mina de Água;170111516;1;111516
+Lisboa;1701106;1;701106
+Olivais;170110633;1;110633
+União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela;170110728;1;110728
+União das freguesias de Santo António dos Cavaleiros e Frielas;170110730;1;110730
+Ericeira;170110906;1;110906
+Sarilhos Grandes;170150704;1;150704
+União das freguesias de Pontinha e Famões;170111608;1;111608
+Oeiras;1701110;1;701110
+Porto Salvo;170111009;1;111009
+União das freguesias de Queluz e Belas;170111126;1;111126
+União das freguesias de Póvoa de Santa Iria e Forte da Casa;170111415;1;111415
+Comporta;181150106;1;150106
+Vidigueira;184021403;1;021403
+Benfica do Ribatejo;185140302;1;140302
+Vila Nova da Rainha;185110307;1;110307
+Benavente;185140501;1;140501
+Amiais de Baixo;185141607;1;141607
+Seda;186120103;1;120103
+Aldeia Velha;186120302;1;120302
+União das freguesias de Alcórrego e Maranhão;186120309;1;120309
+Monte da Pedra;186120605;1;120605
+São Saturnino;186120803;1;120803
+Assumar;186121101;1;121101
+São Bento do Mato;187070506;1;070506
+Ciborro;187070607;1;070607
+Monte do Trigo;187070903;1;070903
+Albufeira e Olhos de Água;150080106;1;080106
+União das freguesias de Estômbar e Parchal;150080607;1;080607
+Pechão;150081004;1;081004
+Santa Luzia;150081408;1;081408
+Braga (São Vicente);112030349;0;030349
+União das freguesias de Braga (São José de São Lázaro e São João do Souto);112030365;0;030365
+União das freguesias de Oliveira, São Paio e São Sebastião;119030884;0;030884
+Espinho;11A010702;0;010702
+Bonfim;11A131202;0;131202
+União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória;11A131217;0;131217
+União das freguesias de Santa Marinha e São Pedro da Afurada;11A131730;0;131730
+São Pedro;16E060514;0;060514
+Alfragide;170111512;0;111512
+Alvalade;170110654;0;110654
+Areeiro;170110655;0;110655
+Arroios;170110656;0;110656
+Avenidas Novas;170110657;0;110657
+Beato;170110607;0;110607
+Campolide;170110610;0;110610
+Carnide;170110611;0;110611
+Estrela;170110660;0;110660
+Misericórdia;170110661;0;110661
+Parque das Nações;170110662;0;110662
+Penha de França;170110663;0;110663
+Santa Clara;170110664;0;110664
+Santo António;170110666;0;110666
+São Domingos de Benfica;170110639;0;110639
+São Vicente;170110667;0;110667
+Couto;111160109;0;160109
+Jolda (São Paio);111160142;0;160142
+Sabadim;111160133;0;160133
+Seixas;111160215;0;160215
+Vila Praia de Âncora;111160217;0;160217
+Cousso;111160304;0;160304
+Cristoval;111160305;0;160305
+Lara;111160410;0;160410
+Pinheiros;111160421;0;160421
+Podame;111160422;0;160422
+Portela;111160423;0;160423
+União das freguesias de Messegães, Valadares e Sá;111160437;0;160437
+União das freguesias de Monção e Troviscoso;111160438;0;160438
+União das freguesias de Troporiz e Lapela;111160440;0;160440
+Agualonga;111160501;0;160501
+Britelo;111160604;0;160604
+Cuide de Vila Verde;111160606;0;160606
+Nogueira;111160613;0;160613
+União das freguesias de Vila Chã (São João Baptista e Santiago);111160630;0;160630
+Vade (São Pedro);111160623;0;160623
+Vade (São Tomé);111160624;0;160624
+Arca e Ponte de Lima;111160752;0;160752
+Bertiandos;111160708;0;160708
+Boalhosa;111160709;0;160709
+Brandara;111160710;0;160710
+Feitosa;111160719;0;160719
+Labruja;111160729;0;160729
+Friestas;111160806;0;160806
+Ganfei;111160808;0;160808
+São Pedro da Torre;111160812;0;160812
+União das freguesias de Gondomil e Sanfins;111160818;0;160818
+Verdoejo;111160816;0;160816
+Alvarães;111160902;0;160902
+Darque;111160911;0;160911
+União das freguesias de Cardielos e Serreleis;111160942;0;160942
+Vila Franca;111160935;0;160935
+União das freguesias de Candemil e Gondar;111161017;0;161017
+União das freguesias de Vila Nova de Cerveira e Lovelhe;111161019;0;161019
+Bico;112030104;0;030104
+Bouro (Santa Maria);112030119;0;030119
+Fiscal;112030111;0;030111
+União das freguesias de Torre e Portela;112030128;0;030128
+Aborim;112030202;0;030202
+Adães;112030203;0;030203
+Airó;112030205;0;030205
+Aldreu;112030206;0;030206
+Alvelos;112030208;0;030208
+Arcozelo;112030209;0;030209
+Areias;112030210;0;030210
+Barcelinhos;112030213;0;030213
+Barqueiros;112030215;0;030215
+Cambeses;112030216;0;030216
+Carvalhal;112030220;0;030220
+Carvalhas;112030221;0;030221
+Cossourado;112030224;0;030224
+Cristelo;112030228;0;030228
+Fornelos;112030234;0;030234
+Fragoso;112030235;0;030235
+Galegos (Santa Maria);112030268;0;030268
+Galegos (São Martinho);112030272;0;030272
+Gilmonde;112030237;0;030237
+Lama;112030242;0;030242
+Lijó;112030243;0;030243
+Macieira de Rates;112030244;0;030244
+Manhente;112030245;0;030245
+Moure;112030252;0;030252
+Oliveira;112030254;0;030254
+Palme;112030255;0;030255
+Pereira;112030259;0;030259
+Remelhe;112030263;0;030263
+Rio Covo (Santa Eugénia);112030265;0;030265
+Silva;112030279;0;030279
+Tamel (São Veríssimo);112030277;0;030277
+Ucha;112030282;0;030282
+União das freguesias de Alheira e Igreja Nova;112030290;0;030290
+União das freguesias de Creixomil e Mariz;112030297;0;030297
+União das freguesias de Durrães e Tregosa;112030298;0;030298
+União das freguesias de Gamil e Midões;112030299;0;030299
+União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte;1120302FF;0;0302FF
+União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães;1120302FG;0;0302FG
+Várzea;112030283;0;030283
+Vila Seca;112030287;0;030287
+Gualtar;112030319;0;030319
+Lamas;112030322;0;030322
+Mire de Tibães;112030325;0;030325
+Padim da Graça;112030330;0;030330
+Tebosa;112030357;0;030357
+União das freguesias de Braga (Maximinos, Sé e Cividade);112030364;0;030364
+União das freguesias de Guisande e Oliveira (São Pedro);112030372;0;030372
+União das freguesias de Vilaça e Fradelos;112030381;0;030381
+Antas;112030601;0;030601
+União das freguesias de Apúlia e Fão;112030616;0;030616
+União das freguesias de Belinho e Mar;112030617;0;030617
+Balança;112031001;0;031001
+Moimenta;112031010;0;031010
+União das freguesias de Chamoim e Vilar;112031018;0;031018
+Atiães;112031304;0;031304
+Dossãos;112031313;0;031313
+Lanhas;112031324;0;031324
+Parada de Gatim;112031331;0;031331
+Sabariz;112031340;0;031340
+União das freguesias de Esqueiros, Nevogilde e Travassós;112031363;0;031363
+União das freguesias de Sande, Vilarinho, Barros e Gomide;112031367;0;031367
+Vila Verde e Barbudo;112031370;0;031370
+Basto;119030404;0;030404
+Faia;119030408;0;030408
+Arões (Santa Cristina);119030726;0;030726
+Silvares (São Martinho);119030729;0;030729
+União de freguesias de Agrela e Serafão;119030738;0;030738
+Aldão;119030801;0;030801
+Azurém;119030804;0;030804
+Barco;119030806;0;030806
+Candoso (São Martinho);119030857;0;030857
+Costa;119030812;0;030812
+Creixomil;119030813;0;030813
+Fermentões;119030815;0;030815
+Lordelo;119030828;0;030828
+Mesão Frio;119030830;0;030830
+Moreira de Cónegos;119030831;0;030831
+Pencelo;119030835;0;030835
+Pinheiro;119030836;0;030836
+Polvoreira;119030837;0;030837
+Prazins (Santa Eufémia);119030842;0;030842
+Sande (São Martinho);119030858;0;030858
+União das freguesias de Briteiros Santo Estêvão e Donim;119030879;0;030879
+União das freguesias de Serzedo e Calvos;119030889;0;030889
+União das freguesias de Tabuadelo e São Faustino;119030891;0;030891
+Urgezes;119030871;0;030871
+Ferreiros;119030908;0;030908
+Geraz do Minho;119030914;0;030914
+São João de Rei;119030923;0;030923
+Taíde;119030926;0;030926
+União das freguesias de Águas Santas e Moure;119030930;0;030930
+União das freguesias de Campos e Louredo;119030932;0;030932
+Parada de Bouro;119031111;0;031111
+Bairro;119031204;0;031204
+Brufe;119031206;0;031206
+Cruz;119031212;0;031212
+Delães;119031213;0;031213
+Gavião;119031216;0;031216
+Landim;119031221;0;031221
+Mogege;119031225;0;031225
+Oliveira (São Mateus);119031242;0;031242
+Pousada de Saramagos;119031232;0;031232
+Riba de Ave;119031234;0;031234
+Ribeirão;119031235;0;031235
+União das freguesias de Antas e Abade de Vermoim;119031250;0;031250
+União das freguesias de Arnoso (Santa Maria e Santa Eulália) e Sezures;119031251;0;031251
+União das freguesias de Carreira e Bente;119031253;0;031253
+União das freguesias de Gondifelos, Cavalões e Outiz;119031255;0;031255
+União das freguesias de Vale (São Cosme), Telhado e Portela;119031259;0;031259
+União das freguesias de Vila Nova de Famalicão e Calendário;119031260;0;031260
+Vermoim;119031247;0;031247
+Santa Eulália;119031401;0;031401
+União das freguesias de Caldas de Vizela (São Miguel e São João);119031408;0;031408
+Vizela (Santo Adrião);119031406;0;031406
+Fermedo;11A010411;0;010411
+São Miguel do Mato;11A010417;0;010417
+Várzea;11A010420;0;010420
+Paramos;11A010704;0;010704
+Baguim do Monte (Rio Tinto);11A130412;0;130412
+Rio Tinto;11A130408;0;130408
+União das freguesias de Fânzeres e São Pedro da Cova;11A130413;0;130413
+Águas Santas;11A130601;0;130601
+Cidade da Maia;11A130619;0;130619
+Milheirós;11A130608;0;130608
+Nogueira e Silva Escura;11A130620;0;130620
+Pedrouços;11A130617;0;130617
+Macieira de Sarnes;11A011305;0;011305
+Ossela;11A011310;0;011310
+São Roque;11A011318;0;011318
+Astromil;11A131002;0;131002
+Cristelo;11A131009;0;131009
+Lordelo;11A131013;0;131013
+Louredo;11A131014;0;131014
+Vilela;11A131024;0;131024
+Paranhos;11A131210;0;131210
+Ramalde;11A131211;0;131211
+União das freguesias de Aldoar, Foz do Douro e Nevogilde;11A131216;0;131216
+União das freguesias de Lordelo do Ouro e Massarelos;11A131218;0;131218
+Estela;11A131307;0;131307
+Rates;11A131311;0;131311
+União das freguesias de Aguçadoura e Navais;11A131314;0;131314
+Escapães;11A010904;0;010904
+Fornos;11A010908;0;010908
+Lourosa;11A010913;0;010913
+Mozelos;11A010916;0;010916
+Nogueira da Regedoura;11A010917;0;010917
+Paços de Brandão;11A010919;0;010919
+Rio Meão;11A010921;0;010921
+Sanguedo;11A010924;0;010924
+Santa Maria de Lamas;11A010925;0;010925
+São Paio de Oleiros;11A010918;0;010918
+Agrela;11A131401;0;131401
+Negrelos (São Tomé);11A131430;0;131430
+Rebordões;11A131416;0;131416
+Roriz;11A131419;0;131419
+São João da Madeira;11A0116;0;1A0116
+São João da Madeira;11A011601;0;011601
+Ermesinde;11A131503;0;131503
+Valongo;11A131505;0;131505
+Aveleda;11A131603;0;131603
+Fajozes;11A131607;0;131607
+Gião;11A131610;0;131610
+Junqueira;11A131612;0;131612
+Labruge;11A131613;0;131613
+Modivas;11A131617;0;131617
+União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada;11A131631;0;131631
+União das freguesias de Fornelo e Vairão;11A131632;0;131632
+União das freguesias de Malta e Canidelo;11A131633;0;131633
+Vila Chã;11A131627;0;131627
+Vilar de Pinheiro;11A131630;0;131630
+Madalena;11A131709;0;131709
+Oliveira do Douro;11A131712;0;131712
+União das freguesias de Grijó e Sermonde;11A131725;0;131725
+União das freguesias de Mafamude e Vilar do Paraíso;11A131727;0;131727
+Vilar de Andorinho;11A131723;0;131723
+Faiões;11B170313;0;170313
+Lama de Arcos;11B170314;0;170314
+Santa Maria Maior;11B170350;0;170350
+União das freguesias de Santa Cruz/Trindade e Sanjurge;11B170358;0;170358
+Vilela Seca;11B170348;0;170348
+Ferral;11B170609;0;170609
+Tourém;11B170632;0;170632
+Água Revés e Crasto;11B171201;0;171201
+Lebução, Fiães e Nozelos;11B171233;0;171233
+Possacos;11B171216;0;171216
+Santa Valha;11B171220;0;171220
+Santiago da Ribeira de Alhariz;11B171221;0;171221
+Veiga de Lila;11B171230;0;171230
+Vilarandelo;11B171231;0;171231
+Bragado;11B171304;0;171304
+Gouveia (São Simão);11C130134;0;130134
+Lomba;11C130119;0;130119
+Padronelo;11C130126;0;130126
+Frende;11C130204;0;130204
+Grilo;11C130207;0;130207
+União das freguesias de Loivos da Ribeira e Tresouras;11C130224;0;130224
+Viariz;11C130220;0;130220
+Agilde;11C030501;0;030501
+Tarouquela;11C180415;0;180415
+Aião;11C130301;0;130301
+Idães;11C130306;0;130306
+Jugueiros;11C130307;0;130307
+Penacova;11C130313;0;130313
+Pombeiro de Ribavizela;11C130315;0;130315
+Refontoura;11C130317;0;130317
+Sendim;11C130324;0;130324
+União das freguesias de Vila Verde e Santão;11C130341;0;130341
+Aveleda;11C130502;0;130502
+Caíde de Rei;11C130504;0;130504
+Lodares;11C130510;0;130510
+Macieira;11C130512;0;130512
+Torno;11C130525;0;130525
+União das freguesias de Figueiras e Covas;11C130529;0;130529
+Vilar do Torno e Alentém;11C130526;0;130526
+Alpendorada, Várzea e Torrão;11C130732;0;130732
+Constance;11C130705;0;130705
+Sobretâmega;11C130723;0;130723
+Tabuado;11C130724;0;130724
+Eiriz;11C130904;0;130904
+Penamaior;11C130913;0;130913
+Raimonda;11C130914;0;130914
+Cabeça Santa;11C131104;0;131104
+Luzim e Vila Cova;11C131140;0;131140
+Oldrões;11C131121;0;131121
+Rio de Moinhos;11C131129;0;131129
+Sebolido;11C131134;0;131134
+Barrô;11C181302;0;181302
+São João de Fontoura;11C181313;0;181313
+União das freguesias de Ovadas e Panchorra;11C181319;0;181319
+Pinhão;11D170109;0;170109
+Sanfins do Douro;11D170112;0;170112
+Santa Eugénia;11D170113;0;170113
+União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas;11D170123;0;170123
+Aldeias;11D180101;0;180101
+Armamar;11D180120;0;180120
+Cimbres;11D180104;0;180104
+Folgosa;11D180106;0;180106
+Queimada;11D180109;0;180109
+Queimadela;11D180110;0;180110
+Santa Cruz;11D180111;0;180111
+União das freguesias de São Romão e Santiago;11D180122;0;180122
+União das freguesias de Vila Seca e Santo Adrião;11D180123;0;180123
+Vacalar;11D180118;0;180118
+Fonte Longa;11D040306;0;040306
+Linhares;11D040308;0;040308
+Marzagão;11D040309;0;040309
+Parambos;11D040311;0;040311
+Pinhal do Norte;11D040313;0;040313
+União das freguesias de Belver e Mogo de Malta;11D040321;0;040321
+Avões;11D180502;0;180502
+Britiande;11D180504;0;180504
+Cambres;11D180505;0;180505
+Ferreirim;11D180507;0;180507
+Ferreiros de Avões;11D180508;0;180508
+Figueira;11D180509;0;180509
+Lalim;11D180510;0;180510
+Samodães;11D180519;0;180519
+Sande;11D180520;0;180520
+União das freguesias de Cepões, Meijinhos e Melcões;11D180527;0;180527
+Várzea de Abrunhais;11D180523;0;180523
+Vila Nova de Souto d'El-Rei;11D180524;0;180524
+Cidadelhe;11D170402;0;170402
+Mesão Frio (Santo André);11D170408;0;170408
+Oliveira;11D170403;0;170403
+Vila Marim;11D170407;0;170407
+Baldos;11D180705;0;180705
+Moimenta da Beira;11D180710;0;180710
+Passô;11D180713;0;180713
+Sarzedo;11D180717;0;180717
+Vilar;11D180720;0;180720
+Fontelas;11D170802;0;170802
+Loureiro;11D170805;0;170805
+União das freguesias de Galafura e Covelinhas;11D170813;0;170813
+União das freguesias de Moura Morta e Vinhós;11D170814;0;170814
+União das freguesias de Peso da Régua e Godim;11D170815;0;170815
+Vilarinho dos Freires;11D170810;0;170810
+Celeirós;11D171001;0;171001
+Covas do Douro;11D171002;0;171002
+Sabrosa;11D171009;0;171009
+Souto Maior;11D171013;0;171013
+União das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro;11D171016;0;171016
+União das freguesias de São Martinho de Antas e Paradela de Guiães;11D171017;0;171017
+Vilarinho de São Romão;11D171015;0;171015
+Alvações do Corgo;11D171101;0;171101
+Medrões;11D171106;0;171106
+Sever;11D171110;0;171110
+União das freguesias de Louredo e Fornelos;11D171112;0;171112
+Castanheiro do Sul;11D181501;0;181501
+Nagozelo do Douro;11D181504;0;181504
+Vale de Figueira;11D181511;0;181511
+Faia;11D181806;0;181806
+Lamosa;11D181811;0;181811
+União das freguesias de Penso e Freixinho;11D181820;0;181820
+Adorigo;11D181901;0;181901
+Chavães;11D181904;0;181904
+Desejosa;11D181905;0;181905
+Granja do Tedo;11D181906;0;181906
+Longa;11D181908;0;181908
+Sendim;11D181913;0;181913
+União das freguesias de Barcos e Santa Leocádia;11D181918;0;181918
+União das freguesias de Paradela e Granjinha;11D181919;0;181919
+Valença do Douro;11D181917;0;181917
+Salzedas;11D182005;0;182005
+União das freguesias de Gouviães e Ucanha;11D182011;0;182011
+União das freguesias de Granja Nova e Vila Chã da Beira;11D182012;0;182012
+Castedo;11D040906;0;040906
+Lousa;11D040911;0;040911
+Torre de Moncorvo;11D040916;0;040916
+União das freguesias de Felgueiras e Maçores;11D040920;0;040920
+União das freguesias de Urros e Peredo dos Castelhanos;11D040921;0;040921
+Almendra;11D091401;0;091401
+Chãs;11D091404;0;091404
+Custóias;11D091405;0;091405
+Horta;11D091407;0;091407
+Muxagata;11D091410;0;091410
+Santa Comba;11D091412;0;091412
+Seixas;11D091415;0;091415
+Arroios;11D171404;0;171404
+Mateus;11D171415;0;171415
+Parada de Cunhos;11D171420;0;171420
+Cerejais;11E040103;0;040103
+União das freguesias de Parada e Sendim da Ribeira;11E040125;0;040125
+Vilares de Vilariça;11E040120;0;040120
+Carragosa;11E040206;0;040206
+Coelhoso;11E040210;0;040210
+Gondesende;11E040217;0;040217
+Macedo do Mato;11E040221;0;040221
+Nogueira;11E040225;0;040225
+Outeiro;11E040226;0;040226
+Quintanilha;11E040232;0;040232
+São Pedro de Sarracenos;11E040244;0;040244
+União das freguesias de Castrelos e Carrazedo;11E040251;0;040251
+Arcas;11E040503;0;040503
+Grijó;11E040515;0;040515
+Lamalonga;11E040517;0;040517
+Macedo de Cavaleiros;11E040520;0;040520
+Talhas;11E040530;0;040530
+União das freguesias de Podence e Santa Combinha;11E040543;0;040543
+União das freguesias de Talhinhas e Bagueixe;11E040544;0;040544
+Vale da Porca;11E040533;0;040533
+Vale de Prados;11E040534;0;040534
+Palaçoulo;11E040609;0;040609
+União das freguesias de Constantim e Cicouro;11E040618;0;040618
+Abambres;11E040701;0;040701
+Alvites;11E040704;0;040704
+Bouça;11E040708;0;040708
+Cabanelas;11E040709;0;040709
+Cedães;11E040712;0;040712
+Cobro;11E040713;0;040713
+Fradizela;11E040714;0;040714
+Mascarenhas;11E040720;0;040720
+Vale de Gouvinhas;11E040732;0;040732
+Vale de Salgueiro;11E040733;0;040733
+Peredo da Bemposta;11E040813;0;040813
+Tó;11E040819;0;040819
+Travanca;11E040820;0;040820
+Urrós;11E040821;0;040821
+Benlhevai;11E041002;0;041002
+Sampaio;11E041011;0;041011
+Santa Comba de Vilariça;11E041012;0;041012
+Trindade;11E041014;0;041014
+União das freguesias de Assares e Lodões;11E041020;0;041020
+União das freguesias de Vila Flor e Nabo;11E041023;0;041023
+Vale Frechoso;11E041015;0;041015
+Carção;11E041107;0;041107
+União das freguesias de Algoso, Campo de Víboras e Uva;11E041115;0;041115
+Vimioso;11E041114;0;041114
+Candedo;11E041203;0;041203
+Edrosa;11E041207;0;041207
+Paçó;11E041215;0;041215
+Tuizelo;11E041226;0;041226
+União das freguesias de Curopos e Vale de Janeiro;11E041236;0;041236
+União das freguesias de Moimenta e Montouto;11E041237;0;041237
+União das freguesias de Quirás e Pinheiro Novo;11E041239;0;041239
+União das freguesias de Travanca e Santa Cruz;11E041242;0;041242
+União das freguesias de Vilar de Lomba e São Jomil;11E041243;0;041243
+União das freguesias de Alcobaça e Vestiaria;16B100121;0;100121
+Cardosas;16B110203;0;110203
+Pó;16B100505;0;100505
+Amoreira;16B101202;0;101202
+Ferrel;16B101406;0;101406
+Peniche;16B101407;0;101407
+Avelãs de Caminho;16D010304;0;010304
+São Bernardo;16D010510;0;010510
+São Jacinto;16D010511;0;010511
+Gafanha da Encarnação;16D011005;0;011005
+Gafanha do Carmo;16D011007;0;011007
+Monte;16D011202;0;011202
+Cortegaça;16D011502;0;011502
+Esmoriz;16D011503;0;011503
+União das freguesias de Vilamar e Corticeiro de Cima;16E060224;0;060224
+Ceira;16E060311;0;060311
+Moinhos da Gândara;16E060518;0;060518
+Carapelhos;16E060803;0;060803
+Seixo;16E060802;0;060802
+Ereira;16E061014;0;061014
+Cercosa;16E180802;0;180802
+Alvoco das Várzeas;16E061102;0;061102
+São Gião;16E061115;0;061115
+União das freguesias de Santa Ovaia e Vila Pouca da Beira;16E061126;0;061126
+Cabril;16E061201;0;061201
+Bajouca;16F100925;0;100925
+Freixiosa;16G180608;0;180608
+Lusinde;16G181106;0;181106
+Trancozelos;16G181112;0;181112
+Medelim;16H050506;0;050506
+Carvalhal;16I140119;0;140119
+São João Baptista;16I141001;0;141001
+Espite;16I142105;0;142105
+São João do Peso;16I051002;0;051002
+Castelo Bom;16J090207;0;090207
+Freineda;16J090209;0;090209
+São Pedro de Rio Seco;16J090224;0;090224
+União das freguesias de Malpartida e Vale de Coelha;16J090235;0;090235
+Vale da Mula;16J090227;0;090227
+Casas do Soeiro;16J090322;0;090322
+Sobral de São Miguel;16J050322;0;050322
+União das freguesias de Peso e Vales do Rio;16J050336;0;050336
+União das freguesias de Almofala e Escarigo;16J090419;0;090419
+União das freguesias do Colmeal e Vilar Torpim;16J090422;0;090422
+Vermiosa;16J090415;0;090415
+Infias;16J090507;0;090507
+Alcongosta;16J050403;0;050403
+Ribamondego;16J090614;0;090614
+União das freguesias de Rio Torto e Lagarinhos;16J090628;0;090628
+Avelãs da Ribeira;16J090708;0;090708
+Gonçalo Bocas;16J090721;0;090721
+Pega;16J090729;0;090729
+União de freguesias de Pousade e Albardo;16J090764;0;090764
+Vale de Estrela;16J090746;0;090746
+Aveloso;16J090901;0;090901
+Longroiva;16J090907;0;090907
+União das freguesias de Vale Flor, Carvalhal e Pai Penela;16J090919;0;090919
+Pala;16J091015;0;091015
+Vale do Massueime;16J091034;0;091034
+Alfaiates;16J091107;0;091107
+Rapoula do Côa;16J091125;0;091125
+Rebolosa;16J091126;0;091126
+Rendo;16J091127;0;091127
+União das freguesias de Torrozelo e Folhadosa;16J091234;0;091234
+Cótimos;16J091305;0;091305
+Samouco;170150202;0;150202
+Costa da Caparica;170150303;0;150303
+União das freguesias de Laranjeiro e Feijó;170150315;0;150315
+Águas Livres;170111513;0;111513
+Encosta do Sol;170111514;0;111514
+Falagueira-Venda Nova;170111515;0;111515
+Venteira;170111517;0;111517
+Santo António da Charneca;170150407;0;150407
+União das freguesias de Alto do Seixalinho, Santo André e Verderena;170150409;0;150409
+União das freguesias de Barreiro e Lavradio;170150410;0;150410
+União das freguesias de Carcavelos e Parede;170110507;0;110507
+Ajuda;170110601;0;110601
+Alcântara;170110602;0;110602
+Belém;170110658;0;110658
+Benfica;170110608;0;110608
+Campo de Ourique;170110659;0;110659
+Lumiar;170110618;0;110618
+Marvila;170110621;0;110621
+Santa Maria Maior;170110665;0;110665
+União das freguesias de Moscavide e Portela;170110726;0;110726
+União das freguesias de Sacavém e Prior Velho;170110727;0;110727
+Carvoeira;170110902;0;110902
+União das freguesias de Baixa da Banheira e Vale da Amoreira;170150607;0;150607
+União das freguesias de Póvoa de Santo Adrião e Olival Basto;170111609;0;111609
+Barcarena;170111002;0;111002
+União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo;170111012;0;111012
+União das freguesias de Carnaxide e Queijas;170111013;0;111013
+União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias;170111014;0;111014
+Corroios;170151005;0;151005
+Quinta do Conde;170151103;0;151103
+Sado;170151208;0;151208
+União das freguesias de Agualva e Mira-Sintra;170111122;0;111122
+União das freguesias de Massamá e Monte Abraão;170111125;0;111125
+União das freguesias do Cacém e São Marcos;170111124;0;111124
+Carvalhal;181150505;0;150505
+Beringel;184020503;0;020503
+São Matias;184020516;0;020516
+Faro do Alentejo;184020702;0;020702
+Vila Ruiva;184020704;0;020704
+Odivelas;184020804;0;020804
+São João dos Caldeireiros;184020906;0;020906
+Raposa;185140304;0;140304
+Vale do Paraíso;185110306;0;110306
+Barrosa;185140504;0;140504
+Valada;185140605;0;140605
+Vale da Pedra;185140608;0;140608
+Carregueira;185140707;0;140707
+Biscainho;185140907;0;140907
+Azinhaga;185141201;0;141201
+Pombalinho;185141203;0;141203
+Arrouquelas;185141402;0;141402
+União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões;185141417;0;141417
+Muge;185141503;0;141503
+Alcanhões;185141605;0;141605
+Gançaria;185141628;0;141628
+União das freguesias de Benavila e Valongo;186120310;0;120310
+União das freguesias de Terrugem e Vila Boim;186120715;0;120715
+Santo Aleixo;186121103;0;121103
+Santo Amaro;186121503;0;121503
+União das freguesias de São Gregório e Santa Justa;187070209;0;070209
+Borba (São Bartolomeu);187070304;0;070304
+Évora Monte (Santa Maria);187070404;0;070404
+União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura;187070416;0;070416
+São Miguel de Machede;187070509;0;070509
+Torre de Coelheiros;187070513;0;070513
+União das freguesias de Évora (São Mamede, Sé, São Pedro e Santo Antão);187070523;0;070523
+Cabeção;187070702;0;070702
+Landeira;187071202;0;071202
+Aguiar;187071303;0;071303
+Bencatel;187071401;0;071401
+Altura;150080404;0;080404
+Montenegro;150080506;0;080506
+Ferragudo;150080602;0;080602
+Porches;150080604;0;080604
+Olhão;150081003;0;081003
+Armação de Pêra;150081303;0;081303
+Monte Gordo;150081603;0;081603
