@@ -11,7 +11,7 @@ DEM © Copernicus Programme</p>
 <p>File listing:</p>
 <ul>
   <li><b>30daymapchallenge__2024-day21__conflict.jpg</b> - the MAP itself</li>
-  <li><b>lines_of_torres_vedras.osm<b> - the location of the military structures in .OSM file format</li>
+  <li><b>lines_of_torres_vedras.osm</b> - the location of the military structures in .OSM file format</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2024.</p>
 <p>&nbsp;</p>
