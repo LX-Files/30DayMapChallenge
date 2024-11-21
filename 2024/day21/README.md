@@ -1,4 +1,4 @@
-<h1>MAP for day 21 - CONFLICT</h1>
+<h1>MAP for day 21: CONFLICT</h1>
 <h2>DEFENDING LISBON</h2>
 <p>During the early 19th century, in the broader context of the Peninsular War, Portugal was invaded three times by Napoleonic French armies. This conflict also involved Spain and the United Kingdom. With critical assistance from the British army, the French invaders were repelled each time.</p>
 <p>Before the third invasion in 1810, a formidable defensive line was constructed north of Lisbon: the Lines of Torres Vedras. This strategic fortification proved invaluable, preventing the French from reaching Lisbon.</p>
