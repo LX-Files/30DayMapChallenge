@@ -14,7 +14,7 @@ DEM © Copernicus Programme</p>
 <ul>
   <li><b>30daymapchallenge__2024-day24__only_circular_shapes.jpg</b> - the MAP itself</li>
   <li><b>sorraia_valley_center-pivot_irrigation.geojson</b> - the location of all the irrigated areas in GeoJSON file format</li>
-</ul>
+</ul><br>
 <p>João Paulo Amado | @jpamado, 2024.</p>
 <p>&nbsp;</p>
 <table>
