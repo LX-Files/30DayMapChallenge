@@ -6,7 +6,7 @@
 <p>File listing:</p>
 <ul>
 <li><b>30daymapchallenge__2025-day03__polygons.png</b> - the MAP itself.</li>
-<li><b>polygons_around_the_world.kml</b> - location of city blocks exemplified in .KML file format for Google Earth.</li>
+<li><b>polygons_around_the_world.kml</b> - location of city blocks used, in .KML file format for Google Earth.</li>
 <li><b>polygons_triangles_curitiba.osm</b> - partial city plan of Curitiba in Brazil, in OpenStreetMap file format.</li>
 <li><b>polygons_squares_houston.osm</b> - partial city plan of Houston in the USA, in OpenStreetMap file format.</li>
 <li><b>polygons_rectangles_mexico_city.osm</b> - partial city plan of Mexico City in Mexico, in OpenStreetMap file format.</li>
