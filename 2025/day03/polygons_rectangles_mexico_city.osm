@@ -1,0 +1,1394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='19.411667' minlon='-99.030805' maxlat='19.417433' maxlon='-99.026181' origin='openstreetmap-cgimap 2.1.0 (2238951 spike-08.openstreetmap.org)' />
+  <node id='298937165' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101602180' lat='19.4032944' lon='-99.036924'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298937167' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4078722' lon='-99.034224' />
+  <node id='298937168' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101602180' lat='19.4065112' lon='-99.0353077' />
+  <node id='298937169' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602180' lat='19.4035117' lon='-99.0368092'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298937170' action='delete' timestamp='2021-03-23T23:43:14Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602768' lat='19.399398' lon='-99.0388542' />
+  <node id='298938209' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='5' changeset='102069652' lat='19.4099753' lon='-99.0231381'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298938210' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602180' lat='19.4137119' lon='-99.0308314'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298938211' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100935077' lat='19.4138087' lon='-99.0310194'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298938215' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602180' lat='19.4135558' lon='-99.0311651'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='298938216' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4134596' lon='-99.0309769'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='299178236' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602180' lat='19.4013324' lon='-99.0378913' />
+  <node id='299178397' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602180' lat='19.3974668' lon='-99.0398199' />
+  <node id='299178759' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602180' lat='19.3955209' lon='-99.0407848' />
+  <node id='302755335' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='6' changeset='102066335' lat='19.4019764' lon='-99.006412'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='387255736' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101603468' lat='19.4068084' lon='-99.0320276' />
+  <node id='387255872' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101602180' lat='19.4117339' lon='-99.0321464' />
+  <node id='387255908' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602503' lat='19.4108418' lon='-99.0248764' />
+  <node id='387256513' action='delete' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='100937407' lat='19.421374' lon='-99.0266951' />
+  <node id='387256518' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101602503' lat='19.412751' lon='-99.0288113' />
+  <node id='387256519' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101602503' lat='19.412481' lon='-99.0289682' />
+  <node id='387256520' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.4106641' lon='-99.0299438' />
+  <node id='387259867' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602180' lat='19.4052152' lon='-99.0359597' />
+  <node id='387260949' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.4115183' lon='-99.0269827' />
+  <node id='387260950' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4117948' lon='-99.026847' />
+  <node id='387260953' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4178223' lon='-99.0260605' />
+  <node id='387260978' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.4174728' lon='-99.0287975' />
+  <node id='387260979' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4164891' lon='-99.0267801' />
+  <node id='387260980' action='delete' timestamp='2021-03-30T17:34:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='102001362' lat='19.4145668' lon='-99.0228152' />
+  <node id='387260981' action='delete' timestamp='2021-03-30T01:06:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101945322' lat='19.4136918' lon='-99.0210433' />
+  <node id='387260987' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100937407' lat='19.4157449' lon='-99.029733' />
+  <node id='387260997' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100938990' lat='19.4147536' lon='-99.0276976' />
+  <node id='387261000' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4136917' lon='-99.0257986' />
+  <node id='387608556' action='delete' timestamp='2018-01-11T06:13:36Z' uid='7422556' user='MIkeToledo' visible='true' version='3' changeset='55342872' lat='19.4030588' lon='-99.009545' />
+  <node id='387799334' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101062076' lat='19.4208185' lon='-99.0506593' />
+  <node id='387799442' action='delete' timestamp='2021-03-12T22:12:01Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='100935188' lat='19.4178855' lon='-99.0345575' />
+  <node id='387799503' action='delete' timestamp='2021-03-12T22:12:01Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100935188' lat='19.4179179' lon='-99.0346867' />
+  <node id='388151312' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101603468' lat='19.4072367' lon='-99.031799' />
+  <node id='388155165' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.4126777' lon='-99.0293667' />
+  <node id='388155221' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='12' changeset='101603468' lat='19.4108675' lon='-99.0303475' />
+  <node id='388155237' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468' lat='19.4070088' lon='-99.0324304' />
+  <node id='388155246' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468' lat='19.4056336' lon='-99.033129' />
+  <node id='388155255' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101602503' lat='19.4128681' lon='-99.0297609' />
+  <node id='388155970' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.41105' lon='-99.0307349' />
+  <node id='388155971' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.4071952' lon='-99.0328224' />
+  <node id='388156033' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.4061448' lon='-99.0343717' />
+  <node id='388156035' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101603468' lat='19.407573' lon='-99.0335997' />
+  <node id='388156036' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='13' changeset='101603468' lat='19.4114154' lon='-99.0315088' />
+  <node id='388156037' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.413237' lon='-99.0305284' />
+  <node id='388156038' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101602503' lat='19.4130525' lon='-99.0301358' />
+  <node id='388156058' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.4112342' lon='-99.0311312' />
+  <node id='388156059' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101603468' lat='19.4073854' lon='-99.0332075' />
+  <node id='388156061' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.4059777' lon='-99.0339681' />
+  <node id='388156223' action='delete' timestamp='2021-03-12T22:12:01Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100935188' lat='19.4165159' lon='-99.0349648' />
+  <node id='388156225' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='100937407' lat='19.4152262' lon='-99.0302584' />
+  <node id='388156398' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.415833' lon='-99.0324252' />
+  <node id='388156415' action='delete' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100937407' lat='19.4220441' lon='-99.0265841' />
+  <node id='388156427' action='delete' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100937407' lat='19.4206947' lon='-99.027311' />
+  <node id='388156457' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.417863' lon='-99.0288485' />
+  <node id='388156458' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100937407' lat='19.4165346' lon='-99.0295628' />
+  <node id='388156472' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.4171833' lon='-99.0320166' />
+  <node id='388156556' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.409313' lon='-99.0321693' />
+  <node id='388156557' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101603468' lat='19.4094965' lon='-99.0325521' />
+  <node id='388156558' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101603468' lat='19.4091186' lon='-99.0317709' />
+  <node id='388156560' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468' lat='19.4089351' lon='-99.0313957' />
+  <node id='388156564' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101602180' lat='19.4098184' lon='-99.0331932' />
+  <node id='388156565' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.408735' lon='-99.0309826' />
+  <node id='388349203' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602503' lat='19.4106358' lon='-99.0244553' />
+  <node id='388349205' action='delete' timestamp='2021-03-30T17:34:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='102001362' lat='19.4143614' lon='-99.0223839' />
+  <node id='388349230' action='delete' timestamp='2021-03-30T17:34:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='102001362' lat='19.4141731' lon='-99.0219924' />
+  <node id='388349232' action='delete' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602503' lat='19.4104514' lon='-99.0240664' />
+  <node id='388349233' action='delete' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602503' lat='19.4102645' lon='-99.0236825' />
+  <node id='388349235' action='delete' timestamp='2021-03-30T17:34:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='102001362' lat='19.4139829' lon='-99.0216112' />
+  <node id='388349237' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602503' lat='19.4116054' lon='-99.0264542' />
+  <node id='388349239' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100938990' lat='19.4153323' lon='-99.0243897' />
+  <node id='388349242' action='delete' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100938990' lat='19.415134' lon='-99.0239989' />
+  <node id='388349244' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4114164' lon='-99.0260751' />
+  <node id='388349245' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4112344' lon='-99.0256928' />
+  <node id='388349247' action='delete' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100938990' lat='19.4149482' lon='-99.0236184' />
+  <node id='388349250' action='delete' timestamp='2021-03-30T17:34:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='102001362' lat='19.4147732' lon='-99.0232323' />
+  <node id='388349252' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4110379' lon='-99.0252992' />
+  <node id='388350008' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100938990' lat='19.4119758' lon='-99.0272291' />
+  <node id='388350009' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4139794' lon='-99.0261252' />
+  <node id='388350010' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4157156' lon='-99.0251804' />
+  <node id='388350011' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100937407' lat='19.4170449' lon='-99.0244645' />
+  <node id='388350012' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100937407' lat='19.41723' lon='-99.0248391' />
+  <node id='388350013' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4158998' lon='-99.0255677' />
+  <node id='388350014' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4141618' lon='-99.0265181' />
+  <node id='388350015' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4121681' lon='-99.0276188' />
+  <node id='388350016' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4125464' lon='-99.0283932' />
+  <node id='388350017' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4145545' lon='-99.0272784' />
+  <node id='388350018' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100937407' lat='19.4176124' lon='-99.0256375' />
+  <node id='388350024' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100937407' lat='19.4174172' lon='-99.0252269' />
+  <node id='388350026' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.416084' lon='-99.0259634' />
+  <node id='388350027' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4143631' lon='-99.0268998' />
+  <node id='388350029' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4123539' lon='-99.0280049' />
+  <node id='388350044' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100937407' lat='19.4193461' lon='-99.0277802' />
+  <node id='388390754' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4172586' lon='-99.0283711' />
+  <node id='388390755' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4155339' lon='-99.029293' />
+  <node id='388390756' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100938990' lat='19.4135073' lon='-99.0303888' />
+  <node id='388390757' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4170713' lon='-99.0279821' />
+  <node id='388390758' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4153351' lon='-99.0289045' />
+  <node id='388390759' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100938990' lat='19.4133249' lon='-99.0300196' />
+  <node id='388390760' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4168827' lon='-99.0275921' />
+  <node id='388390761' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4151505' lon='-99.0285063' />
+  <node id='388390762' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100938990' lat='19.4131365' lon='-99.0296256' />
+  <node id='388390763' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4166995' lon='-99.0272017' />
+  <node id='388390764' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100938990' lat='19.4149628' lon='-99.028123' />
+  <node id='388390765' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602503' lat='19.4129552' lon='-99.029252' />
+  <node id='388390766' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.412271' lon='-99.0285327' />
+  <node id='388390767' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.4104631' lon='-99.0295159' />
+  <node id='388390769' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.4120814' lon='-99.0281468' />
+  <node id='388390770' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.4102757' lon='-99.0291309' />
+  <node id='388390771' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468' lat='19.4083445' lon='-99.0301786' />
+  <node id='388390772' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='101603468' lat='19.4081535' lon='-99.0297829' />
+  <node id='388390773' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='13' changeset='101603468' lat='19.410087' lon='-99.0287328' />
+  <node id='388390774' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.4118947' lon='-99.0277593' />
+  <node id='388390775' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602503' lat='19.4117034' lon='-99.0273657' />
+  <node id='388390776' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='14' changeset='101603468' lat='19.4099026' lon='-99.0283492' />
+  <node id='388390777' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468' lat='19.4079594' lon='-99.0293866' />
+  <node id='388392260' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.417458' lon='-99.0330264' />
+  <node id='388392261' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.4161101' lon='-99.0334343' />
+  <node id='388392268' action='delete' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.416388' lon='-99.0344496' />
+  <node id='388392269' action='delete' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.4177328' lon='-99.0340338' />
+  <node id='388392271' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.4176014' lon='-99.0335229' />
+  <node id='388392272' action='delete' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.4162449' lon='-99.0339407' />
+  <node id='388392275' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.4159802' lon='-99.0329223' />
+  <node id='388392276' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='9' changeset='90771361' lat='19.417329' lon='-99.0325299' />
+  <node id='388392282' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.4156979' lon='-99.0319213' />
+  <node id='388392283' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='100938868' lat='19.4170435' lon='-99.0315159' />
+  <node id='388392288' timestamp='2020-03-03T19:32:47Z' uid='10128204' user='acrague' visible='true' version='9' changeset='81742474' lat='19.4169096' lon='-99.0310205' />
+  <node id='388392289' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.415559' lon='-99.0314101' />
+  <node id='388392292' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.4154269' lon='-99.0309103' />
+  <node id='388392293' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938868' lat='19.416777' lon='-99.0305145' />
+  <node id='388392294' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='100938868' lat='19.4182058' lon='-99.030078' />
+  <node id='388392295' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100937407' lat='19.4196424' lon='-99.0296432' />
+  <node id='388392296' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100937407' lat='19.4195052' lon='-99.0291336' />
+  <node id='388392297' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='100938868' lat='19.4180737' lon='-99.0295668' />
+  <node id='388392298' timestamp='2021-03-13T01:13:17Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='9' changeset='100938868' lat='19.4166469' lon='-99.0300019' />
+  <node id='455922888' timestamp='2020-09-14T20:52:43Z' uid='7674729' user='UncoolGuyJake' visible='true' version='4' changeset='90885630' lat='19.4193401' lon='-99.0280603' />
+  <node id='455922889' timestamp='2020-09-14T20:52:43Z' uid='7674729' user='UncoolGuyJake' visible='true' version='4' changeset='90885630' lat='19.4192315' lon='-99.0281171' />
+  <node id='455922890' timestamp='2018-08-26T15:40:09Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62009620' lat='19.4192321' lon='-99.0278435' />
+  <node id='455933036' action='delete' timestamp='2020-10-15T16:39:25Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='5' changeset='92534497' lat='19.4082811' lon='-99.031229' />
+  <node id='455933662' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100938990' lat='19.4162771' lon='-99.0263527' />
+  <node id='455933664' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100938990' lat='19.4155266' lon='-99.0248001' />
+  <node id='1231951009' timestamp='2011-04-04T07:14:24Z' uid='431671' user='Sabr3wolf' visible='true' version='1' changeset='7761662' lat='19.4139261' lon='-99.0291702' />
+  <node id='1231951017' timestamp='2011-04-04T07:14:24Z' uid='431671' user='Sabr3wolf' visible='true' version='1' changeset='7761662' lat='19.4141066' lon='-99.0295531' />
+  <node id='1231985649' timestamp='2011-04-04T07:49:52Z' uid='431671' user='Sabr3wolf' visible='true' version='1' changeset='7761662' lat='19.411848' lon='-99.0277602'>
+    <tag k='amenity' v='telephone' />
+  </node>
+  <node id='1231985675' timestamp='2018-08-26T21:03:32Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62016129' lat='19.4117658' lon='-99.0276652'>
+    <tag k='name' v='Las Barricas' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='2972334157' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='5' changeset='102066335' lat='19.4018967' lon='-99.0062409' />
+  <node id='2972334195' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='102004869' lat='19.4161114' lon='-98.9985639' />
+  <node id='2972334198' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='7' changeset='102066335' lat='19.405624' lon='-99.0044022' />
+  <node id='2972334245' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='5' changeset='90725235' lat='19.4148032' lon='-98.9917095' />
+  <node id='2972334286' action='delete' timestamp='2018-08-28T01:08:12Z' uid='2237750' user='chachafish' visible='true' version='4' changeset='62055041' lat='19.4144134' lon='-98.991914' />
+  <node id='2972334288' action='delete' timestamp='2021-03-12T21:28:51Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100933928' lat='19.4177394' lon='-99.0400938' />
+  <node id='2972334301' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='7' changeset='102069652' lat='19.4096687' lon='-99.0230866' />
+  <node id='2972334325' action='delete' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4097817' lon='-99.023294' />
+  <node id='2972334339' action='delete' timestamp='2018-08-27T15:06:18Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62043232' lat='19.4158321' lon='-98.9957241' />
+  <node id='2972334360' action='delete' timestamp='2018-08-27T14:09:07Z' uid='2237750' user='chachafish' visible='true' version='3' changeset='62041682' lat='19.4040885' lon='-99.0116623' />
+  <node id='2972334370' action='delete' timestamp='2018-01-11T06:13:36Z' uid='7422556' user='MIkeToledo' visible='true' version='2' changeset='55342872' lat='19.402336' lon='-99.0079416' />
+  <node id='2972334416' action='delete' timestamp='2018-01-11T06:13:36Z' uid='7422556' user='MIkeToledo' visible='true' version='2' changeset='55342872' lat='19.403372' lon='-99.0102207' />
+  <node id='2972334428' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='3' changeset='90429496' lat='19.4176073' lon='-99.0395453' />
+  <node id='2972334540' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='102005872' lat='19.4165501' lon='-98.9985321' />
+  <node id='2972334562' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='102005872' lat='19.4146306' lon='-98.9909621' />
+  <node id='2972334580' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100935077' lat='19.4174995' lon='-99.0392124' />
+  <node id='2972348599' action='delete' timestamp='2021-03-23T22:45:18Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101601744' lat='19.4099537' lon='-99.023195' />
+  <node id='2972348601' action='delete' timestamp='2018-01-11T06:13:36Z' uid='7422556' user='MIkeToledo' visible='true' version='2' changeset='55342872' lat='19.4039802' lon='-99.0109858' />
+  <node id='2972348611' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='101602503' lat='19.4127047' lon='-99.0288389' />
+  <node id='2972348616' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='7' changeset='102069652' lat='19.4098351' lon='-99.0229968' />
+  <node id='2972348623' action='delete' timestamp='2021-03-12T21:28:51Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='7' changeset='100933928' lat='19.4178615' lon='-99.0399488' />
+  <node id='2972348625' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100935077' lat='19.4137655' lon='-99.0310436' />
+  <node id='2972348627' action='delete' timestamp='2014-07-21T01:03:25Z' uid='1975174' user='jimirp' visible='true' version='1' changeset='24264145' lat='19.4020424' lon='-99.0066594' />
+  <node id='2972348630' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90429496' lat='19.4177192' lon='-99.0394019' />
+  <node id='2972354435' action='delete' timestamp='2018-08-27T14:09:07Z' uid='2237750' user='chachafish' visible='true' version='3' changeset='62041682' lat='19.4096355' lon='-99.0226507' />
+  <node id='2972354438' action='delete' timestamp='2021-03-15T16:43:24Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='11' changeset='101064362' lat='19.4203686' lon='-99.0491257' />
+  <node id='2972354439' action='delete' timestamp='2021-03-15T16:43:24Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101064362' lat='19.4205139' lon='-99.049662' />
+  <node id='2972354454' action='delete' timestamp='2020-09-04T23:30:31Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90435691' lat='19.4199359' lon='-99.0475664' />
+  <node id='2972354455' action='delete' timestamp='2021-03-12T21:28:51Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='100933928' lat='19.4179196' lon='-99.0401712' />
+  <node id='2972354462' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90436450' lat='19.4186293' lon='-99.0427478' />
+  <node id='2972354463' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90436450' lat='19.4184819' lon='-99.0422148' />
+  <node id='2972354469' action='delete' timestamp='2018-08-27T14:58:38Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62043041' lat='19.4029177' lon='-99.0083949' />
+  <node id='2972354471' action='delete' timestamp='2018-08-28T01:08:15Z' uid='2237750' user='chachafish' visible='true' version='10' changeset='62055041' lat='19.4081205' lon='-99.0195312' />
+  <node id='2972354484' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90429496' lat='19.4176003' lon='-99.0390276' />
+  <node id='2972354502' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='6' changeset='101602503' lat='19.4117535' lon='-99.0268662' />
+  <node id='2972354507' action='delete' timestamp='2014-07-21T01:03:27Z' uid='1975174' user='jimirp' visible='true' version='1' changeset='24264145' lat='19.4037931' lon='-99.0101329' />
+  <node id='2972354514' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90436450' lat='19.4190227' lon='-99.0442506' />
+  <node id='2972354518' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602180' lat='19.4136799' lon='-99.0308509' />
+  <node id='2972354522' action='delete' timestamp='2018-08-27T14:58:38Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62043041' lat='19.4020335' lon='-99.0063228' />
+  <node id='3616479781' action='delete' timestamp='2020-09-08T12:12:37Z' uid='7466823' user='Whimsical Otter' visible='true' version='3' changeset='90586818' lat='19.4208045' lon='-99.0514703' />
+  <node id='3927163572' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100937407' lat='19.4164783' lon='-99.0293246' />
+  <node id='4017210974' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101062076' lat='19.4208297' lon='-99.0517214' />
+  <node id='4227547089' timestamp='2021-05-20T16:27:25Z' uid='4847504' user='joshieadalid' visible='true' version='7' changeset='105040649' lat='19.4124576' lon='-99.0291423'>
+    <tag k='addr:housenumber' v='259' />
+    <tag k='addr:postcode' v='57500' />
+    <tag k='addr:street' v='Avenida Chimalhuacan' />
+    <tag k='email' v='motomovil.lider@gmail.com' />
+    <tag k='name' v='MotoMovil Refaccionaria' />
+    <tag k='opening_hours' v='Su-Fr 09:00-20:00; Sa 09:00-17:00' />
+    <tag k='phone' v='57937692' />
+    <tag k='shop' v='car_repair' />
+    <tag k='website' v='https://www.motomovil.com/' />
+  </node>
+  <node id='5288063314' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='12' changeset='101062076' lat='19.4190389' lon='-99.0450047' />
+  <node id='5288063380' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101062076' lat='19.4203208' lon='-99.0497336' />
+  <node id='5288063383' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='10' changeset='101062076' lat='19.4192407' lon='-99.0449677' />
+  <node id='5288064604' action='delete' timestamp='2021-03-12T21:28:51Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='100933928' lat='19.4177737' lon='-99.0402379' />
+  <node id='5332283628' action='delete' timestamp='2018-08-27T14:09:07Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62041682' lat='19.4094811' lon='-99.0227263' />
+  <node id='5332283655' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101602503' lat='19.4108006' lon='-99.0249019' />
+  <node id='5332535865' action='delete' timestamp='2018-08-27T14:58:38Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62043041' lat='19.4026005' lon='-99.0086119' />
+  <node id='5332535870' action='delete' timestamp='2018-08-26T14:40:07Z' uid='2237750' user='chachafish' visible='true' version='3' changeset='62008432' lat='19.4033599' lon='-99.0092815' />
+  <node id='5332535873' action='delete' timestamp='2018-08-27T14:09:07Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62041682' lat='19.4042546' lon='-99.0115709' />
+  <node id='5859189668' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.41904' lon='-99.0274213' />
+  <node id='5859189669' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.4188523' lon='-99.0270281' />
+  <node id='5859189670' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.4186494' lon='-99.0266244' />
+  <node id='5859189671' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='100937407' lat='19.418462' lon='-99.0262465' />
+  <node id='5861017703' action='delete' timestamp='2020-09-14T20:19:53Z' uid='7674729' user='UncoolGuyJake' visible='true' version='4' changeset='90884620' lat='19.4201864' lon='-99.0492067' />
+  <node id='5861081818' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90429496' lat='19.4176536' lon='-99.0397432' />
+  <node id='5861081825' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100935077' lat='19.4158409' lon='-99.0352998' />
+  <node id='5861081826' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100935077' lat='19.4156616' lon='-99.0354027' />
+  <node id='5861081827' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100935077' lat='19.4156206' lon='-99.0353051' />
+  <node id='5861081828' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='100935077' lat='19.4157906' lon='-99.0352055' />
+  <node id='5861081829' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='101602180' lat='19.4135998' lon='-99.0311418' />
+  <node id='5861081830' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4134966' lon='-99.0309572' />
+  <node id='5861081831' timestamp='2020-03-05T04:27:11Z' uid='9320937' user='rytheking' visible='true' version='3' changeset='81802394' lat='19.412536' lon='-99.0289367' />
+  <node id='5861081832' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602503' lat='19.4115688' lon='-99.0269569' />
+  <node id='5861081833' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='5' changeset='101602503' lat='19.410613' lon='-99.0250093' />
+  <node id='5861129512' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.411986' lon='-99.0275633' />
+  <node id='5861129513' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4117899' lon='-99.0271555' />
+  <node id='5861129514' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4118275' lon='-99.0271352' />
+  <node id='5861129515' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4120236' lon='-99.027543' />
+  <node id='5861129516' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4119185' lon='-99.0276033' />
+  <node id='5861129517' timestamp='2019-03-27T00:03:52Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4117224' lon='-99.0271955' />
+  <node id='5861129518' timestamp='2019-03-27T00:03:53Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.41176' lon='-99.0271752' />
+  <node id='5861129519' timestamp='2019-03-27T00:03:53Z' uid='7601836' user='Magick93' visible='true' version='2' changeset='68567801' lat='19.4119561' lon='-99.0275829' />
+  <node id='5861129520' timestamp='2018-08-27T23:08:19Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62053966' lat='19.4118795' lon='-99.0273593'>
+    <tag k='bus' v='yes' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Lago de Chapala' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='5861143885' action='delete' timestamp='2018-08-27T14:09:05Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62041682' lat='19.409887' lon='-99.0230849' />
+  <node id='5861143886' action='delete' timestamp='2018-08-27T14:09:05Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62041682' lat='19.4097171' lon='-99.0231832' />
+  <node id='5861152335' action='delete' timestamp='2020-10-15T20:41:17Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='5' changeset='92543183' lat='19.4085584' lon='-99.0208334' />
+  <node id='5861152336' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='6' changeset='102069652' lat='19.4087144' lon='-99.0207571' />
+  <node id='5861156093' action='delete' timestamp='2018-08-28T01:08:15Z' uid='2237750' user='chachafish' visible='true' version='4' changeset='62055041' lat='19.407964' lon='-99.0196138' />
+  <node id='5861156094' action='delete' timestamp='2020-10-15T20:41:17Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='4' changeset='92543183' lat='19.4067795' lon='-99.0167797' />
+  <node id='5861156095' action='delete' timestamp='2020-10-15T20:41:17Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='4' changeset='92543183' lat='19.4066234' lon='-99.0168638' />
+  <node id='5861156096' action='delete' timestamp='2018-08-28T00:42:52Z' uid='2237750' user='chachafish' visible='true' version='3' changeset='62054816' lat='19.4058085' lon='-99.0147705' />
+  <node id='5861156097' action='delete' timestamp='2018-08-28T00:42:52Z' uid='2237750' user='chachafish' visible='true' version='3' changeset='62054816' lat='19.4056461' lon='-99.0148579' />
+  <node id='5861156098' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='4' changeset='102069652' lat='19.4057034' lon='-99.0145568' />
+  <node id='5861156099' action='delete' timestamp='2021-03-31T16:59:59Z' uid='11601501' user='ElectricJellyfish' visible='true' version='4' changeset='102069652' lat='19.4055378' lon='-99.0146377' />
+  <node id='5861159430' action='delete' timestamp='2020-10-15T21:46:09Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='3' changeset='92544878' lat='19.4045585' lon='-99.0121989' />
+  <node id='5861159431' action='delete' timestamp='2020-10-15T21:46:09Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='3' changeset='92544878' lat='19.4043946' lon='-99.0122861' />
+  <node id='5861243651' action='delete' timestamp='2018-08-27T14:58:35Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043041' lat='19.4017911' lon='-99.0065068' />
+  <node id='5861243653' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='2' changeset='102066335' lat='19.4019604' lon='-99.0061919' />
+  <node id='5861251168' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='102005872' lat='19.4165195' lon='-98.9983758' />
+  <node id='5861251169' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102004869' lat='19.416145' lon='-98.9987668' />
+  <node id='5861251170' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102004869' lat='19.4160987' lon='-98.9985839' />
+  <node id='5861251171' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='102004869' lat='19.4161155' lon='-98.9985384' />
+  <node id='5861251172' action='delete' timestamp='2021-03-30T19:35:24Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102006015' lat='19.4154683' lon='-98.9991241' />
+  <node id='5861251173' action='delete' timestamp='2021-03-30T19:35:24Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102006015' lat='19.4154037' lon='-98.9989792' />
+  <node id='5861251174' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='2' changeset='102066335' lat='19.4135359' lon='-99.0001682' />
+  <node id='5861251175' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='3' changeset='102066335' lat='19.4134404' lon='-99.0002203' />
+  <node id='5861251176' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='2' changeset='102066335' lat='19.4134561' lon='-99.0000047' />
+  <node id='5861251177' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='3' changeset='102066335' lat='19.4133577' lon='-99.0000574' />
+  <node id='5861251178' action='delete' timestamp='2020-09-04T14:08:39Z' uid='9029309' user='Kaarti_B' visible='true' version='2' changeset='90420060' lat='19.4114779' lon='-99.0012694' />
+  <node id='5861251179' action='delete' timestamp='2020-09-04T14:08:39Z' uid='9029309' user='Kaarti_B' visible='true' version='2' changeset='90420060' lat='19.4113998' lon='-99.0011086' />
+  <node id='5861251180' action='delete' timestamp='2020-09-23T12:44:44Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='91368129' lat='19.4094672' lon='-99.0023453' />
+  <node id='5861251181' action='delete' timestamp='2020-09-23T12:44:44Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='91368129' lat='19.4093901' lon='-99.0021862' />
+  <node id='5861251182' action='delete' timestamp='2018-08-27T15:06:17Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043232' lat='19.4074352' lon='-99.0034325' />
+  <node id='5861251183' action='delete' timestamp='2018-08-28T00:42:53Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62054816' lat='19.4073299' lon='-99.0034889' />
+  <node id='5861251184' action='delete' timestamp='2018-08-27T15:06:17Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043232' lat='19.4073589' lon='-99.0032755' />
+  <node id='5861252285' action='delete' timestamp='2018-08-28T00:42:53Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62054816' lat='19.4072537' lon='-99.0033319' />
+  <node id='5861252286' action='delete' timestamp='2021-03-31T15:50:36Z' uid='11601501' user='ElectricJellyfish' visible='true' version='3' changeset='102066335' lat='19.4055592' lon='-99.0042709' />
+  <node id='5861257370' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4160629' lon='-98.9966521' />
+  <node id='5861257371' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102004869' lat='19.4156452' lon='-98.9967731' />
+  <node id='5861257381' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4154935' lon='-98.9943605' />
+  <node id='5861257382' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4155765' lon='-98.9948055' />
+  <node id='5861257383' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4156916' lon='-98.9952662' />
+  <node id='5861257384' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='102004869' lat='19.4154958' lon='-98.9962324' />
+  <node id='5861258485' action='delete' timestamp='2020-09-10T22:50:24Z' uid='10627270' user='DRM150' visible='true' version='2' changeset='90725049' lat='19.4149727' lon='-98.9941804' />
+  <node id='5861258486' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4153245' lon='-98.9944626' />
+  <node id='5861258487' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4154099' lon='-98.9946806' />
+  <node id='5861258488' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4153742' lon='-98.9945679' />
+  <node id='5861258489' action='delete' timestamp='2020-09-10T22:48:11Z' uid='10627270' user='DRM150' visible='true' version='2' changeset='90725011' lat='19.4156062' lon='-98.9957714' />
+  <node id='5861258490' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.415627' lon='-98.9956359' />
+  <node id='5861258491' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4156214' lon='-98.9955195' />
+  <node id='5861258492' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4156267' lon='-98.9955777' />
+  <node id='5861258493' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4156196' lon='-98.9957071' />
+  <node id='5861258494' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4151665' lon='-98.9943139' />
+  <node id='5861258495' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4152487' lon='-98.9943845' />
+  <node id='5861258496' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4152897' lon='-98.9944239' />
+  <node id='5861258497' action='delete' timestamp='2018-08-27T15:10:31Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62043350' lat='19.4153525' lon='-98.9945156' />
+  <node id='5861303715' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='102005872' lat='19.4141301' lon='-98.988819' />
+  <node id='5861303728' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102005872' lat='19.4145628' lon='-98.9906634' />
+  <node id='5862421100' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='100937407' lat='19.4147817' lon='-99.0305094' />
+  <node id='5862421101' timestamp='2020-09-14T20:52:43Z' uid='7674729' user='UncoolGuyJake' visible='true' version='3' changeset='90885630' lat='19.4152819' lon='-99.030425' />
+  <node id='5881565070' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4134821' lon='-99.0308072' />
+  <node id='5881565071' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4126157' lon='-99.0290298' />
+  <node id='5881565072' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4127087' lon='-99.0289788' />
+  <node id='5881565073' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.413575' lon='-99.0307563' />
+  <node id='5881565074' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4125027' lon='-99.0287982' />
+  <node id='5881565075' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.412034' lon='-99.0275973' />
+  <node id='5881565076' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4125956' lon='-99.0287472' />
+  <node id='5881565077' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4119411' lon='-99.0276483' />
+  <node id='5881565078' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.411553' lon='-99.0268662' />
+  <node id='5881565079' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4111447' lon='-99.0260226' />
+  <node id='5881565080' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4112635' lon='-99.025958' />
+  <node id='5881565081' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4116718' lon='-99.0268016' />
+  <node id='5881565083' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602503' lat='19.4108075' lon='-99.0248054' />
+  <node id='5881565084' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602503' lat='19.4107665' lon='-99.0248264' />
+  <node id='5881565185' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602503' lat='19.41058' lon='-99.0249358' />
+  <node id='5881565187' action='delete' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4100406' lon='-99.0232396' />
+  <node id='5881565188' action='delete' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602503' lat='19.4099978' lon='-99.0232632' />
+  <node id='5881565189' action='delete' timestamp='2021-03-23T23:24:53Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602503' lat='19.4098149' lon='-99.0233668' />
+  <node id='5881565192' action='delete' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4097321' lon='-99.0228211' />
+  <node id='5881565194' action='delete' timestamp='2018-09-04T13:00:50Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4095665' lon='-99.022911' />
+  <node id='5881565197' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4087605' lon='-99.0208491' />
+  <node id='5881565198' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4086057' lon='-99.0209306' />
+  <node id='5881565201' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4086771' lon='-99.0206771' />
+  <node id='5881565202' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4085232' lon='-99.0207612' />
+  <node id='5881565205' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4081638' lon='-99.0196204' />
+  <node id='5881565206' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4080078' lon='-99.0197036' />
+  <node id='5881565210' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4080522' lon='-99.0193905' />
+  <node id='5881565211' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4078943' lon='-99.0194709' />
+  <node id='5881565213' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4068262' lon='-99.0168659' />
+  <node id='5881565214' action='delete' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439' lat='19.4066679' lon='-99.0169544' />
+  <node id='6098778497' action='delete' timestamp='2020-10-14T18:26:53Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='3' changeset='92487955' lat='19.3935673' lon='-99.0417589' />
+  <node id='6098778498' action='delete' timestamp='2021-03-24T20:00:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='101671585' lat='19.3934585' lon='-99.0418169' />
+  <node id='6819725380' action='delete' timestamp='2019-09-24T11:28:29Z' uid='3333069' user='fefeosm' visible='true' version='1' changeset='74851851' lat='19.4018815' lon='-99.0067449' />
+  <node id='6819726686' action='delete' timestamp='2019-09-24T11:26:08Z' uid='3333069' user='fefeosm' visible='true' version='1' changeset='74851702' lat='19.4024616' lon='-99.0082748' />
+  <node id='6819726687' action='delete' timestamp='2019-09-24T11:26:08Z' uid='3333069' user='fefeosm' visible='true' version='1' changeset='74851702' lat='19.4027731' lon='-99.0081081' />
+  <node id='6827973122' action='delete' timestamp='2020-09-04T23:30:31Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90435691' lat='19.4198233' lon='-99.0471633' />
+  <node id='6827973123' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='2' changeset='90436450' lat='19.4196355' lon='-99.0472251' />
+  <node id='7281639080' action='delete' timestamp='2020-03-10T05:56:57Z' uid='7601836' user='Magick93' visible='true' version='1' changeset='81993076' lat='19.4227629' lon='-99.0259426' />
+  <node id='7281639081' action='delete' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4228211' lon='-99.0261688' />
+  <node id='7535691448' action='delete' timestamp='2024-06-06T00:04:34Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='4' changeset='152308117' lat='19.4146132' lon='-98.990874'>
+    <tag k='crossing:barrier' v='no' />
+    <tag k='railway' v='level_crossing' />
+  </node>
+  <node id='7875571968' action='delete' timestamp='2020-09-04T12:37:29Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90415950' lat='19.4040249' lon='-99.0110811'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7875571969' action='delete' timestamp='2020-09-04T12:37:29Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90415950' lat='19.4038512' lon='-99.0111849'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7875571971' action='delete' timestamp='2020-09-04T12:37:29Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90415950' lat='19.4030456' lon='-99.0095181'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7875571973' action='delete' timestamp='2020-09-04T12:37:29Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90415950' lat='19.4033863' lon='-99.0093335'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7876355913' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100935077' lat='19.4174244' lon='-99.0390437' />
+  <node id='7876355914' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100935077' lat='19.4175628' lon='-99.0393789' />
+  <node id='7876355915' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90429496' lat='19.4175314' lon='-99.0388358' />
+  <node id='7876355916' action='delete' timestamp='2020-09-04T18:47:54Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90429496' lat='19.4174513' lon='-99.038646' />
+  <node id='7876870007' action='delete' timestamp='2020-09-04T23:30:31Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90435691' lat='19.4193936' lon='-99.0455709' />
+  <node id='7877010175' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4207316' lon='-99.0504964' />
+  <node id='7877010178' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4204528' lon='-99.0502174' />
+  <node id='7877013685' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4206352' lon='-99.0501372' />
+  <node id='7877013691' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4191668' lon='-99.0455355' />
+  <node id='7877013692' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4197682' lon='-99.0469592'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7877013695' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4185749' lon='-99.0433525'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7877013696' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4187768' lon='-99.0432913'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='7877013698' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4189457' lon='-99.0439138' />
+  <node id='7877013699' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4184575' lon='-99.0429329' />
+  <node id='7877013700' action='delete' timestamp='2020-09-05T00:45:49Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90436450' lat='19.4182312' lon='-99.0420576'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7877013702' action='delete' timestamp='2021-03-15T15:49:49Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101062076' lat='19.4183973' lon='-99.0419062'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7895270580' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4147066' lon='-98.9913019' />
+  <node id='7895270581' action='delete' timestamp='2024-06-06T00:04:34Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='3' changeset='152308117' lat='19.4145265' lon='-98.9907299' />
+  <node id='7895270582' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4145123' lon='-98.9908232' />
+  <node id='7895270583' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4145249' lon='-98.9906795' />
+  <node id='7895270584' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4145211' lon='-98.9907841' />
+  <node id='7895277371' action='delete' timestamp='2020-09-10T22:48:11Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725011' lat='19.4155039' lon='-98.9960936' />
+  <node id='7895277372' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102004869' lat='19.415488' lon='-98.996187' />
+  <node id='7895277373' action='delete' timestamp='2020-09-10T22:48:11Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725011' lat='19.415514' lon='-98.9960506' />
+  <node id='7895277374' action='delete' timestamp='2021-03-30T19:04:26Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='102004869' lat='19.4154864' lon='-98.996141' />
+  <node id='7895301585' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4144996' lon='-98.9908612' />
+  <node id='7895301586' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4142684' lon='-98.99119' />
+  <node id='7895301587' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.414259' lon='-98.991281' />
+  <node id='7895301588' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.414284' lon='-98.9911475' />
+  <node id='7895301589' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4142599' lon='-98.9912347' />
+  <node id='7895301601' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4145041' lon='-98.9905811' />
+  <node id='7895301602' action='delete' timestamp='2020-09-10T23:01:36Z' uid='10627270' user='DRM150' visible='true' version='1' changeset='90725235' lat='19.4142658' lon='-98.9913267' />
+  <node id='7897502154' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90771361' lat='19.4165442' lon='-99.0292402'>
+    <tag k='addr:housenumber' v='597' />
+    <tag k='addr:street' v='Avenida Nezahualcóyotl' />
+  </node>
+  <node id='7897502155' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90771361' lat='19.4166714' lon='-99.0304077'>
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:street' v='Calle Virgen de Fátima' />
+  </node>
+  <node id='7897502156' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90771361' lat='19.4168136' lon='-99.0303768'>
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:street' v='Calle Virgen de Fátima' />
+  </node>
+  <node id='7897502157' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90771361' lat='19.416746' lon='-99.0306873'>
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:street' v='Calle Virgen de Fátima' />
+  </node>
+  <node id='7897502158' timestamp='2020-09-11T17:42:28Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90771361' lat='19.4169047' lon='-99.030702'>
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:street' v='Calle Virgen de Fátima' />
+  </node>
+  <node id='7905622256' timestamp='2020-09-14T15:38:07Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90874534' lat='19.4173423' lon='-99.0287849'>
+    <tag k='addr:housenumber' v='511' />
+    <tag k='addr:street' v='Avenida Nezahualcóyotl' />
+  </node>
+  <node id='7905622257' timestamp='2020-09-14T15:38:07Z' uid='9029309' user='Kaarti_B' visible='true' version='1' changeset='90874534' lat='19.4166467' lon='-99.0297116'>
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:street' v='Calle Virgen de Fátima' />
+  </node>
+  <node id='7906036362' timestamp='2020-09-14T18:03:25Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90879954' lat='19.4156024' lon='-99.0296839' />
+  <node id='7906036363' timestamp='2020-09-14T18:03:25Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90879954' lat='19.4153153' lon='-99.0298375' />
+  <node id='7906036364' timestamp='2020-09-14T18:03:25Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90879954' lat='19.4152895' lon='-99.0297834' />
+  <node id='7906036365' timestamp='2020-09-14T18:03:25Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90879954' lat='19.4155766' lon='-99.0296298' />
+  <node id='7906162118' timestamp='2020-09-14T19:10:04Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90882285' lat='19.4141796' lon='-99.0263542'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Avenida Hortensia' />
+  </node>
+  <node id='7906162119' timestamp='2020-09-14T19:10:04Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90882285' lat='19.4149101' lon='-99.0301166'>
+    <tag k='addr:housenumber' v='554' />
+    <tag k='addr:street' v='Avenida Nezahualcóyotl' />
+  </node>
+  <node id='7906162120' timestamp='2020-09-14T19:10:04Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90882285' lat='19.4139361' lon='-99.0306403'>
+    <tag k='addr:housenumber' v='535' />
+    <tag k='addr:street' v='Avenida Nezahualcóyotl' />
+  </node>
+  <node id='7906162121' timestamp='2020-09-14T19:10:04Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90882285' lat='19.4132715' lon='-99.0297385'>
+    <tag k='addr:housenumber' v='252' />
+    <tag k='addr:street' v='Avenida Chimalhuacán' />
+  </node>
+  <node id='7906162122' timestamp='2020-09-14T19:10:04Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90882285' lat='19.4125429' lon='-99.028276'>
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:street' v='Avenida Chimalhuacán' />
+  </node>
+  <node id='7906196244' timestamp='2020-09-14T19:35:03Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90883101' lat='19.4166151' lon='-99.0266486'>
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:street' v='Calle El Crisantemo' />
+  </node>
+  <node id='7906196245' timestamp='2020-09-14T19:35:03Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90883101' lat='19.4170755' lon='-99.0264004'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='Calle El Crisantemo' />
+  </node>
+  <node id='7906196246' timestamp='2020-09-14T19:35:03Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90883101' lat='19.4166416' lon='-99.0268309'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Calle El Crisantemo' />
+  </node>
+  <node id='7906443507' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4077714' lon='-99.0192188' />
+  <node id='7906443509' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4076862' lon='-99.0190439' />
+  <node id='7906443511' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4075607' lon='-99.0187863' />
+  <node id='7906443513' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4074317' lon='-99.0185217' />
+  <node id='7906443515' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4079215' lon='-99.0191214'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7906443517' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.407838' lon='-99.0189494'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7906443519' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4077163' lon='-99.0186988'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7906443521' action='delete' timestamp='2020-09-14T20:06:45Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90884170' lat='19.4075903' lon='-99.0184393'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='7906587754' timestamp='2020-09-14T20:52:43Z' uid='7674729' user='UncoolGuyJake' visible='true' version='1' changeset='90885630' lat='19.4148835' lon='-99.0305351' />
+  <node id='7906587755' timestamp='2020-09-14T20:52:43Z' uid='7674729' user='UncoolGuyJake' visible='true' version='1' changeset='90885630' lat='19.4149708' lon='-99.0305176' />
+  <node id='8004601268' action='delete' timestamp='2020-10-13T20:21:08Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92437378' lat='19.4103569' lon='-99.0295743'>
+    <tag k='access' v='permissive' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='8007370937' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3943841' lon='-99.0411392' />
+  <node id='8007370938' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3940831' lon='-99.0412914' />
+  <node id='8007370939' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3936422' lon='-99.0415227' />
+  <node id='8007370940' action='delete' timestamp='2021-03-24T20:00:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101671585' lat='19.393386' lon='-99.0416592' />
+  <node id='8007370941' action='delete' timestamp='2021-03-25T00:02:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101678717' lat='19.3933527' lon='-99.0418674' />
+  <node id='8007406280' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4051993' lon='-99.0359196' />
+  <node id='8007406281' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4057454' lon='-99.0356454' />
+  <node id='8007406282' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4064948' lon='-99.0352679' />
+  <node id='8007406283' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4065034' lon='-99.0352648' />
+  <node id='8007406284' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4068749' lon='-99.0349721' />
+  <node id='8007443263' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4225932' lon='-99.0260819' />
+  <node id='8007443264' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4222119' lon='-99.0262851' />
+  <node id='8007443265' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4217559' lon='-99.0265332' />
+  <node id='8007443266' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4213695' lon='-99.0267471' />
+  <node id='8007443267' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4209199' lon='-99.0269986' />
+  <node id='8007443268' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4206751' lon='-99.0271267' />
+  <node id='8007443269' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.420407' lon='-99.0272695' />
+  <node id='8007443270' action='delete' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4200826' lon='-99.0274391' />
+  <node id='8007443271' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4196993' lon='-99.0276497' />
+  <node id='8007443272' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4193441' lon='-99.0278361' />
+  <node id='8007443273' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.419232' lon='-99.0278978' />
+  <node id='8007443274' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4187722' lon='-99.0281446' />
+  <node id='8007443275' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4183567' lon='-99.0283611' />
+  <node id='8007443276' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4179438' lon='-99.0285818' />
+  <node id='8007443277' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4174707' lon='-99.0288419' />
+  <node id='8007443278' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4170198' lon='-99.029084' />
+  <node id='8007443279' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4164864' lon='-99.02937' />
+  <node id='8007443280' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4163242' lon='-99.0294515' />
+  <node id='8007443281' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4157834' lon='-99.0297452' />
+  <node id='8007443282' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4153439' lon='-99.0299845' />
+  <node id='8007443283' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4148601' lon='-99.0302427' />
+  <node id='8007443284' timestamp='2020-10-14T18:16:42Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4142119' lon='-99.0305894' />
+  <node id='8007457789' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4041383' lon='-99.0363025' />
+  <node id='8007457790' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4036551' lon='-99.0365486' />
+  <node id='8007457791' action='delete' timestamp='2021-03-23T22:21:47Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101601121' lat='19.4034336' lon='-99.0366401' />
+  <node id='8007457792' action='delete' timestamp='2021-03-23T22:21:47Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101601121' lat='19.4032176' lon='-99.0367515' />
+  <node id='8007457793' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4031365' lon='-99.0368094' />
+  <node id='8007457794' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4026621' lon='-99.0370367' />
+  <node id='8007457795' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4022194' lon='-99.03725' />
+  <node id='8007457796' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4017539' lon='-99.0374693' />
+  <node id='8007457797' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4012492' lon='-99.0377184' />
+  <node id='8007457798' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4010531' lon='-99.0378186' />
+  <node id='8007457799' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4005996' lon='-99.0380392' />
+  <node id='8007457800' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4001246' lon='-99.0382753' />
+  <node id='8007457801' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.3993187' lon='-99.0386765' />
+  <node id='8007457802' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.398995' lon='-99.0388358' />
+  <node id='8007457803' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3985637' lon='-99.0390451' />
+  <node id='8007457804' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3981114' lon='-99.039269' />
+  <node id='8007457805' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3977427' lon='-99.0394494' />
+  <node id='8007457806' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.3973904' lon='-99.0396398' />
+  <node id='8007457807' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3969995' lon='-99.0398262' />
+  <node id='8007457808' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3966479' lon='-99.0399986' />
+  <node id='8007457809' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3962627' lon='-99.0401877' />
+  <node id='8007457810' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3958256' lon='-99.0404009' />
+  <node id='8007457811' action='delete' timestamp='2021-03-24T20:04:03Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='101671730' lat='19.3954492' lon='-99.0406093' />
+  <node id='8007457812' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3950261' lon='-99.0408073' />
+  <node id='8007457813' action='delete' timestamp='2020-10-14T18:16:44Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.3947295' lon='-99.0409581' />
+  <node id='8007461621' action='delete' timestamp='2021-03-24T20:00:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101671585' lat='19.3934442' lon='-99.0417841' />
+  <node id='8007461622' action='delete' timestamp='2020-10-14T18:26:53Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='2' changeset='92487955' lat='19.3934936' lon='-99.0417554' />
+  <node id='8007461623' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3937181' lon='-99.0416381' />
+  <node id='8007461624' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3940603' lon='-99.0414704' />
+  <node id='8007461625' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.394424' lon='-99.041286' />
+  <node id='8007461626' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3948541' lon='-99.0410661' />
+  <node id='8007461627' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3952007' lon='-99.0408877' />
+  <node id='8007461628' action='delete' timestamp='2021-03-24T20:04:03Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='4' changeset='101671730' lat='19.3955038' lon='-99.0407402' />
+  <node id='8007461629' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3960179' lon='-99.0404673' />
+  <node id='8007461630' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3968231' lon='-99.040071' />
+  <node id='8007461631' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.3974493' lon='-99.039777' />
+  <node id='8007461632' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3979426' lon='-99.0395225' />
+  <node id='8007461633' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3984005' lon='-99.0392925' />
+  <node id='8007461634' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3989299' lon='-99.0390243' />
+  <node id='8007461635' action='delete' timestamp='2021-03-23T23:43:14Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602768' lat='19.3993766' lon='-99.0388083' />
+  <node id='8007461636' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.3996066' lon='-99.038693' />
+  <node id='8007461637' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4001695' lon='-99.038408' />
+  <node id='8007461638' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4007293' lon='-99.0381365' />
+  <node id='8007461639' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4013133' lon='-99.0378542' />
+  <node id='8007461640' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4019841' lon='-99.0375336' />
+  <node id='8007461641' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4025451' lon='-99.0372567' />
+  <node id='8007461642' action='delete' timestamp='2021-03-23T22:21:47Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101601121' lat='19.4032859' lon='-99.0369011' />
+  <node id='8007461643' action='delete' timestamp='2021-03-23T22:21:47Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101601121' lat='19.4034985' lon='-99.0367842' />
+  <node id='8007461644' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4037215' lon='-99.036674' />
+  <node id='8007461645' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4045039' lon='-99.0362763' />
+  <node id='8007466511' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.413505' lon='-99.0309697' />
+  <node id='8007466512' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4134678' lon='-99.030991' />
+  <node id='8007466513' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4132013' lon='-99.0311379' />
+  <node id='8007466514' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4129002' lon='-99.0313049' />
+  <node id='8007466515' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4124727' lon='-99.0315342' />
+  <node id='8007466516' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4120572' lon='-99.0317561' />
+  <node id='8007466517' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4116512' lon='-99.0319794' />
+  <node id='8007466518' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4111806' lon='-99.0322329' />
+  <node id='8007466519' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4105906' lon='-99.0325494' />
+  <node id='8007466520' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4100087' lon='-99.0328592' />
+  <node id='8007466521' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4097222' lon='-99.0330078' />
+  <node id='8007466522' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4095319' lon='-99.033118' />
+  <node id='8007466523' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4086882' lon='-99.033568' />
+  <node id='8007466524' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4081209' lon='-99.0338697' />
+  <node id='8007466525' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4077894' lon='-99.0340559' />
+  <node id='8007466526' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4075574' lon='-99.0342271' />
+  <node id='8007466527' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4071728' lon='-99.0345329' />
+  <node id='8007466528' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.40683' lon='-99.0348065' />
+  <node id='8007466529' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4065404' lon='-99.0350331' />
+  <node id='8007466530' action='delete' timestamp='2020-10-14T20:19:58Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='2' changeset='92491766' lat='19.406435' lon='-99.0351292' />
+  <node id='8007466531' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4058143' lon='-99.0354395' />
+  <node id='8007466532' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4053223' lon='-99.0356829' />
+  <node id='8007466533' action='delete' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4051355' lon='-99.0357821' />
+  <node id='8007466534' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4050516' lon='-99.0358311' />
+  <node id='8007466535' action='delete' timestamp='2020-10-14T18:16:43Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487599' lat='19.4046367' lon='-99.0360396' />
+  <node id='8007469985' timestamp='2021-03-13T01:22:31Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='100938990' lat='19.4137229' lon='-99.0308502' />
+  <node id='8007469986' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4136888' lon='-99.0308688' />
+  <node id='8007476210' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4159169' lon='-99.0298652' />
+  <node id='8007476211' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4165255' lon='-99.0295317' />
+  <node id='8007476212' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4168396' lon='-99.0293616' />
+  <node id='8007476213' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4173253' lon='-99.0291014' />
+  <node id='8007476214' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4178521' lon='-99.0288171' />
+  <node id='8007476215' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4181714' lon='-99.0286434' />
+  <node id='8007476216' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4186097' lon='-99.0284081' />
+  <node id='8007476217' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.418881' lon='-99.0282585' />
+  <node id='8007476218' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4192316' lon='-99.0280755' />
+  <node id='8007476219' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4193385' lon='-99.0280172' />
+  <node id='8007476220' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4198132' lon='-99.027753' />
+  <node id='8007476221' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4202407' lon='-99.0275236' />
+  <node id='8007476222' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4206593' lon='-99.0272963' />
+  <node id='8007476223' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4208813' lon='-99.0271769' />
+  <node id='8007476224' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4213676' lon='-99.0269168' />
+  <node id='8007476225' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4220398' lon='-99.0265379' />
+  <node id='8007476226' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4223699' lon='-99.0263703' />
+  <node id='8007476227' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4228533' lon='-99.0261142' />
+  <node id='8007476230' action='delete' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4227906' lon='-99.0259748' />
+  <node id='8007476685' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4075245' lon='-99.0344531' />
+  <node id='8007476686' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.407861' lon='-99.034195' />
+  <node id='8007476687' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4080096' lon='-99.0341084' />
+  <node id='8007476688' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4083625' lon='-99.0339133' />
+  <node id='8007476689' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4090069' lon='-99.0335787' />
+  <node id='8007476690' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4094882' lon='-99.0333138' />
+  <node id='8007476692' action='delete' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4101694' lon='-99.0329524' />
+  <node id='8007476693' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4117194' lon='-99.0321082' />
+  <node id='8007476694' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4126049' lon='-99.0316388' />
+  <node id='8007476695' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4131292' lon='-99.0313692' />
+  <node id='8007476696' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4135478' lon='-99.0311472' />
+  <node id='8007476697' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101602180' lat='19.4135882' lon='-99.0311205' />
+  <node id='8007476698' timestamp='2021-03-23T23:05:04Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='3' changeset='101602180' lat='19.4137585' lon='-99.0310256' />
+  <node id='8007476699' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100935077' lat='19.4138002' lon='-99.0310032' />
+  <node id='8007476700' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.414155' lon='-99.0308227' />
+  <node id='8007476701' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4145319' lon='-99.0306229' />
+  <node id='8007476702' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4147874' lon='-99.0304888' />
+  <node id='8007476703' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.4152288' lon='-99.0302373' />
+  <node id='8007476704' timestamp='2020-10-14T18:21:10Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92487757' lat='19.415564' lon='-99.0300556' />
+  <node id='8007482642' action='delete' timestamp='2020-10-14T18:38:19Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92488349' lat='19.4097952' lon='-99.0331579' />
+  <node id='8007793730' timestamp='2020-10-14T20:50:06Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92492723' lat='19.4129306' lon='-99.0302836'>
+    <tag k='addr:housenumber' v='202' />
+    <tag k='addr:street' v='Calle Lago Güija' />
+  </node>
+  <node id='8007793731' timestamp='2020-10-14T20:50:06Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92492723' lat='19.4132942' lon='-99.0307604'>
+    <tag k='addr:housenumber' v='527' />
+    <tag k='addr:street' v='Avenida Chimalhuacán' />
+  </node>
+  <node id='8010529003' action='delete' timestamp='2020-10-15T16:52:08Z' uid='10456431' user='ProfessorLupin' visible='true' version='1' changeset='92535071' lat='19.3937506' lon='-99.0414648' />
+  <node id='8010529004' action='delete' timestamp='2020-10-15T16:52:08Z' uid='10456431' user='ProfessorLupin' visible='true' version='1' changeset='92535071' lat='19.3938145' lon='-99.0415909' />
+  <node id='8010529005' action='delete' timestamp='2021-03-24T20:04:03Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='101671730' lat='19.3938248' lon='-99.0416337' />
+  <node id='8023455918' action='delete' timestamp='2020-10-19T23:02:33Z' uid='9965337' user='ReedtheRiver' visible='true' version='1' changeset='92731238' lat='19.4057668' lon='-99.0330965' />
+  <node id='8163515995' action='delete' timestamp='2024-08-27T20:31:36Z' uid='9004577' user='KingRichardV' visible='true' version='3' changeset='155850442' lat='19.4203312' lon='-99.0490038' />
+  <node id='8163515997' action='delete' timestamp='2024-08-27T20:31:36Z' uid='9004577' user='KingRichardV' visible='true' version='3' changeset='155850442' lat='19.4201425' lon='-99.0490612' />
+  <node id='8200865323' action='delete' timestamp='2021-03-12T23:38:19Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='2' changeset='100937407' lat='19.4223474' lon='-99.0264224' />
+  <node id='8511964911' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='100935077' lat='19.4145829' lon='-99.0331876' />
+  <node id='8511964912' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='100935077' lat='19.4151517' lon='-99.0343438' />
+  <node id='8511964913' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='100935077' lat='19.4153098' lon='-99.034608' />
+  <node id='8511964914' action='delete' timestamp='2021-03-12T22:08:00Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='100935077' lat='19.4155083' lon='-99.0350425' />
+  <node id='8555472464' action='delete' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='101603468' lat='19.4056984' lon='-99.0331195' />
+  <node id='8576470616' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='102005872' lat='19.4165257' lon='-98.9985883' />
+  <node id='8576489317' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='102005872' lat='19.4165517' lon='-98.9985487' />
+  <node id='8576489318' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='102005872' lat='19.4165387' lon='-98.9985787' />
+  <node id='8576489319' action='delete' timestamp='2021-03-30T19:30:56Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='102005872' lat='19.4165477' lon='-98.9985649' />
+  <node id='8576961623' action='delete' timestamp='2021-03-30T21:39:59Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='1' changeset='102010518' lat='19.4143804' lon='-98.9900439' />
+  <node id='11959278296' action='delete' timestamp='2024-06-06T00:04:34Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='1' changeset='152308117' lat='19.414523' lon='-98.9907648'>
+    <tag k='crossing:barrier' v='no' />
+    <tag k='railway' v='level_crossing' />
+  </node>
+  <way id='33811710' action='modify' timestamp='2025-08-12T13:15:13Z' uid='21471335' user='ferog_v' visible='true' version='15' changeset='170341749'>
+    <nd ref='387260978' />
+    <nd ref='388390754' />
+    <nd ref='388390757' />
+    <nd ref='388390760' />
+    <nd ref='388390763' />
+    <nd ref='387260979' />
+    <nd ref='455933662' />
+    <nd ref='388350026' />
+    <nd ref='388350013' />
+    <nd ref='388350010' />
+    <nd ref='455933664' />
+    <nd ref='388349239' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Avenida Alhelí' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33877934' action='modify' timestamp='2020-07-30T16:24:24Z' uid='4240913' user='Corban8' visible='true' version='10' changeset='88743501'>
+    <nd ref='388155255' />
+    <nd ref='388155970' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Guanacacha' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33878042' action='modify' timestamp='2020-09-08T12:45:18Z' uid='7466823' user='Whimsical Otter' visible='true' version='10' changeset='90588446'>
+    <nd ref='388392261' />
+    <nd ref='388392275' />
+    <nd ref='388156398' />
+    <nd ref='388392282' />
+    <nd ref='388392289' />
+    <nd ref='388392292' />
+    <nd ref='5862421101' />
+    <nd ref='388156225' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Virgen del Sagrado Corazón de Jesús' />
+    <tag k='source' v='yahoo' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33878107' action='modify' timestamp='2020-10-14T18:21:11Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='11' changeset='92487757'>
+    <nd ref='388392271' />
+    <nd ref='388392260' />
+    <nd ref='388392276' />
+    <nd ref='388156472' />
+    <nd ref='388392283' />
+    <nd ref='388392288' />
+    <nd ref='388392293' />
+    <nd ref='388392298' />
+    <nd ref='388156458' />
+    <nd ref='8007476211' />
+    <nd ref='8007443279' />
+    <nd ref='3927163572' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Virgen de Fátima' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33895056' timestamp='2021-01-29T22:08:34Z' uid='9050649' user='(Inactive) RobinNoodles' visible='true' version='9' changeset='98391698'>
+    <nd ref='388350012' />
+    <nd ref='388350013' />
+    <nd ref='388350014' />
+    <nd ref='388350015' />
+    <tag k='alt_name' v='Calle Lago del Fondo' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Gardenia' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33895057' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='10' changeset='90770429'>
+    <nd ref='388350017' />
+    <nd ref='455933662' />
+    <nd ref='388350018' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Nardo' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33895058' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='8' changeset='90770429'>
+    <nd ref='388350024' />
+    <nd ref='388350026' />
+    <nd ref='388350027' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Jazmín' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33895059' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='12' changeset='90770429'>
+    <nd ref='388390756' />
+    <nd ref='388390755' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Hurón' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33895062' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='10' changeset='90770429'>
+    <nd ref='388390762' />
+    <nd ref='1231951009' />
+    <nd ref='388390761' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Guanacacha' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33899526' action='modify' timestamp='2020-10-21T16:10:32Z' uid='10627270' user='DRM150' visible='true' version='8' changeset='92843868'>
+    <nd ref='388390766' />
+    <nd ref='388390767' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Garda' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33899527' action='delete' timestamp='2020-10-21T16:10:32Z' uid='10627270' user='DRM150' visible='true' version='7' changeset='92843868'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Erne' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33899528' action='delete' timestamp='2020-10-21T16:10:32Z' uid='10627270' user='DRM150' visible='true' version='7' changeset='92843868'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago del Fondo' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33899529' action='delete' timestamp='2020-10-21T16:10:32Z' uid='10627270' user='DRM150' visible='true' version='7' changeset='92843868'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Chapultepec' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='33899692' timestamp='2021-01-29T22:08:34Z' uid='9050649' user='(Inactive) RobinNoodles' visible='true' version='11' changeset='98391698'>
+    <nd ref='388392292' />
+    <nd ref='388392293' />
+    <nd ref='388392294' />
+    <nd ref='388392295' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Virgen de San Juan de los Lagos' />
+    <tag k='source' v='yahoo' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107157482' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='6' changeset='90770429'>
+    <nd ref='388390758' />
+    <nd ref='1231951017' />
+    <nd ref='388390759' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Güija' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107157483' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='8' changeset='90770429'>
+    <nd ref='388390761' />
+    <nd ref='388390760' />
+    <nd ref='5859189670' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Azucena' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107157484' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='8' changeset='90770429'>
+    <nd ref='388390755' />
+    <nd ref='388390754' />
+    <nd ref='5859189668' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lirio' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107157486' action='modify' timestamp='2020-10-21T16:10:32Z' uid='10627270' user='DRM150' visible='true' version='11' changeset='92843868'>
+    <nd ref='387260997' />
+    <nd ref='387256518' />
+    <nd ref='2972348611' />
+    <nd ref='5861081831' />
+    <nd ref='387256519' />
+    <nd ref='387256520' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Ginebra' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='107157488' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='7' changeset='90770429'>
+    <nd ref='388390764' />
+    <nd ref='388390765' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Gran Oso' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='228113256' action='modify' timestamp='2021-03-24T00:42:46Z' uid='11724618' user='TheShiningAlbatross' visible='true' version='8' changeset='101603468'>
+    <nd ref='388155221' />
+    <nd ref='388155165' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Gran Oso' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='228113258' action='modify' timestamp='2020-07-30T16:24:24Z' uid='4240913' user='Corban8' visible='true' version='5' changeset='88743501'>
+    <nd ref='388156038' />
+    <nd ref='388156058' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Güija' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='228113263' action='modify' timestamp='2020-07-30T16:24:24Z' uid='4240913' user='Corban8' visible='true' version='6' changeset='88743501'>
+    <nd ref='388156036' />
+    <nd ref='388156037' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Hurón' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='549946705' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='90770429'>
+    <nd ref='388350027' />
+    <nd ref='388350029' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Erne' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='549946708' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='90770429'>
+    <nd ref='387260953' />
+    <nd ref='387260979' />
+    <nd ref='387260997' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle El Crisantemo' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='549946710' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='90770429'>
+    <nd ref='388350016' />
+    <nd ref='388350017' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Lago Garda' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620117596' action='modify' timestamp='2021-02-08T18:41:01Z' uid='7774151' user='SurferDude1' visible='true' version='4' changeset='98925892'>
+    <nd ref='388349203' />
+    <nd ref='5881565083' />
+    <nd ref='387255908' />
+    <nd ref='388349252' />
+    <nd ref='388349245' />
+    <nd ref='388349244' />
+    <nd ref='388349237' />
+    <nd ref='387260950' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Avenida Chimalhuacán' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620121335' action='modify' timestamp='2020-12-07T06:03:31Z' uid='10210143' user='Skendeija' visible='true' version='12' changeset='95396369'>
+    <nd ref='455922888' />
+    <nd ref='455922889' />
+    <nd ref='388156457' />
+    <nd ref='388156458' />
+    <nd ref='388156225' />
+    <nd ref='5862421100' />
+    <nd ref='298938211' />
+    <nd ref='2972348625' />
+    <nd ref='5861081829' />
+    <nd ref='298938215' />
+    <nd ref='387255872' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida Nezahualcóyotl' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620356235' timestamp='2018-09-04T13:00:52Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62278439'>
+    <nd ref='5861129512' />
+    <nd ref='5861129513' />
+    <nd ref='5861129514' />
+    <nd ref='5861129515' />
+    <nd ref='5861129512' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='620356236' timestamp='2018-09-04T13:00:52Z' uid='2237750' user='chachafish' visible='true' version='2' changeset='62278439'>
+    <nd ref='5861129516' />
+    <nd ref='5861129517' />
+    <nd ref='5861129518' />
+    <nd ref='5861129519' />
+    <nd ref='5861129516' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='620357547' action='modify' timestamp='2024-06-06T00:04:34Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='27' changeset='152308117'>
+    <nd ref='8511964911' />
+    <nd ref='5861081829' />
+    <nd ref='8007476697' />
+    <nd ref='8007466511' />
+    <nd ref='5861081830' />
+    <nd ref='5861081831' />
+    <nd ref='5861081832' />
+    <nd ref='5861081833' />
+    <nd ref='5881565185' />
+    <tag k='highway' v='busway' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Mexibús L3' />
+    <tag k='oneway' v='yes' />
+    <tag k='psv' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620375519' action='modify' timestamp='2024-06-06T00:04:34Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='21' changeset='152308117'>
+    <nd ref='5881565084' />
+    <nd ref='5332283655' />
+    <nd ref='2972354502' />
+    <nd ref='2972348611' />
+    <nd ref='2972354518' />
+    <nd ref='8007469986' />
+    <nd ref='8007476698' />
+    <nd ref='2972348625' />
+    <tag k='highway' v='busway' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='60' />
+    <tag k='name' v='Mexibús L3' />
+    <tag k='oneway' v='yes' />
+    <tag k='psv' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620500652' timestamp='2021-05-25T21:45:56Z' uid='9355928' user='ArleneC' visible='true' version='8' changeset='105316683'>
+    <nd ref='388392296' />
+    <nd ref='388392297' />
+    <nd ref='388392298' />
+    <nd ref='5862421101' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Virgen de Santa Rosa de Lima' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620500655' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='90770429'>
+    <nd ref='5859189669' />
+    <nd ref='388390757' />
+    <nd ref='388390758' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Amapola' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='620500657' timestamp='2020-09-11T17:14:39Z' uid='9029309' user='Kaarti_B' visible='true' version='3' changeset='90770429'>
+    <nd ref='5859189671' />
+    <nd ref='388390763' />
+    <nd ref='388390764' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Dalia' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='622721584' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439'>
+    <nd ref='5881565070' />
+    <nd ref='5881565071' />
+    <nd ref='5881565072' />
+    <nd ref='5881565073' />
+    <nd ref='5881565070' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='622721586' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439'>
+    <nd ref='5881565074' />
+    <nd ref='5881565077' />
+    <nd ref='5881565075' />
+    <nd ref='5881565076' />
+    <nd ref='5881565074' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='622721588' timestamp='2018-09-04T13:00:51Z' uid='2237750' user='chachafish' visible='true' version='1' changeset='62278439'>
+    <nd ref='5881565078' />
+    <nd ref='5881565079' />
+    <nd ref='5881565080' />
+    <nd ref='5881565081' />
+    <nd ref='5881565078' />
+    <tag k='leisure' v='park' />
+  </way>
+  <way id='778074710' timestamp='2025-08-12T13:15:13Z' uid='21471335' user='ferog_v' visible='true' version='7' changeset='170341749'>
+    <nd ref='388350009' />
+    <nd ref='388350014' />
+    <nd ref='388350027' />
+    <nd ref='388350017' />
+    <nd ref='387260997' />
+    <nd ref='388390764' />
+    <nd ref='388390761' />
+    <nd ref='388390758' />
+    <nd ref='388390755' />
+    <nd ref='387260987' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Avenida Hortensia' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='778077357' timestamp='2020-10-21T16:00:49Z' uid='10627270' user='DRM150' visible='true' version='5' changeset='92843464'>
+    <nd ref='388350008' />
+    <nd ref='388350009' />
+    <nd ref='388350010' />
+    <nd ref='388350011' />
+    <tag k='alt_name' v='Calle Lago Chapultepec' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Gladiola' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='847255976' timestamp='2020-09-14T18:03:25Z' uid='7466823' user='Whimsical Otter' visible='true' version='1' changeset='90879954'>
+    <nd ref='7906036365' />
+    <nd ref='7906036364' />
+    <nd ref='7906036363' />
+    <nd ref='7906036362' />
+    <nd ref='7906036365' />
+    <tag k='addr:street' v='Avenida Nezahualcóyotl' />
+    <tag k='amenity' v='fuel' />
+    <tag k='brand' v='Pemex' />
+    <tag k='brand:wikidata' v='Q871308' />
+    <tag k='brand:wikipedia' v='en:Pemex' />
+    <tag k='building' v='roof' />
+    <tag k='name' v='Pemex' />
+  </way>
+  <way id='859017957' action='modify' timestamp='2020-10-27T17:43:51Z' uid='3778777' user='Baconcrisp' visible='true' version='7' changeset='93135863'>
+    <nd ref='8007466519' />
+    <nd ref='8007466518' />
+    <nd ref='8007466517' />
+    <nd ref='8007466516' />
+    <nd ref='8007466515' />
+    <nd ref='8007466514' />
+    <nd ref='8007466513' />
+    <nd ref='8007466512' />
+    <nd ref='8007466511' />
+    <nd ref='8007469986' />
+    <nd ref='8007469985' />
+    <nd ref='8007443284' />
+    <nd ref='8007443283' />
+    <nd ref='8007443282' />
+    <nd ref='8007443281' />
+    <nd ref='8007443280' />
+    <nd ref='8007443279' />
+    <nd ref='8007443278' />
+    <nd ref='8007443277' />
+    <nd ref='8007443276' />
+    <nd ref='8007443275' />
+    <nd ref='8007443274' />
+    <nd ref='8007443273' />
+    <nd ref='8007443272' />
+    <nd ref='8007443271' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='cycleway' />
+    <tag k='lanes' v='1' />
+    <tag k='motor_vehicle' v='no' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='859018882' action='modify' timestamp='2020-10-27T17:43:51Z' uid='3778777' user='Baconcrisp' visible='true' version='6' changeset='93135863'>
+    <nd ref='8007476220' />
+    <nd ref='8007476219' />
+    <nd ref='8007476218' />
+    <nd ref='8007476217' />
+    <nd ref='8007476216' />
+    <nd ref='8007476215' />
+    <nd ref='8007476214' />
+    <nd ref='8007476213' />
+    <nd ref='8007476212' />
+    <nd ref='8007476211' />
+    <nd ref='8007476210' />
+    <nd ref='8007476704' />
+    <nd ref='8007476703' />
+    <nd ref='8007476702' />
+    <nd ref='8007476701' />
+    <nd ref='8007476700' />
+    <nd ref='8007476699' />
+    <nd ref='8007476698' />
+    <nd ref='8007476697' />
+    <nd ref='8007476696' />
+    <nd ref='8007476695' />
+    <nd ref='8007476694' />
+    <nd ref='8007476693' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='cycleway' />
+    <tag k='lanes' v='1' />
+    <tag k='motor_vehicle' v='no' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='859058450' action='modify' timestamp='2020-10-14T20:50:06Z' uid='10541438' user='(Inactive) hairyhaggis_kaart' visible='true' version='1' changeset='92492723'>
+    <nd ref='298938210' />
+    <nd ref='387260987' />
+    <nd ref='3927163572' />
+    <nd ref='387260978' />
+    <nd ref='455922890' />
+    <nd ref='388350044' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Avenida Nezahualcóyotl' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='905147969' timestamp='2021-02-08T18:41:01Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925892'>
+    <nd ref='387260950' />
+    <nd ref='387261000' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Chapala' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='905147970' timestamp='2021-02-08T18:41:01Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925892'>
+    <nd ref='387260949' />
+    <nd ref='5861081832' />
+    <nd ref='2972354502' />
+    <nd ref='387260950' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Calle Lago Chapala' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='905147971' timestamp='2021-02-08T18:41:01Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925892'>
+    <nd ref='387260950' />
+    <nd ref='388350008' />
+    <nd ref='388350015' />
+    <nd ref='388350029' />
+    <nd ref='388350016' />
+    <nd ref='387256518' />
+    <nd ref='388390765' />
+    <nd ref='388390762' />
+    <nd ref='388390759' />
+    <nd ref='388390756' />
+    <nd ref='298938210' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Avenida Chimalhuacán' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='905148525' timestamp='2021-02-08T18:42:22Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925937'>
+    <nd ref='298938216' />
+    <nd ref='388156037' />
+    <nd ref='388156038' />
+    <nd ref='388155255' />
+    <nd ref='388155165' />
+    <nd ref='387256519' />
+    <nd ref='388390766' />
+    <nd ref='388390769' />
+    <nd ref='388390774' />
+    <nd ref='388390775' />
+    <nd ref='387260949' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Avenida Chimalhuacán' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='947036334' timestamp='2021-05-25T21:45:56Z' uid='9355928' user='ArleneC' visible='true' version='1' changeset='105316683'>
+    <nd ref='5862421101' />
+    <nd ref='7906587755' />
+    <nd ref='7906587754' />
+    <nd ref='5862421100' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Calle Virgen de Santa Rosa de Lima' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <relation id='8605675' timestamp='2023-09-07T18:25:24Z' uid='19456985' user='Ferrocarriles de México' visible='true' version='23' changeset='140952935'>
+    <member type='node' ref='2759154642' role='' />
+    <member type='node' ref='2759148900' role='' />
+    <member type='node' ref='2759144247' role='' />
+    <member type='node' ref='2759136166' role='' />
+    <member type='node' ref='2759136162' role='' />
+    <member type='node' ref='6960755054' role='' />
+    <member type='node' ref='5861053462' role='' />
+    <member type='node' ref='5861055720' role='' />
+    <member type='node' ref='5861066533' role='' />
+    <member type='node' ref='5861122474' role='' />
+    <member type='node' ref='5861117040' role='' />
+    <member type='node' ref='5861129520' role='' />
+    <member type='node' ref='5861132560' role='' />
+    <member type='node' ref='5332283640' role='' />
+    <member type='node' ref='2682370963' role='' />
+    <member type='node' ref='4741998423' role='' />
+    <member type='node' ref='5861170141' role='' />
+    <member type='node' ref='3485759973' role='' />
+    <member type='node' ref='5862396204' role='' />
+    <member type='node' ref='5862396205' role='' />
+    <member type='node' ref='5862368394' role='' />
+    <member type='node' ref='2715810015' role='' />
+    <member type='node' ref='2759055513' role='' />
+    <member type='node' ref='2759071805' role='' />
+    <member type='node' ref='2759071809' role='' />
+    <member type='node' ref='2759081267' role='' />
+    <member type='node' ref='2759114273' role='' />
+    <member type='node' ref='2715816241' role='' />
+    <member type='node' ref='5865988134' role='' />
+    <member type='node' ref='2759154645' role='' />
+    <member type='way' ref='620383348' role='' />
+    <member type='way' ref='620984709' role='' />
+    <member type='way' ref='656610937' role='' />
+    <member type='way' ref='656610935' role='' />
+    <member type='way' ref='1119471469' role='' />
+    <member type='way' ref='1119673465' role='' />
+    <member type='way' ref='620963309' role='' />
+    <member type='way' ref='845383965' role='' />
+    <member type='way' ref='620189200' role='' />
+    <member type='way' ref='398985405' role='' />
+    <member type='way' ref='862811335' role='' />
+    <member type='way' ref='620357547' role='' />
+    <member type='way' ref='923966027' role='' />
+    <member type='way' ref='923966026' role='' />
+    <member type='way' ref='923966025' role='' />
+    <member type='way' ref='923966024' role='' />
+    <member type='way' ref='620375518' role='' />
+    <member type='way' ref='293610446' role='' />
+    <member type='way' ref='269905362' role='' />
+    <member type='way' ref='269326666' role='' />
+    <member type='way' ref='168206959' role='' />
+    <member type='way' ref='620919467' role='' />
+    <tag k='name' v='Mexibús L3 Pantitlán-Chimalhuacán' />
+    <tag k='ref' v='Mexibús L3 Pantitlán-Chimalhuacán' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='8616558' timestamp='2025-05-10T12:20:20Z' uid='10286707' user='bouzinac' visible='true' version='17' changeset='166066836'>
+    <member type='node' ref='2759154645' role='' />
+    <member type='node' ref='2759154642' role='' />
+    <member type='node' ref='2759148900' role='' />
+    <member type='node' ref='2759144247' role='' />
+    <member type='node' ref='2759136166' role='' />
+    <member type='node' ref='2759136162' role='' />
+    <member type='node' ref='2759114273' role='' />
+    <member type='node' ref='2759081267' role='' />
+    <member type='node' ref='2759071809' role='' />
+    <member type='node' ref='2759071805' role='' />
+    <member type='node' ref='2759055513' role='' />
+    <member type='node' ref='2715810015' role='' />
+    <member type='node' ref='2715816241' role='' />
+    <member type='node' ref='5862368394' role='' />
+    <member type='node' ref='5862396205' role='' />
+    <member type='node' ref='5862396204' role='' />
+    <member type='node' ref='3485759973' role='' />
+    <member type='node' ref='5861170141' role='' />
+    <member type='node' ref='4741998423' role='' />
+    <member type='node' ref='2682370963' role='' />
+    <member type='node' ref='5332283640' role='' />
+    <member type='node' ref='5861132560' role='' />
+    <member type='node' ref='5861129520' role='' />
+    <member type='node' ref='5861117040' role='' />
+    <member type='node' ref='5861122474' role='' />
+    <member type='node' ref='5861066533' role='' />
+    <member type='node' ref='5861055720' role='' />
+    <member type='node' ref='5861053462' role='' />
+    <member type='node' ref='6960755054' role='' />
+    <member type='node' ref='5865988134' role='' />
+    <member type='way' ref='620919476' role='' />
+    <member type='way' ref='620984705' role='' />
+    <member type='way' ref='620984707' role='' />
+    <member type='way' ref='620984708' role='' />
+    <member type='way' ref='269905358' role='' />
+    <member type='way' ref='71079512' role='' />
+    <member type='way' ref='267586903' role='' />
+    <member type='way' ref='776811340' role='' />
+    <member type='way' ref='620981919' role='' />
+    <member type='way' ref='620984709' role='' />
+    <member type='way' ref='620984710' role='' />
+    <member type='way' ref='620375516' role='' />
+    <member type='way' ref='620375519' role='' />
+    <member type='way' ref='844432473' role='' />
+    <member type='way' ref='269993384' role='' />
+    <member type='way' ref='844432472' role='' />
+    <member type='way' ref='620181034' role='' />
+    <member type='way' ref='845383964' role='' />
+    <member type='way' ref='620189188' role='' />
+    <member type='way' ref='1119673465' role='' />
+    <member type='way' ref='1119471471' role='' />
+    <member type='way' ref='656610930' role='' />
+    <member type='way' ref='656610931' role='' />
+    <tag k='name' v='Mexibús L3 Chimalhuacán-Pantitlán' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+    <tag k='wikidata' v='Q110269828' />
+  </relation>
+  <relation id='12290976' timestamp='2021-02-08T18:41:01Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925892'>
+    <member type='way' ref='620117596' role='from' />
+    <member type='node' ref='387260950' role='via' />
+    <member type='way' ref='905147970' role='to' />
+    <tag k='restriction' v='no_left_turn' />
+    <tag k='type' v='restriction' />
+  </relation>
+  <relation id='12291024' timestamp='2021-02-08T18:42:22Z' uid='7774151' user='SurferDude1' visible='true' version='1' changeset='98925937'>
+    <member type='way' ref='905148525' role='from' />
+    <member type='node' ref='387260949' role='via' />
+    <member type='way' ref='905147970' role='to' />
+    <tag k='restriction' v='no_left_turn' />
+    <tag k='type' v='restriction' />
+  </relation>
+  <relation id='19111871' timestamp='2025-05-10T12:20:20Z' uid='10286707' user='bouzinac' visible='true' version='1' changeset='166066836'>
+    <member type='relation' ref='8616558' role='' />
+    <member type='relation' ref='8605675' role='' />
+    <tag k='network' v='Mexibus' />
+    <tag k='ref' v='III' />
+    <tag k='type' v='route_master' />
+    <tag k='wikidata' v='Q110269828' />
+  </relation>
+</osm>

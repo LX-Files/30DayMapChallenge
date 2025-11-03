@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>polygons_around_the_world.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Polygons around the world</name>
+		<open>1</open>
+		<Placemark>
+			<name>Triangular city blocks in Curitiba, Brazil</name>
+			<LookAt>
+				<longitude>-49.25372422323123</longitude>
+				<latitude>-25.41708149837483</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006104762742294327</heading>
+				<tilt>0</tilt>
+				<range>994.4773551813254</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-49.25638727618367,-25.41586058566923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Square city blocks in Houston, USA</name>
+			<LookAt>
+				<longitude>-95.34488010867719</longitude>
+				<latitude>29.80883931143069</latitude>
+				<altitude>0</altitude>
+				<heading>0.003867923214985917</heading>
+				<tilt>0</tilt>
+				<range>5361.47026452768</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-95.35429102747365,29.8086212909765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rectangular city blocks in Mexico City, Mexico</name>
+			<LookAt>
+				<longitude>-99.03093851807191</longitude>
+				<latitude>19.41762109305387</latitude>
+				<altitude>0</altitude>
+				<heading>0.03401005518065029</heading>
+				<tilt>0</tilt>
+				<range>377.8288797520611</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-99.03093851807192,19.41762109305388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pentagonal city block in Shanghai, China</name>
+			<LookAt>
+				<longitude>121.7616213295105</longitude>
+				<latitude>31.07309835670982</latitude>
+				<altitude>0</altitude>
+				<heading>4.926579882419834</heading>
+				<tilt>0</tilt>
+				<range>1013.838366468736</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>121.7617520839201,31.07330497358854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hexagonal city block - The Interlace in Singapore</name>
+			<LookAt>
+				<longitude>103.8044222233765</longitude>
+				<latitude>1.281707554540272</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003217311427835862</heading>
+				<tilt>0</tilt>
+				<range>818.5967317065796</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>103.8030553146893,1.28243151585264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lozenge city blocks in Athens, Greece</name>
+			<LookAt>
+				<longitude>23.76123625945497</longitude>
+				<latitude>37.92342511246504</latitude>
+				<altitude>0</altitude>
+				<heading>0.02068233572493149</heading>
+				<tilt>0</tilt>
+				<range>1106.937707627812</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.75723886325094,37.92331234767621,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
