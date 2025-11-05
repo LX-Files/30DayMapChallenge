@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-1450473' action='modify' visible='true' lat='38.7071843' lon='-9.1837496' />
+  <node id='-1450474' action='modify' visible='true' lat='38.707335' lon='-9.1861153' />
+  <node id='-1450475' action='modify' visible='true' lat='38.7072764' lon='-9.1861206' />
+  <node id='-1450476' action='modify' visible='true' lat='38.7062006' lon='-9.1848305' />
+  <node id='-1450477' action='modify' visible='true' lat='38.7061713' lon='-9.1846776' />
+  <node id='-1450478' action='modify' visible='true' lat='38.7064643' lon='-9.1846052' />
+  <node id='-1450479' action='modify' visible='true' lat='38.7065543' lon='-9.1838944' />
+  <node id='-1450480' action='modify' visible='true' lat='38.7621818' lon='-9.1261609' />
+  <node id='-1450481' action='modify' visible='true' lat='38.7620137' lon='-9.1265811' />
+  <node id='-1450482' action='modify' visible='true' lat='38.7621585' lon='-9.1268593' />
+  <node id='-1450483' action='modify' visible='true' lat='38.7621798' lon='-9.1270638' />
+  <node id='-1450484' action='modify' visible='true' lat='38.7621623' lon='-9.1272568' />
+  <node id='-1450485' action='modify' visible='true' lat='38.7621182' lon='-9.1273969' />
+  <node id='-1450486' action='modify' visible='true' lat='38.7620252' lon='-9.1276256' />
+  <node id='-1450487' action='modify' visible='true' lat='38.7617899' lon='-9.1280668' />
+  <node id='-1450488' action='modify' visible='true' lat='38.7617847' lon='-9.1281961' />
+  <node id='-1450489' action='modify' visible='true' lat='38.7619384' lon='-9.1281701' />
+  <node id='-1450490' action='modify' visible='true' lat='38.761989' lon='-9.1281677' />
+  <node id='-1450491' action='modify' visible='true' lat='38.7620232' lon='-9.1281997' />
+  <node id='-1450492' action='modify' visible='true' lat='38.7620792' lon='-9.1282609' />
+  <node id='-1450493' action='modify' visible='true' lat='38.7621338' lon='-9.1283439' />
+  <node id='-1450494' action='modify' visible='true' lat='38.7621915' lon='-9.1284469' />
+  <node id='-1450495' action='modify' visible='true' lat='38.7622287' lon='-9.1285599' />
+  <node id='-1450496' action='modify' visible='true' lat='38.762233' lon='-9.1286271' />
+  <node id='-1450497' action='modify' visible='true' lat='38.7622984' lon='-9.1286156' />
+  <node id='-1450498' action='modify' visible='true' lat='38.7623202' lon='-9.1285787' />
+  <node id='-1450499' action='modify' visible='true' lat='38.7624131' lon='-9.1284217' />
+  <node id='-1450500' action='modify' visible='true' lat='38.7626515' lon='-9.1283524' />
+  <node id='-1450501' action='modify' visible='true' lat='38.7625564' lon='-9.1278967' />
+  <node id='-1450502' action='modify' visible='true' lat='38.7625354' lon='-9.1275398' />
+  <node id='-1450503' action='modify' visible='true' lat='38.7624112' lon='-9.1265731' />
+  <node id='-1450504' action='modify' visible='true' lat='38.7623167' lon='-9.1261375' />
+  <node id='-1450505' action='modify' visible='true' lat='38.7621546' lon='-9.1261262' />
+  <node id='-1450506' action='modify' visible='true' lat='38.7622607' lon='-9.1258921' />
+  <node id='-1450507' action='modify' visible='true' lat='38.7621788' lon='-9.1255069' />
+  <node id='-1450508' action='modify' visible='true' lat='38.7614175' lon='-9.1254321' />
+  <node id='-1450509' action='modify' visible='true' lat='38.7610909' lon='-9.1254189' />
+  <node id='-1450510' action='modify' visible='true' lat='38.760959' lon='-9.1257277' />
+  <node id='-1450511' action='modify' visible='true' lat='38.7608193' lon='-9.1260386' />
+  <node id='-1450512' action='modify' visible='true' lat='38.7609881' lon='-9.1261891' />
+  <node id='-1450513' action='modify' visible='true' lat='38.7611095' lon='-9.1262593' />
+  <node id='-1450514' action='modify' visible='true' lat='38.7612616' lon='-9.1262916' />
+  <node id='-1450515' action='modify' visible='true' lat='38.7616053' lon='-9.1263092' />
+  <node id='-1450516' action='modify' visible='true' lat='38.7618645' lon='-9.126448' />
+  <node id='-1450517' action='modify' visible='true' lat='38.7619391' lon='-9.1265146' />
+  <node id='-1450518' action='modify' visible='true' lat='38.7619908' lon='-9.1265232' />
+  <node id='-1450519' action='modify' visible='true' lat='38.7617716' lon='-9.1238977' />
+  <node id='-1450520' action='modify' visible='true' lat='38.7614627' lon='-9.1239546' />
+  <node id='-1450521' action='modify' visible='true' lat='38.7612698' lon='-9.1253089' />
+  <node id='-1450522' action='modify' visible='true' lat='38.7621682' lon='-9.1254408' />
+  <node id='-1450523' action='modify' visible='true' lat='38.70823' lon='-9.1877294' />
+  <node id='-1450524' action='modify' visible='true' lat='38.7094765' lon='-9.1872557' />
+  <node id='-1450525' action='modify' visible='true' lat='38.7093415' lon='-9.186649' />
+  <node id='-1450526' action='modify' visible='true' lat='38.707871' lon='-9.1872306' />
+  <node id='-1450527' action='modify' visible='true' lat='38.7079711' lon='-9.1873681' />
+  <node id='-1450528' action='modify' visible='true' lat='38.7081133' lon='-9.1875636' />
+  <node id='-1450529' action='modify' visible='true' lat='38.7161498' lon='-9.1881937' />
+  <node id='-1450530' action='modify' visible='true' lat='38.7158488' lon='-9.1885158' />
+  <node id='-1450531' action='modify' visible='true' lat='38.715815' lon='-9.1884664' />
+  <node id='-1450532' action='modify' visible='true' lat='38.7157723' lon='-9.188404' />
+  <node id='-1450533' action='modify' visible='true' lat='38.7154396' lon='-9.1887777' />
+  <node id='-1450534' action='modify' visible='true' lat='38.7152947' lon='-9.1885658' />
+  <node id='-1450535' action='modify' visible='true' lat='38.7151733' lon='-9.1883884' />
+  <node id='-1450536' action='modify' visible='true' lat='38.715174' lon='-9.1883876' />
+  <node id='-1450537' action='modify' visible='true' lat='38.7153969' lon='-9.1881372' />
+  <node id='-1450538' action='modify' visible='true' lat='38.7157963' lon='-9.1877222' />
+  <way id='-105729' action='modify' visible='true'>
+    <nd ref='-1450473' />
+    <nd ref='-1450474' />
+    <nd ref='-1450475' />
+    <nd ref='-1450476' />
+    <nd ref='-1450477' />
+    <nd ref='-1450478' />
+    <nd ref='-1450479' />
+    <nd ref='-1450473' />
+    <tag k='crop' v='grape' />
+    <tag k='landuse' v='vineyard' />
+    <tag k='name' v='Vinha Nova' />
+  </way>
+  <way id='-105730' action='modify' visible='true'>
+    <nd ref='-1450480' />
+    <nd ref='-1450481' />
+    <nd ref='-1450482' />
+    <nd ref='-1450483' />
+    <nd ref='-1450484' />
+    <nd ref='-1450485' />
+    <nd ref='-1450486' />
+    <nd ref='-1450487' />
+    <nd ref='-1450488' />
+    <nd ref='-1450489' />
+    <nd ref='-1450490' />
+    <nd ref='-1450491' />
+    <nd ref='-1450492' />
+    <nd ref='-1450493' />
+    <nd ref='-1450494' />
+    <nd ref='-1450495' />
+    <nd ref='-1450496' />
+    <nd ref='-1450497' />
+    <nd ref='-1450498' />
+    <nd ref='-1450499' />
+    <nd ref='-1450500' />
+    <nd ref='-1450501' />
+    <nd ref='-1450502' />
+    <nd ref='-1450503' />
+    <nd ref='-1450504' />
+    <nd ref='-1450480' />
+  </way>
+  <way id='-105731' action='modify' visible='true'>
+    <nd ref='-1450505' />
+    <nd ref='-1450506' />
+    <nd ref='-1450507' />
+    <nd ref='-1450508' />
+    <nd ref='-1450509' />
+    <nd ref='-1450510' />
+    <nd ref='-1450511' />
+    <nd ref='-1450512' />
+    <nd ref='-1450513' />
+    <nd ref='-1450514' />
+    <nd ref='-1450515' />
+    <nd ref='-1450516' />
+    <nd ref='-1450517' />
+    <nd ref='-1450518' />
+    <nd ref='-1450505' />
+  </way>
+  <way id='-105732' action='modify' visible='true'>
+    <nd ref='-1450519' />
+    <nd ref='-1450520' />
+    <nd ref='-1450521' />
+    <nd ref='-1450522' />
+    <nd ref='-1450519' />
+    <tag k='description' v='Espaço vocacionado para a sensibilização e educação ambiental da população escolar e adulta sobre a vinha e o vinho e a sua importância nas tradições, na cultura e na economia nacional.' />
+    <tag k='landuse' v='allotments' />
+    <tag k='name' v='Horta Urbana do Parque Vinícola de Lisboa' />
+    <tag k='operator' v='Câmara Municipal de Lisboa' />
+    <tag k='source' v='dadosabertos.cm-lisboa.pt' />
+  </way>
+  <way id='-105733' action='modify' visible='true'>
+    <nd ref='-1450523' />
+    <nd ref='-1450524' />
+  </way>
+  <way id='-105734' action='modify' visible='true'>
+    <nd ref='-1450524' />
+    <nd ref='-1450525' />
+  </way>
+  <way id='-105735' action='modify' visible='true'>
+    <nd ref='-1450525' />
+    <nd ref='-1450526' />
+  </way>
+  <way id='-105736' action='modify' visible='true'>
+    <nd ref='-1450526' />
+    <nd ref='-1450527' />
+    <tag k='barrier' v='wall' />
+  </way>
+  <way id='-105737' action='modify' visible='true'>
+    <nd ref='-1450527' />
+    <nd ref='-1450528' />
+    <nd ref='-1450523' />
+    <tag k='barrier' v='wall' />
+  </way>
+  <way id='-105738' action='modify' visible='true'>
+    <nd ref='-1450529' />
+    <nd ref='-1450530' />
+    <nd ref='-1450531' />
+    <nd ref='-1450532' />
+    <nd ref='-1450533' />
+    <nd ref='-1450534' />
+    <nd ref='-1450535' />
+    <nd ref='-1450536' />
+    <nd ref='-1450537' />
+    <nd ref='-1450538' />
+  </way>
+  <way id='-105739' action='modify' visible='true'>
+    <nd ref='-1450529' />
+    <nd ref='-1450538' />
+  </way>
+  <relation id='-158' action='modify' visible='true'>
+    <member type='way' ref='-105730' role='outer' />
+    <member type='way' ref='-105731' role='outer' />
+    <member type='way' ref='-105732' role='outer' />
+    <tag k='addr:street' v='Rua Quinta da Graça' />
+    <tag k='alt_name' v='Parque Vitícola de Lisboa' />
+    <tag k='crop' v='grape' />
+    <tag k='description' v='Este projeto insere-se na política do Município de Lisboa de aumento da diversidade de tipologia de espaços verdes e de fomento de práticas agrícolas e hortícolas na cidade. Pelas suas características é, também, um espaço vocacionado para a se' />
+    <tag k='landuse' v='vineyard' />
+    <tag k='name' v='Parque Vinícola de Lisboa' />
+    <tag k='operator' v='Câmara Municipal de Lisboa' />
+    <tag k='source' v='dadosabertos.cm-lisboa.pt' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/parque-vinicola-de-lisboa' />
+  </relation>
+  <relation id='-159' action='modify' visible='true'>
+    <member type='way' ref='-105733' role='outer' />
+    <member type='way' ref='-105734' role='outer' />
+    <member type='way' ref='-105735' role='outer' />
+    <member type='way' ref='-105736' role='outer' />
+    <member type='way' ref='-105737' role='outer' />
+    <tag k='landuse' v='vineyard' />
+    <tag k='name' v='Vinha' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-160' action='modify' visible='true'>
+    <member type='way' ref='-105738' role='outer' />
+    <member type='way' ref='-105739' role='outer' />
+    <tag k='landuse' v='vineyard' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+</osm>
