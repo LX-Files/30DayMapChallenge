@@ -1,5 +1,5 @@
 <h1>MAP for day 12 - MAP FROM 2125</h1>
-<h2>(LET'S HOPE THIS WON'T BE) A SATELLITE VIEW FROM THE IBERIAN PENINSULA IN 2125</h2> 
+<h2>(LET'S HOPE THIS WON'T BE) A SATELLITE VIEW FROM THE IBERIAN PENINSULA IN 2125</h2> 
 <p>Modelling the effects of climate change is far from straightforward. This image shows one possible scenario: the desertification of the southern Iberian Peninsula as the Sahara Desert expands northward. It represents a plausible outcome of global human activity in a not-so-distant future.</p>
 <p>Let’s do our best to prevent this, along with the southward expansion of the Sahara, the continued rise in global temperatures, species extinction, and the loss of biological diversity. Sadly, this page could be filled with examples of things that should be stopped because they pose serious threats to our shared future.</p>
 <p>Source for desert expansion:<br/>
