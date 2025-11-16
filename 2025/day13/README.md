@@ -1,7 +1,7 @@
 <h1>MAP for day 13 - 10 MINUTE MAP</h1>
 <h2>THE GREEN CORRIDOR IN LISBON</h2> 
 <p>According to the Lisbon Municipality Open Data website, the Lisbon Green Corridor is defined as a “continuous natural structure made up of a coordinated network of green spaces designed to bring natural areas into the city in a seamless and connected way.” (This is my translation; you can find the original description on the website https://lisboaaberta.cm-lisboa.pt/index.php/pt/dados/conjuntos-de-dados by searching for “corredor verde.”)</p>
-<p>I took a few shortcuts when making this map in order to maintain the same graphic style as my previous ones. I reused some elements from earlier maps—such as the scale bar and text blocks—and edited them afterward. The list below shows how the 10 minutes were broken down into smaller tasks to achieve the final result:</p>
+<p>I took a few shortcuts when making this map in order to maintain the same graphic style as my previous ones. I reused some elements from earlier maps - such as the scale bar and text blocks - and edited them afterward. The list below shows how the 10 minutes were broken down into smaller tasks to achieve the final result:</p>
 <ul>
 <li><b>1m 13s</b> to locate and download the GeoJSON data files from the aforementioned open data website;</li>
 <li><b>1m 57s</b> to open QGIS, load and style three vector layers (the municipal boundary, the road network, and the green corridor), and export the map as a 600 DPI PNG file;</li>
