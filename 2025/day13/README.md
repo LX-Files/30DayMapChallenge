@@ -9,7 +9,7 @@
 <li><b>60s</b> to open two other Illustrator files containing older maps and copy elements such as the scale bar and preformatted text blocks;</li>
 <li><b>3m 23s</b> to edit the text and adapt it to the new content.</li>
 </ul>
-<p>A bit over 10 minutes — and it still needs some polish. But it’s doable.</p>
+<p>A bit over 10 minutes, and it still needs some polish. But it’s doable.</p>
 <p>Map editing and styling in <b>QGIS</b>. Final composition in <b>Illustrator</b>. Font used: <b>FiraSans</b>. Map data © OpenStreetMap contributors (for the municipality contour) and Câmara Municipal de Lisboa (for the Green Corridor data).</p>    
 <p>File listing:</p>
 <ul>
