@@ -9,8 +9,8 @@
 <ul>
 <li><b>30daymapchallenge__2025-day-15__fire.png</b> - the MAP itself.</li>
 <li><b>(1911)__chimneys.geojson</b> - the chimneys identifiable on the map in GeoJSON file format.</li>
-<li><b>(1911)__city_limits.geojson - the 1911 municipality limits in GeoJSON file format.</b></li>
-<li><b>(1911)__rivers_and_streams.geojson</b> - rivers and streams still visible in 1911, if GeoJSON file format.</li> 
+<li><b>(1911)__city_limits.geojson</b> - the 1911 municipality limits in GeoJSON file format.</li>
+<li><b>(1911)__rivers_and_streams.geojson</b> - rivers and streams still visible in 1911, in GeoJSON file format.</li> 
 <li><b>(1911)__streets_and_roads.geojson</b> - 1911 streets and roads in GeoJSON file format.</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2025.</p>
