@@ -8,9 +8,8 @@
 <p>File listing:</p>
 <ul>
 <li><b>30daymapchallenge__2026-day01__points.png</b> - the MAP itself.</li>
-<li><b>lx_municipality_contour.osm</b> - the contour line for the Lisbon municipality in 2025.</li>
-<li><b>lx_municipality_highway_crossing.osm</b> - highway crossings inside Lisbon.</li>
-<li><b>lx_municipality_highway_traffic-signals.osm</b> - traffic signals inside Lisbon.</li>
+<li><b>lisbon_municipality_contour.geojson</b> - the contour line for the Lisbon municipality in 2025.</li>
+<li><b>lisbon_18541_waste_baskets.geojson</b> - highway crossings inside Lisbon.</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2026.</p>
 <p>&nbsp;</p>
