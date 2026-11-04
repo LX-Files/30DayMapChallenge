@@ -5,7 +5,8 @@
 <p>Both the 1833 and 1825 street representations are superimposed on a modern city plan. The scale of the three maps is approximately 1:63000.</p>
 <p>1833 original map available online from <a href="https://purl.pt/4007">https://purl.pt/4007</a></p>
 <p>1835 original map available online from <a href="https://arquivomunicipal3.cm-lisboa.pt/xarqdigitalizacaocontent/PaginaDocumento.aspx?DocumentoID=257818&AplicacaoID=1&Pagina=1&Linha=1&Coluna=1">https://arquivomunicipal3.cm-lisboa.pt/xarqdigitalizacaocontent/PaginaDocumento.aspx?DocumentoID=257818&AplicacaoID=1&Pagina=1&Linha=1&Coluna=1</a></p>
-<p>Raster editing in <b>#Photoshop</b>. Final composition in <b>#Illustrator</b>. Font used: <b>FiraSans</b>. Map data  © OpenStreetMap contributors and C&acaret;mara Municipal de Lisboa</p>
+<p>Raster editing in <b>#Photoshop</b>. Final composition in <b>#Illustrator</b>. Font used: <b>FiraSans</b>.<br/>
+Map data  © OpenStreetMap contributors and C&acaret;mara Municipal de Lisboa</p>
 <p>File listing:</p>
 <ul>
 <li><b>30daymapchallenge__2026-day03__polygons.png</b> - the MAP itself.</li>
