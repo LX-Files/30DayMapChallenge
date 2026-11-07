@@ -34,7 +34,7 @@ João Paulo Amado | @jpamado, 2026.
 <p>File listing:</p>
 <ul>
 <li><b>30daymapchallenge__2026-day05__senses-sight.png</b> - the MAP itself.</li>
-<li><b>view_from_panoramico_monsanto.jpg<b> - the panorama.</li>
+<li><b>view_from_panoramico_monsanto.jpg</b> - the panorama.</li>
 <li><b>building.jpg</b> - the building.</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2026.</p>
