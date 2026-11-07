@@ -33,7 +33,7 @@ I missed that opportunity.</p>
 João Paulo Amado | @jpamado, 2026.
 <p>File listing:</p>
 <ul>
-<li><b>30daymapchallenge__2026-day05__senses-sight.png</b> - the MAP itself.</li>
+<li><b>30daymapchallenge__2026-day05__senses-sight.jpg</b> - the MAP itself.</li>
 <li><b>view_from_panoramico_monsanto.jpg</b> - the panorama.</li>
 <li><b>building.jpg</b> - the building.</li>
 </ul>
@@ -42,7 +42,7 @@ João Paulo Amado | @jpamado, 2026.
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2026-day-05__senses-sight.png" width=auto>
+<img src="30daymapchallenge__2026-day-05__senses-sight.jpg" width=auto>
 </td>
 </tr>
 </table>
