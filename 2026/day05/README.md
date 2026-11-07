@@ -29,7 +29,7 @@ I missed that opportunity.</p>
 <li>Sanctuary of Christ the King in Almada</li>
 <li>The pillars of the <i>25 de April</i> Bridge</li>
 </ol>
-<p>POIs plotted in <b>JOSM</b>. Panorama created with <b>Microsoft Image Composite Editor</b> from 30 photos. Raster editing in <b>Photoshop</b>. Final composition in <b>Illustrator</b>. Font used: <b>FiraSans</b>. Map data © OpenStreetMap contributors. Satellite imaging © ESRI</p>
+<p>POIs plotted in <b>JOSM</b>. Panorama created with <b>Microsoft Image Composite Editor</b> from 30 photos. Raster editing in <b>Photoshop</b>. Final composition in <b>Illustrator</b>. Font used: <b>FiraSans</b>. Map data © OpenStreetMap contributors. Satellite imaging © ESRI</p>
 João Paulo Amado | @jpamado, 2026.
 <p>File listing:</p>
 <ul>
