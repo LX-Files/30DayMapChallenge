@@ -1,6 +1,6 @@
 <h3>#30DayMapChallenge / 2026</h3>
 <h1>DAY 06 - VINTAGE</h1>
-<h2>A TOURISTIC VIEW OF PORTUGAL SOMETIME DURING THE 1980s</h2> 
+<h2>A TOURISTIC VIEW OF PORTUGAL SOMETIME DURING THE 1980s</h2> 
 <p>This is the cover of a map I keep in my collection. It’s a map meant for visiting tourists, given away freely at the Lisbon airport and any other location meant for touristic use.</p>
 <p>I find this kind of maps fascinating, because they present quite a few stereotypes regarding Portuguese cultural symbols, work activities or geographic points of interest.</p>
 <p>The numbers refer to:</p>
