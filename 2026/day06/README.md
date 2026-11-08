@@ -5,19 +5,19 @@
 <p>I find this kind of maps fascinating, because they present quite a few stereotypes regarding Portuguese cultural symbols, work activities or geographic points of interest.</p>
 <p>The numbers refer to:</p>
 <ol><li>Traditional female dress in Minho.</li>
-<li>A piece of potery called Galo de Barcelos.</li>
-<li>Traditional male dress in Miranda do Douro, connected with a folcloric dance.</li>
+<li>A piece of potery called <i>Galo de Barcelos</i>.</li>
+<li>Traditional male dress in <i>Miranda do Douro</i>, connected with a folkloric dance.</li>
 <li>Picking grapes for wine production.</li>
 <li>A traditional transport boat going to Oporto, loaded with wine barrels.</li>
-<li>The Torre dos Clérigos church in Oporto.</li>
+<li>The <i>Torre dos Clérigos</i> church in Oporto.</li>
 <li>The Cathedral Church in the city of Guarda.</li>
-<li>Skiing pratice in Serra da Estrela, the highest Portuguese mountain.</li>
+<li>Skiing pratice in <i>Serra da Estrela</i>, the highest Portuguese mountain.</li>
 <li>A typical boat from the Vouga river; the pyramids on the background are salt mounds.</li>
 <li>The Castle of Leiria.</li>
 <li>A fisherman in Nazaré.</li>
 <li>A campino riding a horse with a bull in the background (for bull-fighting practice).</li>
 <li>The Royal Palace on top of the Sintra Mountains.</li>
-<li>The Torre de Belém monument in Lisbon.</li>
+<li>The <i>Torre de Belém</i> monument in Lisbon.</li>
 <li>A roman temple in Évora.</li>
 <li>A woman in traditional working attire, harvesting cereals.</li>
 <li>A cork oak.</li>
