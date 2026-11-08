@@ -23,6 +23,7 @@
 <li>A cork oak.</li>
 <li>Several touristic activities that can be practiced in the Algarve.</li>
 </ol>
+<p>You can still find the real-world sources for each and everyone of these stereotypes in Portugal today (although the skiing business has seen better days). However, there is plenty more to see, most of it not easily reduceable to a stereotype.</p>
 <p>Cover design by Eugénio Silva. Map published by Guia Turístico do Norte and freely distributed in Portugal and abroad.</p>
 <p>Raster editing in <b>Photoshop</b>. Final composition in <b>Illustrator</b>. Font used: <b>FiraSans</b>.</p>
 João Paulo Amado | @jpamado, 2026.
