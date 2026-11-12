@@ -1,0 +1,499 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="900" viewBox="0 0 1200 900">
+  <title>Lisbon — a modern city in the style of a medieval map</title>
+  <desc>
+    A schematic map of central Lisbon on aged parchment, with selected
+    modern streets, an imperfect Baixa grid, pictorial landmarks,
+    a compass rose, two sailing boats, and medievalesque typography.
+  </desc>
+
+  <defs>
+    <!-- Layered parchment grain -->
+    <filter id="parchment" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency=".018"
+                    numOctaves="4" seed="12" result="coarse"/>
+      <feColorMatrix in="coarse" type="saturate"
+                     values="0" result="gray"/>
+      <feComponentTransfer in="gray" result="softGrain">
+        <feFuncR type="linear" slope=".23" intercept=".77"/>
+        <feFuncG type="linear" slope=".23" intercept=".77"/>
+        <feFuncB type="linear" slope=".23" intercept=".77"/>
+        <feFuncA type="linear" slope="0" intercept="1"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="softGrain"
+               mode="multiply" result="textured"/>
+      <feTurbulence type="fractalNoise"
+                    baseFrequency=".48"
+                    numOctaves="2" seed="6" result="fine"/>
+      <feColorMatrix in="fine" type="saturate"
+                     values="0" result="fineGray"/>
+      <feComponentTransfer in="fineGray" result="fineGrain">
+        <feFuncR type="linear" slope=".07" intercept=".93"/>
+        <feFuncG type="linear" slope=".07" intercept=".93"/>
+        <feFuncB type="linear" slope=".07" intercept=".93"/>
+        <feFuncA type="linear" slope="0" intercept="1"/>
+      </feComponentTransfer>
+      <feBlend in="textured" in2="fineGrain" mode="multiply"/>
+    </filter>
+
+    <radialGradient id="paper" cx="49%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#efdfb8"/>
+      <stop offset=".56" stop-color="#e3cd9f"/>
+      <stop offset=".82" stop-color="#c8a773"/>
+      <stop offset=".95" stop-color="#a58050"/>
+      <stop offset="1" stop-color="#89663e"/>
+    </radialGradient>
+
+    <!-- Restrained wobble applied only to linework -->
+    <filter id="handInk" x="-3%" y="-3%" width="106%" height="106%">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency=".035"
+                    numOctaves="2" seed="21" result="wobble"/>
+      <feDisplacementMap in="SourceGraphic" in2="wobble"
+                         scale="1.6"
+                         xChannelSelector="R"
+                         yChannelSelector="G"/>
+    </filter>
+
+    <pattern id="waves" width="55" height="30"
+             patternUnits="userSpaceOnUse">
+      <path d="M4 17Q16 7 28 17T51 17"
+            fill="none" stroke="#627d75"
+            stroke-width="1" opacity=".42"/>
+    </pattern>
+
+    <g id="church" stroke="#674b32" stroke-width="1.8"
+       fill="#e4cea0">
+      <path d="M-23 0V-26L0-41L23-26V0Z"/>
+      <path d="M-30 0V-46H-20V0M20 0V-46H30V0"/>
+      <path d="M-7 0V-14Q0-24 7-14V0"/>
+      <circle cx="0" cy="-27" r="5" fill="#bba174"/>
+      <path d="M-25-46V-57M-30-52H-20
+               M25-46V-57M20-52H30"/>
+    </g>
+
+    <g id="castle" stroke="#674b32" stroke-width="1.8"
+       fill="#dac08b">
+      <path d="M-39 0V-39H-43V-49H-34V-42H-26V-49H-17
+               V-21H17V-49H26V-42H34V-49H43V-39H39V0Z"/>
+      <path d="M-8 0V-16Q0-27 8-16V0"/>
+      <path d="M-28-30V-22M28-30V-22"/>
+      <path d="M-17-21L0-31L17-21"/>
+    </g>
+
+    <g id="house" stroke="#795b3d" stroke-width="1.2"
+       fill="#e0c898">
+      <path d="M-9 0V-16L0-25L9-16V0Z"/>
+      <path d="M-12-16L0-28L12-16"/>
+      <path d="M-3 0V-8H3V0"/>
+    </g>
+
+    <g id="boat" stroke="#654c35" stroke-width="1.8">
+      <path d="M-43 0H43L27 17H-25Z" fill="#96744d"/>
+      <path d="M0 0V-70" fill="none"/>
+      <path d="M-4-64Q-37-42-4-13Z" fill="#f5e8c9"/>
+      <path d="M5-60Q36-39 5-10Z" fill="#eee0bc"/>
+      <path d="M0-70L23-64L0-58" fill="#a26750"/>
+      <path d="M-49 24Q-24 17 0 24T48 24"
+            fill="none" stroke="#627d75" opacity=".7"/>
+    </g>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&amp;family=UnifrakturCook:wght@700&amp;display=swap');
+
+      .road {
+        fill: none;
+        stroke: #785737;
+        stroke-width: 6.5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        filter: url(#handInk);
+      }
+
+      .road-inner {
+        fill: none;
+        stroke: #ead8af;
+        stroke-width: 3.2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        filter: url(#handInk);
+      }
+
+      .street {
+        fill: none;
+        stroke: #896440;
+        stroke-width: 2.4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        opacity: .9;
+        filter: url(#handInk);
+      }
+
+      .district {
+        font-family: "UnifrakturCook", "Old English Text MT",
+                     "Lucida Blackletter", serif;
+        font-size: 19px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        fill: #62472f;
+        text-anchor: middle;
+      }
+
+      .name {
+        font-family: "IM Fell English", "Palatino Linotype",
+                     "Book Antiqua", serif;
+        font-size: 11px;
+        font-style: italic;
+        font-weight: 400;
+        fill: #68492e;
+        text-anchor: middle;
+        paint-order: stroke fill;
+        stroke: #e3cda3;
+        stroke-width: 2.5;
+        stroke-linejoin: round;
+      }
+
+      .caption {
+        font-family: "IM Fell English", "Palatino Linotype",
+                     "Book Antiqua", serif;
+        font-size: 12px;
+        font-style: italic;
+        font-weight: 400;
+        fill: #715235;
+        text-anchor: middle;
+      }
+    </style>
+
+    <!-- Selected main routes -->
+    <path id="liberdade" d="M433 190Q458 246 514 337"/>
+    <path id="reis" d="M682 374Q704 302 762 191"/>
+    <path id="julho" d="M105 638Q245 649 366 685"/>
+    <path id="arsenal" d="M366 685L446 668L546 651"/>
+    <path id="alfandega" d="M637 651L706 643Q803 638 889 602"/>
+    <path id="loreto" d="M290 486L397 489"/>
+    <path id="garrett" d="M397 489L462 481L514 468"/>
+    <path id="carmo" d="M514 468L518 411L541 387"/>
+    <path id="misericordia" d="M393 373L397 489"/>
+  </defs>
+
+  <!-- Aged parchment sheet -->
+  <rect width="1200" height="900"
+        fill="url(#paper)" filter="url(#parchment)"/>
+
+  <!-- Uneven edge discoloration -->
+  <g fill="none" stroke="#73502e">
+    <path d="M13 20Q240 5 474 17T1184 15
+             M1185 16Q1172 235 1184 459T1182 884
+             M1184 883Q905 895 628 881T16 886
+             M15 885Q25 639 13 423T16 18"
+          stroke-width="24" opacity=".09"/>
+    <path d="M27 29Q312 18 590 27T1170 25
+             M1170 27Q1159 288 1170 546T1169 872
+             M1168 872Q847 884 573 871T29 876
+             M29 875Q39 569 27 318T28 29"
+          stroke-width="7" opacity=".12"/>
+  </g>
+
+  <!-- Faded stains -->
+  <g fill="#855a32">
+    <path d="M42 89Q63 53 114 67Q163 73 146 114
+             Q158 143 109 151Q65 154 42 128Z"
+          opacity=".075"/>
+    <path d="M1061 370Q1100 342 1149 364
+             L1160 454Q1121 475 1085 449
+             Q1062 414 1061 370Z"
+          opacity=".065"/>
+    <path d="M53 765Q98 735 145 766
+             Q174 800 143 837L52 850Z"
+          opacity=".07"/>
+    <path d="M991 68Q1049 45 1124 70
+             Q1150 95 1136 120Q1084 97 1038 109Z"
+          opacity=".08"/>
+  </g>
+
+  <g fill="none" stroke="#886139">
+    <ellipse cx="110" cy="254" rx="49" ry="42"
+             stroke-width="3" opacity=".055"/>
+    <path d="M71 233Q99 205 139 225Q159 249 145 278"
+          stroke-width="1.5" opacity=".08"/>
+  </g>
+
+  <!-- Foxing -->
+  <g fill="#79512e" opacity=".18">
+    <circle cx="68" cy="185" r="1.6"/>
+    <circle cx="84" cy="192" r=".9"/>
+    <circle cx="58" cy="208" r="1.1"/>
+    <circle cx="1113" cy="147" r="1.7"/>
+    <circle cx="1127" cy="161" r="1"/>
+    <circle cx="1104" cy="170" r="1.2"/>
+    <circle cx="81" cy="581" r="1.5"/>
+    <circle cx="96" cy="594" r=".9"/>
+    <circle cx="1071" cy="819" r="1.8"/>
+    <circle cx="1088" cy="825" r="1"/>
+    <circle cx="1058" cy="833" r="1.2"/>
+    <circle cx="408" cy="64" r="1"/>
+    <circle cx="787" cy="835" r="1.1"/>
+  </g>
+
+  <!-- Faint fold -->
+  <path d="M190 43Q185 250 193 449T189 856"
+        fill="none" stroke="#765333"
+        stroke-width="2" opacity=".055"/>
+  <path d="M193 43Q188 250 196 449T192 856"
+        fill="none" stroke="#fff2d2"
+        stroke-width="2" opacity=".18"/>
+
+  <!-- Worn engraved frame -->
+  <g fill="none" filter="url(#handInk)">
+    <path d="M28 33Q302 27 600 31T1170 32
+             L1168 869Q884 875 600 872T30 869Z"
+          stroke="#795a38" stroke-width="2.5" opacity=".8"/>
+    <path d="M40 43Q316 39 600 42T1159 43
+             L1158 858Q865 863 600 859T40 858Z"
+          stroke="#967448" stroke-width=".9" opacity=".7"/>
+  </g>
+
+  <!-- Title cartouche -->
+  <path d="M418 65Q600 44 782 65L772 114
+           Q600 100 428 114Z"
+        fill="#e9d5aa" stroke="#96754d" stroke-width="1.5"/>
+  <text x="600" y="94" class="district"
+        style="font-size:35px;letter-spacing:7px">LISBOA</text>
+  <text x="600" y="139" class="caption">
+    A modern city drawn in the manner of an ancient chart
+  </text>
+
+  <!-- Tagus shoreline -->
+  <path d="M40 707Q207 693 365 721
+           Q523 754 664 722
+           Q901 673 1159 565V858H40Z"
+        fill="#b7c7b7" stroke="#627d75" stroke-width="2"/>
+  <path d="M40 707Q207 693 365 721
+           Q523 754 664 722
+           Q901 673 1159 565V858H40Z"
+        fill="url(#waves)"/>
+  <path d="M44 714Q208 700 363 728
+           Q525 761 665 729"
+        fill="none" stroke="#627d75" opacity=".5"/>
+
+  <!-- Main streets -->
+  <g class="road">
+    <use href="#liberdade"/>
+    <use href="#reis"/>
+    <use href="#julho"/>
+    <use href="#arsenal"/>
+    <use href="#alfandega"/>
+  </g>
+  <g class="road-inner">
+    <use href="#liberdade"/>
+    <use href="#reis"/>
+    <use href="#julho"/>
+    <use href="#arsenal"/>
+    <use href="#alfandega"/>
+  </g>
+
+  <!-- Restauradores -->
+  <path d="M502 333L521 326L534 355L515 361Z"
+        fill="#ddc79a" stroke="#80603e" stroke-width="1.6"/>
+  <path d="M514 337L526 370L532 392" class="street"/>
+
+  <!-- Rossio and Praça da Figueira -->
+  <path d="M541 349L579 351L578 395L541 393Z"
+        fill="#ddc79a" stroke="#80603e" stroke-width="1.6"/>
+  <circle cx="560" cy="364" r="3" fill="#80603e"/>
+  <circle cx="560" cy="383" r="3" fill="#80603e"/>
+
+  <path d="M617 363L667 365L668 398L617 397Z"
+        fill="#ddc79a" stroke="#80603e" stroke-width="1.6"/>
+  <circle cx="642" cy="382" r="3" fill="#80603e"/>
+
+  <g class="street">
+    <path d="M579 369L617 370"/>
+    <path d="M556 396L642 400"/>
+    <path d="M667 365L682 374"/>
+    <use href="#loreto"/>
+    <use href="#garrett"/>
+    <use href="#carmo"/>
+    <use href="#misericordia"/>
+  </g>
+
+  <!-- Imperfect Baixa grid -->
+  <g class="street">
+    <!-- Rua dos Sapateiros -->
+    <path d="M537 422L538 462L536 509L539 555L537 604"/>
+    <!-- Rua do Ouro -->
+    <path d="M558 398L560 445L558 492L561 543L559 597L561 648"/>
+    <!-- Rua Augusta -->
+    <path d="M599 402L597 447L600 497L598 547L600 598L598 642"/>
+    <!-- Rua da Prata -->
+    <path d="M642 400L641 448L643 497L641 548L644 598L642 648"/>
+    <!-- Rua dos Fanqueiros -->
+    <path d="M685 400L683 447L686 498L684 550L687 598L685 641"/>
+    <!-- Rua da Madalena -->
+    <path d="M735 393L730 449L727 501L722 553L719 603L713 641"/>
+
+    <!-- Cross streets -->
+    <path d="M537 422L598 425L642 424L683 427L732 426"/>
+    <path d="M538 462L598 466L643 464L684 468L729 466"/>
+    <path d="M536 509L599 508L642 512L685 510L726 513"/>
+    <path d="M539 555L598 557L642 555L684 560L722 558"/>
+    <path d="M537 604L599 601L644 603L687 600L719 603"/>
+    <path d="M560 626L598 628L643 625L686 628L716 626"/>
+
+    <!-- Connections toward Praça do Comércio -->
+    <path d="M561 648L546 651M642 648L637 651"/>
+    <!-- Eastern approach to the Sé -->
+    <path d="M722 553L790 552L847 534"/>
+  </g>
+
+  <!-- Praça do Comércio, open toward the river -->
+  <path d="M546 702V642H637V702"
+        fill="#ddc79a" stroke="#80603e" stroke-width="3"/>
+  <path d="M555 698V651H628V698"
+        fill="none" stroke="#ab8b5e" stroke-width="1"/>
+
+  <!-- Arcades -->
+  <g stroke="#96754e" fill="none" stroke-width="1">
+    <path d="M548 661Q551 654 554 661
+             M548 675Q551 668 554 675
+             M548 689Q551 682 554 689"/>
+    <path d="M629 661Q632 654 635 661
+             M629 675Q632 668 635 675
+             M629 689Q632 682 635 689"/>
+  </g>
+
+  <!-- Rua Augusta arch -->
+  <path d="M588 647V630H608V647"
+        fill="#d8be8d" stroke="#674b32" stroke-width="1.6"/>
+  <path d="M593 647V639Q598 632 603 639V647"
+        fill="#f1e1bc" stroke="#674b32" stroke-width="1.2"/>
+
+  <!-- Equestrian statue symbol -->
+  <path d="M586 683H597V687H586Z" fill="#80603e"/>
+  <path d="M585 680H597L601 675M591 680V673"
+        fill="none" stroke="#80603e" stroke-width="2"/>
+
+  <!-- Pictorial landmarks -->
+  <use href="#church" x="463" y="414"/>
+  <use href="#castle" x="845" y="433"/>
+  <use href="#church" x="797" y="533"/>
+
+  <!-- Urban clusters -->
+  <g opacity=".8">
+    <use href="#house" x="343" y="427"/>
+    <use href="#house" x="366" y="447"/>
+    <use href="#house" x="314" y="453"/>
+    <use href="#house" x="451" y="306"/>
+    <use href="#house" x="477" y="323"/>
+    <use href="#house" x="719" y="328"/>
+    <use href="#house" x="746" y="351"/>
+    <use href="#house" x="881" y="491"/>
+    <use href="#house" x="910" y="519"/>
+    <use href="#house" x="884" y="553"/>
+    <use href="#house" x="936" y="546"/>
+  </g>
+
+  <!-- Districts and landmarks -->
+  <text x="337" y="341" class="district">BAIRRO ALTO</text>
+  <text x="423" y="548" class="district">CHIADO</text>
+  <text x="635" y="333" class="district">BAIXA</text>
+  <text x="910" y="599" class="district">ALFAMA</text>
+  <text x="933" y="370" class="district">GRAÇA</text>
+
+  <text x="463" y="348" class="caption">Convento do Carmo</text>
+  <text x="845" y="367" class="caption">Castelo de São Jorge</text>
+  <text x="797" y="468" class="caption">Sé de Lisboa</text>
+
+  <!-- Street labels -->
+  <g class="name">
+    <text dy="-8">
+      <textPath href="#liberdade" startOffset="50%">Avenida da Liberdade</textPath>
+    </text>
+    <text dy="-8">
+      <textPath href="#reis" startOffset="50%">Avenida Almirante Reis</textPath>
+    </text>
+    <text dy="-8">
+      <textPath href="#julho" startOffset="50%">Avenida 24 de Julho</textPath>
+    </text>
+    <text dy="-8">
+      <textPath href="#arsenal" startOffset="55%">Rua do Arsenal</textPath>
+    </text>
+    <text dy="-8">
+      <textPath href="#alfandega" startOffset="60%">Rua da Alfândega</textPath>
+    </text>
+    <text dy="-7">
+      <textPath href="#loreto" startOffset="50%">Rua do Loreto</textPath>
+    </text>
+    <text dy="-7">
+      <textPath href="#garrett" startOffset="53%">Rua Garrett</textPath>
+    </text>
+    <text dy="-7">
+      <textPath href="#carmo" startOffset="50%">Rua do Carmo</textPath>
+    </text>
+    <text dy="-7">
+      <textPath href="#misericordia" startOffset="50%">Rua da Misericórdia</textPath>
+    </text>
+
+    <text x="555" y="524" transform="rotate(-90 555 524)">Rua do Ouro</text>
+    <text x="594" y="525" transform="rotate(-90 594 525)">Rua Augusta</text>
+    <text x="637" y="525" transform="rotate(-90 637 525)">Rua da Prata</text>
+    <text x="679" y="526" transform="rotate(-90 679 526)">R. dos Fanqueiros</text>
+
+    <text x="648" y="439" style="font-size:9px">R. de Santa Justa</text>
+    <text x="649" y="572" style="font-size:9px">R. de São Nicolau</text>
+    <text x="649" y="616" style="font-size:9px">R. da Conceição</text>
+  </g>
+
+  <text x="486" y="366" class="name">Restauradores</text>
+  <text x="560" y="341" class="name">Rossio</text>
+  <text x="642" y="355" class="name">Praça da Figueira</text>
+  <text x="590" y="724" class="caption">Praça do Comércio</text>
+  <text x="361" y="707" class="name">Cais do Sodré</text>
+
+  <!-- Eight-point compass rose -->
+  <g transform="translate(1038 235)"
+     stroke="#674b32" stroke-width="1.2">
+    <circle r="43" fill="none"/>
+    <circle r="34" fill="none" stroke="#a18458"/>
+
+    <g fill="#d4b882">
+      <path d="M0-63L10-10L0 0L-10-10Z"/>
+      <path d="M63 0L10 10L0 0L10-10Z"/>
+      <path d="M0 63L-10 10L0 0L10 10Z"/>
+      <path d="M-63 0L-10-10L0 0L-10 10Z"/>
+    </g>
+
+    <g fill="#795a38">
+      <path d="M0-63V0L10-10Z"/>
+      <path d="M63 0H0L10 10Z"/>
+      <path d="M0 63V0L-10 10Z"/>
+      <path d="M-63 0H0L-10-10Z"/>
+    </g>
+
+    <g fill="#ead6aa">
+      <path d="M-34-34L-5-13L0 0L-13-5Z"/>
+      <path d="M34-34L13-5L0 0L5-13Z"/>
+      <path d="M34 34L5 13L0 0L13 5Z"/>
+      <path d="M-34 34L-13 5L0 0L-5 13Z"/>
+    </g>
+
+    <circle r="5" fill="#795a38"/>
+  </g>
+
+  <text x="1038" y="160" class="district">N</text>
+  <text x="1115" y="240" class="caption">E</text>
+  <text x="1038" y="317" class="caption">S</text>
+  <text x="960" y="240" class="caption">W</text>
+
+  <!-- Two sailing boats -->
+  <use href="#boat" transform="translate(270 784) rotate(-5)"/>
+  <use href="#boat" transform="translate(964 729) scale(.78) rotate(8)"/>
+
+  <text x="665" y="804" class="district"
+        style="font-size:31px;letter-spacing:9px">RIO TEJO</text>
+
+  <text x="600" y="844" class="caption">
+    Selected modern streets · hand-drawn schematic · not for navigation
+  </text>
+</svg>
