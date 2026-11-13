@@ -1,0 +1,4631 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10257090000,
+                            38.77461890000
+                        ],
+                        [
+                            -9.10256390000,
+                            38.77455240000
+                        ],
+                        [
+                            -9.10214410000,
+                            38.77457930000
+                        ],
+                        [
+                            -9.10215110000,
+                            38.77464580000
+                        ],
+                        [
+                            -9.10257090000,
+                            38.77461890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15658120000,
+                            38.75605510000
+                        ],
+                        [
+                            -9.15656700000,
+                            38.75602640000
+                        ],
+                        [
+                            -9.15653340000,
+                            38.75603650000
+                        ],
+                        [
+                            -9.15654760000,
+                            38.75606520000
+                        ],
+                        [
+                            -9.15658120000,
+                            38.75605510000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18504410000,
+                            38.70753760000
+                        ],
+                        [
+                            -9.18504580000,
+                            38.70751190000
+                        ],
+                        [
+                            -9.18499270000,
+                            38.70750970000
+                        ],
+                        [
+                            -9.18499200000,
+                            38.70752100000
+                        ],
+                        [
+                            -9.18497900000,
+                            38.70752050000
+                        ],
+                        [
+                            -9.18497800000,
+                            38.70753490000
+                        ],
+                        [
+                            -9.18504410000,
+                            38.70753760000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18806280000,
+                            38.73082310000
+                        ],
+                        [
+                            -9.18800030000,
+                            38.73082330000
+                        ],
+                        [
+                            -9.18800020000,
+                            38.73080960000
+                        ],
+                        [
+                            -9.18806270000,
+                            38.73080940000
+                        ],
+                        [
+                            -9.18806280000,
+                            38.73082310000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15891560000,
+                            38.71658890000
+                        ],
+                        [
+                            -9.15879440000,
+                            38.71658580000
+                        ],
+                        [
+                            -9.15879470000,
+                            38.71657750000
+                        ],
+                        [
+                            -9.15891590000,
+                            38.71658070000
+                        ],
+                        [
+                            -9.15891560000,
+                            38.71658890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18505000000,
+                            38.70747560000
+                        ],
+                        [
+                            -9.18509690000,
+                            38.70747680000
+                        ],
+                        [
+                            -9.18509750000,
+                            38.70746350000
+                        ],
+                        [
+                            -9.18505060000,
+                            38.70746220000
+                        ],
+                        [
+                            -9.18505000000,
+                            38.70747560000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15563230000,
+                            38.75548200000
+                        ],
+                        [
+                            -9.15561280000,
+                            38.75544300000
+                        ],
+                        [
+                            -9.15523430000,
+                            38.75555800000
+                        ],
+                        [
+                            -9.15525380000,
+                            38.75559710000
+                        ],
+                        [
+                            -9.15563230000,
+                            38.75548200000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16322110000,
+                            38.74851200000
+                        ],
+                        [
+                            -9.16313430000,
+                            38.74849690000
+                        ],
+                        [
+                            -9.16316140000,
+                            38.74840270000
+                        ],
+                        [
+                            -9.16324810000,
+                            38.74841790000
+                        ],
+                        [
+                            -9.16322110000,
+                            38.74851200000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15115500000,
+                            38.75276330000
+                        ],
+                        [
+                            -9.15100840000,
+                            38.75278980000
+                        ],
+                        [
+                            -9.15100410000,
+                            38.75277540000
+                        ],
+                        [
+                            -9.15115070000,
+                            38.75274880000
+                        ],
+                        [
+                            -9.15115500000,
+                            38.75276330000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17490130000,
+                            38.75321180000
+                        ],
+                        [
+                            -9.17489420000,
+                            38.75318300000
+                        ],
+                        [
+                            -9.17477940000,
+                            38.75320020000
+                        ],
+                        [
+                            -9.17478650000,
+                            38.75322900000
+                        ],
+                        [
+                            -9.17490130000,
+                            38.75321180000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09373050000,
+                            38.78821880000
+                        ],
+                        [
+                            -9.09373010000,
+                            38.78817660000
+                        ],
+                        [
+                            -9.09335910000,
+                            38.78817850000
+                        ],
+                        [
+                            -9.09335940000,
+                            38.78822080000
+                        ],
+                        [
+                            -9.09373050000,
+                            38.78821880000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15383720000,
+                            38.71068990000
+                        ],
+                        [
+                            -9.15377540000,
+                            38.71069890000
+                        ],
+                        [
+                            -9.15377110000,
+                            38.71068120000
+                        ],
+                        [
+                            -9.15383290000,
+                            38.71067210000
+                        ],
+                        [
+                            -9.15383720000,
+                            38.71068990000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18496130000,
+                            38.70761210000
+                        ],
+                        [
+                            -9.18496260000,
+                            38.70759430000
+                        ],
+                        [
+                            -9.18516880000,
+                            38.70760350000
+                        ],
+                        [
+                            -9.18516750000,
+                            38.70762130000
+                        ],
+                        [
+                            -9.18496130000,
+                            38.70761210000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18574020000,
+                            38.70788490000
+                        ],
+                        [
+                            -9.18574180000,
+                            38.70789460000
+                        ],
+                        [
+                            -9.18579940000,
+                            38.70788850000
+                        ],
+                        [
+                            -9.18579770000,
+                            38.70787880000
+                        ],
+                        [
+                            -9.18574020000,
+                            38.70788490000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15461410000,
+                            38.75156810000
+                        ],
+                        [
+                            -9.15516420000,
+                            38.75138960000
+                        ],
+                        [
+                            -9.15514320000,
+                            38.75135030000
+                        ],
+                        [
+                            -9.15459320000,
+                            38.75152890000
+                        ],
+                        [
+                            -9.15461410000,
+                            38.75156810000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18771270000,
+                            38.73148860000
+                        ],
+                        [
+                            -9.18762430000,
+                            38.73148980000
+                        ],
+                        [
+                            -9.18762400000,
+                            38.73147750000
+                        ],
+                        [
+                            -9.18771240000,
+                            38.73147630000
+                        ],
+                        [
+                            -9.18771270000,
+                            38.73148860000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16030560000,
+                            38.74694850000
+                        ],
+                        [
+                            -9.16030510000,
+                            38.74690620000
+                        ],
+                        [
+                            -9.15984820000,
+                            38.74690460000
+                        ],
+                        [
+                            -9.15984760000,
+                            38.74694770000
+                        ],
+                        [
+                            -9.16030560000,
+                            38.74694850000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18510110000,
+                            38.70754470000
+                        ],
+                        [
+                            -9.18510250000,
+                            38.70752860000
+                        ],
+                        [
+                            -9.18511530000,
+                            38.70752920000
+                        ],
+                        [
+                            -9.18511600000,
+                            38.70752070000
+                        ],
+                        [
+                            -9.18515870000,
+                            38.70752290000
+                        ],
+                        [
+                            -9.18515780000,
+                            38.70753400000
+                        ],
+                        [
+                            -9.18517090000,
+                            38.70753470000
+                        ],
+                        [
+                            -9.18516970000,
+                            38.70754830000
+                        ],
+                        [
+                            -9.18510110000,
+                            38.70754470000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15877130000,
+                            38.74672090000
+                        ],
+                        [
+                            -9.15876270000,
+                            38.74665480000
+                        ],
+                        [
+                            -9.15881530000,
+                            38.74663220000
+                        ],
+                        [
+                            -9.16027120000,
+                            38.74664560000
+                        ],
+                        [
+                            -9.16027440000,
+                            38.74673760000
+                        ],
+                        [
+                            -9.15877130000,
+                            38.74672090000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16288470000,
+                            38.74851240000
+                        ],
+                        [
+                            -9.16298790000,
+                            38.74826800000
+                        ],
+                        [
+                            -9.16292010000,
+                            38.74825060000
+                        ],
+                        [
+                            -9.16281690000,
+                            38.74849500000
+                        ],
+                        [
+                            -9.16288470000,
+                            38.74851240000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "3 mts high",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18521700000,
+                            38.70719850000
+                        ],
+                        [
+                            -9.18454240000,
+                            38.70710510000
+                        ],
+                        [
+                            -9.18455890000,
+                            38.70703260000
+                        ],
+                        [
+                            -9.18523350000,
+                            38.70712610000
+                        ],
+                        [
+                            -9.18521700000,
+                            38.70719850000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18591080000,
+                            38.70804170000
+                        ],
+                        [
+                            -9.18591060000,
+                            38.70805410000
+                        ],
+                        [
+                            -9.18597740000,
+                            38.70805470000
+                        ],
+                        [
+                            -9.18597760000,
+                            38.70804230000
+                        ],
+                        [
+                            -9.18591080000,
+                            38.70804170000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09372830000,
+                            38.78813840000
+                        ],
+                        [
+                            -9.09372800000,
+                            38.78809620000
+                        ],
+                        [
+                            -9.09335690000,
+                            38.78809810000
+                        ],
+                        [
+                            -9.09335730000,
+                            38.78814040000
+                        ],
+                        [
+                            -9.09372830000,
+                            38.78813840000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15659690000,
+                            38.75576820000
+                        ],
+                        [
+                            -9.15657960000,
+                            38.75573430000
+                        ],
+                        [
+                            -9.15651500000,
+                            38.75575430000
+                        ],
+                        [
+                            -9.15652030000,
+                            38.75576480000
+                        ],
+                        [
+                            -9.15641070000,
+                            38.75579880000
+                        ],
+                        [
+                            -9.15639210000,
+                            38.75576220000
+                        ],
+                        [
+                            -9.15593640000,
+                            38.75590350000
+                        ],
+                        [
+                            -9.15594790000,
+                            38.75592610000
+                        ],
+                        [
+                            -9.15579800000,
+                            38.75597250000
+                        ],
+                        [
+                            -9.15578630000,
+                            38.75594960000
+                        ],
+                        [
+                            -9.15562210000,
+                            38.75600040000
+                        ],
+                        [
+                            -9.15565280000,
+                            38.75606070000
+                        ],
+                        [
+                            -9.15659690000,
+                            38.75576820000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18549360000,
+                            38.70759940000
+                        ],
+                        [
+                            -9.18549590000,
+                            38.70757380000
+                        ],
+                        [
+                            -9.18543070000,
+                            38.70757010000
+                        ],
+                        [
+                            -9.18542970000,
+                            38.70758120000
+                        ],
+                        [
+                            -9.18541650000,
+                            38.70758050000
+                        ],
+                        [
+                            -9.18541520000,
+                            38.70759500000
+                        ],
+                        [
+                            -9.18549360000,
+                            38.70759940000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18575820000,
+                            38.70797650000
+                        ],
+                        [
+                            -9.18576000000,
+                            38.70798880000
+                        ],
+                        [
+                            -9.18582640000,
+                            38.70798280000
+                        ],
+                        [
+                            -9.18582450000,
+                            38.70797050000
+                        ],
+                        [
+                            -9.18575820000,
+                            38.70797650000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18572510000,
+                            38.70782250000
+                        ],
+                        [
+                            -9.18572680000,
+                            38.70783220000
+                        ],
+                        [
+                            -9.18578430000,
+                            38.70782610000
+                        ],
+                        [
+                            -9.18578260000,
+                            38.70781650000
+                        ],
+                        [
+                            -9.18572510000,
+                            38.70782250000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18845550000,
+                            38.73165360000
+                        ],
+                        [
+                            -9.18837890000,
+                            38.73165480000
+                        ],
+                        [
+                            -9.18837800000,
+                            38.73163920000
+                        ],
+                        [
+                            -9.18845500000,
+                            38.73163750000
+                        ],
+                        [
+                            -9.18845550000,
+                            38.73165360000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16026480000,
+                            38.74634350000
+                        ],
+                        [
+                            -9.16026690000,
+                            38.74625980000
+                        ],
+                        [
+                            -9.15983780000,
+                            38.74626150000
+                        ],
+                        [
+                            -9.15979270000,
+                            38.74628160000
+                        ],
+                        [
+                            -9.15980450000,
+                            38.74633510000
+                        ],
+                        [
+                            -9.16026480000,
+                            38.74634350000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18496270000,
+                            38.70763910000
+                        ],
+                        [
+                            -9.18496410000,
+                            38.70762130000
+                        ],
+                        [
+                            -9.18517020000,
+                            38.70763150000
+                        ],
+                        [
+                            -9.18516880000,
+                            38.70764930000
+                        ],
+                        [
+                            -9.18496270000,
+                            38.70763910000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16028700000,
+                            38.74620950000
+                        ],
+                        [
+                            -9.16028630000,
+                            38.74616690000
+                        ],
+                        [
+                            -9.16002870000,
+                            38.74616950000
+                        ],
+                        [
+                            -9.16002550000,
+                            38.74621050000
+                        ],
+                        [
+                            -9.16028700000,
+                            38.74620950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15793440000,
+                            38.71718400000
+                        ],
+                        [
+                            -9.15820000000,
+                            38.71734310000
+                        ],
+                        [
+                            -9.15822300000,
+                            38.71735680000
+                        ],
+                        [
+                            -9.15823570000,
+                            38.71734400000
+                        ],
+                        [
+                            -9.15822530000,
+                            38.71733780000
+                        ],
+                        [
+                            -9.15823690000,
+                            38.71732600000
+                        ],
+                        [
+                            -9.15822490000,
+                            38.71731880000
+                        ],
+                        [
+                            -9.15823650000,
+                            38.71730700000
+                        ],
+                        [
+                            -9.15806970000,
+                            38.71720710000
+                        ],
+                        [
+                            -9.15803050000,
+                            38.71718370000
+                        ],
+                        [
+                            -9.15797010000,
+                            38.71714690000
+                        ],
+                        [
+                            -9.15793440000,
+                            38.71718400000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14690180000,
+                            38.71731120000
+                        ],
+                        [
+                            -9.14684870000,
+                            38.71734240000
+                        ],
+                        [
+                            -9.14683880000,
+                            38.71733210000
+                        ],
+                        [
+                            -9.14689190000,
+                            38.71730090000
+                        ],
+                        [
+                            -9.14690180000,
+                            38.71731120000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590850000,
+                            38.70791660000
+                        ],
+                        [
+                            -9.18590830000,
+                            38.70792900000
+                        ],
+                        [
+                            -9.18597510000,
+                            38.70792960000
+                        ],
+                        [
+                            -9.18597530000,
+                            38.70791730000
+                        ],
+                        [
+                            -9.18590850000,
+                            38.70791660000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09439480000,
+                            38.78804450000
+                        ],
+                        [
+                            -9.09439450000,
+                            38.78799810000
+                        ],
+                        [
+                            -9.09375280000,
+                            38.78800090000
+                        ],
+                        [
+                            -9.09375310000,
+                            38.78804730000
+                        ],
+                        [
+                            -9.09439480000,
+                            38.78804450000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16143790000,
+                            38.74721870000
+                        ],
+                        [
+                            -9.16143850000,
+                            38.74713510000
+                        ],
+                        [
+                            -9.16070410000,
+                            38.74713200000
+                        ],
+                        [
+                            -9.16070350000,
+                            38.74721570000
+                        ],
+                        [
+                            -9.16143790000,
+                            38.74721870000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18549880000,
+                            38.70756680000
+                        ],
+                        [
+                            -9.18550060000,
+                            38.70754110000
+                        ],
+                        [
+                            -9.18544750000,
+                            38.70753900000
+                        ],
+                        [
+                            -9.18544670000,
+                            38.70755020000
+                        ],
+                        [
+                            -9.18543370000,
+                            38.70754970000
+                        ],
+                        [
+                            -9.18543280000,
+                            38.70756410000
+                        ],
+                        [
+                            -9.18549880000,
+                            38.70756680000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590900000,
+                            38.70798010000
+                        ],
+                        [
+                            -9.18590880000,
+                            38.70799250000
+                        ],
+                        [
+                            -9.18597560000,
+                            38.70799320000
+                        ],
+                        [
+                            -9.18597580000,
+                            38.70798080000
+                        ],
+                        [
+                            -9.18590900000,
+                            38.70798010000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18574330000,
+                            38.70791670000
+                        ],
+                        [
+                            -9.18574500000,
+                            38.70792640000
+                        ],
+                        [
+                            -9.18580250000,
+                            38.70792030000
+                        ],
+                        [
+                            -9.18580090000,
+                            38.70791060000
+                        ],
+                        [
+                            -9.18574330000,
+                            38.70791670000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17832090000,
+                            38.77378750000
+                        ],
+                        [
+                            -9.17830020000,
+                            38.77373660000
+                        ],
+                        [
+                            -9.17938650000,
+                            38.77346890000
+                        ],
+                        [
+                            -9.17992290000,
+                            38.77329320000
+                        ],
+                        [
+                            -9.18053440000,
+                            38.77301930000
+                        ],
+                        [
+                            -9.18056720000,
+                            38.77308270000
+                        ],
+                        [
+                            -9.17995610000,
+                            38.77333750000
+                        ],
+                        [
+                            -9.17940920000,
+                            38.77351330000
+                        ],
+                        [
+                            -9.17832090000,
+                            38.77378750000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16143710000,
+                            38.74710200000
+                        ],
+                        [
+                            -9.16143770000,
+                            38.74704920000
+                        ],
+                        [
+                            -9.16072670000,
+                            38.74704390000
+                        ],
+                        [
+                            -9.16072600000,
+                            38.74709680000
+                        ],
+                        [
+                            -9.16143710000,
+                            38.74710200000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18540580000,
+                            38.70766580000
+                        ],
+                        [
+                            -9.18540820000,
+                            38.70764800000
+                        ],
+                        [
+                            -9.18561360000,
+                            38.70766440000
+                        ],
+                        [
+                            -9.18561130000,
+                            38.70768220000
+                        ],
+                        [
+                            -9.18540580000,
+                            38.70766580000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10206460000,
+                            38.77425590000
+                        ],
+                        [
+                            -9.10201130000,
+                            38.77379740000
+                        ],
+                        [
+                            -9.10190560000,
+                            38.77380490000
+                        ],
+                        [
+                            -9.10195900000,
+                            38.77426330000
+                        ],
+                        [
+                            -9.10206460000,
+                            38.77425590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14692910000,
+                            38.71733600000
+                        ],
+                        [
+                            -9.14689490000,
+                            38.71735540000
+                        ],
+                        [
+                            -9.14688510000,
+                            38.71734500000
+                        ],
+                        [
+                            -9.14691930000,
+                            38.71732560000
+                        ],
+                        [
+                            -9.14692910000,
+                            38.71733600000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590470000,
+                            38.70782460000
+                        ],
+                        [
+                            -9.18590450000,
+                            38.70783700000
+                        ],
+                        [
+                            -9.18597130000,
+                            38.70783760000
+                        ],
+                        [
+                            -9.18597150000,
+                            38.70782530000
+                        ],
+                        [
+                            -9.18590470000,
+                            38.70782460000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09423730000,
+                            38.78779550000
+                        ],
+                        [
+                            -9.09423790000,
+                            38.78775410000
+                        ],
+                        [
+                            -9.09375840000,
+                            38.78775010000
+                        ],
+                        [
+                            -9.09375780000,
+                            38.78779150000
+                        ],
+                        [
+                            -9.09423730000,
+                            38.78779550000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16025600000,
+                            38.74686340000
+                        ],
+                        [
+                            -9.16025700000,
+                            38.74678080000
+                        ],
+                        [
+                            -9.15981410000,
+                            38.74677750000
+                        ],
+                        [
+                            -9.15981310000,
+                            38.74686000000
+                        ],
+                        [
+                            -9.16025600000,
+                            38.74686340000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18577010000,
+                            38.70803730000
+                        ],
+                        [
+                            -9.18577190000,
+                            38.70804970000
+                        ],
+                        [
+                            -9.18583830000,
+                            38.70804360000
+                        ],
+                        [
+                            -9.18583640000,
+                            38.70803130000
+                        ],
+                        [
+                            -9.18577010000,
+                            38.70803730000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18575130000,
+                            38.70794650000
+                        ],
+                        [
+                            -9.18575310000,
+                            38.70795880000
+                        ],
+                        [
+                            -9.18581950000,
+                            38.70795280000
+                        ],
+                        [
+                            -9.18581760000,
+                            38.70794050000
+                        ],
+                        [
+                            -9.18575130000,
+                            38.70794650000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15113480000,
+                            38.75269070000
+                        ],
+                        [
+                            -9.15098820000,
+                            38.75271720000
+                        ],
+                        [
+                            -9.15098390000,
+                            38.75270270000
+                        ],
+                        [
+                            -9.15113050000,
+                            38.75267620000
+                        ],
+                        [
+                            -9.15113480000,
+                            38.75269070000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15974050000,
+                            38.74695380000
+                        ],
+                        [
+                            -9.15974030000,
+                            38.74689060000
+                        ],
+                        [
+                            -9.15921000000,
+                            38.74689130000
+                        ],
+                        [
+                            -9.15921010000,
+                            38.74695450000
+                        ],
+                        [
+                            -9.15974050000,
+                            38.74695380000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15376180000,
+                            38.71070090000
+                        ],
+                        [
+                            -9.15370940000,
+                            38.71070860000
+                        ],
+                        [
+                            -9.15370510000,
+                            38.71069090000
+                        ],
+                        [
+                            -9.15375760000,
+                            38.71068320000
+                        ],
+                        [
+                            -9.15376180000,
+                            38.71070090000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "3 mts high",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18522930000,
+                            38.70710800000
+                        ],
+                        [
+                            -9.18455470000,
+                            38.70701470000
+                        ],
+                        [
+                            -9.18457120000,
+                            38.70694220000
+                        ],
+                        [
+                            -9.18524570000,
+                            38.70703560000
+                        ],
+                        [
+                            -9.18522930000,
+                            38.70710800000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.18782660000,
+                    38.73174920000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590670000,
+                            38.70785510000
+                        ],
+                        [
+                            -9.18590650000,
+                            38.70786740000
+                        ],
+                        [
+                            -9.18597320000,
+                            38.70786810000
+                        ],
+                        [
+                            -9.18597350000,
+                            38.70785570000
+                        ],
+                        [
+                            -9.18590670000,
+                            38.70785510000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15975390000,
+                            38.74686120000
+                        ],
+                        [
+                            -9.15975710000,
+                            38.74679460000
+                        ],
+                        [
+                            -9.15847980000,
+                            38.74676800000
+                        ],
+                        [
+                            -9.15847410000,
+                            38.74684850000
+                        ],
+                        [
+                            -9.15975390000,
+                            38.74686120000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16057180000,
+                            38.74734180000
+                        ],
+                        [
+                            -9.16057350000,
+                            38.74725630000
+                        ],
+                        [
+                            -9.16013650000,
+                            38.74725090000
+                        ],
+                        [
+                            -9.16013480000,
+                            38.74733650000
+                        ],
+                        [
+                            -9.16057180000,
+                            38.74734180000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15114170000,
+                            38.75271510000
+                        ],
+                        [
+                            -9.15099510000,
+                            38.75274160000
+                        ],
+                        [
+                            -9.15099080000,
+                            38.75272720000
+                        ],
+                        [
+                            -9.15113740000,
+                            38.75270060000
+                        ],
+                        [
+                            -9.15114170000,
+                            38.75271510000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15552340000,
+                            38.75528250000
+                        ],
+                        [
+                            -9.15550450000,
+                            38.75524470000
+                        ],
+                        [
+                            -9.15512600000,
+                            38.75535980000
+                        ],
+                        [
+                            -9.15514480000,
+                            38.75539760000
+                        ],
+                        [
+                            -9.15552340000,
+                            38.75528250000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16282910000,
+                            38.74812730000
+                        ],
+                        [
+                            -9.16273860000,
+                            38.74812710000
+                        ],
+                        [
+                            -9.16274390000,
+                            38.74778420000
+                        ],
+                        [
+                            -9.16283300000,
+                            38.74778400000
+                        ],
+                        [
+                            -9.16282910000,
+                            38.74812730000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15116240000,
+                            38.75278620000
+                        ],
+                        [
+                            -9.15101580000,
+                            38.75281270000
+                        ],
+                        [
+                            -9.15101150000,
+                            38.75279830000
+                        ],
+                        [
+                            -9.15115810000,
+                            38.75277170000
+                        ],
+                        [
+                            -9.15116240000,
+                            38.75278620000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14971580000,
+                            38.71171420000
+                        ],
+                        [
+                            -9.14971030000,
+                            38.71170290000
+                        ],
+                        [
+                            -9.14955050000,
+                            38.71175010000
+                        ],
+                        [
+                            -9.14955610000,
+                            38.71176150000
+                        ],
+                        [
+                            -9.14971580000,
+                            38.71171420000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15450730000,
+                            38.75171200000
+                        ],
+                        [
+                            -9.15505530000,
+                            38.75153370000
+                        ],
+                        [
+                            -9.15503460000,
+                            38.75149500000
+                        ],
+                        [
+                            -9.15448650000,
+                            38.75167330000
+                        ],
+                        [
+                            -9.15450730000,
+                            38.75171200000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15693930000,
+                            38.75644590000
+                        ],
+                        [
+                            -9.15690950000,
+                            38.75638720000
+                        ],
+                        [
+                            -9.15596340000,
+                            38.75667980000
+                        ],
+                        [
+                            -9.15599310000,
+                            38.75673840000
+                        ],
+                        [
+                            -9.15693930000,
+                            38.75644590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15114930000,
+                            38.75273890000
+                        ],
+                        [
+                            -9.15100270000,
+                            38.75276550000
+                        ],
+                        [
+                            -9.15099840000,
+                            38.75275100000
+                        ],
+                        [
+                            -9.15114500000,
+                            38.75272450000
+                        ],
+                        [
+                            -9.15114930000,
+                            38.75273890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18571300000,
+                            38.70775870000
+                        ],
+                        [
+                            -9.18571470000,
+                            38.70776840000
+                        ],
+                        [
+                            -9.18577220000,
+                            38.70776230000
+                        ],
+                        [
+                            -9.18577060000,
+                            38.70775260000
+                        ],
+                        [
+                            -9.18571300000,
+                            38.70775870000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15609110000,
+                            38.75618140000
+                        ],
+                        [
+                            -9.15610580000,
+                            38.75620950000
+                        ],
+                        [
+                            -9.15649230000,
+                            38.75608670000
+                        ],
+                        [
+                            -9.15647760000,
+                            38.75605860000
+                        ],
+                        [
+                            -9.15609110000,
+                            38.75618140000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15889330000,
+                            38.71661610000
+                        ],
+                        [
+                            -9.15877210000,
+                            38.71661300000
+                        ],
+                        [
+                            -9.15877250000,
+                            38.71660470000
+                        ],
+                        [
+                            -9.15889370000,
+                            38.71660780000
+                        ],
+                        [
+                            -9.15889330000,
+                            38.71661610000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16143800000,
+                            38.74735150000
+                        ],
+                        [
+                            -9.16143710000,
+                            38.74726630000
+                        ],
+                        [
+                            -9.16069360000,
+                            38.74725900000
+                        ],
+                        [
+                            -9.16069270000,
+                            38.74734350000
+                        ],
+                        [
+                            -9.16143800000,
+                            38.74735150000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18541180000,
+                            38.70763590000
+                        ],
+                        [
+                            -9.18541420000,
+                            38.70761810000
+                        ],
+                        [
+                            -9.18561960000,
+                            38.70763450000
+                        ],
+                        [
+                            -9.18561730000,
+                            38.70765230000
+                        ],
+                        [
+                            -9.18541180000,
+                            38.70763590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15559550000,
+                            38.75541630000
+                        ],
+                        [
+                            -9.15557630000,
+                            38.75537780000
+                        ],
+                        [
+                            -9.15519750000,
+                            38.75549270000
+                        ],
+                        [
+                            -9.15521660000,
+                            38.75553110000
+                        ],
+                        [
+                            -9.15559550000,
+                            38.75541630000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14970820000,
+                            38.71169800000
+                        ],
+                        [
+                            -9.14970270000,
+                            38.71168670000
+                        ],
+                        [
+                            -9.14954290000,
+                            38.71173390000
+                        ],
+                        [
+                            -9.14954850000,
+                            38.71174530000
+                        ],
+                        [
+                            -9.14970820000,
+                            38.71169800000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18509970000,
+                            38.70757520000
+                        ],
+                        [
+                            -9.18510210000,
+                            38.70754960000
+                        ],
+                        [
+                            -9.18516730000,
+                            38.70755330000
+                        ],
+                        [
+                            -9.18516630000,
+                            38.70756430000
+                        ],
+                        [
+                            -9.18517950000,
+                            38.70756510000
+                        ],
+                        [
+                            -9.18517810000,
+                            38.70757960000
+                        ],
+                        [
+                            -9.18509970000,
+                            38.70757520000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16304860000,
+                            38.74851880000
+                        ],
+                        [
+                            -9.16296400000,
+                            38.74850050000
+                        ],
+                        [
+                            -9.16305480000,
+                            38.74824520000
+                        ],
+                        [
+                            -9.16313940000,
+                            38.74826350000
+                        ],
+                        [
+                            -9.16304860000,
+                            38.74851880000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09438790000,
+                            38.78796030000
+                        ],
+                        [
+                            -9.09438810000,
+                            38.78791720000
+                        ],
+                        [
+                            -9.09375280000,
+                            38.78791540000
+                        ],
+                        [
+                            -9.09375260000,
+                            38.78795840000
+                        ],
+                        [
+                            -9.09438790000,
+                            38.78796030000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15548960000,
+                            38.75521720000
+                        ],
+                        [
+                            -9.15547070000,
+                            38.75517880000
+                        ],
+                        [
+                            -9.15509020000,
+                            38.75529300000
+                        ],
+                        [
+                            -9.15510920000,
+                            38.75533140000
+                        ],
+                        [
+                            -9.15548960000,
+                            38.75521720000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18550480000,
+                            38.70750480000
+                        ],
+                        [
+                            -9.18555170000,
+                            38.70750610000
+                        ],
+                        [
+                            -9.18555230000,
+                            38.70749270000
+                        ],
+                        [
+                            -9.18550540000,
+                            38.70749140000
+                        ],
+                        [
+                            -9.18550480000,
+                            38.70750480000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590710000,
+                            38.70794970000
+                        ],
+                        [
+                            -9.18590690000,
+                            38.70796210000
+                        ],
+                        [
+                            -9.18597370000,
+                            38.70796270000
+                        ],
+                        [
+                            -9.18597390000,
+                            38.70795030000
+                        ],
+                        [
+                            -9.18590710000,
+                            38.70794970000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18580860000,
+                            38.70821590000
+                        ],
+                        [
+                            -9.18580760000,
+                            38.70820650000
+                        ],
+                        [
+                            -9.18594940000,
+                            38.70820420000
+                        ],
+                        [
+                            -9.18594940000,
+                            38.70821420000
+                        ],
+                        [
+                            -9.18580860000,
+                            38.70821590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15381820000,
+                            38.71071240000
+                        ],
+                        [
+                            -9.15380700000,
+                            38.71071410000
+                        ],
+                        [
+                            -9.15380260000,
+                            38.71069640000
+                        ],
+                        [
+                            -9.15381390000,
+                            38.71069470000
+                        ],
+                        [
+                            -9.15381820000,
+                            38.71071240000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15893750000,
+                            38.71655950000
+                        ],
+                        [
+                            -9.15881630000,
+                            38.71655630000
+                        ],
+                        [
+                            -9.15881670000,
+                            38.71654800000
+                        ],
+                        [
+                            -9.15893790000,
+                            38.71655120000
+                        ],
+                        [
+                            -9.15893750000,
+                            38.71655950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18500600000,
+                            38.70750730000
+                        ],
+                        [
+                            -9.18515100000,
+                            38.70751360000
+                        ],
+                        [
+                            -9.18515240000,
+                            38.70749410000
+                        ],
+                        [
+                            -9.18513740000,
+                            38.70749340000
+                        ],
+                        [
+                            -9.18513810000,
+                            38.70748420000
+                        ],
+                        [
+                            -9.18502570000,
+                            38.70747930000
+                        ],
+                        [
+                            -9.18502460000,
+                            38.70749480000
+                        ],
+                        [
+                            -9.18500690000,
+                            38.70749400000
+                        ],
+                        [
+                            -9.18500600000,
+                            38.70750730000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15555920000,
+                            38.75535020000
+                        ],
+                        [
+                            -9.15553990000,
+                            38.75531160000
+                        ],
+                        [
+                            -9.15516120000,
+                            38.75542640000
+                        ],
+                        [
+                            -9.15518050000,
+                            38.75546520000
+                        ],
+                        [
+                            -9.15555920000,
+                            38.75535020000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14927290000,
+                            38.71182890000
+                        ],
+                        [
+                            -9.14926560000,
+                            38.71181410000
+                        ],
+                        [
+                            -9.14907050000,
+                            38.71187310000
+                        ],
+                        [
+                            -9.14907790000,
+                            38.71188780000
+                        ],
+                        [
+                            -9.14927290000,
+                            38.71182890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14693900000,
+                            38.71726650000
+                        ],
+                        [
+                            -9.14689660000,
+                            38.71729080000
+                        ],
+                        [
+                            -9.14688680000,
+                            38.71728040000
+                        ],
+                        [
+                            -9.14692920000,
+                            38.71725610000
+                        ],
+                        [
+                            -9.14693900000,
+                            38.71726650000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18576320000,
+                            38.70800730000
+                        ],
+                        [
+                            -9.18576500000,
+                            38.70801960000
+                        ],
+                        [
+                            -9.18583140000,
+                            38.70801360000
+                        ],
+                        [
+                            -9.18582950000,
+                            38.70800130000
+                        ],
+                        [
+                            -9.18576320000,
+                            38.70800730000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09440840000,
+                            38.78813220000
+                        ],
+                        [
+                            -9.09440810000,
+                            38.78809000000
+                        ],
+                        [
+                            -9.09403700000,
+                            38.78809190000
+                        ],
+                        [
+                            -9.09403730000,
+                            38.78813420000
+                        ],
+                        [
+                            -9.09440840000,
+                            38.78813220000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16057070000,
+                            38.74742160000
+                        ],
+                        [
+                            -9.16057050000,
+                            38.74738120000
+                        ],
+                        [
+                            -9.16010590000,
+                            38.74738320000
+                        ],
+                        [
+                            -9.16010620000,
+                            38.74742370000
+                        ],
+                        [
+                            -9.16057070000,
+                            38.74742160000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18555580000,
+                            38.70757400000
+                        ],
+                        [
+                            -9.18555720000,
+                            38.70755780000
+                        ],
+                        [
+                            -9.18557010000,
+                            38.70755840000
+                        ],
+                        [
+                            -9.18557080000,
+                            38.70754990000
+                        ],
+                        [
+                            -9.18561350000,
+                            38.70755210000
+                        ],
+                        [
+                            -9.18561250000,
+                            38.70756320000
+                        ],
+                        [
+                            -9.18562560000,
+                            38.70756390000
+                        ],
+                        [
+                            -9.18562450000,
+                            38.70757750000
+                        ],
+                        [
+                            -9.18555580000,
+                            38.70757400000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18583910000,
+                            38.70772320000
+                        ],
+                        [
+                            -9.18583710000,
+                            38.70771350000
+                        ],
+                        [
+                            -9.18570780000,
+                            38.70773000000
+                        ],
+                        [
+                            -9.18570990000,
+                            38.70773960000
+                        ],
+                        [
+                            -9.18583910000,
+                            38.70772320000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18573470000,
+                            38.70785430000
+                        ],
+                        [
+                            -9.18573640000,
+                            38.70786400000
+                        ],
+                        [
+                            -9.18579400000,
+                            38.70785790000
+                        ],
+                        [
+                            -9.18579230000,
+                            38.70784820000
+                        ],
+                        [
+                            -9.18573470000,
+                            38.70785430000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18811640000,
+                            38.73169320000
+                        ],
+                        [
+                            -9.18805270000,
+                            38.73169470000
+                        ],
+                        [
+                            -9.18805210000,
+                            38.73167790000
+                        ],
+                        [
+                            -9.18811580000,
+                            38.73167650000
+                        ],
+                        [
+                            -9.18811640000,
+                            38.73169320000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16027230000,
+                            38.74647600000
+                        ],
+                        [
+                            -9.16027570000,
+                            38.74639240000
+                        ],
+                        [
+                            -9.15984070000,
+                            38.74638160000
+                        ],
+                        [
+                            -9.15983960000,
+                            38.74640980000
+                        ],
+                        [
+                            -9.15949340000,
+                            38.74640120000
+                        ],
+                        [
+                            -9.15950410000,
+                            38.74641710000
+                        ],
+                        [
+                            -9.15946110000,
+                            38.74641610000
+                        ],
+                        [
+                            -9.15945940000,
+                            38.74645580000
+                        ],
+                        [
+                            -9.16027230000,
+                            38.74647600000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18555450000,
+                            38.70760450000
+                        ],
+                        [
+                            -9.18555680000,
+                            38.70757890000
+                        ],
+                        [
+                            -9.18562200000,
+                            38.70758250000
+                        ],
+                        [
+                            -9.18562100000,
+                            38.70759350000
+                        ],
+                        [
+                            -9.18563420000,
+                            38.70759430000
+                        ],
+                        [
+                            -9.18563290000,
+                            38.70760880000
+                        ],
+                        [
+                            -9.18555450000,
+                            38.70760450000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16026910000,
+                            38.74659620000
+                        ],
+                        [
+                            -9.15911250000,
+                            38.74659200000
+                        ],
+                        [
+                            -9.15911790000,
+                            38.74651420000
+                        ],
+                        [
+                            -9.16027120000,
+                            38.74652010000
+                        ],
+                        [
+                            -9.16026910000,
+                            38.74659620000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14928170000,
+                            38.71184710000
+                        ],
+                        [
+                            -9.14927440000,
+                            38.71183230000
+                        ],
+                        [
+                            -9.14907940000,
+                            38.71189130000
+                        ],
+                        [
+                            -9.14908670000,
+                            38.71190600000
+                        ],
+                        [
+                            -9.14928170000,
+                            38.71184710000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15661260000,
+                            38.75611920000
+                        ],
+                        [
+                            -9.15659840000,
+                            38.75609040000
+                        ],
+                        [
+                            -9.15656480000,
+                            38.75610050000
+                        ],
+                        [
+                            -9.15657900000,
+                            38.75612930000
+                        ],
+                        [
+                            -9.15661260000,
+                            38.75611920000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18503880000,
+                            38.70757020000
+                        ],
+                        [
+                            -9.18504110000,
+                            38.70754460000
+                        ],
+                        [
+                            -9.18497590000,
+                            38.70754090000
+                        ],
+                        [
+                            -9.18497490000,
+                            38.70755200000
+                        ],
+                        [
+                            -9.18496170000,
+                            38.70755130000
+                        ],
+                        [
+                            -9.18496040000,
+                            38.70756580000
+                        ],
+                        [
+                            -9.18503880000,
+                            38.70757020000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09423060000,
+                            38.78787760000
+                        ],
+                        [
+                            -9.09423100000,
+                            38.78782940000
+                        ],
+                        [
+                            -9.09375580000,
+                            38.78782700000
+                        ],
+                        [
+                            -9.09375540000,
+                            38.78787510000
+                        ],
+                        [
+                            -9.09423060000,
+                            38.78787760000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16056310000,
+                            38.74709240000
+                        ],
+                        [
+                            -9.16056480000,
+                            38.74700690000
+                        ],
+                        [
+                            -9.16012780000,
+                            38.74700150000
+                        ],
+                        [
+                            -9.16012610000,
+                            38.74708710000
+                        ],
+                        [
+                            -9.16056310000,
+                            38.74709240000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18546070000,
+                            38.70753650000
+                        ],
+                        [
+                            -9.18560580000,
+                            38.70754280000
+                        ],
+                        [
+                            -9.18560720000,
+                            38.70752330000
+                        ],
+                        [
+                            -9.18559220000,
+                            38.70752270000
+                        ],
+                        [
+                            -9.18559290000,
+                            38.70751340000
+                        ],
+                        [
+                            -9.18548050000,
+                            38.70750850000
+                        ],
+                        [
+                            -9.18547930000,
+                            38.70752400000
+                        ],
+                        [
+                            -9.18546170000,
+                            38.70752320000
+                        ],
+                        [
+                            -9.18546070000,
+                            38.70753650000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590660000,
+                            38.70788610000
+                        ],
+                        [
+                            -9.18590640000,
+                            38.70789850000
+                        ],
+                        [
+                            -9.18597310000,
+                            38.70789920000
+                        ],
+                        [
+                            -9.18597330000,
+                            38.70788680000
+                        ],
+                        [
+                            -9.18590660000,
+                            38.70788610000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18572210000,
+                            38.70779110000
+                        ],
+                        [
+                            -9.18572380000,
+                            38.70780080000
+                        ],
+                        [
+                            -9.18578130000,
+                            38.70779470000
+                        ],
+                        [
+                            -9.18577970000,
+                            38.70778510000
+                        ],
+                        [
+                            -9.18572210000,
+                            38.70779110000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15653260000,
+                            38.75606920000
+                        ],
+                        [
+                            -9.15651840000,
+                            38.75604050000
+                        ],
+                        [
+                            -9.15648480000,
+                            38.75605060000
+                        ],
+                        [
+                            -9.15649900000,
+                            38.75607930000
+                        ],
+                        [
+                            -9.15653260000,
+                            38.75606920000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16344100000,
+                            38.74846020000
+                        ],
+                        [
+                            -9.16336060000,
+                            38.74849340000
+                        ],
+                        [
+                            -9.16305080000,
+                            38.74806630000
+                        ],
+                        [
+                            -9.16312360000,
+                            38.74803290000
+                        ],
+                        [
+                            -9.16344100000,
+                            38.74846020000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15895740000,
+                            38.71653160000
+                        ],
+                        [
+                            -9.15883620000,
+                            38.71652850000
+                        ],
+                        [
+                            -9.15883660000,
+                            38.71652020000
+                        ],
+                        [
+                            -9.15895780000,
+                            38.71652340000
+                        ],
+                        [
+                            -9.15895740000,
+                            38.71653160000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19937480000,
+                            38.70058060000
+                        ],
+                        [
+                            -9.19912260000,
+                            38.70056600000
+                        ],
+                        [
+                            -9.19912430000,
+                            38.70054850000
+                        ],
+                        [
+                            -9.19937640000,
+                            38.70056310000
+                        ],
+                        [
+                            -9.19937480000,
+                            38.70058060000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "3 mts high",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18519950000,
+                            38.70728460000
+                        ],
+                        [
+                            -9.18452500000,
+                            38.70719130000
+                        ],
+                        [
+                            -9.18454150000,
+                            38.70711880000
+                        ],
+                        [
+                            -9.18521600000,
+                            38.70721220000
+                        ],
+                        [
+                            -9.18519950000,
+                            38.70728460000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18590890000,
+                            38.70801120000
+                        ],
+                        [
+                            -9.18590870000,
+                            38.70802360000
+                        ],
+                        [
+                            -9.18597550000,
+                            38.70802430000
+                        ],
+                        [
+                            -9.18597570000,
+                            38.70801190000
+                        ],
+                        [
+                            -9.18590890000,
+                            38.70801120000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15887090000,
+                            38.71664480000
+                        ],
+                        [
+                            -9.15874970000,
+                            38.71664170000
+                        ],
+                        [
+                            -9.15875000000,
+                            38.71663340000
+                        ],
+                        [
+                            -9.15887120000,
+                            38.71663650000
+                        ],
+                        [
+                            -9.15887090000,
+                            38.71664480000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16143610000,
+                            38.74740100000
+                        ],
+                        [
+                            -9.16069640000,
+                            38.74739230000
+                        ],
+                        [
+                            -9.16069920000,
+                            38.74743310000
+                        ],
+                        [
+                            -9.16143610000,
+                            38.74744040000
+                        ],
+                        [
+                            -9.16143610000,
+                            38.74740100000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "2",
+                "operator": "DEGGE/IDL-FCUL",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15655960000,
+                            38.75621060000
+                        ],
+                        [
+                            -9.15650360000,
+                            38.75610110000
+                        ],
+                        [
+                            -9.15612450000,
+                            38.75621900000
+                        ],
+                        [
+                            -9.15618050000,
+                            38.75632850000
+                        ],
+                        [
+                            -9.15655960000,
+                            38.75621060000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16299440000,
+                            38.74817600000
+                        ],
+                        [
+                            -9.16292360000,
+                            38.74817420000
+                        ],
+                        [
+                            -9.16295010000,
+                            38.74754670000
+                        ],
+                        [
+                            -9.16302070000,
+                            38.74754850000
+                        ],
+                        [
+                            -9.16299440000,
+                            38.74817600000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15112790000,
+                            38.75266750000
+                        ],
+                        [
+                            -9.15098130000,
+                            38.75269400000
+                        ],
+                        [
+                            -9.15097700000,
+                            38.75267950000
+                        ],
+                        [
+                            -9.15112360000,
+                            38.75265300000
+                        ],
+                        [
+                            -9.15112790000,
+                            38.75266750000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "layer": "1",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16360560000,
+                            38.74844910000
+                        ],
+                        [
+                            -9.16352320000,
+                            38.74847750000
+                        ],
+                        [
+                            -9.16304880000,
+                            38.74783330000
+                        ],
+                        [
+                            -9.16312770000,
+                            38.74779980000
+                        ],
+                        [
+                            -9.16360560000,
+                            38.74844910000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "roof",
+                "generator:method": "photovoltaic",
+                "generator:output:electricity": "yes",
+                "generator:source": "solar",
+                "generator:type": "solar_photovoltaic_panel",
+                "location": "roof",
+                "power": "generator"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16057100000,
+                            38.74721310000
+                        ],
+                        [
+                            -9.16057270000,
+                            38.74712750000
+                        ],
+                        [
+                            -9.16013570000,
+                            38.74712220000
+                        ],
+                        [
+                            -9.16013400000,
+                            38.74720780000
+                        ],
+                        [
+                            -9.16057100000,
+                            38.74721310000
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

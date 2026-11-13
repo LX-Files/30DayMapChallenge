@@ -1,0 +1,4569 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação Gago Coutinho",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5900100",
+                "ref_name": "Gago Coutinho",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.13019150000,
+                            38.74971520000
+                        ],
+                        [
+                            -9.13012400000,
+                            38.74966070000
+                        ],
+                        [
+                            -9.12979470000,
+                            38.74964170000
+                        ],
+                        [
+                            -9.12976520000,
+                            38.74995070000
+                        ],
+                        [
+                            -9.13016940000,
+                            38.74997650000
+                        ],
+                        [
+                            -9.13019150000,
+                            38.74971520000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "building:colour": "white",
+                "power": "substation",
+                "roof:shape": "flat"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12229840000,
+                            38.72569950000
+                        ],
+                        [
+                            -9.12226090000,
+                            38.72571240000
+                        ],
+                        [
+                            -9.12222510000,
+                            38.72564880000
+                        ],
+                        [
+                            -9.12226260000,
+                            38.72563590000
+                        ],
+                        [
+                            -9.12229840000,
+                            38.72569950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16081670000,
+                            38.77532510000
+                        ],
+                        [
+                            -9.16084880000,
+                            38.77529640000
+                        ],
+                        [
+                            -9.16081840000,
+                            38.77527590000
+                        ],
+                        [
+                            -9.16078640000,
+                            38.77530460000
+                        ],
+                        [
+                            -9.16081670000,
+                            38.77532510000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "power": "substation"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17128260000,
+                            38.71705370000
+                        ],
+                        [
+                            -9.17126790000,
+                            38.71708380000
+                        ],
+                        [
+                            -9.17123100000,
+                            38.71707120000
+                        ],
+                        [
+                            -9.17125340000,
+                            38.71702620000
+                        ],
+                        [
+                            -9.17128260000,
+                            38.71705370000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16283140000,
+                            38.78287530000
+                        ],
+                        [
+                            -9.16285110000,
+                            38.78290420000
+                        ],
+                        [
+                            -9.16276570000,
+                            38.78293970000
+                        ],
+                        [
+                            -9.16274590000,
+                            38.78291090000
+                        ],
+                        [
+                            -9.16283140000,
+                            38.78287530000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação Alto do Lumiar",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5815000",
+                "ref_name": "Alto do Lumiar",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15363750000,
+                            38.77802720000
+                        ],
+                        [
+                            -9.15332110000,
+                            38.77823520000
+                        ],
+                        [
+                            -9.15331980000,
+                            38.77826270000
+                        ],
+                        [
+                            -9.15341290000,
+                            38.77834860000
+                        ],
+                        [
+                            -9.15343450000,
+                            38.77835910000
+                        ],
+                        [
+                            -9.15346600000,
+                            38.77836980000
+                        ],
+                        [
+                            -9.15367550000,
+                            38.77842230000
+                        ],
+                        [
+                            -9.15370680000,
+                            38.77834330000
+                        ],
+                        [
+                            -9.15376710000,
+                            38.77831650000
+                        ],
+                        [
+                            -9.15375240000,
+                            38.77813510000
+                        ],
+                        [
+                            -9.15363750000,
+                            38.77802720000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18823590000,
+                            38.78233800000
+                        ],
+                        [
+                            -9.18825980000,
+                            38.78229790000
+                        ],
+                        [
+                            -9.18831310000,
+                            38.78231730000
+                        ],
+                        [
+                            -9.18828920000,
+                            38.78235740000
+                        ],
+                        [
+                            -9.18823590000,
+                            38.78233800000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "transition",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18792880000,
+                            38.76897050000
+                        ],
+                        [
+                            -9.18793340000,
+                            38.76890980000
+                        ],
+                        [
+                            -9.18775040000,
+                            38.76890130000
+                        ],
+                        [
+                            -9.18774580000,
+                            38.76896200000
+                        ],
+                        [
+                            -9.18792880000,
+                            38.76897050000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "outdoor",
+                "name": "Posto de Seccionamento da Pontinha",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "PSPH",
+                "ref_name": "Pontinha",
+                "start_date": "2004",
+                "substation": "switching",
+                "voltage": "220000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.20298170000,
+                            38.77106280000
+                        ],
+                        [
+                            -9.20305390000,
+                            38.77136380000
+                        ],
+                        [
+                            -9.20299790000,
+                            38.77142790000
+                        ],
+                        [
+                            -9.20253440000,
+                            38.77149650000
+                        ],
+                        [
+                            -9.20245290000,
+                            38.77145270000
+                        ],
+                        [
+                            -9.20243160000,
+                            38.77135950000
+                        ],
+                        [
+                            -9.20235530000,
+                            38.77137120000
+                        ],
+                        [
+                            -9.20232450000,
+                            38.77137640000
+                        ],
+                        [
+                            -9.20228330000,
+                            38.77122560000
+                        ],
+                        [
+                            -9.20216700000,
+                            38.77124180000
+                        ],
+                        [
+                            -9.20215060000,
+                            38.77119150000
+                        ],
+                        [
+                            -9.20237940000,
+                            38.77115140000
+                        ],
+                        [
+                            -9.20298170000,
+                            38.77106280000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fixme": "Não sei a posição desta subestação, mas deve ser perto do cruzamento entre a Av. dos Condes de Carnide e a Av. do Colégio Militar, do lado do Colombo, e liga-se à linha elétrica subterrânea que passa na Av. do Colégio Militar",
+                "name": "Subestação do Colombo",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5728000",
+                "ref_name": "Colombo",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.18623200000,
+                    38.75556100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09311750000,
+                            38.79579040000
+                        ],
+                        [
+                            -9.09312240000,
+                            38.79574960000
+                        ],
+                        [
+                            -9.09304190000,
+                            38.79574360000
+                        ],
+                        [
+                            -9.09303690000,
+                            38.79578440000
+                        ],
+                        [
+                            -9.09311750000,
+                            38.79579040000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "building:levels": "1",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17925260000,
+                            38.76680910000
+                        ],
+                        [
+                            -9.17919930000,
+                            38.76676640000
+                        ],
+                        [
+                            -9.17921950000,
+                            38.76675150000
+                        ],
+                        [
+                            -9.17927180000,
+                            38.76679500000
+                        ],
+                        [
+                            -9.17925260000,
+                            38.76680910000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "wall",
+                "operator": "Infraestruturas de Portugal",
+                "operator:short": "IP",
+                "operator:wikidata": "Q20730106",
+                "operator:wikipedia": "pt:Infraestruturas de Portugal",
+                "power": "substation",
+                "substation": "traction"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16948290000,
+                            38.73577500000
+                        ],
+                        [
+                            -9.16931520000,
+                            38.73549770000
+                        ],
+                        [
+                            -9.16940780000,
+                            38.73545750000
+                        ],
+                        [
+                            -9.16975510000,
+                            38.73567140000
+                        ],
+                        [
+                            -9.16948290000,
+                            38.73577500000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "name": "Subestação da Reboleira",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1115S5480500",
+                "ref_name": "Reboleira",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.23250340000,
+                            38.75251870000
+                        ],
+                        [
+                            -9.23250070000,
+                            38.75234870000
+                        ],
+                        [
+                            -9.23218160000,
+                            38.75235180000
+                        ],
+                        [
+                            -9.23218430000,
+                            38.75252170000
+                        ],
+                        [
+                            -9.23250340000,
+                            38.75251870000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação da Marvila",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5902900",
+                "ref_name": "Marvila",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10306840000,
+                            38.74384420000
+                        ],
+                        [
+                            -9.10341550000,
+                            38.74398490000
+                        ],
+                        [
+                            -9.10342250000,
+                            38.74397430000
+                        ],
+                        [
+                            -9.10343660000,
+                            38.74398000000
+                        ],
+                        [
+                            -9.10367890000,
+                            38.74363660000
+                        ],
+                        [
+                            -9.10375740000,
+                            38.74351060000
+                        ],
+                        [
+                            -9.10365280000,
+                            38.74337400000
+                        ],
+                        [
+                            -9.10331680000,
+                            38.74348700000
+                        ],
+                        [
+                            -9.10306840000,
+                            38.74384420000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "alt_name": "Subestação Alto da Mira",
+                "barrier": "fence",
+                "frequency": "50",
+                "location": "outdoor",
+                "name": "Subestação Alto de Mira",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SAM",
+                "ref_name": "Alto de Mira",
+                "start_date": "1963",
+                "substation": "transmission",
+                "voltage": "400000;220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.23751680000,
+                            38.77759420000
+                        ],
+                        [
+                            -9.23724570000,
+                            38.77768910000
+                        ],
+                        [
+                            -9.23732210000,
+                            38.77782190000
+                        ],
+                        [
+                            -9.23724350000,
+                            38.77784950000
+                        ],
+                        [
+                            -9.23738380000,
+                            38.77809310000
+                        ],
+                        [
+                            -9.23727250000,
+                            38.77812910000
+                        ],
+                        [
+                            -9.23704480000,
+                            38.77820410000
+                        ],
+                        [
+                            -9.23709840000,
+                            38.77830320000
+                        ],
+                        [
+                            -9.23725670000,
+                            38.77825100000
+                        ],
+                        [
+                            -9.23729430000,
+                            38.77832440000
+                        ],
+                        [
+                            -9.23735670000,
+                            38.77844140000
+                        ],
+                        [
+                            -9.23744360000,
+                            38.77859490000
+                        ],
+                        [
+                            -9.23747080000,
+                            38.77864300000
+                        ],
+                        [
+                            -9.23751760000,
+                            38.77862040000
+                        ],
+                        [
+                            -9.23756210000,
+                            38.77864060000
+                        ],
+                        [
+                            -9.23796800000,
+                            38.77940390000
+                        ],
+                        [
+                            -9.23797210000,
+                            38.77941160000
+                        ],
+                        [
+                            -9.23816240000,
+                            38.77935380000
+                        ],
+                        [
+                            -9.23800980000,
+                            38.77907990000
+                        ],
+                        [
+                            -9.23854810000,
+                            38.77889450000
+                        ],
+                        [
+                            -9.23858970000,
+                            38.77888040000
+                        ],
+                        [
+                            -9.23868330000,
+                            38.77884770000
+                        ],
+                        [
+                            -9.23886390000,
+                            38.77918270000
+                        ],
+                        [
+                            -9.24064040000,
+                            38.77858310000
+                        ],
+                        [
+                            -9.24068620000,
+                            38.77850920000
+                        ],
+                        [
+                            -9.23968040000,
+                            38.77664230000
+                        ],
+                        [
+                            -9.23740560000,
+                            38.77736780000
+                        ],
+                        [
+                            -9.23751680000,
+                            38.77759420000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "outdoor",
+                "name": "Subestação de Sacavém",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SSV",
+                "ref_name": "Sacavém",
+                "start_date": "1951",
+                "substation": "transmission",
+                "voltage": "220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10416130000,
+                            38.78507650000
+                        ],
+                        [
+                            -9.10390720000,
+                            38.78578700000
+                        ],
+                        [
+                            -9.10388530000,
+                            38.78581330000
+                        ],
+                        [
+                            -9.10385580000,
+                            38.78583460000
+                        ],
+                        [
+                            -9.10381520000,
+                            38.78584870000
+                        ],
+                        [
+                            -9.10383320000,
+                            38.78595640000
+                        ],
+                        [
+                            -9.10344790000,
+                            38.78599380000
+                        ],
+                        [
+                            -9.10257800000,
+                            38.78606940000
+                        ],
+                        [
+                            -9.10256230000,
+                            38.78607070000
+                        ],
+                        [
+                            -9.10252710000,
+                            38.78579240000
+                        ],
+                        [
+                            -9.10255550000,
+                            38.78579030000
+                        ],
+                        [
+                            -9.10239780000,
+                            38.78468040000
+                        ],
+                        [
+                            -9.10244290000,
+                            38.78467640000
+                        ],
+                        [
+                            -9.10309530000,
+                            38.78461840000
+                        ],
+                        [
+                            -9.10323200000,
+                            38.78460590000
+                        ],
+                        [
+                            -9.10326850000,
+                            38.78484840000
+                        ],
+                        [
+                            -9.10333770000,
+                            38.78484170000
+                        ],
+                        [
+                            -9.10348970000,
+                            38.78482700000
+                        ],
+                        [
+                            -9.10358540000,
+                            38.78481770000
+                        ],
+                        [
+                            -9.10368980000,
+                            38.78480810000
+                        ],
+                        [
+                            -9.10370730000,
+                            38.78492380000
+                        ],
+                        [
+                            -9.10376430000,
+                            38.78492020000
+                        ],
+                        [
+                            -9.10379300000,
+                            38.78510800000
+                        ],
+                        [
+                            -9.10383380000,
+                            38.78510460000
+                        ],
+                        [
+                            -9.10416130000,
+                            38.78507650000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "construction": "industrial",
+                "landuse": "construction",
+                "name": "Subestação de Tração de Sete Rios",
+                "operator": "Infraestruturas de Portugal",
+                "operator:short": "IP",
+                "operator:wikidata": "Q20730106",
+                "operator:wikipedia": "pt:Infraestruturas de Portugal",
+                "power": "substation",
+                "substation": "traction",
+                "voltage": "25000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17076450000,
+                            38.73854840000
+                        ],
+                        [
+                            -9.17064190000,
+                            38.73855360000
+                        ],
+                        [
+                            -9.17050900000,
+                            38.73856460000
+                        ],
+                        [
+                            -9.17035820000,
+                            38.73858470000
+                        ],
+                        [
+                            -9.17018050000,
+                            38.73861420000
+                        ],
+                        [
+                            -9.17001070000,
+                            38.73864730000
+                        ],
+                        [
+                            -9.16985630000,
+                            38.73868120000
+                        ],
+                        [
+                            -9.16968590000,
+                            38.73872190000
+                        ],
+                        [
+                            -9.16949300000,
+                            38.73877570000
+                        ],
+                        [
+                            -9.16932050000,
+                            38.73883470000
+                        ],
+                        [
+                            -9.16909000000,
+                            38.73895190000
+                        ],
+                        [
+                            -9.16890060000,
+                            38.73900770000
+                        ],
+                        [
+                            -9.16881330000,
+                            38.73898390000
+                        ],
+                        [
+                            -9.16912810000,
+                            38.73865040000
+                        ],
+                        [
+                            -9.16920160000,
+                            38.73852290000
+                        ],
+                        [
+                            -9.16931470000,
+                            38.73836180000
+                        ],
+                        [
+                            -9.16936960000,
+                            38.73827390000
+                        ],
+                        [
+                            -9.16942400000,
+                            38.73818640000
+                        ],
+                        [
+                            -9.16945750000,
+                            38.73810770000
+                        ],
+                        [
+                            -9.16950640000,
+                            38.73802830000
+                        ],
+                        [
+                            -9.16958080000,
+                            38.73783550000
+                        ],
+                        [
+                            -9.16968510000,
+                            38.73777720000
+                        ],
+                        [
+                            -9.16985340000,
+                            38.73790920000
+                        ],
+                        [
+                            -9.16999690000,
+                            38.73798400000
+                        ],
+                        [
+                            -9.17017260000,
+                            38.73813310000
+                        ],
+                        [
+                            -9.17035720000,
+                            38.73827140000
+                        ],
+                        [
+                            -9.17054050000,
+                            38.73836030000
+                        ],
+                        [
+                            -9.17064270000,
+                            38.73841810000
+                        ],
+                        [
+                            -9.17079220000,
+                            38.73850960000
+                        ],
+                        [
+                            -9.17076450000,
+                            38.73854840000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "layer": "-1",
+                "location": "underground",
+                "name": "Subestação do Metropolitano de Lisboa no Oriente",
+                "operator": "Metropolitano de Lisboa",
+                "power": "substation",
+                "ref_name": "Metro",
+                "substation": "industrial",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.09994170000,
+                    38.76879690000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17241410000,
+                            38.74183790000
+                        ],
+                        [
+                            -9.17240130000,
+                            38.74192560000
+                        ],
+                        [
+                            -9.17245650000,
+                            38.74193050000
+                        ],
+                        [
+                            -9.17246930000,
+                            38.74184280000
+                        ],
+                        [
+                            -9.17241410000,
+                            38.74183790000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação Vale Escuro",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5140000",
+                "ref_name": "Vale Escuro",
+                "roof:shape": "flat",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12816680000,
+                            38.72749890000
+                        ],
+                        [
+                            -9.12814500000,
+                            38.72772520000
+                        ],
+                        [
+                            -9.12804390000,
+                            38.72771890000
+                        ],
+                        [
+                            -9.12806680000,
+                            38.72749270000
+                        ],
+                        [
+                            -9.12816680000,
+                            38.72749890000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "height": "8",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19714320000,
+                            38.74452670000
+                        ],
+                        [
+                            -9.19714660000,
+                            38.74449080000
+                        ],
+                        [
+                            -9.19704890000,
+                            38.74448520000
+                        ],
+                        [
+                            -9.19704550000,
+                            38.74452100000
+                        ],
+                        [
+                            -9.19714320000,
+                            38.74452670000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "name": "Subestação de Moscavide",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1107S5097500",
+                "ref_name": "Moscavide",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;30000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10495700000,
+                            38.78426370000
+                        ],
+                        [
+                            -9.10495230000,
+                            38.78411110000
+                        ],
+                        [
+                            -9.10489710000,
+                            38.78411210000
+                        ],
+                        [
+                            -9.10489480000,
+                            38.78403940000
+                        ],
+                        [
+                            -9.10480970000,
+                            38.78404110000
+                        ],
+                        [
+                            -9.10480720000,
+                            38.78395970000
+                        ],
+                        [
+                            -9.10464080000,
+                            38.78396290000
+                        ],
+                        [
+                            -9.10465690000,
+                            38.78447960000
+                        ],
+                        [
+                            -9.10490660000,
+                            38.78447480000
+                        ],
+                        [
+                            -9.10490010000,
+                            38.78426480000
+                        ],
+                        [
+                            -9.10495700000,
+                            38.78426370000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landuse": "industrial",
+                "name": "Subestação de São Ciro",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5045000",
+                "ref_name": "São Ciro",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16194680000,
+                            38.71234480000
+                        ],
+                        [
+                            -9.16210020000,
+                            38.71245480000
+                        ],
+                        [
+                            -9.16201040000,
+                            38.71250980000
+                        ],
+                        [
+                            -9.16177650000,
+                            38.71235100000
+                        ],
+                        [
+                            -9.16160540000,
+                            38.71223490000
+                        ],
+                        [
+                            -9.16162820000,
+                            38.71221500000
+                        ],
+                        [
+                            -9.16168410000,
+                            38.71216620000
+                        ],
+                        [
+                            -9.16194680000,
+                            38.71234480000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19512150000,
+                            38.75983550000
+                        ],
+                        [
+                            -9.19513660000,
+                            38.75981450000
+                        ],
+                        [
+                            -9.19507270000,
+                            38.75978640000
+                        ],
+                        [
+                            -9.19505750000,
+                            38.75980730000
+                        ],
+                        [
+                            -9.19512150000,
+                            38.75983550000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "landuse": "industrial",
+                "location": "outdoor",
+                "name": "Subestação Central Tejo",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5025800",
+                "ref_name": "Central Tejo",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19454140000,
+                            38.69576690000
+                        ],
+                        [
+                            -9.19442440000,
+                            38.69577150000
+                        ],
+                        [
+                            -9.19440160000,
+                            38.69579460000
+                        ],
+                        [
+                            -9.19441370000,
+                            38.69593280000
+                        ],
+                        [
+                            -9.19445490000,
+                            38.69597180000
+                        ],
+                        [
+                            -9.19455420000,
+                            38.69596800000
+                        ],
+                        [
+                            -9.19454140000,
+                            38.69576690000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Subestação de Miraflores",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1110S5270000",
+                "ref_name": "Miraflores",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.23110060000,
+                            38.71114360000
+                        ],
+                        [
+                            -9.23146200000,
+                            38.71093640000
+                        ],
+                        [
+                            -9.23134340000,
+                            38.71069770000
+                        ],
+                        [
+                            -9.23100130000,
+                            38.71067230000
+                        ],
+                        [
+                            -9.23086600000,
+                            38.71066220000
+                        ],
+                        [
+                            -9.23081700000,
+                            38.71086940000
+                        ],
+                        [
+                            -9.23091490000,
+                            38.71099290000
+                        ],
+                        [
+                            -9.23095910000,
+                            38.71099390000
+                        ],
+                        [
+                            -9.23110060000,
+                            38.71114360000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Subestação da Autoridade Portuária de Lisboa (Santa Apolónia)",
+                "operator": "Autoridade Portuária de Lisboa",
+                "power": "substation",
+                "ref_name": "APL (Santa Apolónia)",
+                "substation": "industrial",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.12599620000,
+                    38.71037860000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Posto de Seccionamento de Palhavã",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106P5470000",
+                "ref_name": "PS Palhavã",
+                "substation": "switching",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.17004220000,
+                            38.73918860000
+                        ],
+                        [
+                            -9.16988440000,
+                            38.73922600000
+                        ],
+                        [
+                            -9.16990760000,
+                            38.73928440000
+                        ],
+                        [
+                            -9.16995980000,
+                            38.73941160000
+                        ],
+                        [
+                            -9.17060890000,
+                            38.73924940000
+                        ],
+                        [
+                            -9.17070370000,
+                            38.73922560000
+                        ],
+                        [
+                            -9.17074100000,
+                            38.73921630000
+                        ],
+                        [
+                            -9.17077850000,
+                            38.73920690000
+                        ],
+                        [
+                            -9.17075550000,
+                            38.73915140000
+                        ],
+                        [
+                            -9.17070290000,
+                            38.73902460000
+                        ],
+                        [
+                            -9.17050680000,
+                            38.73907170000
+                        ],
+                        [
+                            -9.17050280000,
+                            38.73906150000
+                        ],
+                        [
+                            -9.17034330000,
+                            38.73909940000
+                        ],
+                        [
+                            -9.17018960000,
+                            38.73913590000
+                        ],
+                        [
+                            -9.17003590000,
+                            38.73917240000
+                        ],
+                        [
+                            -9.17004220000,
+                            38.73918860000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "1",
+                "addr:street": "Avenida Professor Gama Pinto",
+                "barrier": "fence",
+                "landuse": "industrial",
+                "name": "Subestação Norte",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5099600",
+                "ref_name": "Norte",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15713370000,
+                            38.74740830000
+                        ],
+                        [
+                            -9.15766820000,
+                            38.74723790000
+                        ],
+                        [
+                            -9.15788930000,
+                            38.74766000000
+                        ],
+                        [
+                            -9.15735480000,
+                            38.74783030000
+                        ],
+                        [
+                            -9.15713370000,
+                            38.74740830000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação de Santa Marta",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5064000",
+                "ref_name": "Santa Marta",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14626640000,
+                            38.72366850000
+                        ],
+                        [
+                            -9.14630790000,
+                            38.72379950000
+                        ],
+                        [
+                            -9.14634350000,
+                            38.72390570000
+                        ],
+                        [
+                            -9.14635960000,
+                            38.72393870000
+                        ],
+                        [
+                            -9.14673670000,
+                            38.72373240000
+                        ],
+                        [
+                            -9.14672010000,
+                            38.72370330000
+                        ],
+                        [
+                            -9.14666410000,
+                            38.72360550000
+                        ],
+                        [
+                            -9.14635120000,
+                            38.72365510000
+                        ],
+                        [
+                            -9.14626640000,
+                            38.72366850000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação Arco do Carvalhão",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5716600",
+                "ref_name": "Arco Carvalhão",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16652950000,
+                            38.72276170000
+                        ],
+                        [
+                            -9.16640020000,
+                            38.72271050000
+                        ],
+                        [
+                            -9.16647570000,
+                            38.72259450000
+                        ],
+                        [
+                            -9.16645380000,
+                            38.72258590000
+                        ],
+                        [
+                            -9.16658760000,
+                            38.72238030000
+                        ],
+                        [
+                            -9.16669900000,
+                            38.72242450000
+                        ],
+                        [
+                            -9.16668770000,
+                            38.72244180000
+                        ],
+                        [
+                            -9.16670720000,
+                            38.72244960000
+                        ],
+                        [
+                            -9.16667590000,
+                            38.72249770000
+                        ],
+                        [
+                            -9.16665740000,
+                            38.72249030000
+                        ],
+                        [
+                            -9.16663800000,
+                            38.72252010000
+                        ],
+                        [
+                            -9.16665810000,
+                            38.72252800000
+                        ],
+                        [
+                            -9.16662650000,
+                            38.72257660000
+                        ],
+                        [
+                            -9.16664520000,
+                            38.72258390000
+                        ],
+                        [
+                            -9.16652950000,
+                            38.72276170000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.20793920000,
+                            38.70806370000
+                        ],
+                        [
+                            -9.20790620000,
+                            38.70808580000
+                        ],
+                        [
+                            -9.20792450000,
+                            38.70810240000
+                        ],
+                        [
+                            -9.20795750000,
+                            38.70808040000
+                        ],
+                        [
+                            -9.20793920000,
+                            38.70806370000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "name": "Subestação do Parque Eduardo VII",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5244000",
+                "ref_name": "Parque",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15175780000,
+                            38.73001550000
+                        ],
+                        [
+                            -9.15159710000,
+                            38.73010000000
+                        ],
+                        [
+                            -9.15136720000,
+                            38.72983380000
+                        ],
+                        [
+                            -9.15134650000,
+                            38.72984470000
+                        ],
+                        [
+                            -9.15127530000,
+                            38.72976220000
+                        ],
+                        [
+                            -9.15154710000,
+                            38.72961370000
+                        ],
+                        [
+                            -9.15162180000,
+                            38.72969930000
+                        ],
+                        [
+                            -9.15152750000,
+                            38.72974890000
+                        ],
+                        [
+                            -9.15175780000,
+                            38.73001550000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação de Sete Rios",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SSS",
+                "ref_name": "Sete Rios",
+                "start_date": "1999",
+                "substation": "transmission",
+                "voltage": "220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16979220000,
+                            38.73900370000
+                        ],
+                        [
+                            -9.16988440000,
+                            38.73922600000
+                        ],
+                        [
+                            -9.17004220000,
+                            38.73918860000
+                        ],
+                        [
+                            -9.17003590000,
+                            38.73917240000
+                        ],
+                        [
+                            -9.17018960000,
+                            38.73913590000
+                        ],
+                        [
+                            -9.17034330000,
+                            38.73909940000
+                        ],
+                        [
+                            -9.17050280000,
+                            38.73906150000
+                        ],
+                        [
+                            -9.17050680000,
+                            38.73907170000
+                        ],
+                        [
+                            -9.17070290000,
+                            38.73902460000
+                        ],
+                        [
+                            -9.17064460000,
+                            38.73888420000
+                        ],
+                        [
+                            -9.17043770000,
+                            38.73889470000
+                        ],
+                        [
+                            -9.17024660000,
+                            38.73891110000
+                        ],
+                        [
+                            -9.17001130000,
+                            38.73894830000
+                        ],
+                        [
+                            -9.16979220000,
+                            38.73900370000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "power": "substation"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12929100000,
+                            38.70915330000
+                        ],
+                        [
+                            -9.12930040000,
+                            38.70916290000
+                        ],
+                        [
+                            -9.12926400000,
+                            38.70918440000
+                        ],
+                        [
+                            -9.12925470000,
+                            38.70917470000
+                        ],
+                        [
+                            -9.12929100000,
+                            38.70915330000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "building:levels": "1",
+                "power": "substation",
+                "ref": "LSB-D-2434",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15746330000,
+                            38.76048560000
+                        ],
+                        [
+                            -9.15741480000,
+                            38.76050110000
+                        ],
+                        [
+                            -9.15740230000,
+                            38.76047720000
+                        ],
+                        [
+                            -9.15745080000,
+                            38.76046170000
+                        ],
+                        [
+                            -9.15746330000,
+                            38.76048560000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "name": "Subestação do Zambujal",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5183100",
+                "ref_name": "Zambujal",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21209780000,
+                            38.72093690000
+                        ],
+                        [
+                            -9.21235620000,
+                            38.72118190000
+                        ],
+                        [
+                            -9.21265570000,
+                            38.72103940000
+                        ],
+                        [
+                            -9.21301360000,
+                            38.72080570000
+                        ],
+                        [
+                            -9.21286500000,
+                            38.72066630000
+                        ],
+                        [
+                            -9.21276650000,
+                            38.72057650000
+                        ],
+                        [
+                            -9.21271690000,
+                            38.72053030000
+                        ],
+                        [
+                            -9.21261060000,
+                            38.72059980000
+                        ],
+                        [
+                            -9.21215010000,
+                            38.72090030000
+                        ],
+                        [
+                            -9.21209780000,
+                            38.72093690000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "layer": "-1",
+                "location": "underground",
+                "name": "Subestação Alameda",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5200300",
+                "ref_name": "Alameda",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.13630330000,
+                            38.73704730000
+                        ],
+                        [
+                            -9.13622330000,
+                            38.73705070000
+                        ],
+                        [
+                            -9.13621120000,
+                            38.73687830000
+                        ],
+                        [
+                            -9.13616100000,
+                            38.73688040000
+                        ],
+                        [
+                            -9.13616010000,
+                            38.73686760000
+                        ],
+                        [
+                            -9.13629020000,
+                            38.73686210000
+                        ],
+                        [
+                            -9.13630330000,
+                            38.73704730000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação do Casal de São Brás",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1115S5528500",
+                "ref_name": "Casal São Brás",
+                "substation": "distribution",
+                "voltage": "60000;10000",
+                "website": "https://e-redes-rede.wntech.com/Nut/18"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.22544490000,
+                            38.76881180000
+                        ],
+                        [
+                            -9.22536570000,
+                            38.76865290000
+                        ],
+                        [
+                            -9.22533980000,
+                            38.76860110000
+                        ],
+                        [
+                            -9.22495790000,
+                            38.76871680000
+                        ],
+                        [
+                            -9.22497380000,
+                            38.76875180000
+                        ],
+                        [
+                            -9.22506460000,
+                            38.76892760000
+                        ],
+                        [
+                            -9.22515970000,
+                            38.76889780000
+                        ],
+                        [
+                            -9.22521870000,
+                            38.76888040000
+                        ],
+                        [
+                            -9.22544490000,
+                            38.76881180000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": "substation"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10400180000,
+                            38.74403720000
+                        ],
+                        [
+                            -9.10392430000,
+                            38.74402650000
+                        ],
+                        [
+                            -9.10400120000,
+                            38.74383150000
+                        ],
+                        [
+                            -9.10403360000,
+                            38.74383960000
+                        ],
+                        [
+                            -9.10411860000,
+                            38.74386270000
+                        ],
+                        [
+                            -9.10400180000,
+                            38.74403720000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "landuse": "industrial",
+                "name": "Zona Neutra de Entrecampos",
+                "operator": "Infraestruturas de Portugal",
+                "operator:short": "IP",
+                "operator:wikidata": "Q20730106",
+                "operator:wikipedia": "pt:Infraestruturas de Portugal",
+                "power": "substation",
+                "substation": "traction"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14409180000,
+                            38.74527950000
+                        ],
+                        [
+                            -9.14408640000,
+                            38.74522890000
+                        ],
+                        [
+                            -9.14338490000,
+                            38.74527440000
+                        ],
+                        [
+                            -9.14339030000,
+                            38.74532500000
+                        ],
+                        [
+                            -9.14409180000,
+                            38.74527950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "name": "Subestação Aeroporto",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "rating": "80 MVA",
+                "ref": "1106S5275000",
+                "ref_name": "Aeroporto",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12554240000,
+                            38.77496880000
+                        ],
+                        [
+                            -9.12603610000,
+                            38.77488890000
+                        ],
+                        [
+                            -9.12609970000,
+                            38.77512750000
+                        ],
+                        [
+                            -9.12560600000,
+                            38.77520750000
+                        ],
+                        [
+                            -9.12554240000,
+                            38.77496880000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação da Venda Nova (Amadora)",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1115S5191000",
+                "ref_name": "Venda Nova (Amadora)",
+                "substation": "distribution",
+                "voltage": "60000;10000",
+                "website": "https://e-redes-rede.wntech.com/Nut/18"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21489610000,
+                            38.75299430000
+                        ],
+                        [
+                            -9.21513630000,
+                            38.75293210000
+                        ],
+                        [
+                            -9.21530420000,
+                            38.75288900000
+                        ],
+                        [
+                            -9.21531240000,
+                            38.75288690000
+                        ],
+                        [
+                            -9.21525640000,
+                            38.75275400000
+                        ],
+                        [
+                            -9.21523500000,
+                            38.75270340000
+                        ],
+                        [
+                            -9.21517350000,
+                            38.75255770000
+                        ],
+                        [
+                            -9.21499070000,
+                            38.75260830000
+                        ],
+                        [
+                            -9.21462480000,
+                            38.75270980000
+                        ],
+                        [
+                            -9.21430990000,
+                            38.75279700000
+                        ],
+                        [
+                            -9.21431300000,
+                            38.75280460000
+                        ],
+                        [
+                            -9.21439960000,
+                            38.75302210000
+                        ],
+                        [
+                            -9.21443500000,
+                            38.75311100000
+                        ],
+                        [
+                            -9.21464180000,
+                            38.75305870000
+                        ],
+                        [
+                            -9.21469270000,
+                            38.75304590000
+                        ],
+                        [
+                            -9.21489610000,
+                            38.75299430000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "fence_type": "chain_link",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "outdoor",
+                "name": "Posto de Corte de Carriche",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106P5397000",
+                "ref_name": "PS Carriche",
+                "substation": "switching",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16603890000,
+                            38.78106520000
+                        ],
+                        [
+                            -9.16604890000,
+                            38.78097440000
+                        ],
+                        [
+                            -9.16608970000,
+                            38.78060580000
+                        ],
+                        [
+                            -9.16617770000,
+                            38.77981070000
+                        ],
+                        [
+                            -9.16638690000,
+                            38.77982630000
+                        ],
+                        [
+                            -9.16649020000,
+                            38.77973590000
+                        ],
+                        [
+                            -9.16655190000,
+                            38.77973900000
+                        ],
+                        [
+                            -9.16658790000,
+                            38.77945710000
+                        ],
+                        [
+                            -9.16629200000,
+                            38.77947110000
+                        ],
+                        [
+                            -9.16597300000,
+                            38.77951630000
+                        ],
+                        [
+                            -9.16580960000,
+                            38.77952740000
+                        ],
+                        [
+                            -9.16576480000,
+                            38.77954310000
+                        ],
+                        [
+                            -9.16579390000,
+                            38.77958020000
+                        ],
+                        [
+                            -9.16586570000,
+                            38.77960770000
+                        ],
+                        [
+                            -9.16585990000,
+                            38.77967110000
+                        ],
+                        [
+                            -9.16583170000,
+                            38.77967470000
+                        ],
+                        [
+                            -9.16580660000,
+                            38.77968540000
+                        ],
+                        [
+                            -9.16578480000,
+                            38.77969410000
+                        ],
+                        [
+                            -9.16576740000,
+                            38.77970720000
+                        ],
+                        [
+                            -9.16575130000,
+                            38.77972020000
+                        ],
+                        [
+                            -9.16574360000,
+                            38.77974080000
+                        ],
+                        [
+                            -9.16567410000,
+                            38.78040870000
+                        ],
+                        [
+                            -9.16560800000,
+                            38.78104150000
+                        ],
+                        [
+                            -9.16586660000,
+                            38.78105540000
+                        ],
+                        [
+                            -9.16599470000,
+                            38.78106210000
+                        ],
+                        [
+                            -9.16603890000,
+                            38.78106520000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16932080000,
+                            38.72462540000
+                        ],
+                        [
+                            -9.16936510000,
+                            38.72461640000
+                        ],
+                        [
+                            -9.16938760000,
+                            38.72468400000
+                        ],
+                        [
+                            -9.16934330000,
+                            38.72469290000
+                        ],
+                        [
+                            -9.16932080000,
+                            38.72462540000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação da Venteira",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1115S5440000",
+                "ref_name": "Venteira",
+                "substation": "distribution",
+                "voltage": "60000;10000",
+                "website": "https://e-redes-rede.wntech.com/Nut/18"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.23584880000,
+                            38.74531620000
+                        ],
+                        [
+                            -9.23584650000,
+                            38.74511310000
+                        ],
+                        [
+                            -9.23584580000,
+                            38.74504890000
+                        ],
+                        [
+                            -9.23535380000,
+                            38.74505220000
+                        ],
+                        [
+                            -9.23535680000,
+                            38.74531950000
+                        ],
+                        [
+                            -9.23584880000,
+                            38.74531620000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "fence_type": "chain_link",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "outdoor",
+                "name": "Subestação de Carriche",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SCH",
+                "ref_name": "Carriche",
+                "start_date": "1983",
+                "substation": "transmission",
+                "voltage": "220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16689960000,
+                            38.78113740000
+                        ],
+                        [
+                            -9.16681190000,
+                            38.78113230000
+                        ],
+                        [
+                            -9.16679940000,
+                            38.78113160000
+                        ],
+                        [
+                            -9.16678790000,
+                            38.78113080000
+                        ],
+                        [
+                            -9.16653580000,
+                            38.78111270000
+                        ],
+                        [
+                            -9.16603740000,
+                            38.78108060000
+                        ],
+                        [
+                            -9.16603890000,
+                            38.78106520000
+                        ],
+                        [
+                            -9.16604890000,
+                            38.78097440000
+                        ],
+                        [
+                            -9.16608970000,
+                            38.78060580000
+                        ],
+                        [
+                            -9.16617770000,
+                            38.77981070000
+                        ],
+                        [
+                            -9.16638690000,
+                            38.77982630000
+                        ],
+                        [
+                            -9.16649020000,
+                            38.77973590000
+                        ],
+                        [
+                            -9.16655190000,
+                            38.77973900000
+                        ],
+                        [
+                            -9.16658790000,
+                            38.77945710000
+                        ],
+                        [
+                            -9.16668200000,
+                            38.77953710000
+                        ],
+                        [
+                            -9.16676850000,
+                            38.77953760000
+                        ],
+                        [
+                            -9.16679770000,
+                            38.77967870000
+                        ],
+                        [
+                            -9.16684710000,
+                            38.77967340000
+                        ],
+                        [
+                            -9.16685370000,
+                            38.77967240000
+                        ],
+                        [
+                            -9.16704080000,
+                            38.77977470000
+                        ],
+                        [
+                            -9.16689960000,
+                            38.78113740000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.14628780000,
+                    38.71282740000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "name": "Subestação do Alto de São João",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SASJ",
+                "ref_name": "Alto de São João",
+                "start_date": "2015",
+                "substation": "transmission",
+                "voltage": "220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12433060000,
+                            38.73174950000
+                        ],
+                        [
+                            -9.12441670000,
+                            38.73165780000
+                        ],
+                        [
+                            -9.12366990000,
+                            38.73123120000
+                        ],
+                        [
+                            -9.12328070000,
+                            38.73164580000
+                        ],
+                        [
+                            -9.12402750000,
+                            38.73207240000
+                        ],
+                        [
+                            -9.12410910000,
+                            38.73198540000
+                        ],
+                        [
+                            -9.12433060000,
+                            38.73174950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "building:levels": "1",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18922460000,
+                            38.79275590000
+                        ],
+                        [
+                            -9.18917970000,
+                            38.79274550000
+                        ],
+                        [
+                            -9.18917160000,
+                            38.79276680000
+                        ],
+                        [
+                            -9.18921660000,
+                            38.79277710000
+                        ],
+                        [
+                            -9.18922460000,
+                            38.79275590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "0",
+                "inscription": "Subestação de Belém",
+                "name": "Subestação de Tração de Belém",
+                "operator": "Infraestruturas de Portugal",
+                "operator:short": "IP",
+                "operator:wikidata": "Q20730106",
+                "operator:wikipedia": "pt:Infraestruturas de Portugal",
+                "power": "substation",
+                "substation": "traction",
+                "voltage": "1500"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19742970000,
+                            38.69626200000
+                        ],
+                        [
+                            -9.19743670000,
+                            38.69631660000
+                        ],
+                        [
+                            -9.19716650000,
+                            38.69633700000
+                        ],
+                        [
+                            -9.19716010000,
+                            38.69628750000
+                        ],
+                        [
+                            -9.19715960000,
+                            38.69628320000
+                        ],
+                        [
+                            -9.19742970000,
+                            38.69626200000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "name": "Posto de Seccionamento dos Olivais",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106PS906600",
+                "ref_name": "PS Olivais",
+                "substation": "switching",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12677610000,
+                            38.77762250000
+                        ],
+                        [
+                            -9.12669900000,
+                            38.77733700000
+                        ],
+                        [
+                            -9.12622290000,
+                            38.77742010000
+                        ],
+                        [
+                            -9.12630200000,
+                            38.77767110000
+                        ],
+                        [
+                            -9.12640460000,
+                            38.77762820000
+                        ],
+                        [
+                            -9.12648570000,
+                            38.77761570000
+                        ],
+                        [
+                            -9.12677610000,
+                            38.77762250000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "Subestação Expo Norte",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1107S5800800",
+                "ref_name": "Expo Norte",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09908170000,
+                            38.78564790000
+                        ],
+                        [
+                            -9.09903370000,
+                            38.78556790000
+                        ],
+                        [
+                            -9.09900900000,
+                            38.78557680000
+                        ],
+                        [
+                            -9.09894950000,
+                            38.78547760000
+                        ],
+                        [
+                            -9.09888900000,
+                            38.78549960000
+                        ],
+                        [
+                            -9.09885790000,
+                            38.78544790000
+                        ],
+                        [
+                            -9.09882260000,
+                            38.78546070000
+                        ],
+                        [
+                            -9.09885370000,
+                            38.78551250000
+                        ],
+                        [
+                            -9.09879370000,
+                            38.78553440000
+                        ],
+                        [
+                            -9.09885300000,
+                            38.78563320000
+                        ],
+                        [
+                            -9.09882820000,
+                            38.78564220000
+                        ],
+                        [
+                            -9.09887590000,
+                            38.78572230000
+                        ],
+                        [
+                            -9.09890000000,
+                            38.78571360000
+                        ],
+                        [
+                            -9.09891680000,
+                            38.78574170000
+                        ],
+                        [
+                            -9.09907300000,
+                            38.78568470000
+                        ],
+                        [
+                            -9.09905640000,
+                            38.78565710000
+                        ],
+                        [
+                            -9.09908170000,
+                            38.78564790000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "rating": "400 kVA",
+                "ref": "1106D1298200",
+                "substation": "minor_distribution",
+                "utility": "power",
+                "voltage": "10000;400"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21240370000,
+                            38.72106780000
+                        ],
+                        [
+                            -9.21238350000,
+                            38.72104800000
+                        ],
+                        [
+                            -9.21234350000,
+                            38.72107290000
+                        ],
+                        [
+                            -9.21236370000,
+                            38.72109270000
+                        ],
+                        [
+                            -9.21240370000,
+                            38.72106780000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "indoor",
+                "name": "Posto de Seccionamento do Zambujal",
+                "operator": "E-REDES",
+                "power": "substation",
+                "ref": "1106P5183100",
+                "ref_name": "PS Zambujal",
+                "substation": "switching"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21250910000,
+                            38.72095530000
+                        ],
+                        [
+                            -9.21267650000,
+                            38.72084720000
+                        ],
+                        [
+                            -9.21259040000,
+                            38.72076610000
+                        ],
+                        [
+                            -9.21242300000,
+                            38.72087420000
+                        ],
+                        [
+                            -9.21250910000,
+                            38.72095530000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "building:levels": "1",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.20394020000,
+                            38.75188850000
+                        ],
+                        [
+                            -9.20400960000,
+                            38.75190950000
+                        ],
+                        [
+                            -9.20399850000,
+                            38.75193190000
+                        ],
+                        [
+                            -9.20392910000,
+                            38.75191100000
+                        ],
+                        [
+                            -9.20394020000,
+                            38.75188850000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Subestação do Metropolitano de Lisboa em Calvanas",
+                "operator": "Metropolitano de Lisboa",
+                "power": "substation",
+                "ref_name": "Metro",
+                "substation": "industrial",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.15033730000,
+                    38.76164430000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "0",
+                "name": "Subestação de Tração do Cais do Sodré",
+                "operator": "Infraestruturas de Portugal",
+                "operator:short": "IP",
+                "operator:wikidata": "Q20730106",
+                "operator:wikipedia": "pt:Infraestruturas de Portugal",
+                "power": "substation",
+                "substation": "traction",
+                "voltage": "1500"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14613470000,
+                            38.70559620000
+                        ],
+                        [
+                            -9.14613500000,
+                            38.70558450000
+                        ],
+                        [
+                            -9.14608790000,
+                            38.70558390000
+                        ],
+                        [
+                            -9.14608900000,
+                            38.70552980000
+                        ],
+                        [
+                            -9.14613630000,
+                            38.70553040000
+                        ],
+                        [
+                            -9.14613650000,
+                            38.70552100000
+                        ],
+                        [
+                            -9.14642900000,
+                            38.70552520000
+                        ],
+                        [
+                            -9.14642720000,
+                            38.70560050000
+                        ],
+                        [
+                            -9.14613470000,
+                            38.70559620000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "alt_name": "Boavista (Lisboa)",
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação da Boavista",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5907000",
+                "ref_name": "Boavista (Nova)",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14837240000,
+                            38.70836400000
+                        ],
+                        [
+                            -9.14820470000,
+                            38.70833410000
+                        ],
+                        [
+                            -9.14817210000,
+                            38.70843180000
+                        ],
+                        [
+                            -9.14815820000,
+                            38.70847350000
+                        ],
+                        [
+                            -9.14814450000,
+                            38.70851450000
+                        ],
+                        [
+                            -9.14810620000,
+                            38.70862940000
+                        ],
+                        [
+                            -9.14827520000,
+                            38.70865470000
+                        ],
+                        [
+                            -9.14832080000,
+                            38.70852100000
+                        ],
+                        [
+                            -9.14837240000,
+                            38.70836400000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14330290000,
+                            38.73917680000
+                        ],
+                        [
+                            -9.14331190000,
+                            38.73921530000
+                        ],
+                        [
+                            -9.14323950000,
+                            38.73922570000
+                        ],
+                        [
+                            -9.14323040000,
+                            38.73918710000
+                        ],
+                        [
+                            -9.14330290000,
+                            38.73917680000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação Amoreiras",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5478000",
+                "ref_name": "Amoreiras",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15806180000,
+                            38.72198000000
+                        ],
+                        [
+                            -9.15779140000,
+                            38.72201450000
+                        ],
+                        [
+                            -9.15776370000,
+                            38.72188240000
+                        ],
+                        [
+                            -9.15803420000,
+                            38.72184790000
+                        ],
+                        [
+                            -9.15804280000,
+                            38.72188900000
+                        ],
+                        [
+                            -9.15806180000,
+                            38.72198000000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": "substation"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21133550000,
+                            38.75014690000
+                        ],
+                        [
+                            -9.21129080000,
+                            38.75016590000
+                        ],
+                        [
+                            -9.21123390000,
+                            38.75009780000
+                        ],
+                        [
+                            -9.21127660000,
+                            38.75007720000
+                        ],
+                        [
+                            -9.21133550000,
+                            38.75014690000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação de Entecampos",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5431000",
+                "ref_name": "Entrecampos",
+                "roof:shape": "flat",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.14630190000,
+                            38.74528360000
+                        ],
+                        [
+                            -9.14628370000,
+                            38.74511100000
+                        ],
+                        [
+                            -9.14598200000,
+                            38.74513030000
+                        ],
+                        [
+                            -9.14600010000,
+                            38.74530290000
+                        ],
+                        [
+                            -9.14630190000,
+                            38.74528360000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.11054290000,
+                            38.76088130000
+                        ],
+                        [
+                            -9.11059570000,
+                            38.76088420000
+                        ],
+                        [
+                            -9.11058720000,
+                            38.76097860000
+                        ],
+                        [
+                            -9.11053440000,
+                            38.76097570000
+                        ],
+                        [
+                            -9.11054290000,
+                            38.76088130000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": "substation"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19413590000,
+                            38.73284900000
+                        ],
+                        [
+                            -9.19506690000,
+                            38.73296820000
+                        ],
+                        [
+                            -9.19454010000,
+                            38.73362150000
+                        ],
+                        [
+                            -9.19435160000,
+                            38.73366800000
+                        ],
+                        [
+                            -9.19402000000,
+                            38.73329320000
+                        ],
+                        [
+                            -9.19401530000,
+                            38.73294720000
+                        ],
+                        [
+                            -9.19413590000,
+                            38.73284900000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "building:levels": "1",
+                "mapillary": "646829635074179",
+                "power": "substation",
+                "ref": "LSB-D-4620",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.11694760000,
+                            38.76359390000
+                        ],
+                        [
+                            -9.11690730000,
+                            38.76359340000
+                        ],
+                        [
+                            -9.11690740000,
+                            38.76358630000
+                        ],
+                        [
+                            -9.11690770000,
+                            38.76357140000
+                        ],
+                        [
+                            -9.11694800000,
+                            38.76357190000
+                        ],
+                        [
+                            -9.11694760000,
+                            38.76359390000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "location": "outdoor",
+                "name": "Subestação Arroja",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1116S5340000",
+                "ref_name": "Arroja",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19150470000,
+                            38.79581240000
+                        ],
+                        [
+                            -9.19148010000,
+                            38.79562580000
+                        ],
+                        [
+                            -9.19145970000,
+                            38.79546910000
+                        ],
+                        [
+                            -9.19141800000,
+                            38.79520390000
+                        ],
+                        [
+                            -9.19105410000,
+                            38.79525640000
+                        ],
+                        [
+                            -9.19101700000,
+                            38.79529140000
+                        ],
+                        [
+                            -9.19093370000,
+                            38.79530240000
+                        ],
+                        [
+                            -9.19087950000,
+                            38.79528110000
+                        ],
+                        [
+                            -9.19078290000,
+                            38.79529430000
+                        ],
+                        [
+                            -9.19075290000,
+                            38.79532910000
+                        ],
+                        [
+                            -9.19061620000,
+                            38.79556830000
+                        ],
+                        [
+                            -9.19045500000,
+                            38.79585000000
+                        ],
+                        [
+                            -9.19045060000,
+                            38.79586560000
+                        ],
+                        [
+                            -9.19045190000,
+                            38.79587580000
+                        ],
+                        [
+                            -9.19046020000,
+                            38.79588550000
+                        ],
+                        [
+                            -9.19047030000,
+                            38.79589360000
+                        ],
+                        [
+                            -9.19061840000,
+                            38.79596060000
+                        ],
+                        [
+                            -9.19068820000,
+                            38.79598350000
+                        ],
+                        [
+                            -9.19085990000,
+                            38.79599550000
+                        ],
+                        [
+                            -9.19104780000,
+                            38.79599610000
+                        ],
+                        [
+                            -9.19119360000,
+                            38.79599330000
+                        ],
+                        [
+                            -9.19124370000,
+                            38.79598470000
+                        ],
+                        [
+                            -9.19129260000,
+                            38.79596660000
+                        ],
+                        [
+                            -9.19133840000,
+                            38.79594070000
+                        ],
+                        [
+                            -9.19145030000,
+                            38.79583870000
+                        ],
+                        [
+                            -9.19147530000,
+                            38.79582450000
+                        ],
+                        [
+                            -9.19150470000,
+                            38.79581240000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "location": "outdoor",
+                "name": "Posto de Seccionamento do Prior Velho",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "PSPV",
+                "ref_name": "Prior Velho",
+                "start_date": "1996",
+                "substation": "switching",
+                "voltage": "220000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.11619670000,
+                            38.79410800000
+                        ],
+                        [
+                            -9.11611740000,
+                            38.79434350000
+                        ],
+                        [
+                            -9.11508850000,
+                            38.79413310000
+                        ],
+                        [
+                            -9.11516780000,
+                            38.79389760000
+                        ],
+                        [
+                            -9.11619670000,
+                            38.79410800000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21660960000,
+                            38.74887360000
+                        ],
+                        [
+                            -9.21661100000,
+                            38.74889530000
+                        ],
+                        [
+                            -9.21666060000,
+                            38.74889350000
+                        ],
+                        [
+                            -9.21665930000,
+                            38.74887180000
+                        ],
+                        [
+                            -9.21660960000,
+                            38.74887360000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "location": "indoor",
+                "name": "Subestação da Luz",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5375000",
+                "ref_name": "Luz",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.18867750000,
+                            38.74969290000
+                        ],
+                        [
+                            -9.18851230000,
+                            38.74965440000
+                        ],
+                        [
+                            -9.18860970000,
+                            38.74940030000
+                        ],
+                        [
+                            -9.18877490000,
+                            38.74943880000
+                        ],
+                        [
+                            -9.18867750000,
+                            38.74969290000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "frequency": "50",
+                "layer": "-1",
+                "location": "underground",
+                "name": "Subestação da Praça da Figueira",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5200200",
+                "ref_name": "Praça Figueira",
+                "substation": "distribution",
+                "utility": "power",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.13761310000,
+                            38.71354410000
+                        ],
+                        [
+                            -9.13769100000,
+                            38.71373900000
+                        ],
+                        [
+                            -9.13788970000,
+                            38.71369060000
+                        ],
+                        [
+                            -9.13781180000,
+                            38.71349570000
+                        ],
+                        [
+                            -9.13761310000,
+                            38.71354410000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "Subestação Expo Sul",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5800000",
+                "ref_name": "Expo Sul",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09993300000,
+                            38.75725590000
+                        ],
+                        [
+                            -9.09999210000,
+                            38.75717750000
+                        ],
+                        [
+                            -9.09996900000,
+                            38.75716690000
+                        ],
+                        [
+                            -9.10003970000,
+                            38.75707300000
+                        ],
+                        [
+                            -9.09998110000,
+                            38.75704610000
+                        ],
+                        [
+                            -9.10001840000,
+                            38.75699660000
+                        ],
+                        [
+                            -9.09998480000,
+                            38.75698120000
+                        ],
+                        [
+                            -9.09994820000,
+                            38.75702980000
+                        ],
+                        [
+                            -9.09989220000,
+                            38.75700410000
+                        ],
+                        [
+                            -9.09982060000,
+                            38.75709920000
+                        ],
+                        [
+                            -9.09979660000,
+                            38.75708820000
+                        ],
+                        [
+                            -9.09973720000,
+                            38.75716710000
+                        ],
+                        [
+                            -9.09976080000,
+                            38.75717790000
+                        ],
+                        [
+                            -9.09974910000,
+                            38.75719330000
+                        ],
+                        [
+                            -9.09989770000,
+                            38.75726140000
+                        ],
+                        [
+                            -9.09990980000,
+                            38.75724530000
+                        ],
+                        [
+                            -9.09993300000,
+                            38.75725590000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19428580000,
+                            38.74958030000
+                        ],
+                        [
+                            -9.19427480000,
+                            38.74961500000
+                        ],
+                        [
+                            -9.19415870000,
+                            38.74959250000
+                        ],
+                        [
+                            -9.19416970000,
+                            38.74955790000
+                        ],
+                        [
+                            -9.19428580000,
+                            38.74958030000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "name": "Subestação Barbosa e Almeida",
+                "power": "substation",
+                "ref_name": "Barbosa e Almeida",
+                "substation": "industrial",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21917050000,
+                            38.75378140000
+                        ],
+                        [
+                            -9.21921570000,
+                            38.75367390000
+                        ],
+                        [
+                            -9.21904590000,
+                            38.75363040000
+                        ],
+                        [
+                            -9.21900070000,
+                            38.75373800000
+                        ],
+                        [
+                            -9.21917050000,
+                            38.75378140000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.20870010000,
+                            38.78618090000
+                        ],
+                        [
+                            -9.20866120000,
+                            38.78613810000
+                        ],
+                        [
+                            -9.20868980000,
+                            38.78612230000
+                        ],
+                        [
+                            -9.20872870000,
+                            38.78616520000
+                        ],
+                        [
+                            -9.20870010000,
+                            38.78618090000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level": "-1",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.13318020000,
+                            38.72149690000
+                        ],
+                        [
+                            -9.13314790000,
+                            38.72148030000
+                        ],
+                        [
+                            -9.13317450000,
+                            38.72144880000
+                        ],
+                        [
+                            -9.13320680000,
+                            38.72146550000
+                        ],
+                        [
+                            -9.13318020000,
+                            38.72149690000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.15700950000,
+                            38.79091560000
+                        ],
+                        [
+                            -9.15698850000,
+                            38.79094750000
+                        ],
+                        [
+                            -9.15696280000,
+                            38.79093720000
+                        ],
+                        [
+                            -9.15698380000,
+                            38.79090530000
+                        ],
+                        [
+                            -9.15700950000,
+                            38.79091560000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "landuse": "industrial",
+                "name": "Subestação do Zambujal",
+                "operator": "REN",
+                "operator:wikidata": "Q1862842",
+                "power": "substation",
+                "ref": "SZBJ",
+                "ref_name": "Zambujal",
+                "start_date": "2011",
+                "substation": "transmission",
+                "voltage": "220000;60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.21271690000,
+                            38.72053030000
+                        ],
+                        [
+                            -9.21290970000,
+                            38.72040650000
+                        ],
+                        [
+                            -9.21285190000,
+                            38.72035280000
+                        ],
+                        [
+                            -9.21263460000,
+                            38.72015090000
+                        ],
+                        [
+                            -9.21226350000,
+                            38.72039380000
+                        ],
+                        [
+                            -9.21198580000,
+                            38.72059940000
+                        ],
+                        [
+                            -9.21193290000,
+                            38.72064180000
+                        ],
+                        [
+                            -9.21187860000,
+                            38.72064600000
+                        ],
+                        [
+                            -9.21178580000,
+                            38.72071810000
+                        ],
+                        [
+                            -9.21193080000,
+                            38.72085380000
+                        ],
+                        [
+                            -9.21200700000,
+                            38.72080420000
+                        ],
+                        [
+                            -9.21203480000,
+                            38.72082750000
+                        ],
+                        [
+                            -9.21205690000,
+                            38.72081130000
+                        ],
+                        [
+                            -9.21215010000,
+                            38.72090030000
+                        ],
+                        [
+                            -9.21261060000,
+                            38.72059980000
+                        ],
+                        [
+                            -9.21271690000,
+                            38.72053030000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "power": "substation",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19789590000,
+                            38.70305010000
+                        ],
+                        [
+                            -9.19790940000,
+                            38.70306670000
+                        ],
+                        [
+                            -9.19786770000,
+                            38.70308730000
+                        ],
+                        [
+                            -9.19785420000,
+                            38.70307060000
+                        ],
+                        [
+                            -9.19789590000,
+                            38.70305010000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "landuse": "industrial",
+                "name": "Subestação do Senhor Roubado",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5072500",
+                "ref_name": "Senhor Roubado",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16913920000,
+                            38.78539610000
+                        ],
+                        [
+                            -9.16937460000,
+                            38.78552230000
+                        ],
+                        [
+                            -9.16939910000,
+                            38.78549520000
+                        ],
+                        [
+                            -9.16947960000,
+                            38.78540340000
+                        ],
+                        [
+                            -9.16955700000,
+                            38.78531590000
+                        ],
+                        [
+                            -9.16934610000,
+                            38.78515930000
+                        ],
+                        [
+                            -9.16931590000,
+                            38.78519480000
+                        ],
+                        [
+                            -9.16925010000,
+                            38.78526830000
+                        ],
+                        [
+                            -9.16913920000,
+                            38.78539610000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "service",
+                "name": "Posto de Seccionamento de Moscavide",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1107P5097500",
+                "ref_name": "PS Moscavide",
+                "substation": "switching",
+                "utility": "power",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10526570000,
+                            38.78436880000
+                        ],
+                        [
+                            -9.10517290000,
+                            38.78437020000
+                        ],
+                        [
+                            -9.10517430000,
+                            38.78442720000
+                        ],
+                        [
+                            -9.10506440000,
+                            38.78442890000
+                        ],
+                        [
+                            -9.10506470000,
+                            38.78443980000
+                        ],
+                        [
+                            -9.10502970000,
+                            38.78444040000
+                        ],
+                        [
+                            -9.10502760000,
+                            38.78435630000
+                        ],
+                        [
+                            -9.10505680000,
+                            38.78435590000
+                        ],
+                        [
+                            -9.10505130000,
+                            38.78413460000
+                        ],
+                        [
+                            -9.10502710000,
+                            38.78413500000
+                        ],
+                        [
+                            -9.10502530000,
+                            38.78406030000
+                        ],
+                        [
+                            -9.10505190000,
+                            38.78405990000
+                        ],
+                        [
+                            -9.10505210000,
+                            38.78406930000
+                        ],
+                        [
+                            -9.10515920000,
+                            38.78406760000
+                        ],
+                        [
+                            -9.10515890000,
+                            38.78405520000
+                        ],
+                        [
+                            -9.10525780000,
+                            38.78405370000
+                        ],
+                        [
+                            -9.10526570000,
+                            38.78436880000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "landuse": "industrial",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "substation": "transition",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.19138890000,
+                            38.79321090000
+                        ],
+                        [
+                            -9.19138670000,
+                            38.79317570000
+                        ],
+                        [
+                            -9.19127140000,
+                            38.79318000000
+                        ],
+                        [
+                            -9.19127360000,
+                            38.79321530000
+                        ],
+                        [
+                            -9.19138890000,
+                            38.79321090000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "frequency": "50",
+                "landuse": "industrial",
+                "location": "indoor",
+                "name": "Subestação de Telheiras",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106S5242000",
+                "ref_name": "Telheiras",
+                "substation": "distribution",
+                "voltage": "60000;10000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.16376510000,
+                            38.76776490000
+                        ],
+                        [
+                            -9.16381110000,
+                            38.76775490000
+                        ],
+                        [
+                            -9.16382350000,
+                            38.76762320000
+                        ],
+                        [
+                            -9.16416220000,
+                            38.76764390000
+                        ],
+                        [
+                            -9.16415150000,
+                            38.76773810000
+                        ],
+                        [
+                            -9.16413170000,
+                            38.76791320000
+                        ],
+                        [
+                            -9.16381300000,
+                            38.76789650000
+                        ],
+                        [
+                            -9.16375200000,
+                            38.76789330000
+                        ],
+                        [
+                            -9.16375750000,
+                            38.76783970000
+                        ],
+                        [
+                            -9.16376510000,
+                            38.76776490000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "barrier": "fence",
+                "name": "Posto de Seccionmento do Alto de São João",
+                "operator": "E-REDES",
+                "operator:wikidata": "Q111843687",
+                "operator:wikipedia": "pt:Energias de Portugal",
+                "power": "substation",
+                "ref": "1106P5906500",
+                "ref_name": "PS Alto São João",
+                "substation": "switching",
+                "voltage": "60000"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.12433060000,
+                            38.73174950000
+                        ],
+                        [
+                            -9.12410910000,
+                            38.73198540000
+                        ],
+                        [
+                            -9.12473300000,
+                            38.73234170000
+                        ],
+                        [
+                            -9.12495440000,
+                            38.73210580000
+                        ],
+                        [
+                            -9.12434480000,
+                            38.73175760000
+                        ],
+                        [
+                            -9.12433060000,
+                            38.73174950000
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "building:levels": "1",
+                "power": "substation",
+                "ref": "LSB-D-1785",
+                "substation": "minor_distribution"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.10396820000,
+                            38.77468500000
+                        ],
+                        [
+                            -9.10396000000,
+                            38.77460510000
+                        ],
+                        [
+                            -9.10380000000,
+                            38.77461510000
+                        ],
+                        [
+                            -9.10380820000,
+                            38.77469500000
+                        ],
+                        [
+                            -9.10396820000,
+                            38.77468500000
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
