@@ -6,14 +6,14 @@
 Map data  © OpenStreetMap contributors.</p>
 <p>File listing:</p>
 <ul>
-<li><b>30daymapchallenge__2026-day16__collaborative-map.png</b> - the MAP itself.</li>
+<li><b>30daymapchallenge__2026-day-16__collaborative-map.png</b> - the MAP itself.</li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2026.</p>
 <p>&nbsp;</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2026-day16__collaborative-map.png" width=auto>
+<img src="30daymapchallenge__2026-day-16__collaborative-map.png" width=auto>
 </td>
 </tr>
 </table>
