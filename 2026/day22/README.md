@@ -11,7 +11,6 @@
 <li><b>30daymapchallenge__2026-day-22__projections.jpg</b> - the MAP itself.</li>
 <li><b>dymaxion_faces.zip</b> - the STL files for printing the 20 faces.</li>
 <li><b>dymaxion_map_guide.pdf</b> - triangular face layout for use as a guide.</li>
-<li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2026.</p>
 <p>&nbsp;</p>
