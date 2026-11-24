@@ -27,7 +27,7 @@ Map data © OpenStreetMap contributors. DEM © Copernicus Programme.</p>
 <table>
 <tr>
 <td style="border:thin #000">
-<img src="30daymapchallenge__2026-day-23__senses-taste.png" width=auto>
+<img src="30daymapchallenge__2026-day-23__senses-taste.jpg" width=auto>
 </td>
 </tr>
 </table>
