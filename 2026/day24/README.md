@@ -9,7 +9,6 @@
 <p>File listing:</p>
 <ul>
 <li><b>30daymapchallenge__2026-day-24__network.png</b> - the MAP itself.</li>
-<li>
 </ul>
 <p>João Paulo Amado | @jpamado, 2026.</p>
 <p>&nbsp;</p>
